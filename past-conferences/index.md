@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Past Conferences"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -10,6 +10,16 @@ title_separator: "|"
 
 <br>
 
+<div>
+    <p>
+        <strong style="color:black">IEEE Virtual Reality 2022 <i>(Christchurch, New Zealand)</i></strong>
+        <br>
+        <a href="https://ieeevr.org/2022" class="btn btn--secundary">Website</a>
+        &nbsp;
+        <a href="https://ieeexplore.ieee.org/xpl/conhome/9417603/proceeding" class="btn btn--secundary">Proceedings</a>
+    </p>
+</div>
+<hr>
 <div>
     <p>
         <strong style="color:black">IEEE Virtual Reality 2021 <i>(Lisbon, Portugal)</i></strong>

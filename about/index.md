@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "About"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -19,14 +19,12 @@ title_separator: "|"
     <br/>
     <center>
         <p style="font-size: 20px;">
-            <a href="/2022/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #fec10d">IEEE VR 2022 Code of Conduct</a>
+            <a href="/2022/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #F5725E">IEEE VR 2023 Code of Conduct</a>
         </p>
     </center>
 
-    <h1> About Christchurch, New Zealand </h1>
+    <h1> About Shanghai, China </h1>
     <p>
-        Christchurch is the city of exploration, a refreshing urban centre full of new secrets to discover. The city has been through 
-        some massive changes in the past few years, and the time has come to explore it all. Christchurch has a vibrant art and 
-        technology scene while also serving as a gateway to New Zealand's South Island with all its natural wonders and attractions.
+        Shanghai, on China’s central coast, is the country's biggest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district’s futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Yu Garden has traditional pavilions, towers and ponds.
     </p>
 </div>

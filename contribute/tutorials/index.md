@@ -1,14 +1,14 @@
 ---
 layout: ieeevr-default
 title: "Tutorials"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
 <div>
     <h1 id="cfp-tutorials"> Call for Tutorials</h1>
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12<sup>th</sup>-March 16<sup>th</sup>, 2022
+        <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12<sup>th</sup>-March 16<sup>th</sup>, 2022
         <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>
@@ -17,7 +17,7 @@ title_separator: "|"
     <ul>
         <li><b>January 10, 2022:</b> Tutorial submissions due</li>
         <li><b>January 17, 2022:</b> Acceptance notification</li>
-        <li><b>January 31, 2022:</b> Advance program descriptions for IEEE VR 2022 website due</li>
+        <li><b>January 31, 2022:</b> Advance program descriptions for IEEE VR 2023 website due</li>
     </ul>
     
     <h2 id="overview">Overview</h2>

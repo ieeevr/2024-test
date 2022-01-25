@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Workshop Papers"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -36,19 +36,19 @@ title_separator: "|"
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #fec10d;
+        border-bottom: 2px solid #F5725E;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #fec10d;
+        color: #F5725E;
     }
 </style>
 
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
-        IEEE VR 2022 seeks high-quality contributions to the following 21 workshops. 
+        IEEE VR 2023 seeks high-quality contributions to the following 21 workshops. 
         These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>. For more details, see each workshop's Call for Papers below.
     </p>
     
@@ -274,7 +274,7 @@ title_separator: "|"
     <p>
         Many works related to datasets have been published, e.g., MINIST, ImageNet, CIFAR-10, etc. To unleash the full power of XR, 
         the community also needs standard datasets for developing data-driven models with machine&#47;deep learning. The workshop on 
-        Datasets for Developing Intelligent XR Applications (Data4XR), hosted by the IEEE VR 2022, proposes a meaningful platform for 
+        Datasets for Developing Intelligent XR Applications (Data4XR), hosted by the IEEE VR 2023, proposes a meaningful platform for 
         domain researchers to find valuable resources and develop collaborations across labs. It aims to promote XR research by 
         involving artificial intelligence.
     </p>
@@ -693,7 +693,7 @@ title_separator: "|"
         <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
     </ul>
     <p>
-        The XR for Health and Wellbeing Workshop will take place during IEEE VR 2022 (Christchurch, NZ online virtual) focusing on 
+        The XR for Health and Wellbeing Workshop will take place during IEEE VR 2023 (Christchurch, NZ online virtual) focusing on 
         XR (AR/VR/MR) technologies to help in the broad areas of interest related to healthcare and wellbeing. XR technologies have 
         been experimented with in many areas of healthcare and well being over the years. With the ubiquitous use of XR devices 
         creates a great opportunity to further XR research to help support healthcare professionals and the wellbeing of people. 

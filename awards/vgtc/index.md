@@ -41,8 +41,8 @@ title: "IEEEVR VGTC Awards"
     </div>
 
     <!--<p>
-        <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
-            <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important; text-align: center !important;" ><a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/">Submit a Nomination</a></b>
+        <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+            <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important; text-align: center !important;" ><a href="https://tc.computer.org/vgtc/awards/vr-award-nominations/">Submit a Nomination</a></b>
         </div>
     </p>-->
 

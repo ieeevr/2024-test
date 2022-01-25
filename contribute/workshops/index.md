@@ -1,14 +1,14 @@
 ---
 layout: ieeevr-default
 title: "Workshops"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
 <div>
 <h1 id="cfp-workshops"> Call for Workshops</h1>
 <p>
-    <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br />
     12-13 March, 2022, Virtual
     <br />
@@ -27,7 +27,7 @@ title_separator: "|"
 <h2 id="overview">Overview</h2>
 <p>
     We invite individuals or teams interested in organising such a workshop to submit proposals that will
-    work well online or on-site at the conference venue for IEEE VR 2022. Since IEEE VR 2022 is going
+    work well online or on-site at the conference venue for IEEE VR 2023. Since IEEE VR 2023 is going
     to be held in a hybrid mode, we encourage workshops to already consider this in their initial
     submission to maximise participation. Although longer workshops will be considered, we encourage
     shorter efficient workshops, or online workshops split over sessions spanning one or two days with

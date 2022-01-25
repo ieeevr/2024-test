@@ -1,14 +1,14 @@
 ---
 layout: ieeevr-default
 title: "Posters"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
 <div>
     <h1 id="cfp-posters"> Call for Posters</h1>
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br /> 
         12-16 March, 2022, Virtual
         <br />

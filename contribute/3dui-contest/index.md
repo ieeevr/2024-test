@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "3DUI Contest"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -10,7 +10,7 @@ title_separator: "|"
     <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2022 3DUI Contest <br /> Call for Participation </h1>
 
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
         12th-16th March 2022, Virtual
         <a href="https://ieeevr.org/2022/">https://ieeevr.org/2022/</a>
@@ -30,7 +30,7 @@ title_separator: "|"
 
     <h2 id="Overview">Overview</h2>
     <p>
-        This year, the IEEE VR 2022 will hold the 13th annual 3DUI Contest. It is open to anyone interested in 3D User Interfaces (3DUIs) and Virtual Reality, from researchers to students, enthusiasts, and professionals. The purpose of the contest is to stimulate innovative and creative solutions to challenging 3DUI problems. The theme of this year is <strong> “Arts, Science, Information, and Knowledge - Visualized and Interacted”</strong>. Participants need to create and submit an original 3DUI project. This may include VR/AR/MR driven 3DUI systems that IEEE VR attendants can run with their own devices. You have to create an environment that will allow people to visualize and interact with the chosen topic areas. The challenge for this year is for the contestant to implement some well-known 3DUI techniques (e.g, Casting, Go-Go interaction technique, PRISM, WIM, SQUAD) and extend its capability to be more effective and efficient in the proposed application. Due to the current situation, we specifically do not request or make it a prerequisite to include user evaluations.
+        This year, the IEEE VR 2023 will hold the 13th annual 3DUI Contest. It is open to anyone interested in 3D User Interfaces (3DUIs) and Virtual Reality, from researchers to students, enthusiasts, and professionals. The purpose of the contest is to stimulate innovative and creative solutions to challenging 3DUI problems. The theme of this year is <strong> “Arts, Science, Information, and Knowledge - Visualized and Interacted”</strong>. Participants need to create and submit an original 3DUI project. This may include VR/AR/MR driven 3DUI systems that IEEE VR attendants can run with their own devices. You have to create an environment that will allow people to visualize and interact with the chosen topic areas. The challenge for this year is for the contestant to implement some well-known 3DUI techniques (e.g, Casting, Go-Go interaction technique, PRISM, WIM, SQUAD) and extend its capability to be more effective and efficient in the proposed application. Due to the current situation, we specifically do not request or make it a prerequisite to include user evaluations.
     </p>
 
     <p>We expect the following functionality:
@@ -56,7 +56,7 @@ title_separator: "|"
 
     <h2 id="rules">Rules</h2>
     <p>
-        The submitted solutions have to fulfill the following rules to be considered for acceptance and presentation during IEEE VR 2022: 
+        The submitted solutions have to fulfill the following rules to be considered for acceptance and presentation during IEEE VR 2023: 
         <ul>
             <li>Submissions have to present a 3DUI solution:
                 <ul>

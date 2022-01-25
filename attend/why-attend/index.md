@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Why Attend?"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -414,7 +414,7 @@ title_separator: "|"
 </style>-->
 
 <div>
-    <h1>Why attend IEEE VR 2022?</h1>
+    <h1>Why attend IEEE VR 2023?</h1>
     <p>
         The IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR) is the premier international event for the presentation 
         of research results in the broad area of virtual reality (VR). IEEE VR brings together leaders, innovators, and influencers 
@@ -423,16 +423,16 @@ title_separator: "|"
     <p>
         Since 1993, IEEE VR has presented groundbreaking research and accomplishments by virtual reality pioneers: scientists, 
         engineers, designers, and artists, paving the way for the future. A globally recognized event for introducing the next 
-        big advancements in VR, IEEE VR 2022 will feature oral presentations, posters, research demos, tutorials, and workshops.
+        big advancements in VR, IEEE VR 2023 will feature oral presentations, posters, research demos, tutorials, and workshops.
     </p>
     <p>
-        Our goal is for IEEE VR 2022 to provide the best experience for both in-person and virtual attendees, following in the 
+        Our goal is for IEEE VR 2023 to provide the best experience for both in-person and virtual attendees, following in the 
         historical footsteps of the Virtual Experience of the <a href="https://ieeevr.org/2020/">Virtual Experience of VR 2020 
         in Atlanta</a> and <a href="https://ieeevr.org/2021/">VR 2021 in Lisbon</a>. Come join us for an unforgettable experience 
         and explore the virtuality continuum in the premier event covering extended reality.
     </p>
     <p>
-        To make the most of attending IEEE VR 2022 in New Zealand, we have also created a series of pre- and post-conference events. 
+        To make the most of attending IEEE VR 2023 in New Zealand, we have also created a series of pre- and post-conference events. 
         These will give attendees the chance to see some of New Zealand's well-known research laboratories working on VR/AR/MR 
         while also experiencing the main attractions New Zealand has to offer. We will release more information at a later date.<!--, 
         but for now these photos will speak for themselves.-->

@@ -1,14 +1,14 @@
 ---
 layout: ieeevr-default
 title: "Conference Papers"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
 <div>
 <h1 id="cfp-conference"> Call for Conference Papers </h1>
 <p>
-    <strong style="color: black">IEEE VR 2022: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
     12-16 March, 2022, Virtual
     <br />
@@ -32,7 +32,7 @@ title_separator: "|"
 
 <h2 id="overview">Overview</h2>
 <p>
-    IEEE VR 2022 seeks original, high-quality papers in all areas related to mixed realities (MR), including virtual reality (VR), augmented reality (AR), and 3D user interfaces (3DUIs).
+    IEEE VR 2023 seeks original, high-quality papers in all areas related to mixed realities (MR), including virtual reality (VR), augmented reality (AR), and 3D user interfaces (3DUIs).
 </p>
 <p>
     For inquiries, contact: conferencepapers2022 [at] ieeevr.org
@@ -72,7 +72,7 @@ title_separator: "|"
 
 <h2 id="topics"> Topics </h2>
 <p>
-IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
+IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
     <ul>
         <li>3D and volumetric display and projection technology</li>
         <li>3D authoring</li>
@@ -121,8 +121,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     ensure that the PDF submission matches the PDF format template (<a href="http://junctionpublishing.org/vgtc/Templates/october2017/vgtc_conference_latex.pdf">http://junctionpublishing.org/vgtc/Templates/october2017/vgtc_conference_latex.pdf</a>).
 </p>
 <p>
-    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
+    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -138,8 +138,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     therefore would not prohibit acceptance.
 </p>
 <p>
-    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to adhere to the previous or simultaneous submission guidelines will result in a rejection without returning the reviews.</b>
+    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to adhere to the previous or simultaneous submission guidelines will result in a rejection without returning the reviews.</b>
     </div>
 </p>
 <p>
@@ -150,8 +150,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Authors that have questions/issues around double-blind submission policy should contact the conference chairs at the above-mentioned email address. 
 </p>
 <p>
-    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to make reasonable attempts to anonymize your submission will result in desk rejection.</b>
+    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to make reasonable attempts to anonymize your submission will result in desk rejection.</b>
     </div>
 </p>
 <p>
@@ -177,8 +177,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     reviews, and cover letter).
 </p>
 <p>
-    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">Failure to provide the requested information associated with the journal paper submission will result in the 
+    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to provide the requested information associated with the journal paper submission will result in the 
         conference paper submission to be treated as a new submission to the conference paper track and processed accordingly.</b>
     </div>
 </p>
@@ -206,8 +206,8 @@ IEEE VR 2022 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     Island (which uses AoE) at <a href="https://www.timeanddate.com/worldclock/meeting.html">https://www.timeanddate.com/worldclock/meeting.html</a>
 </p>
 <p> 
-    <div class="notice--info" style="background-color: #fec10d !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #fec10d !important; color: $theme-text !important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
+    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
     </div>
 </p>
     <ul>

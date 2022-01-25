@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Call for Exhibitors and Sponsors"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -17,7 +17,7 @@ title_separator: "|"
 
     .exhibitors-row {
         display: flex;
-        background-color: #fec10d;
+        background-color: #F5725E;
         border-radius: 10px;
         padding: 10px;
     }
@@ -72,7 +72,7 @@ title_separator: "|"
 <div>
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
         <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
     </p>

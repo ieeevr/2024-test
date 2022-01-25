@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Doctoral Consortium"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -9,7 +9,7 @@ title_separator: "|"
     <h1 id="cfp-doctoral-cosortium">Call for Doctoral Consortium</h1>
 
     <p>
-        <strong style="color: black">IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
     12-16 March, 2022, Virtual
     <br />

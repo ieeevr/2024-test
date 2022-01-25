@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Program Committee"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
@@ -9,7 +9,7 @@ title_separator: "|"
     <h1> IEEE Virtual Reality International Program Committee </h1>
 
     <h2> Journal Papers </h2>
-    <ul>
+    <!-- <ul>
         <li>	Rodney	Berry	            &#x2012; <i>	Little Owl,	Australia	</i></li>
         <li>	David	Roberts	            &#x2012; <i>	Shared Realities Ltd,	United Kingdom	</i></li>
         <li>	Gudrun	Klinker	            &#x2012; <i>	Technical University of Munich,	Germany	</i></li>
@@ -63,11 +63,11 @@ title_separator: "|"
         <li>	Huyen	Nguyen	            &#x2012; <i>	Universit&eacute; Paris&#8208;Saclay, CNRS, LIMSI, VENISE team,	France	</i></li>
         <li>	Kyle	Johnsen	            &#x2012; <i>	University of Georgia,	United States	</i></li>
         <li>	Charles	Hughes	            &#x2012; <i>	University of Central Florida,	United States	</i></li>
-    </ul>
+    </ul> -->
 
 
     <h2> Conference Papers </h2>
-    <ul>
+    <!-- <ul>
         <li>	Adam	Jones	            &#x2012;	 <i>	University of Mississippi		</i></li>
         <li>	Ronan	Boulic          	&#x2012;	 <i>	EPFL		</i></li>
         <li>	Amine	Chellali	        &#x2012;	 <i>	University of EVry		</i></li>
@@ -174,5 +174,5 @@ title_separator: "|"
         <li>	Fatima	Nunes	            &#x2012;	 <i>	University of S&atilde;o Paulo		</i></li>
         <li>	Chao	Mei	                &#x2012;	 <i>	Kennesaw State University		</i></li>
         <li>	Scott	Kuhl	            &#x2012;	 <i>	Michigan Technological University		</i></li>
-    </ul>
+    </ul> -->
 </div>

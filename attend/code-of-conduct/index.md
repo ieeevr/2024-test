@@ -1,12 +1,12 @@
 ---
 layout: ieeevr-default
 title: "Code of Conduct"
-subtitle: "IEEE VR 2022"
+subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
 <div>
-    <h2>IEEE VR 2022 Code of Conduct</h2>
+    <h2>IEEE VR 2023 Code of Conduct</h2>
 
     <p>
         IEEE Virtual Reality 2022 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability,
@@ -15,7 +15,7 @@ title_separator: "|"
         respectful of all. All communication should be appropriate for a professional audience including people of many different backgrounds. Attendees violating these 
         rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers. In addition, attendees are subject to the 
         <a href="http://ieeevr.org/2022/docs/ieee_code_of_conduct2022.pdf" target="_blank">IEEE Code of Ethics</a>. If you wish to report a breach of the code 
-        of conduct this can be done via email to General Co-Chairs of IEEE VR 2022 (general2022 [at] ieeevr.org), the Steering Committee of IEEE VR (steering [at] ieeevr.org), 
+        of conduct this can be done via email to General Co-Chairs of IEEE VR 2023 (general2022 [at] ieeevr.org), the Steering Committee of IEEE VR (steering [at] ieeevr.org), 
         and/or its chair, Ed Swan (swan [at] cse.msstate.edu). All reports will only be sent to the authorized people and will be treated confidentially.
     </p>
 
