@@ -9,7 +9,7 @@ title_separator: "|"
     <h2>IEEE VR 2023 Code of Conduct</h2>
 
     <p>
-        IEEE Virtual Reality 2022 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability,
+        IEEE Virtual Reality 2023 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability,
         physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. As a conference that aims to share ideas and 
         freedom of thought and expression, it is essential that the conference takes place in an environment that recognizes the inherent worth of every person by being 
         respectful of all. All communication should be appropriate for a professional audience including people of many different backgrounds. Attendees violating these 
