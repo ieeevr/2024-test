@@ -5,9 +5,16 @@ subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
+
+<div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+<!-- 
 <div>
    
-    <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2022 3DUI Contest <br /> Call for Participation </h1>
+    <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2023 3DUI Contest <br /> Call for Participation </h1>
 
     <p>
         <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
@@ -132,4 +139,4 @@ Call updates will be posted on the contest page of <a href="https://ieeevr.org/2
 </p>
 
 
-</div>
+</div> -->

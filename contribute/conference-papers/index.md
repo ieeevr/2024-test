@@ -6,6 +6,13 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+
+<!-- 
+<div>
 <h1 id="cfp-conference"> Call for Conference Papers </h1>
 <p>
     <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
@@ -222,14 +229,6 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
 
-<!--
-<p>
-    <a href="#" class="btn btn--primary">LaTeX Templates</a>
-    <a href="#" class="btn btn--primary">Word Templates</a>
-    <a href="#" class="btn btn--primary">Sample PDF paper</a>
-</p>
--->
-
 <h2 id="contacts"> Contacts </h2>
 <p>
     Conference Papers Chairs:
@@ -248,4 +247,4 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 
 
-</div>
+</div> -->

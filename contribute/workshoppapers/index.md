@@ -46,6 +46,12 @@ title_separator: "|"
 </style>
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+
+<div style="display: none;">
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
         IEEE VR 2023 seeks high-quality contributions to the following 21 workshops. 
@@ -63,9 +69,6 @@ title_separator: "|"
         </tr>
         {% endfor %}
     </table>
-
-
-<!-- ------------------------------------------------ANIVAE-2022-------------------------------------------------------- -->
 
     <h2 id="ANIVAE-2022"> 5<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022) </h2>
     
@@ -1205,7 +1208,6 @@ title_separator: "|"
     </div>
     {% endif %}
     {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
     
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/site/vrkelvar/" target="_blank">https://sites.google.com/site/vrkelvar/</a>
@@ -1226,4 +1228,4 @@ title_separator: "|"
         <strong style="color:black;">Principal Organizer:</strong> Erica Southgate
     </p>
     
-</div>
+</div> 

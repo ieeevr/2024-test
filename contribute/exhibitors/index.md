@@ -72,9 +72,9 @@ title_separator: "|"
 <div>
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
-        <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
+        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
     </p>
 
 
@@ -277,5 +277,5 @@ title_separator: "|"
 
     <h2 id="contacts">Contacts</h2>
 
-    <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsorship2022@ieeevr.org">sponsorship2022 [at] ieeevr.org</a></p>
+    <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsorship2022@ieeevr.org">sponsorship2023 [at] ieeevr.org</a></p>
 </div>

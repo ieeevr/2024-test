@@ -27,4 +27,11 @@ title_separator: "|"
     <p>
         Shanghai, on China’s central coast, is the country's biggest city and a global financial hub. Its heart is the Bund, a famed waterfront promenade lined with colonial-era buildings. Across the Huangpu River rises the Pudong district’s futuristic skyline, including 632m Shanghai Tower and the Oriental Pearl TV Tower, with distinctive pink spheres. Sprawling Yu Garden has traditional pavilions, towers and ponds.
     </p>
+
+    <div>
+        <div style="display: inline-block">
+            <img src="/assets/images/photo-building.jpg" width="49%" />
+            <img src="/assets/images/photo-tower.jpg" width="49%" />  
+        </div>
+    </div>
 </div>

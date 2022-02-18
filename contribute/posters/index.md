@@ -5,6 +5,14 @@ subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
+
+<div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+
+<!-- 
 <div>
     <h1 id="cfp-posters"> Call for Posters</h1>
     <p>
@@ -75,4 +83,4 @@ It is currently not decided which online platform will be used for the online co
         </ul>
         posters2022 [at] ieeevr.org
     </p>
-</div>
+</div> -->

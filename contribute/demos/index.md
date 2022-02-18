@@ -6,6 +6,12 @@ title_separator: "|"
 ---
 
 <div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+<!-- 
+<div>
     <h1 id="cfp-demos">Call for Research Demos</h1>
     <p>
         <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 12-March 16, 2022, Virtual
@@ -87,4 +93,4 @@ title_separator: "|"
         </ul>
         researchdemos2022 [at] ieeevr.org
     </p>
-</div>
+</div> -->

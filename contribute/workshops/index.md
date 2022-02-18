@@ -5,6 +5,14 @@ subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
+
+<div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+
+<!-- 
 <div>
 <h1 id="cfp-workshops"> Call for Workshops</h1>
 <p>
@@ -158,4 +166,4 @@ title_separator: "|"
     workshops2022 [at] ieeevr.org
 </p>
 
-</div>
+</div> -->

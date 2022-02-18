@@ -3,6 +3,13 @@ layout: ieeevr-default
 title: "Call for Journal Papers"
 ---
 
+
+<div>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+<!-- 
 <div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
 <p>
@@ -209,13 +216,6 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <a href="https://tc.computer.org/vgtc/publications/journal/">https://tc.computer.org/vgtc/publications/journal/</a>
 </p>
 
-<!--
-<p>
-    <a href="#" class="btn btn--primary">LaTeX Templates</a>
-    <a href="#" class="btn btn--primary">Word Templates</a>
-    <a href="#" class="btn btn--primary">Sample PDF paper</a>
-</p>
--->
 
 <h2 id="contacts"> Contacts </h2>
 <p>
@@ -231,4 +231,4 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 </p>
 
 
-</div>
+</div> -->
