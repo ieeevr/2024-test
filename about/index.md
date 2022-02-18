@@ -32,6 +32,8 @@ title_separator: "|"
         <div style="display: inline-block">
             <img src="/assets/images/photo-building.jpg" width="49%" />
             <img src="/assets/images/photo-tower.jpg" width="49%" />  
+            <img src="/assets/images/photo-yuyuan.jpg" width="49%" style="margin-top:10px"/>  
+            <img src="/assets/images/photo-waitan.jfif" width="49%" style="margin-top:10px"/>  
         </div>
     </div>
 </div>
