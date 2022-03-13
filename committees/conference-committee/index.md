@@ -5,12 +5,13 @@ title: "Conference Committee"
 									
 <div>									
 	<h2>	General Chairs	</h2>						
-		<ul>							
-			<!-- <li>	Stephan	Lukosch	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
+		<ul>	
+			<li>    Xubo Yang  &#x2012; <i> Shanghai Jiao Tong University, China </i></li>			
+			<li>    Kun Zhou &#x2012; <i> Zhejiang University, China </i></li>					
+			<li>	Stephan	Lukosch	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Tobias	Langlotz	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
-			<li>	Joaquim	Jorge	&#x2012; <i>	INESC-ID/Universidade de Lisboa, Portugal	</i></li>	
-			<li style="list-style: none">	general2022	[at] ieeevr.org			</li>	 -->
-		</ul>							
+			<li style="list-style: none">	general2023	[at] ieeevr.org			</li>	
+		</ul>										
 									
 	<h2>	Journal Paper Chairs	</h2>						
 		<ul>							
