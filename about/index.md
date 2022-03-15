@@ -19,7 +19,7 @@ title_separator: "|"
     <br/>
     <center>
         <p style="font-size: 20px;">
-            <a href="/2022/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #F5725E">IEEE VR 2023 Code of Conduct</a>
+            <a href="/2023/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #F5725E">IEEE VR 2023 Code of Conduct</a>
         </p>
     </center>
 

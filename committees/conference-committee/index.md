@@ -10,9 +10,10 @@ title: "Conference Committee"
 			<li>    Kun Zhou &#x2012; <i> Zhejiang University, China </i></li>					
 			<li>	Stephan	Lukosch	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Tobias	Langlotz	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
-			<li style="list-style: none">	general2023	[at] ieeevr.org			</li>	
+			<!-- <li style="list-style: none">	general2023	[at] ieeevr.org			</li>	 -->
 		</ul>										
-									
+</div>				
+<div style="display:none">		
 	<h2>	Journal Paper Chairs	</h2>						
 		<ul>							
 			<!-- <li>	Luciana	Nedel	&#x2012; <i>	Federal University of Rio Grande do Sul - UFRGS, Brazil	</i></li>	
