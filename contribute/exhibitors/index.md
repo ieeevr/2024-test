@@ -68,8 +68,8 @@ title_separator: "|"
 
 </style>
 
-<div> <p> More information coming soon, please watch this space. </p> </div> 
-<div style="display:none">
+
+<div>
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
         <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
@@ -240,28 +240,28 @@ title_separator: "|"
         </tbody>
     </table>-->
 
-    <div class="exhibitors-center">
-    <div class="exhibitors-row">
-        <div class="exhibitors-column" style="flex: 70%;">
-            <strong style="color:white;font-size: 25px">Become a Sponsor or Exhibitor</strong>
-            <br /><br />
-            <p style="color:white; font-size:12pt; line-height:20px;">
-                Connect with international experts and influencers who can evaluate your products and influence their adoption.
+    <!-- <div class="exhibitors-center">
+        <div class="exhibitors-row">
+            <div class="exhibitors-column" style="flex: 70%;">
+                <strong style="color:white;font-size: 25px">Become a Sponsor or Exhibitor</strong>
                 <br /><br />
-                Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees.
-                <br /><br />
-                Gain worldwide recognition and visibility for your brand with enhanced branding opportunities.
-            </p>
-        </div>
-        <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
-            <div style="">
-                <p style="font-size: 20px;">
-                    <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_22.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                <p style="color:white; font-size:12pt; line-height:20px;">
+                    Connect with international experts and influencers who can evaluate your products and influence their adoption.
+                    <br /><br />
+                    Position your company as a leader in the VR space by showcasing your innovations to over 500 attendees.
+                    <br /><br />
+                    Gain worldwide recognition and visibility for your brand with enhanced branding opportunities.
                 </p>
             </div>
+            <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
+                <div style="">
+                    <p style="font-size: 20px;">
+                        <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_22.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                    </p>
+                </div>
+            </div>
         </div>
-    </div>
-</div>
+    </div> -->
 
 
 
