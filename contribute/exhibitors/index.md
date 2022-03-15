@@ -68,8 +68,8 @@ title_separator: "|"
 
 </style>
 
-
-<div>
+<div> <p> More information coming soon, please watch this space. </p> </div> 
+<div style="display:none">
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
         <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
