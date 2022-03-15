@@ -17,11 +17,11 @@ title_separator: "|"
         conference to be held entirely online and in a virtual environment.
     </p>
     <br/>
-    <center>
+    <!-- <center>y
         <p style="font-size: 20px;">
             <a href="/2023/attend/code-of-conduct/" class="btn btn--primary" style="background-color: #F5725E">IEEE VR 2023 Code of Conduct</a>
         </p>
-    </center>
+    </center> -->
 
     <h1> About Shanghai, China </h1>
     <p>
