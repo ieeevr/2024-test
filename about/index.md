@@ -30,10 +30,10 @@ title_separator: "|"
 
     <div>
         <div style="display: inline-block">
-            <img src="/assets/images/photo-building.jpg" width="49%" />
-            <img src="/assets/images/photo-tower.jpg" width="49%" />  
-            <img src="/assets/images/photo-yuyuan.jpg" width="49%" style="margin-top:10px"/>  
-            <img src="/assets/images/photo-waitan.jfif" width="49%" style="margin-top:10px"/>  
+            <img src={{ "/assets/images/photo-building.jpg" | relative_url }} width="49%" />
+            <img src={{ "/assets/images/photo-tower.jpg" | relative_url }} width="49%" />  
+            <img src={{ "/assets/images/photo-yuyuan.jpg" width="49%"| relative_url }} style="margin-top:10px"/>  
+            <img src={{ "/assets/images/photo-waitan.jfif" width="49%"| relative_url }} style="margin-top:10px"/>  
         </div>
     </div>
 </div>
