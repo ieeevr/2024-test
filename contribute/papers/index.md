@@ -10,7 +10,7 @@ title_separator: "|"
         For VR 2023, the VR Steering Committee has decided to return to a unified submission & decision process. There will be only one paper track for VR 2023.
 
         More information coming soon, please watch this space.
-    </p>
+   </p>
 </div>
 
 <!-- 
