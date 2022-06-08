@@ -14,29 +14,15 @@ title: "Conference Committee"
 		</ul>										
 </div>				
 <div style="display:none">		
-	<h2>	Journal Paper Chairs	</h2>						
+	<h2>	Program Chairs	</h2>						
 		<ul>							
-			<!-- <li>	Luciana	Nedel	&#x2012; <i>	Federal University of Rio Grande do Sul - UFRGS, Brazil	</i></li>	
-			<li>	Ferran	Argelaguet	&#x2012; <i>	Inria Rennes, France	</i></li>	
+			<!-- 	
 			<li>	Lili	Wang	&#x2012; <i>	Beihang University, China	</i></li>	
-			<li>	Jeanine	Stefannuci	&#x2012; <i>	University of Utah, USA	</i></li>	
-			<li>	Daisuke	Iwai	&#x2012; <i>	Osaka University, Japan	</i></li>	
-			<li style="list-style: none">	journalpapers2022	[at] ieeevr.org			</li>	 -->
+			<li>	John Quarles	&#x2012; <i>	University of Texas at San Antonio, USA	</i></li>	
+			<li>	Voicu Popescu	&#x2012; <i>	Purdue University, USA	</i></li>	
+			<li style="list-style: none">	papers2023	[at] ieeevr.org			</li>	 -->
 		</ul>							
-									
-	<h2>	Conference Paper Chairs	</h2>						
-		<ul>							
-			<!-- <li>	Pablo	Figueroa	&#x2012; <i>	Universidad de los Andes, Colombia	</i></li>	
-			<li>	Bobby	Bodenheimer	&#x2012; <i>	Vanderbilt University, USA	</i></li>	
-			<li>	Gerd	Bruder	&#x2012; <i>	University of Central Florida, USA	</i></li>	
-			<li>	Sarah	Creem-Regehr	&#x2012; <i>	University of Utah, USA	</i></li>	
-			<li>	Martin	Hachet	&#x2012; <i>	Inria Bordeaux, France	</i></li>	
-			<li>	Amela	Sadagic	&#x2012; <i>	Naval Postgraduate School, USA	</i></li>	
-			<li>	Rick	Skarbez	&#x2012; <i>	La Trobe University, Australia	</i></li>	
-			<li>	Maki	Sugimoto	&#x2012; <i>	Keio University, Japan	</i></li>	
-			<li>	Benni	Weyers	&#x2012; <i>	University of Trier, Germany	</i></li>	
-			<li style="list-style: none">	conferencepapers2022	[at] ieeevr.org			</li>	 -->
-		</ul>							
+															
 									
 	<h2>	3DUI Contest Chairs	</h2>						
 		<ul>							
