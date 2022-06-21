@@ -105,21 +105,21 @@ Both abstracts and complete papers must be submitted electronically through PCS:
 
 <h2 id="review-process">Review process</h2>
 <p>The review process will have two cycles.</p>
-<p><b>First review cycle</b></p>
+<p><b style="color:black;"><i>First review cycle</i></b></p>
 <p>All submissions will receive at least three reviews. Based on the level of contribution, reviewers will make an initial recommendation for one of the following outcomes for each submission:</p>
 <p><b>Conditionally accept as IEEE TVCG paper.</b> Continuing our cooperation with the IEEE Transactions on Visualization and Computer Graphics (TVCG), paper submissions with substantial contribution will automatically be considered for publication in a special issue of IEEE TVCG. 
 </p>
 <p>
-<b>Conditionally accept as conference paper.</b> The remaining accepted papers will appear in the Proceedings of IEEE VR and be archived in the IEEE Xplore Digital Library. 
+<b style="color:black;">Conditionally accept as conference paper.</b> The remaining accepted papers will appear in the Proceedings of IEEE VR and be archived in the IEEE Xplore Digital Library. 
 </p>
 <p>
-<b>Recommend for major revision to IEEE TVCG.</b> Submissions that make a substantial contribution but that require revisions that are beyond what can be achieved within the conference reviewing process will be recommended for major revision to IEEE TVCG. Reviewer continuity will be attempted but not guaranteed. Note that as per IEEE TVCG rules a single major revision is possible.
+<b style="color:black;">Recommend for major revision to IEEE TVCG.</b> Submissions that make a substantial contribution but that require revisions that are beyond what can be achieved within the conference reviewing process will be recommended for major revision to IEEE TVCG. Reviewer continuity will be attempted but not guaranteed. Note that as per IEEE TVCG rules a single major revision is possible.
 </p>
 <p>
-<b>Recommend as a 2-page poster.</b> If reviewers feel papers are not acceptable for the journal or conference tracks, reviewers may also recommend the papers for the poster proceedings. Posters are up to 2 pages including references. Traditionally, IEEE VR does not consider posters to be formal publications. Work accepted as a poster may be eligible for future publication in other venues. Posters will be included in the IEEE VR Abstracts and Workshops proceedings and will be archived in the IEEE Digital Library.
+<b style="color:black;">Recommend as a 2-page poster.</b> If reviewers feel papers are not acceptable for the journal or conference tracks, reviewers may also recommend the papers for the poster proceedings. Posters are up to 2 pages including references. Traditionally, IEEE VR does not consider posters to be formal publications. Work accepted as a poster may be eligible for future publication in other venues. Posters will be included in the IEEE VR Abstracts and Workshops proceedings and will be archived in the IEEE Digital Library.
 </p>
-<p><b>Reject.</b></p>
-<p><b>Second review cycle</b></p>
+<p><b style="color:black;">Reject.</b></p>
+<p><b style="color:black;"><i>Second review cycle</i></b></p>
 <p>Primary reviewers will review the revised papers and will make a final recommendation for acceptance. Should the conditions for acceptance not be met, the paper will be rejected.</p>
 <p><b>Presentation at the Conference.</b> All accepted submissions must be presented orally at the conference. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 2023. Interested authors should contact the editor in chief of IEEE TVCG for more details.
 </p>
