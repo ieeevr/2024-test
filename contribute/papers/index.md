@@ -5,68 +5,81 @@ subtitle: "IEEE VR 2023"
 title_separator: "|"
 ---
 
-<div>
+<!-- <div>
     <p>
         For VR 2023, the VR Steering Committee has decided to return to a unified submission & decision process. There will be only one paper track for VR 2023.
 
         More information coming soon, please watch this space.
    </p>
-</div>
+</div> -->
 
-<!-- 
+
 <div>
-<h1 id="cfp-conference"> Call for Conference Papers </h1>
+<h1 id="cfp-conference"> Call for Papers </h1>
 <p>
-    <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2023: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
     25-29 March, 2023, 
     <br />
-    <a href="http://ieeevr.org/2022/">http://ieeevr.org/2023/</a>
+    <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
 </p>
-    
-<h2 id="important-dates"> Important Dates </h2>
-<ul>
-    <li><b>Monday November 1, 2023</b>:   Conference paper abstracts due <b>(REQUIRED)</b></li>
-    <li><b>Friday November 5, 2023</b>:   Conference paper submissions due</li>
-    <li><b>Wednesday December 22, 2023</b>:    Conference paper notifications of results returned to authors</li>
-    <li><b>Friday January 21, 2023</b>:    Camera-ready material due from authors of accepted conference papers</li>
-</ul>
-
-<h2 id="links"> Links </h2>
-<ul>
-    <li>Paper abstracts and complete papers must be submitted electronically through the online submission system: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a></li>
-    <li>All paper submissions must be in English. All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Society VGTC format 
-        (<a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>) and submitted in PDF format.</li>
-</ul>
 
 <h2 id="overview">Overview</h2>
 <p>
-    IEEE VR 2023 seeks original, high-quality papers in all areas related to mixed realities (MR), including virtual reality (VR), augmented reality (AR), and 3D user interfaces (3DUIs).
+    IEEE VR 2023 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs). This year there will be a single submission deadline for a unified review process for both the IEEE TVCG and the conference only papers. The possible outcomes of this unified process are:
 </p>
+<ul>
+    <li>Accept as IEEE TVCG paper, with presentation at IEEE VR 2023</li>
+    <li>Major revision to IEEE TVCG</li>
+    <li>Accept as IEEE VR 2023 conference paper</li>
+    <li>Accept as IEEE VR 2023 poster</li>
+    <li>Reject</li>
+</ul>
 <p>
-    For inquiries, contact: conferencepapers2022 [at] ieeevr.org
+    For inquiries, contact: program2023 [at] ieeevr.org
 </p>
 
+<h2 id="important-dates"> Important Dates </h2>
+<p>
+    Each deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00 on the stated day, no matter where the submitter is located. 
+    <b>The submission deadlines will be strictly enforced. Requests for extensions will not be honored.</b>
+</p>
+<ul>
+    <li><b>October 7, 2022</b>:   Abstracts due <b>(REQUIRED)</b></li>
+    <li><b>October 14, 2022</b>:   Submissions due</li>
+    <li><b>December 16, 2022</b>:   Notification of first review cycle results</li>
+    <li><b>January 20, 2023</b>:    Revised submissions due for second review cycle</li>
+    <li><b>January 27, 2023</b>:    Final notifications</li>
+    <li><b>February 3, 2023</b>:    Camera-ready material due</li>
+</ul>
+
+
 <h2 id="submission-guidelines">Submission Guidelines</h2>
+<p>Paper abstracts and complete papers must be submitted electronically through PCS: </p>
+<a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 <p style="text-align: left ! important;">
-    Each research paper should be a validated contribution covering one or more of four styles of papers: methodological, technology, applications, or systems. Papers are 
-    welcome that provide contributions in more than one of these areas. Authors should select a primary designation for submissions:
+    Each research paper should provide a validated contribution covering one or more of the following categories: methodological, technical, applications, and systems.
     <ul>
         <li><b>Methodological papers</b> should describe advances in theories and methods of AR/VR/MR and 3DUI, such as ethical issues, theories on presence, or human factors.</li>
         <li><b>Technology papers</b> should describe advancements in algorithms or devices critical to AR/VR/MR and 3DUI development such as input, display, user interaction, or tracking.</li>
-        <li><b>Application papers</b> provide an important insight to the community by explaining how the authors built upon existing ideas and applied them to solve an interesting problem in 
-            a novel way. Each paper should include an evaluation of the success of the use of AR/VR/MR and 3DUI in the given application domain.</li>
+        <li><b>Application papers</b> provide an important insight to the community by explaining how the authors built upon existing ideas and applied them to solve an interesting problem in a novel way. Each paper should include an evaluation of the success of the use of AR/VR/MR and/or 3DUI in the given application domain.</li>
         <li><b>System papers</b> should indicate how the developers integrated techniques and technologies to produce an effective system, and convey any lessons learned in the process.</li>
     </ul>
 </p>
 
 <p>
-    Each paper should include an evaluation of its contributions such as user studies, benchmarking, and/or comparisons with existing systems/techniques/methods. We acknowledge that 
-    due to the COVID-19 situation, in-person user studies may not be possible or feasible. We encourage authors to think about other ways to validate their contribution, such as 
-    qualitative studies with fewer users, expert reviews, online studies, etc. We encourage potential authors to engage the ongoing community discussions around these topics as they 
-    are common to many of us.
+    Each paper should include an evaluation of its contributions, such as user studies, benchmarking and/or comparison with existing systems/techniques/methods. When in-person user studies are not possible, we encourage authors to think about other ways to validate their contribution, such as qualitative studies with fewer users, expert reviews, online studies.
 </p>
 <p>
+We welcome paper submissions between 4 and 9 pages, not including references. Paper length should be commensurate with the importance of the contribution. Authors are encouraged to submit videos to aid the program committee in reviewing their submissions.
+</p>
+<p>
+Both abstracts and complete papers must be submitted electronically through PCS: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
+</p>
+<p>All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/">https://tc.computer.org/vgtc/publications/journal/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
+</p>
+
+<!-- <p>
     <b>Further Details Regarding Submissions.</b> We welcome paper submissions between 4 and 8 pages, <b>NOT including references</b>. Note that there are no distinct categories for short papers or technotes. The contribution of 
     the paper will be weighed against its length during review. All submissions will receive at least three reviews by experts in the field to ensure their high quality (except papers 
     submitted with review continuity; see below). All accepted submissions must be presented orally at the conference. Conference Papers will appear in the Proceedings of IEEE VR and be 
@@ -78,6 +91,18 @@ title_separator: "|"
     appropriate reviewers while balancing reviewer workload. Reviewers will also indicate similar broad topic area priorities based on their expertise. There is no quota for the 
     number of accepted submissions per topic area, and the overall program will be based on the highest quality contributions to the field as judged across all topics. 
 </p>
+
+
+<h2 id="links"> Links </h2>
+<ul>
+    <li>Paper abstracts and complete papers must be submitted electronically through the online submission system: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a></li>
+    <li>All paper submissions must be in English. All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Society VGTC format 
+        (<a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>) and submitted in PDF format.</li>
+</ul> -->
+
+
+
+
 
 <h2 id="topics"> Topics </h2>
 <p>
@@ -124,16 +149,28 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 
 <h2 id="aditional-submission-guidelines"> Additional Submission Guidelines </h2>
 <p>
-    All paper submissions must be in English. All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Society VGTC format 
+    All paper submissions must be in English. 
+</p>
+<p>
+Submitted manuscripts must not have been previously published. A manuscript is considered to have been previously published if it has appeared in a peer-reviewed journal, magazine, book, or meeting proceedings that is reliably and permanently available afterward in print or electronic form to non-attendees, regardless of the language of that publication. A manuscript identical or substantially similar in content (in its entirety or in part) to one submitted to VR should not be simultaneously under consideration for another conference or journal during any part of the VR review process, from the submission deadline until notifications of decisions are emailed to authors.
+</p>
+<p>
+In some situations, a submission may build upon prior work. In order to fully explain the relationship between the submitted paper and prior work, authors may upload additional papers as well as a non-anonymous letter of explanation that highlights the significant changes or advances; these materials will only be seen by the primary reviewer. Specifically, this treatment is applied to the following cases:
+    <ul>
+        <li>non peer-reviewed works that are publicly available (on arXiv, as a technical report, etc.)</li>
+        <li>non-archival publications presented in past IEEE VR conferences (posters, demos, etc.)</li>
+    </ul>
+</p>
+<p>
+Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the<a href="http://www.ieee.org/documents/opsmanual.pdf">IEEE Publication Services and Products Board Operations Manual</a>.
+</p>
+<!-- <p>
+All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Society VGTC format 
     (<a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">http://junctionpublishing.org/vgtc/Tasks/camera.html</a>) and submitted in 
     PDF format. We <i>highly</i> encourage authors to use the LaTeX template. However, authors who choose to use the MS Word template should 
     ensure that the PDF submission matches the PDF format template (<a href="http://junctionpublishing.org/vgtc/Templates/october2017/vgtc_conference_latex.pdf">http://junctionpublishing.org/vgtc/Templates/october2017/vgtc_conference_latex.pdf</a>).
-</p>
-<p>
-    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
-    </div>
-</p>
+</p> -->
+<!-- 
 <p>
     Paper submissions must not have been previously published. A manuscript is considered to have been previously published if it has appeared 
     in peer-reviewed journals, magazines, books, or meeting proceedings that are permanently available afterward in print or electronic form to 
@@ -150,20 +187,31 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
     <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
         <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to adhere to the previous or simultaneous submission guidelines will result in a rejection without returning the reviews.</b>
     </div>
-</p>
+</p> -->
 <p>
     <b>IEEE VR uses a DOUBLE-BLIND review process.</b> This means that both the authors and the reviewers should remain anonymous to each other. 
     Submissions (<b>including citations and optional videos</b>) should not contain information that identifies the authors, their institutions, 
-    funding sources, or their places of work. Relevant previous work by the authors should be cited in the third person to preserve anonymity. 
+    funding sources, or their places of work. Relevant previous work by the authors should be cited in the third person to preserve anonymity(exceptions were described above). 
     Authors should work diligently to ensure that their submissions do not expose their identities either through carelessness or intentionality. 
-    Authors that have questions/issues around double-blind submission policy should contact the conference chairs at the above-mentioned email address. 
+    Authors that have questions/issues around the double-blind submission policy should contact the program chairs. 
 </p>
 <p>
     <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
-        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to make reasonable attempts to anonymize your submission will result in desk rejection.</b>
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
     </div>
 </p>
 <p>
+<b>Pre-dissemination through public online repositories.</b> Uploading the submitted manuscript to an online repository (e.g., arXiv) before the end of the review process does not constitute a reason for rejecting the manuscript. However, the authors should be advised that doing so can compromise the anonymity of their manuscript and therefore bias its double-blind review.
+</p>
+<p>
+<b>Videos.</b> Videos must be submitted according to the instructions on the submission website. Videos submitted with papers will automatically be considered for possible inclusion in the video proceedings (video submissions may also be made independently, as described in the separate Call for Videos). When submitted as supporting material, videos must be free of any identifying information prior to reviewing as per the double-blind submission policy. If accepted for the video proceedings, a revised version of the materials will be requested.
+</p>
+<!-- <p>
+    <div class="notice--info" style="background-color: #F5725E !important; color: $theme-text !important;">
+        <b class="notice--text" style="background-color: #F5725E !important; color: $theme-text !important;">Failure to make reasonable attempts to anonymize your submission will result in desk rejection.</b>
+    </div>
+</p> -->
+<!-- <p>
     In order to fully explain the relationship between the submitted paper and relevant previous work by the authors, authors may additionally 
     upload previous papers as well as a non-anonymous letter of explanation; these materials will only be seen by the primary reviewer.
 </p>
@@ -229,24 +277,19 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
 <p style="text-align:left ! important;">
     Paper abstracts and complete papers must be submitted electronically through the online submission system:
     <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
-</p>
+</p> -->
 
 <h2 id="contacts"> Contacts </h2>
 <p>
-    Conference Papers Chairs:
+    Technical Papers Chairs:
     <ul>   
         <li>Bobby Bodenheimer, <i>Vanerbilt University, USA</i></li>
-        <li>Gerd Bruder, <i>University of Central Florida, USA</i></li>
-        <li>Sarah Creem-Regehr, <i>University of Utah, USA</i></li>
-        <li>Pablo Figueroa, <i>Universidad de los Andes, Colombia</i></li>
-        <li>Martin Hachet, <i>Inria Bordeaux, France</i></li>
-        <li>Amela Sadagic, <i>Naval Postgraduate School, USA</i></li>
-        <li>Richard Skarbez, <i>La Trobe University, Australia</i></li>
-        <li>Maki Sugimoto, <i>Keio University, Japan</i></li>
-        <li>Benni Weyers, <i>University of Trier, Germany</i></li>
+        <li>Voicu Popescu, <i>Purdue University, USA</i></li>
+        <li>John Quarles, <i>The University of Texas at San Antonio, USA</i></li>
+        <li>Lili Wang, <i>Beihang University, China</i></li>
     </ul>
-    conferencepapers2022 [at] ieeevr.org
+    program2023 [at] ieeevr.org
 </p>
 
 
-</div> -->
+</div>
