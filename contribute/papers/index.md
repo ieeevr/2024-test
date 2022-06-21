@@ -75,7 +75,8 @@ title_separator: "|"
 We welcome paper submissions between 4 and 9 pages, not including references. Paper length should be commensurate with the importance of the contribution. Authors are encouraged to submit videos to aid the program committee in reviewing their submissions.
 </p>
 <p>
-Both abstracts and complete papers must be submitted electronically through PCS: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
+Both abstracts and complete papers must be submitted electronically through PCS:</br>
+ <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
 <p>All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/">https://tc.computer.org/vgtc/publications/journal/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
 </p>
@@ -107,7 +108,7 @@ Both abstracts and complete papers must be submitted electronically through PCS:
 <p>The review process will have two cycles.</p>
 <p><b style="color:black;"><i>First review cycle</i></b></p>
 <p>All submissions will receive at least three reviews. Based on the level of contribution, reviewers will make an initial recommendation for one of the following outcomes for each submission:</p>
-<p><b>Conditionally accept as IEEE TVCG paper.</b> Continuing our cooperation with the IEEE Transactions on Visualization and Computer Graphics (TVCG), paper submissions with substantial contribution will automatically be considered for publication in a special issue of IEEE TVCG. 
+<p><b style="color:black;">Conditionally accept as IEEE TVCG paper.</b> Continuing our cooperation with the IEEE Transactions on Visualization and Computer Graphics (TVCG), paper submissions with substantial contribution will automatically be considered for publication in a special issue of IEEE TVCG. 
 </p>
 <p>
 <b style="color:black;">Conditionally accept as conference paper.</b> The remaining accepted papers will appear in the Proceedings of IEEE VR and be archived in the IEEE Xplore Digital Library. 
