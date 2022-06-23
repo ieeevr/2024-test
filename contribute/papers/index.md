@@ -122,7 +122,7 @@ Both abstracts and complete papers must be submitted electronically through PCS:
 <p><b style="color:black;">Reject.</b></p>
 <p><b style="color:black;"><i>Second review cycle</i></b></p>
 <p>Primary reviewers will review the revised papers and will make a final recommendation for acceptance. Should the conditions for acceptance not be met, the paper will be rejected.</p>
-<p><b>Presentation at the Conference.</b> All accepted submissions must be presented orally at the conference. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 2023. Interested authors should contact the editor in chief of IEEE TVCG for more details.
+<p><b>Presentation at the Conference.</b> All accepted submissions must be presented orally during the conference either in person or remotely. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 2023. Interested authors should contact the editor in chief of IEEE TVCG for more details.
 </p>
 <p><b>Review Duties for Authors.</b> The increasing number of submissions for IEEE VR makes us all dependent on a large number of good reviewers who are willing to provide feedback and engage with authors on their work. To expand the reviewing pool and to promote quality reviews, one author will be required to register to review up to three papers through PCS at the time of submission. Additionally, senior authors are encouraged to ask experienced junior authors to register in PCS to review papers, and then to mentor the junior authors during the review process.
 </p>
@@ -211,7 +211,7 @@ In some situations, a submission may build upon prior work. In order to fully ex
     </ul>
 </p>
 <p>
-Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the<a href="http://www.ieee.org/documents/opsmanual.pdf">IEEE Publication Services and Products Board Operations Manual</a>.
+Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the <a href="http://www.ieee.org/documents/opsmanual.pdf">IEEE Publication Services and Products Board Operations Manual</a>.
 </p>
 <!-- <p>
 All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Society VGTC format 
