@@ -62,7 +62,7 @@ title_separator: "|"
     Each research paper should provide a validated contribution covering one or more of the following categories: methodological, technical, applications, and systems.
     <ul>
         <li><b>Methodological papers</b> should describe advances in theories and methods of AR/VR/MR and 3DUI, such as ethical issues, theories on presence, or human factors.</li>
-        <li><b>Technology papers</b> should describe advancements in algorithms or devices critical to AR/VR/MR and 3DUI development such as input, display, user interaction, or tracking.</li>
+        <li><b>Technical papers</b> should describe advancements in algorithms or devices critical to AR/VR/MR and 3DUI development such as input, display, user interaction, or tracking.</li>
         <li><b>Application papers</b> provide an important insight to the community by explaining how the authors built upon existing ideas and applied them to solve an interesting problem in a novel way. Each paper should include an evaluation of the success of the use of AR/VR/MR and/or 3DUI in the given application domain.</li>
         <li><b>System papers</b> should indicate how the developers integrated techniques and technologies to produce an effective system, and convey any lessons learned in the process.</li>
     </ul>
@@ -332,7 +332,7 @@ All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Socie
 <p>
     Technical Papers Chairs:
     <ul>   
-        <li>Bobby Bodenheimer, <i>Vanerbilt University, USA</i></li>
+        <li>Bobby Bodenheimer, <i>Vanderbilt University, USA</i></li>
         <li>Voicu Popescu, <i>Purdue University, USA</i></li>
         <li>John Quarles, <i>The University of Texas at San Antonio, USA</i></li>
         <li>Lili Wang, <i>Beihang University, China</i></li>
