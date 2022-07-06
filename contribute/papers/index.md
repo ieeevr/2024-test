@@ -21,6 +21,8 @@ title_separator: "|"
     <br /> 
     25-29 March, 2023, 
     <br />
+    Shanghai, China
+    <br />
     <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
 </p>
 
