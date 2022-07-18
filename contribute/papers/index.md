@@ -82,6 +82,9 @@ Both abstracts and complete papers must be submitted electronically through PCS:
 </p>
 <p>All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/">https://tc.computer.org/vgtc/publications/journal/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
 </p>
+<p>
+All submissions describing research experiments with human participants must follow the appropriate ethical guidelines required by your institution, and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your affiliation, needs to be indicated via the submission system.
+</p>
 
 <!-- <p>
     <b>Further Details Regarding Submissions.</b> We welcome paper submissions between 4 and 8 pages, <b>NOT including references</b>. Note that there are no distinct categories for short papers or technotes. The contribution of 
@@ -128,9 +131,7 @@ Both abstracts and complete papers must be submitted electronically through PCS:
 </p>
 <p><b>Review Duties for Authors.</b> The increasing number of submissions for IEEE VR makes us all dependent on a large number of good reviewers who are willing to provide feedback and engage with authors on their work. To expand the reviewing pool and to promote quality reviews, one author will be required to register to review up to three papers through PCS at the time of submission. Additionally, senior authors are encouraged to ask experienced junior authors to register in PCS to review papers, and then to mentor the junior authors during the review process.
 </p>
-<p>
-<b>Ethics and Responsibility.</b> All submissions describing research experiments with human participants must follow the appropriate ethical guidelines required by the authors’ institution, and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your affiliation, needs to be indicated via the submission system.
-</p>
+
 <p>
 <b>Abstract Submission.</b> Note that a paper abstract must be uploaded seven days prior to the actual paper submission deadline. This facilitates the process of assigning reviewers, as the review process operates on a very tight schedule.
 </p>
