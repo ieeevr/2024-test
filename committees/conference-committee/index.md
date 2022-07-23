@@ -12,18 +12,18 @@ title: "Conference Committee"
 			<li>	Tobias	Langlotz	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
 			<li style="list-style: none">	general2023	[at] ieeevr.org			</li>	
 		</ul>										
-</div>				
-<div style="display:none">		
+</div>
+<div>
 	<h2>	Program Chairs	</h2>						
 		<ul>							
-			<!-- 	
-			<li>	Lili	Wang	&#x2012; <i>	Beihang University, China	</i></li>	
-			<li>	John Quarles	&#x2012; <i>	University of Texas at San Antonio, USA	</i></li>	
+			<li>	Bobby Bodenheimer	&#x2012; <i>	Vanderbilt University, USA	</i></li>	
 			<li>	Voicu Popescu	&#x2012; <i>	Purdue University, USA	</i></li>	
-			<li style="list-style: none">	papers2023	[at] ieeevr.org			</li>	 -->
-		</ul>							
-															
-									
+			<li>	John Quarles	&#x2012; <i>	The University of Texas at San Antonio, USA	</i></li>	
+			<li>	Lili Wang	&#x2012; <i>	Beihang University, China	</i></li>	
+			<li style="list-style: none">	program2023 [at] ieeevr.org		</li>	
+		</ul>				
+</div>		
+<div style="display:none">		
 	<h2>	3DUI Contest Chairs	</h2>						
 		<ul>							
 			<!-- <li>	Elham	Ebrahimi	&#x2012; <i>	University of North Carolina Wilmington, USA	</i></li>	
