@@ -196,6 +196,10 @@ IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited
         <li>Touch, tangible and gesture interfaces</li>
         <li>Tracking and sensing</li>
         <li>User experience and usability</li>
+        <li>Cultural heritage applications</li>
+        <li>Industrial applications</li>
+        <li>Healthcare applications</li>
+        <li>Education applications</li>
     </ul>
 </p>
 
