@@ -4,6 +4,13 @@ title: "Conference Committee"
 ---						
 									
 <div>									
+	<h2>	Honorary Chair	</h2>						
+		<ul>	
+			<li>    Qinping Zhao  &#x2012; <i> Beihang University, China </i></li>			
+		</ul>										
+</div>
+
+<div>									
 	<h2>	General Chairs	</h2>						
 		<ul>	
 			<li>    Xubo Yang  &#x2012; <i> Shanghai Jiao Tong University, China </i></li>			
