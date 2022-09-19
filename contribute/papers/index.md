@@ -80,7 +80,7 @@ We welcome paper submissions between 4 and 9 pages, not including references. Pa
 Both abstracts and complete papers must be submitted electronically through PCS:<br />
  <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
 </p>
-<p>All paper submissions must be formatted using the IEEE Computer Society TVCG conference format described at <a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
+<p>All paper submissions must be formatted using the IEEE VGTC conference format described at <a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
 </p>
 <p>
 All submissions describing research experiments with human participants must follow the appropriate ethical guidelines required by your institution, and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your affiliation, needs to be indicated via the submission system.
