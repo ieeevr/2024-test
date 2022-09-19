@@ -3,12 +3,12 @@ layout: ieeevr-default
 title: "Conference Committee"									
 ---						
 									
-<div>									
+								
 	<h2>	Honorary Chair	</h2>						
 		<ul>	
-			<li>    Qinping Zhao  &#x2012; <i> Beihang University, China </i></li>			
+			Qinping Zhao  &#x2012; <i> Beihang University, China </i>		
 		</ul>										
-</div>
+
 
 <div>									
 	<h2>	General Chairs	</h2>						
