@@ -44,7 +44,8 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Zhigeng Pan	&#x2012; <i>	Nanjing University of Science and Technology, China	</i></li>	
 			<li>	Fei Liu	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
-			<li style="list-style: none">	finance2023 [at] ieeevr.org		</li>	
+			<li style="list-style: none">	localarrangements2023 [at] ieeevr.org
+		</li>	
 		</ul>				
 </div>
 
