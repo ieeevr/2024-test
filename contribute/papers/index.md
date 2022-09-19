@@ -40,7 +40,7 @@ title_separator: "|"
 <p>
     For inquiries, contact: program2023 [at] ieeevr.org
 </p>
-<p style="color:red"> !!Attention!! <a href="submission-guidelines">The Review process is different from past years.</a> </p> 
+<p style="color:red"> !!Attention!! <a href="#submission-guidelines">The Review process is different from past years.</a> </p> 
 <p style="color:red"> !!Attention!! <a href="https://tc.computer.org/vgtc/publications/conference/">All paper submissions should be in IEEE VGTC conference format.</a> </p> 
 
 <h2 id="important-dates"> Important Dates </h2>
