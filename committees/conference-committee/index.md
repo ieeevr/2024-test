@@ -42,7 +42,7 @@ title: "Conference Committee"
 <div>
 	<h2>	Local Arrangements Chairs	</h2>						
 		<ul>							
-			<li>	Zhigeng Pan	&#x2012; <i>	Nanjing University of Science and Technology, China	</i></li>	
+			<li>	Zhigeng Pan	&#x2012; <i>	Nanjing University of Information Science and Technology, China	</i></li>	
 			<li>	Fei Liu	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
 			<li style="list-style: none">	localarrangements2023 [at] ieeevr.org
 		</li>	
