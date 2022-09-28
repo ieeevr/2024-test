@@ -6,50 +6,40 @@ title_separator: "|"
 ---
 
 
-<div>
+<!-- <div>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div>
+</div> -->
 
-<!-- 
+
 <div>
 <h1 id="cfp-workshops"> Call for Workshops</h1>
 <p>
-    <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2023: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br />
-    12-13 March, 2022, Virtual
+    (March 25-29, 2023)
     <br />
-    <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
+    <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
 </p>
     
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
-    <li><b>December 1, 2021</b>:    Proposals and CFPs due</li>
-    <li><b>December 9, 2021</b>:    Notification of results</li>
-    <li><b>January 20, 2022</b>:    Latest accepted workshop paper notification</li>
-    <li><b>January 29, 2022</b>:    Camera-ready submission of workshop papers for inclusion in the IEEE Digital Library</li>
-    <li><b>March 12-13, 2022</b>:   Workshops</li>
+    <li><b>December 2, 2022</b>:    Proposals and CFPs due</li>
+    <li><b>December 9, 2022</b>:    Notification of results</li>
+    <li><b>January 20, 2023</b>:    Latest accepted workshop paper notification</li>
+    <li><b>February 3, 2023</b>:    Camera-ready submission of workshop papers for inclusion in the IEEE Digital Library</li>
+    <li><b>March 25-26, 2023</b>:   Workshops (held on the first two days of the conference)</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
 <p>
-    We invite individuals or teams interested in organising such a workshop to submit proposals that will
-    work well online or on-site at the conference venue for IEEE VR 2023. Since IEEE VR 2023 is going
-    to be held in a hybrid mode, we encourage workshops to already consider this in their initial
-    submission to maximise participation. Although longer workshops will be considered, we encourage
-    shorter efficient workshops, or online workshops split over sessions spanning one or two days with
-    long breaks between sessions in order to reduce video-conference fatigue and to provide attendees
-    time to reflect between sessions.
+    We invite individuals or teams interested in organizing such a workshop to submit proposals that will work well online or on-site at the conference venue for IEEE VR 2023. IEEE VR 2023 will probably be held in a hybrid mode, depending on the pandemic situation and potential travel restrictions next year. We encourage workshops to consider this in their initial submission already to maximize participation. Although longer workshops will be considered, we encourage shorter efficient workshops or online workshops split over sessions spanning one or two days with long breaks between sessions in order to reduce video-conference fatigue and to provide attendees time to reflect between sessions.
 </p>
 <p>
-    Workshops are intended to bring together researchers, developers, technology providers,
-    practitioners and users for a lively and interactive discussion of issues through an informal exchange
-    of ideas and information. Workshops may target a specific application area, a specific research area,
-    or a topic of general interest. Workshops should be more than just a mini conference of paper
-    presentations. Workshops may include, but are not limited to:
+    Workshops are intended to bring together researchers, developers, technology providers, practitioners, and users for a lively and interactive discussion of issues through an informal exchange of ideas and information. Workshops may target a specific application area, a specific research area, or a topic of general interest. Workshops should be more than just a mini-conference of paper presentations. Workshops may include, but are not limited to:
     <ul>
-        <li>A focus on creating and exchanging of new ideas and opportunities to meet new people</li>
+        <li>A focus on creating and exchanging new ideas and opportunities to meet new people</li>
         <li>A balance of formal presentations with informal discussion and ideation</li>
         <li>Emphasis on attendee participation and interactive discussions</li>
         <li>Thought experiments and playing with ideas</li>
@@ -74,11 +64,10 @@ title_separator: "|"
     <ul>
         <li>
             The Workshop Proposal is an internal document for decision-making purposes only. We
-            strongly encourage submitting the proposal through the following Google form: <a href="https://forms.gle/X6edn7EAeUPtNhzR8">https:&#47;&#47;forms.gle&#47;X6edn7EAeUPtNhzR8</a>
+            strongly encourage submitting the proposal through the following Google form: <a href="https://forms.gle/XQ9rN8rtF2iRyNaJ6">https://forms.gle/XQ9rN8rtF2iRyNaJ6</a>.
         </li>
         <li>
-            However, organisers without access to Google are welcome to email a PDF proposal (two
-            pages max) to the Workshop Chairs at workshops2022 [at] ieeevr.org, which should address:
+            However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at workshops2023 [at] ieeevr.org, which should address:
             <ul>
                 <li>Workshop title (and acronym if applicable)</li>
                 <li>The goal of organising the workshop</li>
@@ -101,15 +90,12 @@ title_separator: "|"
             </ul>
         </li>
         <li>
-            The Workshop CFP is the public document that will be posted and publicised. We strongly
-            encourage submitting a PDF of the CFP through the Google form above. However,
-            organisers without access to Google are welcome to email the PDF of the CFP (two pages
-            max), which should include:
+            The Workshop CFP is the public document that will be posted and publicized. We strongly encourage submitting a PDF of the CFP through the Google form above. However, organizers without access to Google are welcome to email the PDF of the CFP (two pages max), which should include:
             <ul>
                 <li>The workshop title and acronym</li>
                 <li>Expected workshop date(s) (tentative to change depending on conference
                     limitations)</li>
-                <li>Whether the workshop is organised online or on-site (at the conference)</li>
+                <li>Whether the workshop is organized online or on-site (at the conference)</li>
                 <li>The workshop website</li>
                 <li>A brief overview and description of the workshop (500 words or less)</li>
                 <li>A list of the workshop's topics</li>
@@ -132,38 +118,26 @@ title_separator: "|"
 </p>
 
 <p>
-    The deadline for workshop proposals and CFP submissions is Wednesday, December 1, 2021.
-    Notifications of results will be sent out on Thursday, December 9, 2021. Accepted workshop
-    CFPs may be posted and publicised.
+    The deadline for workshop proposals and CFP submissions is Wednesday, December 2, 2022. Notifications of results will be sent out on Friday, December 9, 2022. Accepted workshop CFPs might be posted and publicized directly. 
 </p>
 
 <p>
-    If accepted, workshop organisers are expected to distribute their CFP and announce the
-    workshops through their professional networks. As listed in the Workshops CFP submission,
-    workshop organisers are required to provide a workshop website and are expected to update
-    that website as workshop details become better defined.
+   If accepted, workshop organizers are expected to distribute their CFP and announce the workshops through their professional networks. As listed in the Workshops CFP submission, workshop organizers are required to provide a workshop website and are expected to update that website as workshop details become better defined.
 </p>
 
 <p>
-    Workshop organisers are expected to issue any acceptance decisions to their contributors no
-    later than Thursday, January 20, 2022, in order to allow sufficient time for planning and advance
-    registration to the conference. IEEE VR Workshops proceedings will be published electronically
-    through the IEEE Digital Library dependent on the on-time submission of the proceedings by the
-    workshop organisers, before the mandatory IEEE deadline of Saturday, January 29, 2022.
-    Organisers of accepted workshops are encouraged to seek assistance from the Workshops
-    Chairs to navigate this process.
+    Workshop organizers are expected to issue any acceptance decisions to their contributors no later than Friday, January 20, 2023, in order to allow sufficient time for planning and advance registration for the conference. IEEE VR Workshops proceedings will be published electronically through the IEEE Digital Library, depending on the on-time submission of the proceedings by the workshop organizers before the mandatory IEEE deadline of Saturday, January 29, 2023. Organizers of accepted workshops are encouraged to seek assistance from the Workshops Chairs to navigate this process.
 </p>
 
 <h2 id="contacts">Contacts</h2>
 <p>
-    For more information and inquiries, please contact the Workshop Chairs:
+    For more information and inquiries, please contact the Workshop Chairs at workshops2023 [at] ieeevr.org:
     <ul>
-        <li>Mashhuda Glencross, <i>The University of Queensland, Australia</i></li>
-        <li>Lap-Fai (Craig) Yu, <i>George Mason University, USA</i></li>
-        <li>Bhuvaneswari Sarupuri, <i>INRIA, University of Rennes 2, France</i></li>
-        <li>Jo&atilde;o Madeiras Pereira, <i>University of Lisboa IST/INESC-ID, Portugal</i></li>
+        <li>Daisuke Iwai (Osaka, Japan)</li>
+        <li>Bhuvaneswari Sarupuri (Rennes, France)</li>
+        <li>Gabriel Zachmann (Bremen, Germany)</i></li>
+        <li>Xinyu Zhang (Shanghai, China)</i></li>
     </ul>
-    workshops2022 [at] ieeevr.org
 </p>
 
-</div> -->
+</div>
