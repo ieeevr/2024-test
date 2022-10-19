@@ -9,6 +9,7 @@ title_separator: "|"
     <p>
         More information coming soon, please watch this space.
     </p>
+
     <!--
     <h1 id="cfp-panels"> Call for Panels </h1>
     
@@ -20,8 +21,9 @@ title_separator: "|"
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 12th, 2021:</b> Proposals due</li>
-        <li><b>January 19th, 2021:</b> Notification of results</li>
+        <li><b>January 12th, 2023:</b> Proposals due</li>
+        <li><b>January 20th, 2023:</b> Notification of results</li>
+
         <li><b>February 1st, 2021:</b> One-page Panel description due</li>
         <li><b>March 27th-28th and April 1st-3rd, 2021:</b> Panels</li>
     </ul>
@@ -65,7 +67,5 @@ title_separator: "|"
         <li>Mark Billinghurst ‒ University of Adelaide, Australia</li>
         <li>Dirk Reiners ‒ University of Central Florida, USA</li>
     </ul>-->
-
-
 
 </div>
