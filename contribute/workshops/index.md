@@ -135,8 +135,8 @@ title_separator: "|"
     <ul>
         <li>Daisuke Iwai (Osaka, Japan)</li>
         <li>Bhuvaneswari Sarupuri (Rennes, France)</li>
-        <li>Gabriel Zachmann (Bremen, Germany)</i></li>
-        <li>Xinyu Zhang (Shanghai, China)</i></li>
+        <li>Gabriel Zachmann (Bremen, Germany)</li>
+        <li>Xinyu Zhang (Shanghai, China)</li>
     </ul>
 </p>
 

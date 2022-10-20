@@ -141,7 +141,7 @@ title_separator: "|"
 
     <h2 id="general-submission-guidelines">General Submission Guidelines</h2>
     <p>
-        VVideos must be submitted through a special video slot available at the online submission site - <a href="https://new.precisionconference.com/submissions">https://new.precisionconference.com/submissions</a>.
+        Videos must be submitted through a special video slot available at the online submission site - <a href="https://new.precisionconference.com/submissions">https://new.precisionconference.com/submissions</a>.
     </p>
     <p>
         Each submission must contain:

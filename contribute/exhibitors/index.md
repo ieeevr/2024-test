@@ -278,4 +278,8 @@ title_separator: "|"
     <h2 id="contacts">Contacts</h2>
 
     <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsorship2022@ieeevr.org">sponsorship2023 [at] ieeevr.org</a></p>
+
+    <div style="display: inline-block">
+        <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
+    </div>
 </div>
