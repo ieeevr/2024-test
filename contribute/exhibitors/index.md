@@ -139,6 +139,10 @@ title_separator: "|"
         ensuring good foot traffic to your display.
     </p>
 
+    <div style="display: inline-block">
+        <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
+    </div>
+
     <!--<style type="text/css">
         .tg  {border-collapse:collapse;border-spacing:0;}
         .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -279,7 +283,5 @@ title_separator: "|"
 
     <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsorship2022@ieeevr.org">sponsorship2023 [at] ieeevr.org</a></p>
 
-    <div style="display: inline-block">
-        <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
-    </div>
+    
 </div>
