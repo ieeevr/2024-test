@@ -16,7 +16,7 @@ title_separator: "|"
 <div>
     <h1 id="cfp-tutorials"> Call for Tutorials</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2023
+        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2023
         <br />
         <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
     </p>

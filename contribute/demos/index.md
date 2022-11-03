@@ -70,7 +70,7 @@ title_separator: "|"
                 A 3-5 minute instructional video that walks viewers through the research project and showcases the demo in action. Please provide an accessible URL in the submission. A YouTube or Vimeo link is highly recommended. If accepted, we plan to use the video as something attendees can view asynchronously.
             </li>
             <li>
-                The conference will be a virtual event and we would like to provide attendees an immersive experience of the research demo. As such, we ask that you write a 2-3 line short description separate from the extended abstract on how you would present your research demo remotely in an immersive way. For example, setting up a Mozilla Hubs room with a 3D replica of your prototype, so attendees can interact with it. Please note that this is not a requirement for the submission and will not affect the decision, but is highly recommended.
+                The conference will be a hybrid event and we would like to provide attendees an immersive experience of the research demo. As such, we ask that you write a 2-3 line short description separate from the extended abstract on how you would present your research demo remotely in an immersive way. For example, setting up a Mozilla Hubs room with a 3D replica of your prototype, so attendees can interact with it. Please note that this is not a requirement for the submission and will not affect the decision, but is highly recommended.
             </li>
         </ul>
     </p>
