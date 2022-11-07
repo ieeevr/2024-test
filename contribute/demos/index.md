@@ -64,7 +64,7 @@ title_separator: "|"
         A demo proposal should include:
         <ul>
             <li>
-                A two-page extended abstract in PDF format describing the demo and the research itself. This will be published in the conference proceedings. Please provide the abstract in IEEE format, see below.
+                A two-page extended abstract in PDF format describing the demo and the research itself. This will be published in the abstract and workshop proceedings. Please provide the abstract in IEEE format, see below.
             </li>
             <li>
                 A 3-5 minute instructional video that walks viewers through the research project and showcases the demo in action. Please provide an accessible URL in the submission. A YouTube or Vimeo link is highly recommended. If accepted, we plan to use the video as something attendees can view asynchronously.
@@ -76,7 +76,7 @@ title_separator: "|"
     </p>
 
     <p>
-        The submission materials should clearly describe the overall architecture of the system or technology demonstrated. Authors should put emphasis on the work's motivation, applications, novelty, and research direction. Submissions need not be anonymized but may be if the authors prefer. Abstracts for accepted demos will be included in the conference proceedings and in the IEEE Xplore Digital Library, so they must follow the IEEE Computer Society format at
+        The submission materials should clearly describe the overall architecture of the system or technology demonstrated. Authors should put emphasis on the work's motivation, applications, novelty, and research direction. Submissions need not be anonymized but may be if the authors prefer. Abstracts for accepted demos will be included in the abstract and workshop proceedings and in the IEEE Xplore Digital Library, so they must follow the IEEE Computer Society format at
         <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html">http://junctionpublishing.org/vgtc/Tasks/camera.html</a>.
     </p>
     <p>
