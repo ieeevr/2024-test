@@ -34,7 +34,11 @@ title_separator: "|"
 
 <h2 id="overview">Overview</h2>
 <p>
-    We invite individuals or teams interested in organizing such a workshop to submit proposals that will work well online or on-site at the conference venue for IEEE VR 2023. IEEE VR 2023 will probably be held in a hybrid mode, depending on the pandemic situation and potential travel restrictions next year. We encourage workshops to consider this in their initial submission already to maximize participation. Although longer workshops will be considered, we encourage shorter efficient workshops or online workshops split over sessions spanning one or two days with long breaks between sessions in order to reduce video-conference fatigue and to provide attendees time to reflect between sessions.
+    We invite individuals or teams interested in organizing such a workshop to submit proposals that will work well online or on-site at the conference venue for IEEE VR 2023. IEEE VR 2023 will probably be held in a hybrid mode, depending on the pandemic situation and potential travel restrictions next year. We encourage workshops to consider this in their initial submission already to maximize participation. 
+    
+    However, at this moment, we would suggest the oversea organizers and participants may have to organize/attend the conference remotely and in a hybrid mode. To maximize the conference expereince, we are technically preparing a hybrid conference, including virtual and onsite attendees. For workshops, we will have rooms to let the onsite attendees to be involved and connected even though organizers and presenters host the workshop remotely.
+    
+    Although longer workshops will be considered, we encourage shorter efficient workshops or online workshops split over sessions spanning one or two days with long breaks between sessions in order to reduce video-conference fatigue and to provide attendees time to reflect between sessions.
 </p>
 <p>
     Workshops are intended to bring together researchers, developers, technology providers, practitioners, and users for a lively and interactive discussion of issues through an informal exchange of ideas and information. Workshops may target a specific application area, a specific research area, or a topic of general interest. Workshops should be more than just a mini-conference of paper presentations. Workshops may include, but are not limited to:
