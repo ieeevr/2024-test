@@ -137,7 +137,7 @@ Call updates will be posted on the contest page: <a href="https://ieeevr.org/202
         <li>Chao Mei, Meta Reality Labs, USA</li>
         <li>Thammathip Piumsomboon, University of Canterbury, New Zealand</li>
     </ul>
-    contest2023 [at] ieevr.org
+    contest2023 [at] ieeevr.org
 </p>
 
 
