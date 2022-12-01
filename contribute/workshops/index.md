@@ -122,7 +122,7 @@ title_separator: "|"
 </p>
 
 <p>
-    The deadline for workshop proposals and CFP submissions is Wednesday, December 2, 2022. Notifications of results will be sent out on Friday, December 9, 2022. Accepted workshop CFPs might be posted and publicized directly. 
+    The deadline for workshop proposals and CFP submissions is Friday, December 2, 2022. Notifications of results will be sent out on Friday, December 9, 2022. Accepted workshop CFPs might be posted and publicized directly. 
 </p>
 
 <p>
