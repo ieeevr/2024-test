@@ -24,7 +24,7 @@ title_separator: "|"
     </p>
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>December 12<sup>th</sup>, 2022 23:59 AoE:</b> Submission deadline.</li>
+        <li><b>December 16<sup>th</sup>, 2022 23:59 AoE:</b> Submission deadline.</li>
         <li><b>January 27<sup>th</sup>, 2023 23:59 AoE:</b> Notification of acceptance.</li>
         <li><b>February 10<sup>th</sup>, 2023 23:59 AoE:</b> Camera-ready.</li>
         <li><b>March 25<sup>th</sup>, 2023:</b> Consortium.</li>
