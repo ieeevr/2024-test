@@ -9,10 +9,10 @@ title: "IEEEVR VGTC Awards"
         The IEEE VGTC Virtual Reality Awards recognize and honor individuals who have made a significant contribution 
         to the community through their research and/or service. 
     </p>
-    <!-- <p>
+    <p>
         Except for the Outstanding Dissertation Award (whose nominations are due May 31st of each year), all nominations 
-        are due by <strong>January 20<sup>th</sup>, 2022</strong> this year (deadline extended). The awards are presented at the annual IEEE VR conference.
-    </p> -->
+        are due by <strong>January 20<sup>th</sup>, 2023</strong> this year (deadline extended). The awards are presented at the annual IEEE VR conference.
+    </p>
 
     <p>
         Awards:
