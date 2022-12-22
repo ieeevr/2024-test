@@ -21,16 +21,21 @@ title: "IEEEVR VGTC Awards"
     <p>
         Awards:
         <ul>
-            <li><a href="https://tc.computer.org/vgtc/award-criteria/#dissertation">IEEE VGTC Virtual Reality Dissertation Award</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdw6-BymtZ3fcgdW70AoTezF5zLNqkXujPV6288_wO0QLvfgA/viewform">Submit Now</a></li>
-            <li><a href="https://tc.computer.org/vgtc/award-criteria/#new_researcher">IEEE VGTC Virtual Reality Significant New Researcher</a>
+            <li><a href="https://tc.computer.org/vgtc/awards/vr-doctoral-dissertation-award/">IEEE VGTC Virtual Reality Dissertation Award</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdw6-BymtZ3fcgdW70AoTezF5zLNqkXujPV6288_wO0QLvfgA/viewform">Submit Now</a></li>
+
+            <li><a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Significant New Researcher</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScEBvgYNEHw2oeGhq1-BQXfQAFvYRoFkKtWsCcfzG8YtgDO7A/viewform">Submit a Nomination Now</a></li>
-            <li><a href="https://tc.computer.org/vgtc/award-criteria/#technical">IEEE VGTC Virtual Reality Technical Achievement</a>
+
+            <li><a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Technical Achievement</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSepYeiEsoPU7iHngFhvH69V5GqNX0nCvo9R0mhLDuVg8eaMYA/viewform">Submit a Nomination Now</a></li>
-            <li><a href="https://tc.computer.org/vgtc/award-criteria/#lifetime">IEEE VGTC Virtual Reality Lifetime Achievement</a>
+
+            <li><a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Lifetime Achievement</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSff2hkl4n5K5AOwatPULE5j_T-arXZq0Qc-R6y7N6L-zntQ_g/viewform">Submit a Nomination Now</a></li>
-            <li><a href="https://tc.computer.org/vgtc/award-criteria/#service">IEEE VGTC Virtual Reality Service Award</a>
+
+            <li><a href="https://tc.computer.org/vgtc/awards/service-awards/">IEEE VGTC Virtual Reality Service Award</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSclErWbSZFGdCgrdej3uDg2mx2xr6YRkXI6u-uJoIlI2G8r5A/viewform">Submit a Nomination Now</a></li>
-            <li><a href="https://tc.computer.org/vgtc/award-criteria/#academy">IEEE VGTC Virtual Reality Academy</a>
+
+            <li><a href="https://tc.computer.org/vgtc/awards/virtual-reality-academy//">IEEE VGTC Virtual Reality Academy</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdilz_hCbyO_c_9xGplp53i5sxgxQuVrfxbZo2wMCnJZFKFKg/viewform">Submit a Nomination Now</a></li>
             
         </ul>
