@@ -13,7 +13,7 @@ title: "IEEEVR VGTC Awards"
         Except for the Outstanding Dissertation Award (whose nominations are due May 31st of each year), all nominations 
         are due by <strong>January 20<sup>th</sup>, 2023</strong> this year. The awards are presented at the annual IEEE VR conference.
     </p>
-    <p><a href="{{"/assets/contribute/award/IEEE_VGTC_VR_Awards_2023_Call_for_Nominations.pdf" | relative_url }}">Call for NOMINATIONS</a></P>
+    <p><a href="{{"/assets/award/IEEE_VGTC_VR_Awards_2023_Call_for_Nominations.pdf" | relative_url }}">Call for NOMINATIONS</a></P>
 
     <p>
         <a href="https://tc.computer.org/vgtc/award-criteria/">IEEE VGTC Awards Overview and Criteria</a>
