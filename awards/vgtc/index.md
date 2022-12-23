@@ -22,7 +22,7 @@ title: "IEEEVR VGTC Awards"
     <p>
         Awards:
         <ul>
-            <li><a href="https://tc.computer.org/vgtc/awards/vr-doctoral-dissertation-award/">IEEE VGTC Virtual Reality Dissertation Award</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdw6-BymtZ3fcgdW70AoTezF5zLNqkXujPV6288_wO0QLvfgA/viewform" style="color: #8ebf42">Submit Now</a></li>
+            <li><a href="https://tc.computer.org/vgtc/awards/vr-doctoral-dissertation-award/">IEEE VGTC Virtual Reality Dissertation Award</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdw6-BymtZ3fcgdW70AoTezF5zLNqkXujPV6288_wO0QLvfgA/viewform" style="color: #8ebf42">Submit a Nomination Now</a></li>
 
             <li><a href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">IEEE VGTC Virtual Reality Significant New Researcher</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScEBvgYNEHw2oeGhq1-BQXfQAFvYRoFkKtWsCcfzG8YtgDO7A/viewform" style="color: #8ebf42">Submit a Nomination Now</a></li>
