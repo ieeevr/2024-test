@@ -397,10 +397,10 @@ title_separator: "|"
     </ul>
     <p>
     <ul>
-        <li>a. Introduction to the topic of Serious Games and Superhuman Sports (Organizers)
-        <li>b. Overview about the current research (Organizers)
-        <li>c. Paper Presentations (Organizers & Participants)
-        <li>d. Discussion, Future Work, Collaboration
+        <li>a. Introduction to the topic of Serious Games and Superhuman Sports (Organizers)</li>
+        <li>b. Overview about the current research (Organizers)</li>
+        <li>c. Paper Presentations (Organizers & Participants)</li>
+        <li>d. Discussion, Future Work, Collaboration</li>
     </ul>
     </p>
     <p>
@@ -411,33 +411,6 @@ title_separator: "|"
 <!-- ------------------------------------------------SecImmeWorld-------------------------------------------------------- -->
 
     <h2 id="SecImmeWorld"> First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds) </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'Finding-a-way-forward-in-VR-locomotion' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
     
     <p>
         <strong style="color:black;">Website:<a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
