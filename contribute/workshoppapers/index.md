@@ -413,7 +413,7 @@ title_separator: "|"
     <h2 id="SecImmeWorld"> First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds) </h2>
     
     <p>
-        <strong style="color:black;">Website:<a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong><a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
     </p>
     <ul>
         <li> Submission deadline: 6<sup>th</sup> January 2023 </li>
