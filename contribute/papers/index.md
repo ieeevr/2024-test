@@ -53,8 +53,8 @@ title_separator: "|"
     <li><b>October 7, 2022</b>:   Abstracts due <b>(REQUIRED)</b></li>
     <li><b>October 14, 2022</b>:   Submissions due</li>
     <li><b>December 16, 2022</b>:   Notification of first review cycle results</li>
-    <li><b>January 13, 2023</b>:   Revised IEEE TVCG journal paper submission deadline</li>
-    <li><b>January 20, 2023</b>:    Revised submissions due for second review cycle</li>
+    <li><b>January 13, 2023</b>:   Revised submissions due for TVCG accepted papers </li> 
+    <li><b>January 20, 2023</b>:    Revised submissions due for conference accepted papers </li>
     <li><b>January 27, 2023</b>:    Final notifications</li>
     <li><b>February 3, 2023</b>:    Camera-ready material due</li>
 </ul>
