@@ -45,17 +45,18 @@ title_separator: "|"
     }
 </style>
 
-<div>
+<!-- <div>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div>
+</div> -->
 
-<div style="display: none;">
+<div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
-        IEEE VR 2023 seeks high-quality contributions to the following 21 workshops. 
-        These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>. For more details, see each workshop's Call for Papers below.
+        IEEE VR 2023 seeks high-quality contributions to the following 18 workshops. 
+        <!-- These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>.  -->
+        For more details, see each workshop's Call for Papers below.
     </p>
     
     <table class="styled-table">
@@ -70,11 +71,11 @@ title_separator: "|"
         {% endfor %}
     </table>
 
-    <h2 id="ANIVAE-2022"> 5<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2022) </h2>
+    <h2 id="ANIVAE-2023"> 6<sup>th</sup> IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023) </h2>
     
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
-    {% if event.id == 'ANIVAE-2022' %}
+    {% if event.id == 'ANIVAE-2023' %}
     {% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
@@ -104,81 +105,21 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://anivae.fhstp.ac.at/" target="_blank"> https://anivae.fhstp.ac.at/ </a>
     </p>
     <ul>
-        <li> Submission deadline: 2<sup>nd</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 2<sup>nd</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 30<sup>th</sup> January 2023 </li>
     </ul>
     <p>
-        By encouraging synergies of interdisciplinary approaches, the workshop maps animation within the AVR context from different 
-        angles and creates new knowledge in this research field.   
+        Connecting specialists from various digital humanities research areas (such as animation, games and media studies), with experts from both vision-oriented computer science areas (such as computer graphics or information visualization), and experts from technically-oriented computer science areas (such as data integration, internet-of-things or smart automation), the ANIVAE workshops aims to create an open and exciting environment. By encouraging synergies of interdisciplinary approaches, the workshop maps animation within the AVR context from different angles and creates new knowledge in this research field.   
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Thomas Moser
     </p>
     
 
-<!-- ------------------------------------------------OpenVR-------------------------------------------------------- -->
-
-    <h2 id="OpenVR"> Open Access Tools and Libraries for Virtual Reality </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'SeatedVR' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://openvrlab.github.io/" target="_blank">https://openvrlab.github.io/</a>
-    </p>
-    <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        Virtual Reality technologies are growing fast, and so is the VR research community. In this scenario, it is more important than ever that 
-        academic research builds upon best practices and results to amplify impact in the broader field. Open-Source tools are one means to propagate 
-        best practice as they lower the barrier to entry for researchers from an engineering point of view, while also embodying the prior work on 
-        which the tools were built. Open access tools are also critical to eliminate redundancies and increase world research collaboration in VR. 
-        At a time that academic research is growing it also needs to move as fast as the industry, collaboration and shared tools is the best way to do it.  
-        In this workshop, we will gather with creators and users of open-access libraries ranging from avatars (like the Microsoft Rocketbox avatar library) 
-        to animation to networking (Ubiq toolkit) to explore how open access tools are helping advance the VR community.
-    </p>
-    <p>
-        We invite all researchers to join this workshop and learn from existing libraries. We also invite submissions on technical and systems papers that 
-        describe new libraries and or new features on existing libraries. In this workshop, we will explore these open-access tools, their accessibility, 
-        and what type of applications they enable. Finally, we invite users of current libraries to submit their papers and share their learnings while 
-        using these tools. 
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Matias Volonte
-    </p>
-    
-
 <!-- ------------------------------------------------TrainingXR-------------------------------------------------------- -->
 
-    <h2 id="TrainingXR"> 3rd Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
+    <h2 id="TrainingXR"> 4th Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'SIVE' %}
@@ -208,20 +149,15 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2022" target="_blank">https://sites.google.com/view/trainingxrieeevr2022</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/trainingxrieeevr2023/trainingxr" target="_blank">https://sites.google.com/view/trainingxrieeevr2023/trainingxr</a>
     </p>
     <ul>
-        <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 12<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 27<sup>th</sup> January 2023 </li>
     </ul>
     <p>
-        This workshop discusses and articulates research visions on using the latest extended reality (VR/AR/MR) technologies for 
-        education and training purposes, and on creating immersive 3D virtual content for delivering effective and personalized training 
-        experiences. This workshop will gather researchers and practitioners in a variety of computer disciplines related to XR training 
-        and content creation. This workshop will accept research papers on these topics. We will also invite renowned speakers from the 
-        research community and the industry to give talks related to XR-based training to inspire the field to further explore this 
-        promising direction. 
+        This workshop discusses and articulates research visions on using the latest extended reality (VR/AR/MR) technologies for education and training purposes, and on creating immersive 3D virtual content for delivering effective and personalized training experiences. This workshop will gather researchers and practitioners in a variety of computer disciplines related to XR training and content creation. This workshop will accept research papers on these topics. We will also invite renowned speakers from the research community and the industry to give talks related to XR-based training, to inspire the field to further explore this promising direction. 
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Lap Fai (Craig) Yu
@@ -261,25 +197,19 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/ieee-vr-data4xr/" target="_blank">https://sites.google.com/view/ieee-vr-data4xr/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/ieee-vr-data4xr" target="_blank">https://sites.google.com/view/ieee-vr-data4xr</a>
     </p>
     <ul>
-        <li> Submission deadline: 7<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 9<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
-        Whenever AI researchers want to propose different data-driven models, datasets are the most fundamental resources. With 
-        easy access to standard datasets, they can develop state-of-the-art AI algorithms to achieve excellent prediction performance. 
-        However, when XR researchers decide to import these algorithms for developing intelligent immersive interactive applications, 
-        the lack of publicly available datasets arises as a challenge despite advanced AI algorithms being developed.
+        With easy access to standard datasets, they can develop state-of-the-art AI algorithms to achieve excellent prediction performance. However, when XR researchers decide to import these algorithms for developing intelligent immersive interactive applications, the lack of publicly available datasets arises as a challenge despite advanced AI algorithms being developed.
+ 
     </p>
     <p>
-        Many works related to datasets have been published, e.g., MINIST, ImageNet, CIFAR-10, etc. To unleash the full power of XR, 
-        the community also needs standard datasets for developing data-driven models with machine&#47;deep learning. The workshop on 
-        Datasets for Developing Intelligent XR Applications (Data4XR), hosted by the IEEE VR 2023, proposes a meaningful platform for 
-        domain researchers to find valuable resources and develop collaborations across labs. It aims to promote XR research by 
-        involving artificial intelligence.
+        Many works related to datasets have been published, e.g., MINIST, ImageNet, CIFAR-10, etc. To unleash the full power of XR, the community also needs standard datasets for developing data-driven models with machine/deep learning. The 2nd workshop on Datasets for Developing Intelligent XR Applications (Data4XR), hosted by the IEEE VR 2023, proposes a meaningful platform for domain researchers to find valuable resources and develop collaborations across labs. It aims to promote XR research by involving artificial intelligence.
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Yuyang Wang
@@ -318,31 +248,26 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/redigits" target="_blank">https://sites.google.com/view/redigits</a>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/redigits2023" target="_blank">https://sites.google.com/view/redigits2023</a>
     </p>
     <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 5<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 28<sup>th</sup> January 2023 </li>
     </ul>
     <p>
-        The aim of this workshop is to attract a collection of high-quality submissions reporting state-of-the-art research 
-        activities targeted to the next generation of immersive experiences, reporting the latest methodologies, applications, 
-        standards, evaluations, and&#47;or use cases for 3D reconstruction, digital twinning, and simulation for immersive experiences.
-        Despite the pivotal role played by these research directions in the design and development of immersive experiences, 
-        they are only partially addressed in the topics of workshops organized in the previous editions of IEEE VR.    
+        The aim of this workshop is to attract a collection of high-quality submissions reporting state-of-the-art research activities targeted to the next generation of immersive experiences, reporting the latest methodologies, applications, standards, evaluations, and/or use cases for 3D reconstruction, digital twinning, and simulation for immersive experiences. Despite the pivotal role played by these research directions in the design and development of immersive experiences, they are only partially addressed in the topics of workshops organized in the previous editions of IEEE VR. 
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Fabrizio Lamberti
+        <strong style="color:black;">Principal Organizer:</strong> Alberto Cannavò
     </p>
     
-    
-<!-- ------------------------------------------------VHCIE-------------------------------------------------------- -->
+<!-- ------------------------------------------------XRHealth-------------------------------------------------------- -->
 
-    <h2 id="VHCIE"> Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE) </h2>
+    <h2 id="XRHealth"> 2nd XR Health workshop - XR Technologies for Healthcare and Wellbeing </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
-    {% if event.id == 'NIDIT' %}
+    {% if event.id == 'DISCE' %}
     {% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
@@ -369,62 +294,27 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://files.inria.fr/vhcie/2022" target="_blank">https://files.inria.fr/vhcie/2022</a>
+        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
     </p>
     <ul>
-        <li> Submission deadline: 11<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 13<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 16<sup>th</sup> January 2023 </li>
     </ul>
     <p>
-        Nowadays many tools, including algorithms and systems, are available to create and design believable virtual humans and 
-        crowds in immersive virtual environments (IVEs). One traditional research area is thereby the population of IVEs. With sophisticated 
-        crowd simulations, environments with the size of an entire city can be efficiently enlivened with thousands of authentic virtual 
-        characters, termed virtual agents. Typically, these agents only react to VR users in terms of interactions between walkers, including 
-        collision avoidance, gazing, and interpersonal distance constraints. To this end, a second research area focuses on direct agent-user 
-        interactions including communicative abilities and social behavior to design believable verbal and non-verbal behavior for agents in 
-        face-to-face interactions. Research on both facets has been presented and discussed in the previous VHCIE editions, primarily from the 
-        viewpoint of VR research. Thus, VHCIE 2022 widens the focus by starting a cross-community exchange with researchers from industry and 
-        other disciplines involved in modeling, developing, and evaluating virtual humans and crowds. 
+        We aim to gather the intersection of researchers working in the areas of XR for healthcare and wellbeing from the HCI community to come together to share their ideas and discuss possible future grand challenges. 
     </p>
     <p>
-        The objective of VHCIE workshop on &quot;Virtual Humans and Crowds in Immersive Environments&quot; is then threefold. Through a panel and a 
-        selection of submitted presentations (short papers and late breaking research), we will: 
-        <ol>
-            <li>
-                Present state of the art character and crowd animation techniques for interactive agents. Recent developments in character 
-                and crowd animations have impressively improved the level of quality for motions, as well as computational performances. 
-                One objective of the workshop is to present how VR and immersive environments can benefit from these recent developments.
-            </li>
-            <li>
-                Present some examples of new research opportunities offered by the availability of populated virtual environments. 
-                Populating VEs with several autonomous characters is a relatively recent advancement. What research can benefit 
-                from such capability? We expect presentations related to how recent technological advances enable or facilitate 
-                such research. 
-            </li>
-            <li>
-                Discuss technological requirements for future applications. Recent technologies and software have clearly eased the 
-                creation of populated immersive VEs. However, there is still a way for improvement. Thus, the third objective of the
-                workshop is to gather the requirements of current users of these technologies for future applications. To this end, 
-                our audience and an invited cross-community panel from different research areas (VR, IVA, ..) as well as industry will 
-                try to answer questions such as: Do users expect better animation quality? Better rendering? Or, higher level of 
-                autonomy? What kind of interactivity is expected with autonomous agents?
-            </li>
-        </ol>
-        Finally, we expect that the workshop will provide an opportunity for researchers to develop new techniques for virtual humans 
-        and crowds and will possibly lead to new intersectoral collaborations.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Anne-H&eacute;l&egrave;ne Olivier
+        <strong style="color:black;">Principal Organizer:</strong> Matias Volonte
     </p>
     
 
-<!-- ------------------------------------------------SIWI-------------------------------------------------------- -->
+<!-- ------------------------------------------------WIVL-------------------------------------------------------- -->
 
-    <h2 id="SIWI"> Metaverse as a promise of a bright future? - social interactions in a world of isolation </h2>
+    <h2 id="WIVL"> Workshop on Immersive Visualization Laboratories - Past, Present and Future.  </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
-    {% if event.id == 'WEVR' %}
+    {% if event.id == 'DISCE' %}
     {% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
@@ -451,149 +341,27 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://workshop.htt.events/" target="_blank">https://workshop.htt.events/</a>
+        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
     </p>
     <ul>
-        <li> Submission deadline: 16<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 18<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 25<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
     </ul>
     <p>
-        The Metaverse is before us. Extended Reality, which has so far been on the periphery of life, has a chance of 
-        becoming an element of everyday life. The arrival of such a world has been accelerated, on the one hand, by 
-        technological development and the readiness of IT corporations to invest in VR/XR technology, and on the other 
-        hand, by a pandemic that prompted us to look for alternative ways to exist in isolation.
+        The goal of this workshop is to gather practitioners from immersive visualization laboratories to share their success stories, information about their hardware setups and the software they used and/or developed.  Discussion can also include "not-so-successful" stories with lessons learned and workshop participants will also come together to discuss the future of large-scale immersive visualization labs. We also hope to bring visualization practitioners together to advance the way our field works with immersive visualization hardware and software frameworks for a sustainable immersive visualization laboratory.
     </p>
     <p>
-        This situation forces us to face completely new challenges. We must find ways to define ourselves in the virtual 
-        world in various dimensions, including establishing social relationships or creating our own identity. We invite 
-        you to our online workshop - a space for reflection on issues of social functioning in the world of the Metaverse. 
-        The event has been designed to allow participants to interact in three autonomous forms: lectures combined with Q&A 
-        sessions, an experiment involving participant observation in the VR environment, and thematic discussion sessions.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Anna Mierzecka
-    </p>
-
-<!-- ------------------------------------------------SIVE-------------------------------------------------------- -->
-
-    <h2 id="SIVE"> Sonic Interaction in Virtual Environments </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'WEVR' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sive.create.aau.dk/" target="_blank">https://sive.create.aau.dk/</a>
-    </p>
-    <ul>
-        <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        The main goal of this workshop is to increase among the virtual reality community the awareness of the importance 
-        of sonic elements when designing virtual/augmented/mixed reality (VR/AR/MR) environments. We will also discuss how 
-        research in other related fields such as film sound theory, product sound design, sound and music computing, game 
-        sound design, and computer music can inform designers of VR/AR/MR environments. Moreover, the workshop will feature 
-        state-of-the-art research on the field of sound for VR/AR/MR environments.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Michele Geronazzo
-    </p>
-    
-
-<!-- ------------------------------------------------WEVR-------------------------------------------------------- -->
-
-    <h2 id="WEVR"> 8th Workshop on Everyday Virtual Reality </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'KELVAR' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://wevr.adalsimeone.me/" target="_blank">https://wevr.adalsimeone.me/</a>
-    </p>
-    <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        WEVR aims at fostering discussion and bringing advance understanding on challenges and opportunities for &quot;Everyday&quot; Virtual, 
-        Augmented and Mixed Reality topics in contexts and scenarios going beyond research laboratories and specialist environments. 
-        Bringing together experts with diverse background, i.e. researchers, technicians, engineers, game developers, industry partners, 
-        we hope to a new perspectives look and re-thinking on the following specified themes:
-        <ul>
-            <li>Gameplay Design and Player Interaction in consumer VR/AR</li>
-            <li>Overcoming constraints of ordinary environments (e.g. locomotion techniques, object avoidance)</li>
-            <li>Tangible and haptics support to interaction with the environment</li>
-            <li>Co-located and Remote Social & Collaborative VR/AR and related challenges</li>
-            <li>Cross-reality intersection (e.g., immersed, non/semi-immersed users)</li>
-            <li>3D User Interfaces for Desktop or semi-immersive VR</li>
-            <li>VR/AR for home healthcare and education</li>
-            <li>Effects of prolonged VR use in domestic settings</li>
-            <li>VR/AR development for non-technical creators</li>
-            <li>New trends of VR applications</li>
-        </ul>
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Adalberto Simeone
+        <strong style="color:black;">Principal Organizer:</strong> William Sherman
     </p>
     
 
 <!-- ------------------------------------------------ARES-------------------------------------------------------- -->
 
-    <h2 id="ARES"> ARES - Augmented Reality Enabling Superhuman Sports &#43; Serious Games </h2>
+    <h2 id="ARES"> ARES - Augmented Reality Enabling Superhuman Sports + Serious Games (2nd Annual Workshop) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
-    {% if event.id == 'EXR' %}
+    {% if event.id == 'DISCE' %}
     {% if event.location %}
     <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
@@ -623,146 +391,26 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://wiki.tum.de/pages/viewpage.action?pageId=1003688592" target="_blank">https://wiki.tum.de/pages/viewpage.action?pageId=1003688592</a>
     </p>
     <ul>
-        <li> Submission deadline: 12<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
+        <li> Submissions due: 10<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> Febuary 2023 </li>
     </ul>
     <p>
-        In the last years, the usage of Augmented Reality (AR) advanced into new frontiers through the widespread adoption of affordable 
-        mobile devices. For example, in Superhuman Sports, AR provides the potential to be a driving factor by revolutionizing team sports 
-        or by introducing novel game mechanics. In the field of Serious Games, AR can bring 3D serious content into the physical world to 
-        enhance immersion and knowledge transfer. In both areas, the full potential of this vision-based technology is still limited through 
-        the lack of framework support and tangible controller feedback for purely virtual objects.
-    </p>
-    <p>
-        We want to bring together experts from different computing and engineering disciplines to overcome the barriers of complex AR game 
-        concepts and to enhance interactions with augmented objects in a playful way in two important research fields:
-        <ul>
-            <li>
-                The goal of Superhuman Sports is to surpass the limitations of the human body by incorporating technology. Cognitive and 
-                physical capabilities are augmented by involving rich interactions through tangible and virtual game objects. Concepts of 
-                team sports based on competition and the exploration of new experiences through novel senses and reflexes, are helping to 
-                augment traditional sports or to path the way towards new game ideas.
-            </li>
-            <li>
-                Serious Games combine the world of playing games for entertainment with the goal of learning in an almost subconsciously manner. 
-                Combining these two approaches requires meeting the demands of both. Learning content must be presented correctly and coherently, 
-                but on the other hand, it must be perfectly integrated into a game concept.
-            </li>
-        </ul>
+    <ul>
+        <li>a. Introduction to the topic of Serious Games and Superhuman Sports (Organizers)
+        <li>b. Overview about the current research (Organizers)
+        <li>c. Paper Presentations (Organizers & Participants)
+        <li>d. Discussion, Future Work, Collaboration
+    </ul>
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Christian Eichhorn
     </p>
     
 
-<!-- ------------------------------------------------XRHealth-------------------------------------------------------- -->
+<!-- ------------------------------------------------SecImmeWorld-------------------------------------------------------- -->
 
-    <h2 id="XRHealth"> XR for Health and Wellbeing </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'DISCE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/xrhealth/" target="_blank">https://sites.google.com/view/xrhealth/</a>
-    </p>
-    <ul>
-        <li> Submission deadline: 14<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        The XR for Health and Wellbeing Workshop will take place during IEEE VR 2023 (Christchurch, NZ online virtual) focusing on 
-        XR (AR/VR/MR) technologies to help in the broad areas of interest related to healthcare and wellbeing. XR technologies have 
-        been experimented with in many areas of healthcare and well being over the years. With the ubiquitous use of XR devices 
-        creates a great opportunity to further XR research to help support healthcare professionals and the wellbeing of people. 
-        XR has demonstrated many advantages to various healthcare and wellbeing areas, however, more research is required. We aim 
-        to gather the intersection of researchers working in the areas of XR for healthcare and wellbeing from the HCI community 
-        to come together to share their ideas and discuss possible future grand challenges. We solicit short paper submissions with 
-        lightning talks at the workshop. We will have a break-out session to discuss the topics of the workshop in more depth. We 
-        will have two invited talks, one from academia and one from industry.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Craig Anslow
-    </p>
-    
-    
-<!-- ------------------------------------------------AVEH-------------------------------------------------------- -->
-
-    <h2 id="AVEH"> Second Workshop on Applied VR for Enhanced Healthcare (AVEH) </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'DISCE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/aveh2022/home" target="_blank">https://sites.google.com/view/aveh2022/home</a>
-    </p>
-    <ul>
-        <li> Submissions due: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 28<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        This workshop goal is to bring together expert knowledge in both technology and healthcare in order to explore how the potential 
-        of VR can be used to support and enhance health and well-being. We will also encourage discussion of the challenges to development 
-        and adoption of VR in healthcare, and how these might be addressed. 
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Wendy Powell
-    </p>
-    
-
-<!-- ------------------------------------------------X-IRL-------------------------------------------------------- -->
-
-    <h2 id="X-IRL"> X-IRL risks: Identifying privacy and security risks in inter-reality attacks and interactions </h2>
+    <h2 id="SecImmeWorld"> First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'Finding-a-way-forward-in-VR-locomotion' %}
@@ -792,31 +440,24 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> TBA <!--<a href="https://locomotionvault.github.io/workshopieeevr.html" target="_blank">https://locomotionvault.github.io/workshopieeevr.html</a> -->
+        <strong style="color:black;">Website:<a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
     </p>
     <ul>
-        <li> Submission deadline: TBA </li>
-        <li> Notification of results: TBA </li>
-        <li> Camera-ready submission due: TBA </li>
+        <li> Submission deadline: 6<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> Febuary 2023 </li>
     </ul>
     <p>
-        This workshop extrapolates how virtual interactions and data trails may generate IRL (in real-life) consequences. 
-        Participation in the metaverse and other XR technologies and spaces (AR and MR) may lead to new surface attacks and 
-        vectors, the emergence of new adversaries and threat scenarios, and a heightened need for regulatory action, organisational 
-        defences, and user-specific security tools. The goal of this workshop is to illuminate the potential inter-reality risks 
-        generated between real and virtual worlds. It aims to gather insight from researchers and industry leaders in the 
-        digital-to-XR and privacy and security communities in a collaborative and thought-provoking examination of the 
-        expanding cybersecurity terrain. The one-hour workshop will be held online presenting a moderated discussion and 
-        question time.
+        As critical applications in healthcare, education, finance, teleoperation, and retail emerge in the future immersive worlds, ensuring security and privacy of users from internal and external attacks becomes vital. A significant quantity of sensitive data is likely to be generated by the widespread adoption of VR/XR/MR/AR technologies in "serious" immersive worlds. Traditional approaches for security and privacy fail to capture the subtleties of *R hardware/software systems and the impact of human behavior. The Secure Immersive Worlds workshop aims to cover these open research and technological challenges and garner ideas in ensuring continued security and privacy of users in serious immersive worlds. The full-day workshop will bring researchers and industry practitioners together to discuss these new emerging research challenges and technologies. The workshop will consist of keynote speakers, juried paper presentations, and a panel discussion. 
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Moya Kate Baldry
+        <strong style="color:black;">Principal Organizer:</strong> Sean Banerjee
     </p>
     
 
-<!-- ------------------------------------------------METABUILD-------------------------------------------------------- -->
+<!-- ------------------------------------------------VR4Exergame-------------------------------------------------------- -->
 
-    <h2 id="METABUILD"> METABUILD: First Workshop for Building the Foundations of the Metaverse </h2>
+    <h2 id="VR4Exergame"> First Workshop on VR for Exergaming (VR4Exergame) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'PrXR' %}
@@ -846,43 +487,171 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://metabuild-workshop.herokuapp.com/" target="_blank">https://metabuild-workshop.herokuapp.com/</a>
+        <strong style="color:black;">Website:</strong> <a href="https://altecresearch.com/vr4exergame/" target="_blank">https://altecresearch.com/vr4exergame/</a>
     </p>
     <ul>
-        <li> Submission deadline: 6<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 19<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 6<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> Febuary 2023 </li>
     </ul>
     <p>
-        The goal of this workshop is to discuss the issues related to building the metaverse under two directions: (1) technological 
-        and engineering aspects allowing to develop the metaverse's ecosystems, and (2) content creation for and in the metaverse to 
-        provide ownership to users. These two goals are interconnected as technology should support content creation, while content 
-        creation should happen with respect of the technological advances. In more details, we target:
-        <ol>
-            <li>
-                Engineering the metaverse. This workshop aims to discuss the engineering aspects of the metaverse, from the 
-                supporting technologies (Mixed Reality, computer vision, IoT and robotics, Blockchain, User Interaction, Future 
-                Networking Technologies, Cloud and Edge Computing, Artificial Intelligence), the building bricks of the metaverse 
-                ecosystem (avatar and presence, virtual economy, content creation, social acceptability, privacy and ethics), and 
-                applications (games, digital commerce, remote work and study, remote training).
-            </li>
-            <li>
-                Content creation in and for the metaverse. With the vision of building the metaverse, numerous users, represented 
-                by their avatars, can create valuable contents in highly diversified virtual worlds. In particular, users can 
-                participate in creating elements to enrich the metaverse, including but not limited to cinematic, imagery, textual, 
-                musical, elements. Such an enriched profile of content creation refers to 'metacreation'. Supporting such key 
-                activities of user content creation in the metaverse are crucial for the development of the metaverse. 
-            </li>
-        </ol>
+        VR exergames have potential to enable a broad spectrum of users to participate in fitness and rehabilitation activities in immersive social environments. Yet, consumer grade VR systems show only limited ability to realize the adoption of VR exergaming at such scale. Key challenges to enable VR as an engaging, interactive and social alternative to existing practices include – therapeutic benefits to fitness and rehabilitation activities; human factors including the ability to simulate real-world scenarios, long term usage comfort among others; and technical capabilities such as simplified system setup, low multi-user latency, and realistic whole-body immersion. This full-day workshop will bring researchers and industry practitioners together to discuss these new emerging research challenges and technologies. It will consist of keynote speakers, juried paper presentations, and a panel discussion. We invite authors to submit 6-page (plus 1-page for references) research or position papers.
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Pan Hui
+        <strong style="color:black;">Principal Organizer:</strong> Bhawna Shiwani
+    </p>
+    
+
+<!-- ------------------------------------------------WISP-------------------------------------------------------- -->
+
+    <h2 id="WISP"> Workshop on Immersive Sickness Prevention (WISP) </h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    <!--{% for event in site.data.events %}
+    {% if event.id == 'ANIVAE' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            {% if event.aindanaoaconteceu %}
+            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% endif %}
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}-->
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/umn.edu/wisp" target="_blank">https://sites.google.com/umn.edu/wisp</a>
+    </p>
+    <ul>
+        <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 27<sup>th</sup> January 2023 </li>
+    </ul>
+    <p>
+        The workshop is intended to foster discussion between researchers, developers, and practitioners interested in addressing cybersickness, one of the most significant usability issues in VR. Although immersive technologies have been advancing rapidly, their rate of public adoption has been slowed by the fact that many users experience physical discomfort during or after the use of VR devices, with symptomatic characteristics similar to motion sickness. The workshop will include research papers that report study results, novel interaction techniques, or technological interventions aimed towards understanding and mitigating cybersickness, as well as position papers describing early-stage concepts, preliminary results, or case studies from industry. We hope that the results of the workshop and the discussions will lead to improved design practices, new technological approaches, and a better understanding of the causes of immersive sickness.
+    </p>
+    <p>
+        <strong style="color:black;">Principal Organizer:</strong> Isayas Berhe Adhanom
+    </p>
+    
+
+<!-- ------------------------------------------------MixReal-------------------------------------------------------- -->
+
+    <h2 id="MixReal"> Mixing Realities: Cross-reality Visualization, Interaction, and Collaboration </h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    <!--{% for event in site.data.events %}
+    {% if event.id == 'ANIVAE' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            {% if event.aindanaoaconteceu %}
+            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% endif %}
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}-->
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p>
+        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+    </p>
+    <ul>
+        <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
+    </ul>
+    <p>
+        Cross-reality systems offer different levels of virtuality/physicality to users and enable them to move back and forth between the reality-virtuality continuums in a seamless way. Immersive AR/VR HMDs  have become the main tools that enable cross-reality interaction. 
+    </p>
+    <p>
+    Immersive analytics has become a significant research field with applications in natural sciences in contexts that require users’ understanding, exploration, and communication about high-dimensional data. Cross-reality provides users with the possibility of switching visual representations between systems using different degrees of virtuality and allows users to interact with data across multiple technologies. 
+    </p>
+    <p>
+    The goal of the workshop is to provide an opportunity for researchers from VR/MR/AR, HCI and Visualization fields to submit their original ideas, work-in-progress contribution, and position papers on the design of interactive systems for effective cross-reality visualization, interaction, and collaboration. "
+    </p>
+    <p>
+        <strong style="color:black;">Principal Organizer:</strong> Hai-Ning Liang
+    </p>
+    
+
+<!-- ------------------------------------------------MASSXR-------------------------------------------------------- -->
+
+    <h2 id="MASSXR"> "Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR) </h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    <!--{% for event in site.data.events %}
+    {% if event.id == 'ANIVAE' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            {% if event.aindanaoaconteceu %}
+            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% endif %}
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}-->
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p>
+        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/massxrworkshop2023" target="_blank">https://sites.google.com/view/massxrworkshop2023</a>
+    </p>
+    <ul>
+        <li> Submission deadline: 9<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 27<sup>rd</sup> January 2023 </li>
+    </ul>
+    <p>
+        The objective of this workshop on Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality is to bring together researchers and practitioners working in the field of social and affective computing with the ones on 3D computer vision and computer graphics/animation and discuss the current state and future directions, opportunities, and challenges. The workshop aims to establish a new platform for the development of immersive embodied intelligence at the intersection of Artificial intelligence (AI) and Extended Reality (XR). We expect that the workshop will provide an opportunity for researchers to develop new techniques and will lead to new collaboration among the participants. 
+    </p>
+    <p>
+        <strong style="color:black;">Principal Organizer:</strong> Zerrin Yumak
     </p>
     
 
 <!-- ------------------------------------------------XRIOS-------------------------------------------------------- -->
 
-    <h2 id="XRIOS"> 1st International Workshop on eXtended Reality for Industrial and Occupational Supports (XRIOS) </h2>
+    <h2 id="XRIOS"> 2nd International Workshop on eXtended Reality for Industrial and Occupational Support (XRIOS) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -912,182 +681,24 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/xrios2022" target="_blank">https://sites.google.com/view/xrios2022</a>
-    </p>
-    <ul>
-        <li> Submission deadline: 13<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        This workshop-eXtended Reality for Industrial and Occupational Supports (XRIOS)-aims to identify the current state 
-        of XR research and the gaps in the scope of human factors and ergonomics, mainly related to the industrial and 
-        occupational tasks, and discuss potential future research directions. XRIOS will build a community that bridges XR 
-        developers, human factors and ergonomics researchers interested in industrial and occupational applications.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Heejin Jeong
-    </p>
-    
-
-<!-- ------------------------------------------------SIVA-------------------------------------------------------- -->
-
-    <h2 id="SIVA"> 1st International Workshop on Socially Intelligent Virtual Agents (SIVA) </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'ANIVAE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/sivaieeevr2022" target="_blank">https://sites.google.com/view/sivaieeevr2022</a>
-    </p>
-    <ul>
-        <li> Submission deadline: 13<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 27<sup>th</sup> January 2022 </li>
-    </ul>
-    <p>
-        The workshop aims at the presentation of projects with innovative ideas in the field of socially intelligent 
-        virtual agents and subsequent discussion of challenges emerging from these projects. In particular, the workshop 
-        will focus on individualized, social human-agent relationships enabled by recent advances in AI research. 
-        This will complement existing activities at IEEE VR that focus on either user-controlled avatars or the 
-        functional aspects of conversational agents.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Susanne Schmidt
-    </p>
-    
-
-<!-- ------------------------------------------------PERCxR-------------------------------------------------------- -->
-
-    <h2 id="PERCxR"> 8th workshop on Perceptual and Cognitive Issues in XR (PERCxR) </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'ANIVAE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong> <a href="https://percxr.com" target="_blank">https://percxr.com</a>
-    </p>
-    <ul>
-        <li> Submission deadline: No papers accepted </li>
-    </ul>
-    <p>
-        The crux of this workshop is the creation of a better understanding of the various perceptual and cognitive 
-        issues that inform and constrain the design of effective extended reality systems.  There is neither an in-depth 
-        overview of these factors, nor well-founded knowledge on most effects as gained through formal validation. In 
-        particular, long-term usage effects are inadequately understood. Meanwhile, mobile platforms and emerging display 
-        hardware (&quot;glasses&quot;) promise to ignite the number of users, as well as the system usage duration. To fulfill 
-        usability needs, a thorough understanding of perceptual and intertwined cognitive factors is highly needed by 
-        both research and industry: issues such as depth misinterpretation, object relationship mismatches and information 
-        overload can severely limit usability of applications, or even pose risks in their usage. Based on the gained 
-        knowledge, for example, new interactive visualization and view management techniques can be iteratively defined, 
-        developed and validated, optimized to be congruent with human capabilities and limitations in route to more 
-        usable application interfaces.
-    </p>
-    <p>
-        <strong style="color:black;">Principal Organizer:</strong> Rick Skarbez
-    </p>
-    
-
-<!-- ------------------------------------------------EmpathicComputing-------------------------------------------------------- -->
-
-    <h2 id="EmpathicComputing"> Empathic Computing </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'ANIVAE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
-    
-    <p>
-        <strong style="color:black;">Website:</strong>  <a href="http://empathiccomputing.org/ecl-workshops/workshop-on-empathic-computing/" target="_blank">http://empathiccomputing.org/ecl-workshops/workshop-on-empathic-computing/</a>
+        <strong style="color:black;">Website:</strong>  <a href="https://sites.google.com/view/xrios" target="_blank">https://sites.google.com/view/xrios</a>
     </p> 
     <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 18<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 28<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 25<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 30<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 03<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
-        The goal of this workshop is to present important research topics in Empathic Computing, collaborative AR/VR and 
-        related topics, and to identify key areas for the future research. It will hopefully contribute to growing the
-        community of researchers interested in Empathic Computing related research topics.
+        This workshop—eXtended Reality for Industrial and Occupational Supports (XRIOS)—aims to identify the current state of XR research and the gaps in the scope of human factors and ergonomics, mainly related to the industrial and occupational tasks, and discuss potential future research directions. XRIOS will build a community that bridges XR developers, human factors and ergonomics researchers interested in industrial and occupational applications.
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Arindam Dey
+        <strong style="color:black;">Principal Organizer:</strong> Kangsoo Kim
     </p>
     
 
-<!-- ------------------------------------------------HSVRAR-------------------------------------------------------- -->
+<!-- ------------------------------------------------I-Meta-------------------------------------------------------- -->
 
-    <h2 id="HSVRAR"> Health and Safety in VR and AR </h2>
+    <h2 id="I-Meta"> Industrial Metaverse (I-Meta) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -1117,24 +728,23 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://empathiccomputing.org/ecl-workshops/workshop-on-health-and-safety-vrar/" target="_blank">http://empathiccomputing.org/ecl-workshops/workshop-on-health-and-safety-vrar/</a>
+        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
     </p>
     <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 18<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 28<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 21<sup>th</sup> December 2022 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
     </ul>
     <p>
-        The goal of this workshop is to identify potential health and safety challenges associated with using AR 
-        and VR systems, and research that should be conducted to address these concerns.
+        I-Meta intends to invite all researchers and practitioners to participate and discuss new theories, architectures, technologies, patterns, or application scenarios of industrial metaverse, to share new scientific findings or practical achievements, and to describe the future vision of industrial metaverse for fostering new ideas.
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Mark Billinghurst
+        <strong style="color:black;">Principal Organizer:</strong> Hongming Cai, Shuangjiu Xiao, Bingqing Shen
     </p>
 
-<!-- ------------------------------------------------NIDIT-------------------------------------------------------- -->
+<!-- ------------------------------------------------OAT-------------------------------------------------------- -->
 
-    <h2 id="NIDIT"> Workshop on Novel Input Devices and Interaction Techniques (NIDIT)</h2>
+    <h2 id="OAT"> Open Access Tools and libraries for virtual reality (OAT) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -1164,24 +774,24 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/nidit" target="_blank">https://sites.google.com/view/nidit</a>
+        <strong style="color:black;">Website:</strong> <a href="https://openvrlab.github.io/" target="_blank">https://openvrlab.github.io/</a>
     </p>
     <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 16<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 29<sup>th</sup> January 2023 </li>
     </ul>
     <p>
-        This full-day workshop will bring together researchers and industry practitioners to discuss and experience the future of input devices for VR, AR, and 3D User Interfaces, and help chart a course for the future of 3D interaction techniques.
+        Virtual reality researchers and developers need tools to develop state of the art technologies that will help advance knowledge. The goal of this workshop is promoting open-Source tools which can be modified or redistributed. Open access tools are critical to eliminate redundancies and increase world research collaboration in VR. At a time that academic research needs to move as fast as the industry, collaboration and shared tools are the best way to do it.
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Francisco R. Ortega
+        <strong style="color:black;">Principal Organizer:</strong> Matias Volonte
     </p>
     
 
 <!-- ------------------------------------------------KELVAR-------------------------------------------------------- -->
 
-    <h2 id="KELVAR"> 7th Annual Workshop on K-12&#43; Embodied Learning through Virtual and Augmented Reality (KELVAR) </h2>
+    <h2 id="KELVAR"> KELVAR Workshop: K-12&#43; Embodied Learning through Virtual and Augmented Reality (KELVAR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
@@ -1213,19 +823,113 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/site/vrkelvar/" target="_blank">https://sites.google.com/site/vrkelvar/</a>
     </p>
     <ul>
-        <li> Submission deadline: 3<sup>rd</sup> January 2022 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2022 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2022 </li>
+        <li> Submission deadline: 14<sup>rd</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
-        In this workshop we aim to bring together educators, developers and researchers who are interested in 
-        creating and deploying XR technologies for the educational contexts of the future. The workshop will 
-        enable participants to discuss and engage with different approaches for designing and integrating XR 
-        technologies with a specific focus on the challenges and potential for embodied learning in the classroom 
-        for K-12, vocational and higher education.
+        In this workshop we aim to bring together educators, developers and researchers who are interested in creating and deploying XR technologies for the educational contexts of the future.
     </p>
     <p>
-        <strong style="color:black;">Principal Organizer:</strong> Erica Southgate
+        <strong style="color:black;">Principal Organizer:</strong> Steven Cutchin
+    </p>
+
+<!-- ------------------------------------------------EUCHS-------------------------------------------------------- -->
+
+    <h2 id="EUCHS"> Enhancing User Comfort, Health and Safety in VR and AR  </h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    <!--{% for event in site.data.events %}
+    {% if event.id == 'DISCE' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            {% if event.aindanaoaconteceu %}
+            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% endif %}
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}-->
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p>
+        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+    </p>
+    <ul>
+        <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
+    </ul>
+    <p>
+        Over the last few years, we have seen an increase in consumer AR and VR devices. Consequently, there is a plethora of new content being created for consumption such as games, social/meeting applications, therapeutic applications, and more. However, widespread acceptance of AR and VR is dependent on user comfort, health, and safety. So, these issues are becoming increasingly important aspects of AR and VR use to research and discuss. 
+
+    </p>
+    <p>
+    This workshop will provide a venue to present, discuss, and brainstorm issues around user comfort, health and safety. The topics to be considered include, but are not limited to, visually induced motion sickness, perceptual and cognitive distraction, comfort, long-term use and other psychological and physical issues relevant to AR and VR usage. We are interested in all factors that may impact the adoption and retention of use of AR and VR in either the general public or in specific user groups such as medical professionals, industrial or knowledge workers.
+    </p>
+    <p>
+        <strong style="color:black;">Principal Organizer:</strong> Arash Mahnan
+    </p>
+
+<!-- ------------------------------------------------ENPT-XR-------------------------------------------------------- -->
+
+    <h2 id="ENPT-XR"> Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR)   </h2>
+    <!-- TAKE ME TO THE EVENT START -->
+    <!--{% for event in site.data.events %}
+    {% if event.id == 'DISCE' %}
+    {% if event.location %}
+    <div class="notice--info">
+        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
+        <p>
+            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
+
+            {% if event.stream-url %}
+            <br />
+            {% if event.aindanaoaconteceu %}
+            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% else %}
+            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
+            {% endif %}
+            {% endif %}
+            {% if event.discordurl %}
+            <br />
+            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
+            {% endif %}
+            {% endif %}
+        </p>
+    </div>
+    {% endif %}
+    {% endfor %}-->
+    <!-- TAKE ME TO THE EVENT END-->
+    
+    <p>
+        <strong style="color:black;">Website:</strong> <a href="http://www.xrprototyping.com" target="_blank">http://www.xrprototyping.com</a>
+    </p>
+    <ul>
+        <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
+    </ul>
+    <p>
+        This full-day workshop will bring together researchers and industry practitioners from different backgrounds to discuss the future of prototyping for VR, AR, and 3D User Interfaces, and help chart a course for the future of XR prototyping techniques. 
+
+    </p>
+
+    <p>
+        <strong style="color:black;">Principal Organizer:</strong> Assem Kroma
     </p>
     
 </div> 
