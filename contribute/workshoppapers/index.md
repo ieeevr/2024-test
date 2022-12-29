@@ -346,7 +346,7 @@ title_separator: "|"
     <ul>
         <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
-        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
         The goal of this workshop is to gather practitioners from immersive visualization laboratories to share their success stories, information about their hardware setups and the software they used and/or developed.  Discussion can also include "not-so-successful" stories with lessons learned and workshop participants will also come together to discuss the future of large-scale immersive visualization labs. We also hope to bring visualization practitioners together to advance the way our field works with immersive visualization hardware and software frameworks for a sustainable immersive visualization laboratory.
@@ -844,7 +844,7 @@ title_separator: "|"
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
-        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
         Over the last few years, we have seen an increase in consumer AR and VR devices. Consequently, there is a plethora of new content being created for consumption such as games, social/meeting applications, therapeutic applications, and more. However, widespread acceptance of AR and VR is dependent on user comfort, health, and safety. So, these issues are becoming increasingly important aspects of AR and VR use to research and discuss. 
@@ -894,7 +894,7 @@ title_separator: "|"
     <ul>
         <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
-        <li> Camera-ready submission due: 3<sup>rd</sup> January 2023 </li>
+        <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
         This full-day workshop will bring together researchers and industry practitioners from different backgrounds to discuss the future of prototyping for VR, AR, and 3D User Interfaces, and help chart a course for the future of XR prototyping techniques. 
