@@ -48,7 +48,7 @@ title_separator: "|"
     
     <h2 id="application">Application</h2>
     <p>
-        The application form will be released on January 1, 2023.
+        Application will be done through this form: <a href="https://forms.gle/tXNGjzPQ7davXCHx7"> https://forms.gle/tXNGjzPQ7davXCHx7 </a>
     </p>
 
     <h2 id="contacts"> Contacts </h2>
