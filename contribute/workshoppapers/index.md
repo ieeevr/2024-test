@@ -294,7 +294,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2023-Matias-Volonte.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
@@ -341,7 +341,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/ImmersiveVisualizationLaboratories-PastPresentandFuture-SimonSu.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
@@ -413,7 +413,7 @@ title_separator: "|"
     <h2 id="SecImmeWorld"> First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds) </h2>
     
     <p>
-        <strong style="color:black;">Website:</strong><a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/SecurityandPrivacyforSecureImmersiveWorlds-SeanBanerjee.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 6<sup>th</sup> January 2023 </li>
@@ -554,7 +554,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/MixingRealitiesIEEEVR2023-LingyunYu.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
@@ -701,7 +701,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/Industrial-Metaverse.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
@@ -839,7 +839,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="http://www.ieeevr.org/2023/" target="_blank">http://www.ieeevr.org/2023/</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/EUCHSARVR-CFP-ArashMahnan.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
