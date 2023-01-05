@@ -251,11 +251,12 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/redigits2023" target="_blank">https://sites.google.com/view/redigits2023</a>
     </p>
     <ul>
-        <li> Submission deadline: 5<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
         <li> Camera-ready submission due: 28<sup>th</sup> January 2023 </li>
     </ul>
     <p>
+        <b style="color:red"> News: We already update our website and information visualized on the PCS system. </b>
         The aim of this workshop is to attract a collection of high-quality submissions reporting state-of-the-art research activities targeted to the next generation of immersive experiences, reporting the latest methodologies, applications, standards, evaluations, and/or use cases for 3D reconstruction, digital twinning, and simulation for immersive experiences. Despite the pivotal role played by these research directions in the design and development of immersive experiences, they are only partially addressed in the topics of workshops organized in the previous editions of IEEE VR. 
     </p>
     <p>
