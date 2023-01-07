@@ -555,7 +555,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/MixingRealitiesIEEEVR2023-LingyunYu.pdf" | relative_url }}" target="_blank">Call for paper</a>
+        <strong style="color:black;">Website:</strong> <a href="https://mixingrealities.site/?" target="_blank">https://mixingrealities.site/?</a>
     </p>
     <ul>
         <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
@@ -658,8 +658,8 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong>  <a href="https://sites.google.com/view/xrios" target="_blank">https://sites.google.com/view/xrios</a>
     </p> 
     <ul>
-        <li> Submission deadline: 25<sup>th</sup> January 2023 </li>
-        <li> Notification of results: 30<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 24<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 29<sup>th</sup> January 2023 </li>
         <li> Camera-ready submission due: 03<sup>rd</sup> February 2023 </li>
     </ul>
     <p>
