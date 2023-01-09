@@ -414,10 +414,10 @@ title_separator: "|"
     <h2 id="SecImmeWorld"> First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds) </h2>
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/SecurityandPrivacyforSecureImmersiveWorlds-SeanBanerjee.pdf" | relative_url }}" target="_blank">Call for paper</a>
+        <strong style="color:black;">Website:</strong> <a href="https://tars.clarkson.edu/SPIVW2023/" target="_blank">https://tars.clarkson.edu/SPIVW2023/</a>
     </p>
     <ul>
-        <li> Submission deadline: 6<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
         <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
@@ -464,7 +464,7 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://altecresearch.com/vr4exergame/" target="_blank">https://altecresearch.com/vr4exergame/</a>
     </p>
     <ul>
-        <li> Submission deadline: 6<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
         <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
@@ -751,9 +751,10 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="https://openvrlab.github.io/" target="_blank">https://openvrlab.github.io/</a>
     </p>
     <ul>
-        <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
-        <li> Notification of results: 16<sup>th</sup> January 2023 </li>
-        <li> Camera-ready submission due: 29<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 25<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 28<sup>th</sup> January 2023 </li>
+        <li> Camera-ready submission due: 1<sup>st</sup> February 2023 </li>
+        <li> Workshop date: 25<sup>th</sup> March 2023 </li>
     </ul>
     <p>
         Virtual reality researchers and developers need tools to develop state of the art technologies that will help advance knowledge. The goal of this workshop is promoting open-Source tools which can be modified or redistributed. Open access tools are critical to eliminate redundancies and increase world research collaboration in VR. At a time that academic research needs to move as fast as the industry, collaboration and shared tools are the best way to do it.
