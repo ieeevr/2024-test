@@ -298,9 +298,9 @@ title_separator: "|"
         <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2023-Matias-Volonte.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
-        <li> Notification of results: 13<sup>th</sup> January 2023 </li>
-        <li> Camera-ready submission due: 16<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 20<sup>th</sup> January 2023 </li>
+        <li> Notification of results: 23<sup>rd</sup> January 2023 </li>
+        <li> Camera-ready submission due: 31<sup>st</sup> January 2023 </li>
     </ul>
     <p>
         We aim to gather the intersection of researchers working in the areas of XR for healthcare and wellbeing from the HCI community to come together to share their ideas and discuss possible future grand challenges. 
