@@ -841,10 +841,10 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/EUCHSARVR-CFP-ArashMahnan.pdf" | relative_url }}" target="_blank">Call for paper</a>
+        <strong style="color:black;">Website:</strong> <a href="http://empathiccomputing.org/ecl-workshops/workshop-on-enhancing-user-comfort-health-and-safety-in-vr-and-ar-ieee-virtual-reality23/?fbclid=IwAR2c77dGzb8w4FoVRjmSvSTYq1ywyE3r60ftfRGRoRhP0u51X5GUj-N8z_Q" target="_blank">http://empathiccomputing.org/ecl-workshops/workshop-on-enhancing-user-comfort-health-and-safety-in-vr-and-ar-ieee-virtual-reality23/</a>
     </p>
     <ul>
-        <li> Submission deadline: 10<sup>th</sup> January 2023 </li>
+        <li> Submission deadline: 15<sup>th</sup> January 2023 </li>
         <li> Notification of results: 20<sup>th</sup> January 2023 </li>
         <li> Camera-ready submission due: 3<sup>rd</sup> February 2023 </li>
     </ul>
