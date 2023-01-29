@@ -92,6 +92,16 @@ title: "Conference Committee"
 </div>
 
 <div>
+	<h2>	Online Experience Chairs	</h2>						
+		<ul>							
+			<li>	Kyle Johnson	&#x2012; <i>	 University Of Georgia, USA	</i></li>	
+			<li>	Yue Li	&#x2012; <i>	Xi'an Jiaotong-Liverpool University, China	</i></li>
+			<li>	Zhihan Lv	&#x2012; <i>	Uppsala University, Swenden	</i></li>
+			<li style="list-style: none">	online2023 [at] ieeevr.org	</li>	
+		</ul>				
+</div>
+
+<div>
 	<h2>	Panels Chairs	</h2>						
 		<ul>							
 			<li>	Jian Chen	&#x2012; <i>	 The Ohio State University, USA	</i></li>	
@@ -249,7 +259,13 @@ title: "Conference Committee"
 <!--	<h2>	Panel and (Keynote) Chairs	</h2>						
 		<ul>							
 		</ul>							-->
-									
+	<h2>	Online Experience Chairs	</h2>						
+		<ul>							
+			<!-- <li>	Tracey	Thomas	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>	
+			<li>	Charlotte	Emery	&#x2012; <i>	Conference Innovators, New Zealand	</i></li>	
+			<li style="list-style: none">	localarrangements2022	[at] ieeevr.org			</li>	 -->
+		</ul>	
+
 	<h2>	Posters Chairs	</h2>						
 		<ul>							
 			<!-- <li>	Isaac	Cho	&#x2012; <i>	Utah State University, USA	</i></li>	
