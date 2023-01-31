@@ -22,6 +22,7 @@ title_separator: "|"
         <li>Sadagic, Amela                              </li>
     </ul>
     <h2> Committee </h2>
+    <ul>
         <li>Andersen, Daniel                            </li>
         <li>Liu, Shiguang                               </li>
         <li>Zhou, Qian                                  </li>
