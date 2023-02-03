@@ -75,7 +75,7 @@ title: "Getting There"
     <strong style="color:black">Option3: Taxi</strong>
     <p>A taxi ride to Pudong Shangri-La takes approximately 50 minutes and costs 150 CNY.</p>
     </div>
-    <h3>2.Arriving by <strong style="color:black">plane</strong> or <strong style="color:black">train</strong> via <strong style="color:black">Hongqiao Integrated Transport Hub</strong></h3>
+    <h3>2.Arriving by <strong>plane</strong> or <strong>train</strong> via <strong>Hongqiao Integrated Transport Hub</strong></h3>
     <div>
     <strong style="color:black">Option1: Metro</strong>
     <p>Take Metro Line 2 directly to <strong style="color:black">Lujiazui station</strong>, which costs about 5 CNY and takes about half an hour.</p>
