@@ -17,11 +17,11 @@ title: "Getting There"
     <p>IEEE VR 2023 will take place at the Pudong Shangri-La Hotel in Shanghai, China, from March 25th-29th, 2023.</p>
     <p>The hotel’s grand room can accommodate 1500 people for meetings or banquets, and include 12 function rooms with professional audio-visual facilities.</p>
     <div style="width: 80%">
-        <div style="width: 100%;display: flex;flex-direction: row;" >
+        <div style="width: 100%; display: flex;flex-direction: row;" >
             <img src="../../assets/images/attend/gt2.png" alt="The hotel’s grand room1" style="max-width: 50%"/>
             <img src="../../assets/images/attend/gt3.png" alt="The hotel’s grand room2" style="max-width: 50%"/>
         </div>
-        <div style="width: 100%">
+        <div style="width: 100%; display: flex;flex-direction: row;">
             <img src="../../assets/images/attend/gt4.png" alt="The hotel’s grand room3" style="max-width: 50%"/>
             <img src="../../assets/images/attend/gt5.png" alt="The hotel’s grand room4" style="max-width: 50%"/>
         </div>
@@ -41,6 +41,7 @@ title: "Getting There"
     <a href="http://service.shmetro.com/en/hcskb/242.htm">http://service.shmetro.com/en/hcskb/242.htm</a>
     <img src="../../assets/images/attend/gt6.png" alt="Metro" style="width: 80%">
     </div>
+    <br>
     <div>
     <strong style="color:black">Option2: Maglev+ Metro</strong>
     <ol type="1" start="1">
@@ -71,19 +72,17 @@ title: "Getting There"
     </div>
     </div>
     <div>
-    <p><strong style="color:black">Option3: Taxi</strong></p>
+    <strong style="color:black">Option3: Taxi</strong>
     <p>A taxi ride to Pudong Shangri-La takes approximately 50 minutes and costs 150 CNY.</p>
     </div>
     <h3>2.Arriving by <strong style="color:black">plane</strong> or <strong style="color:black">train</strong> via <strong style="color:black">Hongqiao Integrated Transport Hub</strong></h3>
     <div>
-    <p><strong style="color:black">Option1: Metro</strong></p>
-    <br>
-    Take Metro Line 2 directly to <strong style="color:black">Lujiazui station</strong>, which costs about 5 CNY and takes about half an hour.
-    <img src="../../assets/images/attend/gt10.png.png" alt="Metro" style="width: 80%">
+    <strong style="color:black">Option1: Metro</strong>
+    <p>Take Metro Line 2 directly to <strong style="color:black">Lujiazui station</strong>, which costs about 5 CNY and takes about half an hour.</p>
+    <img src="../../assets/images/attend/gt10.png" alt="Metro" style="width: 80%">
     </div>
     <div>
-    <p><strong style="color:black">Option2: Taxi</strong></p>
-    <br>
+    <strong style="color:black">Option2: Taxi</strong>
     <p>A taxi ride to Pudong Shangri-La takes approximately 50 minutes and costs 150 CNY.</p>
     </div>
 </div>
