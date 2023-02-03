@@ -35,9 +35,24 @@ title: "Visa Information"
         tel：021-28286383<br>
         email：olivia.shen@shangri-la.com<br>
     </p>
+    <div style="width: 80%">
+        <div style="width: 100%;display: flex;flex-direction: row;" >
+            <img src="../../assets/images/attend/accommodation/image1.png" alt="The hotel’s grand room1" style="max-width: 50%"/>
+            <img src="../../assets/images/attend/accommodation/image2.png" alt="The hotel’s grand room2" style="max-width: 50%"/>
+        </div>
+        <div style="width: 100%">
+            <img src="../../assets/images/attend/accommodation/image3.png" alt="The hotel’s grand room3" style="max-width: 50%"/>
+            <img src="../../assets/images/attend/accommodation/image4.png" alt="The hotel’s grand room4" style="max-width: 50%"/>
+        </div>
+        <div style="width: 100%">
+            <img src="../../assets/images/attend/accommodation/image5.png" alt="The hotel’s grand room5" style="max-width: 50%"/>
+            <img src="../../assets/images/attend/accommodation/image6.png" alt="The hotel’s grand room6" style="max-width: 50%"/>
+        </div>
+    </div>
     <h2>
         Other Nearby Hotels
     </h2>
+    <img src="../../assets/images/attend/accommodation/image.png" alt="Metro" style="width: 80%">
     <p>
         <strong style="text-decoration:underline">The Ritz-Carlton Shanghai, Pudong</strong>
         <strong style="color: black">Address</strong>: 8 Century Avenue, Lujiazui, Pudong, 200120 Shanghai, China 
