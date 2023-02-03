@@ -18,7 +18,8 @@ title: "Accommodations"
         Pudong Shangri-La, Shanghai
     </h2>
     <p>
-        No. 33, Fucheng Road, Pudong New Area, Shanghai, China
+        No. 33, Fucheng Road, Pudong New Area, Shanghai, China<br>
+        Stars: 5 star
     </p>
     <p>
         As Shanghai's preeminent hotel, Pudong Shangri-La, Shanghai offers business and leisure travellers the perfect combination of comfort, service and convenience. Located on the Huangpu River in Shanghai's vibrant Lujiazui financial district, directly opposite the historic Bund, the hotel enjoys easy access to the city's most famous sites. Hongqiao International Airport (SHA) can be reached in just 35 minutes and Pudong International Airport (PVG） in 45 minutes by taxi. The hotel comprises a luxurious collection of well-appointed guestrooms and suites in two distinctive wings, and all rooms feature panoramic views of the Bund, the Huangpu River or Pudong's spectacular skyline.
