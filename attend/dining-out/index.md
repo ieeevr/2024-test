@@ -1,10 +1,10 @@
 ---
 layout: ieeevr-default
-title: "Visa Information"
+title: "Dining Out"
 ---
 
 <div>
-    <h1>Visa Information</h1>
+    <h1>Dining Out</h1>
     <p>
         <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
@@ -35,7 +35,7 @@ title: "Visa Information"
     </ul>
     <h2>For Chinese VISA</h2>
     <p>
-        A visa can be obtained from a local Consulate of China without the difficulty of document preparation and long waiting. It is recommended that they apply for a Chinese visa <strong style="color: black">one month</strong> in advance.
+        A visa can be obtained from a local Consulate of China without the difficulty of document preparation and long waiting. It is recommended that they apply for a Chinese visa <label>one month</label> in advance.
     </p>
     <p>
         You can choose to apply for a visa yourself at the Ministry of Foreign Affairs of the People's Republic of China, or contact your local embassy, consulate or visa agency.
