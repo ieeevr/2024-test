@@ -6,10 +6,11 @@ title: "Visa Information"
 <div>
     <h1>Visa Information</h1>
     <p>
-        <label>IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </label>
-    </p>
-    <p>
-       March 25-29, 2023, Shanghai, China <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
+        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <br>
+        March 25-29, 2023, Shanghai, China
+        <br>
+        <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <p>
         Conference participants may need a Chinese visa to enter China.
