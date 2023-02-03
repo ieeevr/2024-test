@@ -23,7 +23,7 @@ title_separator: "|"
     </ul>
     <h2> Committee </h2>
     <ul>
-    <li>Bruder, Gerd								</li>
+        <li>Bruder, Gerd								</li>
         <li>Steinicke, Frank                            </li>
         <li>Argelaguet Sanz, Ferran                     </li>
         <li>Interrante, Victoria                        </li>
