@@ -40,11 +40,11 @@ title: "Accommodations"
             <img src="../../assets/images/attend/accommodation/image1.png" alt="The hotel’s grand room1" style="max-width: 50%"/>
             <img src="../../assets/images/attend/accommodation/image2.png" alt="The hotel’s grand room2" style="max-width: 50%"/>
         </div>
-        <div style="width: 100%">
+        <div style="width: 100%;display: flex;flex-direction: row;">
             <img src="../../assets/images/attend/accommodation/image3.png" alt="The hotel’s grand room3" style="max-width: 50%"/>
             <img src="../../assets/images/attend/accommodation/image4.png" alt="The hotel’s grand room4" style="max-width: 50%"/>
         </div>
-        <div style="width: 100%">
+        <div style="width: 100%;display: flex;flex-direction: row;">
             <img src="../../assets/images/attend/accommodation/image5.png" alt="The hotel’s grand room5" style="max-width: 50%"/>
             <img src="../../assets/images/attend/accommodation/image6.png" alt="The hotel’s grand room6" style="max-width: 50%"/>
         </div>
@@ -54,22 +54,22 @@ title: "Accommodations"
     </h2>
     <img src="../../assets/images/attend/accommodation/image.png" alt="Metro" style="width: 80%">
     <p>
-        <strong style="text-decoration:underline">The Ritz-Carlton Shanghai, Pudong</strong>
-        <strong style="color: black">Address</strong>: 8 Century Avenue, Lujiazui, Pudong, 200120 Shanghai, China 
-        <strong style="color: black">Distance from the conference venue</strong>: 250m
+        <strong style="color: black;text-decoration:underline">The Ritz-Carlton Shanghai, Pudong</strong><br>
+        <strong style="color: black">Address</strong>: 8 Century Avenue, Lujiazui, Pudong, 200120 Shanghai, China <br>
+        <strong style="color: black">Distance from the conference venue</strong>: 250m<br>
         <strong style="color: black">Stars</strong>: 5 Star
     </p>
     <p>
-        <strong style="text-decoration:underline">IFC Residence</strong>
-        <strong style="color: black">Address</strong>: No.8 Century Avenue, Pudong, 200120 Shanghai, China 
-        <strong style="color: black">Distance from the conference venue</strong>: 530m
+        <strong style="color: black;text-decoration:underline">IFC Residence</strong><br>
+        <strong style="color: black">Address</strong>: No.8 Century Avenue, Pudong, 200120 Shanghai, China<br> 
+        <strong style="color: black">Distance from the conference venue</strong>: 530m<br>
         <strong style="color: black">Stars</strong>: 5 Star
     </p>
     <p>
-        <strong style="text-decoration:underline">You can use a hotel booking site online.</strong><br>
-        From the link below, you can check the availability of accommodations around Pudong Shangri-La Hotel from 3/24 to 3/29 (check out on 3/30)
+        <strong>You can use a hotel booking site online.</strong><br>
+        From the link below, you can check the availability of accommodations around Pudong Shangri-La Hotel from 3/24 to 3/29 (check out on 3/30)<br>
         <a href = "https://www.booking.com/hotel/cn/pudong-shangri-la.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaGKIAQGYARW4AQfIAQ3YAQHoAQH4AQuIAgGoAgO4AqG87p4GwAIB0gIkNWU0NGVjYmMtMmRjMy00ZmQxLThiM2YtYjY1ODA5Zjc5MmE52AIG4AIB&sid=64e80a742c14b42b6551aeb1a6c7f163&\atlas_src=sr_iw_btn%3Bcheckin%3D2023-03-25%3Bcheckout%3D2023-03-29%3Bdest_id%3D0%3Bdist%3D0%3Bgroup_adults%3D1%3Bgroup_children%3D0%3Bhighlighted_blocks%3D18142209_189756224_2_2_0%3Bno_rooms%3D1%3Broom1%3DA%3Bsb_price_type%3Dtotal%3Btype%3Dtotal%3Bucfs%3D1&lang=en-us&soz=1&lang_changed=1">booking.com
-        </a>
+        </a><br>
         <a href = "https://www.expedia.com/Shanghai-Hotels-Pudong-Shangri-La.h124595.Hotel-Information?chkin=2023-02-02&chkout=2023-02-08&x_pwa=1&rfrr=HSR&pwa_ts=1675337406837&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=3145&destination=Shanghai%2C+China&destType=MARKET&neighborhoodId=6130137&selected=124595&sort=RECOMMENDED&top_dp=166&top_cur=USD&userIntent=&selectedRoomType=202151678&selectedRatePlan=222190788">expdeia.com
         </a>
     </p>
