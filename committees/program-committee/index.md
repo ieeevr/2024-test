@@ -23,6 +23,16 @@ title_separator: "|"
     </ul>
     <h2> Committee </h2>
     <ul>
+    <li>Bruder, Gerd								</li>
+        <li>Steinicke, Frank                            </li>
+        <li>Argelaguet Sanz, Ferran                     </li>
+        <li>Interrante, Victoria                        </li>
+        <li>Froehlich, Bernd                            </li>
+        <li>McMahan, Ryan P.                            </li>
+        <li>Figueroa, Pablo                             </li>
+        <li>Marchal, Maud                               </li>
+        <li>Billinghurst, Mark                          </li>
+        <li>Sadagic, Amela                              </li>
         <li>Andersen, Daniel                            </li>
         <li>Liu, Shiguang                               </li>
         <li>Zhou, Qian                                  </li>
