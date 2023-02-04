@@ -70,7 +70,8 @@ title_separator: "|"
 
 <div style="">
     <p style="font-size: 20px;">
-        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        <!-- <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a> -->
+        Comming soon!
     </p>
 </div>
 
