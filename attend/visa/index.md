@@ -34,9 +34,9 @@ title: "Visa Information"
         <li>Date of Birth</li>
     </ul>
     <h2>For Chinese VISA</h2>
-    <p>
+    <!-- <p>
         A visa can be obtained from a local Consulate of China without the difficulty of document preparation and long waiting. It is recommended that they apply for a Chinese visa <strong style="color: black">one month</strong> in advance.
-    </p>
+    </p> -->
     <p>
         You can choose to apply for a visa yourself at the Ministry of Foreign Affairs of the People's Republic of China, or contact your local embassy, consulate or visa agency.
     </p>
