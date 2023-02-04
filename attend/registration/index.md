@@ -72,7 +72,6 @@ title_separator: "|"
 
 <div style="">
     <p style="font-size: 20px;">
-        
         Coming soon!
     </p>
 </div>
