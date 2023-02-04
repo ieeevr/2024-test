@@ -53,9 +53,9 @@ title_separator: "|"
 <h1 id="registration"> Registration</h1>
 
 <p>
-    <strong style="color: black">IEEE VR 2021: the 28th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 27-April 3, 2021, Virtual
+    <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2023, Shanghai
     <br />
-    <a href="http://ieeevr.org/2021/">http://ieeevr.org/2021/</a>
+    <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
 </p>
 
 
