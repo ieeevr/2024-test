@@ -67,11 +67,12 @@ title_separator: "|"
     </p>
 </div>
 -->
+<!-- <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a> -->
+
 
 <div style="">
     <p style="font-size: 20px;">
-        <!-- <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a> -->
-        Comming soon!
+        Coming soon!
     </p>
 </div>
 
