@@ -75,12 +75,12 @@ title_separator: "|"
     </p>
 </div>
 
-<h3>General Participant Registration</h3>
+<!-- <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
 <table class="styled-table">
   <tr style="vertical-align: top;">
     <th><strong>Registration Type</strong></th>
-    <!-- <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th> -->
+    <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
     <th><strong>Advance Registration</strong><br/><small style="color: rgb(255, 45, 85);">(On or Before March 25th)</small></th>
     <th><strong>Late Registration</strong></th>
   </tr>
@@ -191,7 +191,7 @@ title_separator: "|"
 
 -->
 
-<h2>Registation FAQ</h2>
+<!-- <h2>Registation FAQ</h2>
 
 <ol>
     <li style="color: #00aeef:"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
@@ -214,7 +214,7 @@ title_separator: "|"
     
     <li style="color: #00aeef:"><strong>Can a participant registered for the conference, attend workshops and tutorials?</strong><br/>
         Yes.</li>
-</ol>
+</ol> -->
 
 
 
