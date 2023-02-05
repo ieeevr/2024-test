@@ -365,14 +365,20 @@ title: "Program Overview"
 
 <h1>Program Overview</h1>
 
+<a href="http://ieeevr.org/2023/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
 
 
-<div style="text-align:center;">
+
+<!-- <div style="text-align:center;">
         <small><span style="color:gray;">Conference local time</span></small>
         <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe>
+</div> -->
+
+<div style="">
+    <p style="font-size: 20px;">
+        Coming soon!
+    </p>
 </div>
-
-
 
 <!--
 <h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</h3>
@@ -381,14 +387,15 @@ title: "Program Overview"
     The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
 </p>
 -->
-<div class="notice--warning">
-    <strong style="color: rgb(255, 45, 85);">Please note that all times are given in Lisbon, Portugal local time.</strong>
+<!-- <div class="notice--warning">
+    <strong style="color: rgb(255, 45, 85);">Please note that all times are given in Shanghai, China local time.</strong>
     <p>
         On the first day (Saturday, March 27), times are given in WET/UTC.
         The rest of the conference is affected by Daylight Saving Time (DST), and therefore, times are shown in WEST/UTC+1.
     </p>
-</div>
-<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+</div> -->
+
+<!-- <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Locations</strong>
     <p>
         Locations in the program below refer to virtual places in the Virbela platform.
@@ -398,7 +405,7 @@ title: "Program Overview"
             <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="color: white;">Getting Started with Virbela</a>
         </p>
     </center>
-</div>
+</div> -->
 <!--
 <div class="notice--warning">
     <strong>Note:</strong>
@@ -410,7 +417,7 @@ title: "Program Overview"
 
 
 
-<div>
+<!-- <div>
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 27</label>
         <div class="collapsible-content">
             <div class="content-inner">
@@ -926,12 +933,12 @@ title: "Program Overview"
 
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
 
-                    <!--
+                    
                     <div class="session session-7 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Mixer</h3>
                         <span class="session-time">13:00 - 14:00</span>
                     </div>
-                    -->
+                   
 
                     <div class="session session-8 track-green" style="grid-column: track-1-start / track-4-end; grid-row: time-1300 / time-1400;">
                         <h3 class="session-title">Papers: <a href="/2021/program/papers/#4.3">Redirected Locomotion</a></h3>
@@ -1190,4 +1197,4 @@ title: "Program Overview"
             </div>
         </div>
     </div>
-</div>
+</div> -->
