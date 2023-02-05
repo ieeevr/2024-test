@@ -15,7 +15,7 @@ title: "Getting There"
     <h2>Conference Venue</h2>
     <div style="width: 100%; display: flex;flex-direction: row;" >
         <img src="../../assets/images/attend/gt1.png" alt="Pudong Shangri-La Hotel" style="width: 50%"/>
-        <img src="../../assets/images/attend/gt3.png" alt="The hotel’s grand room2" style="max-width: 50%"/>
+        <img src="../../assets/images/attend/gt0.jpg" alt="The hotel’s grand room2" style="max-width: 50%"/>
     </div>
     <p>IEEE VR 2023 will take place at the Pudong Shangri-La Hotel in Shanghai, China, from March 25th-29th, 2023.</p>
     <p>The hotel’s grand room can accommodate 1500 people for meetings or banquets, and include 12 function rooms with professional audio-visual facilities.</p>
