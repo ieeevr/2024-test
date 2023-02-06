@@ -82,6 +82,9 @@ title_separator: "|"
     <p style="font-size: 20px;">
     You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
     </p>
+    <p style="font-size: 20px;">
+    Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
+    </p>
 </div>
 
 <h3>Registration Type</h3>
