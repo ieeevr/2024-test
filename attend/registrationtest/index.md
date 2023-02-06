@@ -265,7 +265,7 @@ Please note that each accepted paper must be covered by at least one paper autho
 <table class="styled-table">
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.) CNY ¥</th> 
+    <th>Full Week (Sat.-Wed.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
@@ -362,29 +362,29 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 <h3>Optional Items</h3>
 <table class="styled-table">
   <tr>
-    <td><strong>Reception (March 27th, 2023)</strong></td>
+    <td>Reception (March 27th, 2023)</td>
     <td>¥0(CNY)/each</td>
-    <td><small><a href="https://ieeevr.org/2023/attend/tourism">A 2-hour Cruise on the Huangpu River</a> Only for the in-person registration The ticket is only available in the in-person conference registration (Full week or weekday only) </small></td>
+    <td><small><a href="https://ieeevr.org/2023/attend/tourism">A 2-hour Cruise on the Huangpu River</a> The ticket is only available in the in-person conference registration (Full week or weekday only) </small></td>
   </tr>
   <tr>
-    <td><strong>Banquet (March 28th, 2023)</strong></td>
+    <td>Banquet (March 28th, 2023)</td>
     <td>¥0(CNY)/each</td>
     <td><small>The ticket is only available in the in-person conference registration (Full week or weekday only)</small> </td>
   </tr>
   <tr>
-    <td><strong>Industry/Lab Tour</strong></td>
+    <td>Industry/Lab Tour</td>
     <td>¥0(CNY)/each</td>
     <td><small>The ticket is only available in the in-person conference registration (Full week or weekday only) <br/>NOTE: Considering the limited seats, the participation of the tour follows the first come first served policy</small></td>
   </tr>
   <tr>
-    <td><strong>One day tour in Shanghai (March 30th, 2023)</strong></td>
+    <td>One day tour in Shanghai (March 30th, 2023)</td>
     <td>¥350(CNY)/each</td>
-    <td><small>Include tickets for the Oriental Pearl TV Tower and Shanghai Chengxiang History and Culture Center, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></small></td>
+    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></small></td>
   </tr>
   <tr>
-    <td><strong>T-shirt</strong></td>
+    <td>T-shirt</td>
     <td>¥0(CNY)/each</td>
-    <td><small>In-person only</small></td>
+    <td><small>Only for the in-person registration</small></td>
   </tr>
 </table>
 
@@ -392,7 +392,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 
 <ol>
     <li style="color: #F5725E:"><strong>How many papers/publications can be valiated by one author registration?</strong><br/>
-        Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select only one contribution each time. <br/>Although mutiple "Author Registration" can be covered by one name, we suggest registrations followed by different names for promoting interactions among the community.</li>
+        Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select <b>only one contribution each time</b>. <br/>Although mutiple "Author Registration" can be covered by one name, we suggest registrations followed by different names for promoting interactions among the community.</li>
     <li style="color: #F5725E:"><strong>Can an author register as a "General Participant", while he/she actually presents a paper?</strong><br/>
         Yes. As long as the paper has one author registered as "Paper Author Registration" to validate the paper, another registered participant can present the paper.</li>
     <li style="color: #F5725E:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
