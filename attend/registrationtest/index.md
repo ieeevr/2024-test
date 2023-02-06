@@ -106,8 +106,8 @@ Authors please see the next tables.
   <tr>   
     <th rowspan="7"><strong>In-person Participation</strong></th>
     <th rowspan="2"><strong>Category</strong></th>
-    <th colspan="3"><strong>Early Bird Registration Fee <strong><br/><small>(on or before Feb./28/2023 @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
-    <th colspan="3"><strong>Late Registration Fee </strong></br><small>(on or after Mar./1/2023  @ 23:59 AoE)</small></br><small>CNY ¥</small></th>
+    <th colspan="3"><strong>Early Bird Registration Fee </strong><br/><small>(on or before Feb./28/2023 @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
+    <th colspan="3"><strong>Late Registration Fee </strong><br/><small>(on or after Mar./1/2023  @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
   </tr>     
   <tr>   
     <th>Full Week (Sat.-Wed.)</th> 
@@ -165,8 +165,8 @@ Authors please see the next tables.
   <tr>   
     <th rowspan="7"><strong>Online Participation</strong></th>
     <th rowspan="2"><strong>Category</strong></th>
-    <th colspan="3"><strong>Early Bird Registration Fee <strong><br/><small>(on or before Feb./28/2023 @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
-    <th colspan="3"><strong>Late Registration Fee </strong></br><small>(on or after Mar./1/2023  @ 23:59 AoE)</small></br><small>CNY ¥</small></th>
+    <th colspan="3"><strong>Early Bird Registration Fee </strong><br/><small>(on or before Feb./28/2023 @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
+    <th colspan="3"><strong>Late Registration Fee </strong><br/><small>(on or after Mar./1/2023  @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
   </tr>     
   <tr>   
     <th>Full Week (Sat.-Wed.)</th> 
@@ -406,10 +406,10 @@ Authors please see the next tables.
 
     
 <br/>
-<!-- <div style="">
+<div style="">
     <p style="font-size: 20px;">
-        <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        <a href="" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
-</div> -->
+</div>
 
 
