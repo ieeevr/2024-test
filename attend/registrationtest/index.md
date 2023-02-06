@@ -16,7 +16,7 @@ title_separator: "|"
     display: table;
 }
 .styled-table thead tr {
-    background-color: #00aeef;
+    background-color: #F5725E;
     color: #ffffff;
     text-align: left;
 }
@@ -35,12 +35,12 @@ title_separator: "|"
 }
 
 .styled-table tbody tr:last-of-type {
-    border-bottom: 2px solid #00aeef;
+    border-bottom: 2px solid #F5725E;
 }
 
 .styled-table tbody tr.active-row {
     font-weight: bold;
-    color: #00aeef;
+    color: #F5725E;
 }    
 
 
@@ -67,15 +67,58 @@ title_separator: "|"
     </p>
 </div>
 -->
-<!-- <a href="https://cvent.me/VnyZRb" class="btn btn--primary" style="" target="_blank">Click Here to Register</a> -->
-
+<p>
+<a href="" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
 <a href="http://ieeevr.org/2023/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
+</p>
 
 <div style="">
     <p style="font-size: 20px;">
-        Coming soon!
+        Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
+    </p>
+    <p style="font-size: 20px;">
+    The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
+    </p>
+    <p style="font-size: 20px;">
+    You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
     </p>
 </div>
+
+<h3>General Participant Registration</h3>
+<small>Paper authors see the next table.</small>
+<table class="styled-table">
+  <tr style="vertical-align: top;">
+    <th><strong>Registration Type</strong></th>
+    <th><strong>Advance Registration</strong><br/><small>(On or Before March 12th)</small></th>
+    <th><strong>Advance Registration</strong><br/><small style="color: rgb(255, 45, 85);">(On or Before March 25th)</small></th>
+    <th><strong>Late Registration</strong></th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td></td>
+    <td>$100.00</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <!-- <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
