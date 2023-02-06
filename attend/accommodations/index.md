@@ -29,7 +29,10 @@ title: "Accommodations"
         <a href = "https://www.shangri-la.com/shanghai/pudongshangrila/">https://www.shangri-la.com/shanghai/pudongshangrila/</a>
     </p>
     <p>
-        Book Pudong Shangri-La Hotel with the following link to receive the discount.（update soon）
+        Book Pudong Shangri-La Hotel with the following link to receive the discount.
+    </p>
+    <p>
+    <a href="http://www.shangri-la.com/reservations/booking/en/index.aspx?hid=SLPU&group_code=JEX250323&check_in=20230325&check_out=20230330" class="btn btn--primary" style="" target="_blank">Book the Hotel</a>
     </p>
     <p>
         Contact Ms. Shen if you have any questions about booking.<br>
