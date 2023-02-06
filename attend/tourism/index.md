@@ -40,7 +40,7 @@ title: "Tourism"
     <strong>Distance from the conference venue: 700M</strong>
     <img src="../../assets/images/attend/t6.png" alt="Shanghai Tower" style="width: 90%"/>
     <h3>Yu Garden</h3>
-    <p>Covering an area of more than 20,000 m2, it was built in the 38th year of Jiajingin Ming Dynasty (AD 1559). It is a famous Jiangnan classical garden and is known as the "urban forest".</p>
+    <p>Covering an area of more than 20,000 m2, it was built in the 38th year of Jiajing Ming Dynasty (AD 1559). It is a famous Jiangnan classical garden and is known as the "urban forest".</p>
     <strong>Distance from the conference venue: 5KM</strong>
     <img src="../../assets/images/attend/t7.png" alt="Yu Garden1" style="width: 90%"/>
     <img src="../../assets/images/attend/t8.png" alt="Yu Garden2" style="width: 90%"/>

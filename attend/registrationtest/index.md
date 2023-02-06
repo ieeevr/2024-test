@@ -84,7 +84,147 @@ title_separator: "|"
     </p>
 </div>
 
+<h3>Registration Type</h3>
+<table class="styled-table">
+  <tr>
+    <td><strong>Full Week</strong></td>
+    <td>Tutorials & Workshops, Doctoral Consortium. Keynote Talks, Papers and Panels sessions, Posters, Exhibition, Videos, Research Demos, 3DUI Contest. Reception (Mon. Night, in-person only). VR Banquet (Tue. Night, in-person only). Industry/Lab Tour (in-person only)</td>
+  </tr>
+  <tr>
+    <td><strong>Weekday Only</strong></td>
+    <td><u>Main Conference Only</u>: Keynote Talks, Papers and Panels sessions, Posters, Exhibition, Videos, Research Demos, 3DUI Contest. Reception (Mon. Night, in-person only). VR Banquet (Tue. Night, in-person only).</td>
+  </tr>
+  <tr>
+    <td><strong>Weekend Only</strong></td>
+    <td><u>Workshops / Tutorials / Doctoral Consortium Only</u>: Tutorials & Workshops, Doctoral Consortium.</td>
+  </tr>
+</table>
+
 <h3>General Participant Registration</h3>
+Authors please see the next tables.
+<table class="styled-table">
+  <tr>   
+    <th rowspan="7"><strong>In-person Participation</strong></th>
+    <th rowspan="2"><strong>Category</strong></th>
+    <th colspan="3"><strong>Early Bird Registration Fee <strong><br/><small>(on or before Feb./28/2023 @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
+    <th colspan="3"><strong>Late Registration Fee </strong></br><small>(on or after Mar./1/2023  @ 23:59 AoE)</small></br><small>CNY ¥</small></th>
+  </tr>     
+  <tr>   
+    <th>Full Week (Sat.-Wed.)</th> 
+    <th>Weekend Only (Sat.-Sun.)</th>
+    <th>Weekday Only (Mon.-Wed.)</th>   
+    <th>Full Week (Sat.-Wed.)</th> 
+    <th>Weekend Only (Sat.-Sun.)</th>
+    <th>Weekday Only (Mon.-Wed.)</th> 
+  </tr> 
+  <tr>
+    <td>Member</td>
+    <td>5800</td>
+    <td>3480</td>
+    <td>4640</td>
+    <td>6960</td>
+    <td>4176</td>
+    <td>5568</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>6960</td>
+    <td>4176</td>
+    <td>5568</td>
+    <td>8352</td>
+    <td>5011</td>
+    <td>6682</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>4060</td>
+    <td>2436</td>
+    <td>3248</td>
+    <td>4872</td>
+    <td>2923</td>
+    <td>3898</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>4872</td>
+    <td>2923</td>
+    <td>3898</td>
+    <td>5846</td>
+    <td>3508</td>
+    <td>4677</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>3190</td>
+    <td>/</td>
+    <td>/</td>
+    <td>3828</td>
+    <td>/</td>
+    <td>/</td>
+  </tr>
+  <tr>   
+    <th rowspan="7"><strong>Online Participation</strong></th>
+    <th rowspan="2"><strong>Category</strong></th>
+    <th colspan="3"><strong>Early Bird Registration Fee <strong><br/><small>(on or before Feb./28/2023 @ 23:59 AoE)</small><br/><small>CNY ¥</small></th>
+    <th colspan="3"><strong>Late Registration Fee </strong></br><small>(on or after Mar./1/2023  @ 23:59 AoE)</small></br><small>CNY ¥</small></th>
+  </tr>     
+  <tr>   
+    <th>Full Week (Sat.-Wed.)</th> 
+    <th>Weekend Only (Sat.-Sun.)</th>
+    <th>Weekday Only (Mon.-Wed.)</th>   
+    <th>Full Week (Sat.-Wed.)</th> 
+    <th>Weekend Only (Sat.-Sun.)</th>
+    <th>Weekday Only (Mon.-Wed.)</th> 
+  </tr> 
+  <tr>
+    <td>Member</td>
+    <td>3480</td>
+    <td>2088</td>
+    <td>2784</td>
+    <td>4176</td>
+    <td>2506</td>
+    <td>3341</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>4176</td>
+    <td>2506</td>
+    <td>3341</td>
+    <td>5011</td>
+    <td>3007</td>
+    <td>4009</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>2436</td>
+    <td>1462</td>
+    <td>1949</td>
+    <td>2923</td>
+    <td>1754</td>
+    <td>2339</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>2923</td>
+    <td>1754</td>
+    <td>2339</td>
+    <td>3508</td>
+    <td>2105</td>
+    <td>2806</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>1914</td>
+    <td>/</td>
+    <td>/</td>
+    <td>2297</td>
+    <td>/</td>
+    <td>/</td>
+  </tr>
+</table>
+
+
+<!-- <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
 <table class="styled-table">
   <tr style="vertical-align: top;">
@@ -95,6 +235,7 @@ title_separator: "|"
   </tr>
   <tr>
     <td>Member</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -118,7 +259,7 @@ title_separator: "|"
     <td></td>
     <td></td>
   </tr>
-</table>
+</table> -->
 
 <!-- <h3>General Participant Registration</h3>
 <small>Paper authors see the next table.</small>
