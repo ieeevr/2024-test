@@ -265,7 +265,7 @@ Please note that each accepted paper must be covered by at least one paper autho
 <table class="styled-table">
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
+    <th>Full Week (Sat.-Wed.) CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
@@ -359,30 +359,49 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   </tr>
 </table>
 
-<!-- <h2>Registation FAQ</h2>
+<h3>Optional Items</h3>
+<table class="styled-table">
+  <tr>
+    <td><strong>Reception (March 27th, 2023)</strong></td>
+    <td>¥0(CNY)/each</td>
+    <td><a href="https://ieeevr.org/2023/attend/tourism">A 2-hour Cruise on the Huangpu River</a> Only for the in-person registration The ticket is only available in the in-person conference registration (Full week or weekday only) </td>
+  </tr>
+  <tr>
+    <td><strong>Banquet (March 28th, 2023)</strong></td>
+    <td>¥0(CNY)/each</td>
+    <td>The ticket is only available in the in-person conference registration (Full week or weekday only) </td>
+  </tr>
+  <tr>
+    <td><strong>Industry/Lab Tour</strong></td>
+    <td>¥0(CNY)/each</td>
+    <td>The ticket is only available in the in-person conference registration (Full week or weekday only) <br/>NOTE: Considering the limited seats, the participation of the tour follows the first come first served policy</td>
+  </tr>
+  <tr>
+    <td><strong>One day tour in Shanghai (March 30th, 2023)</strong></td>
+    <td>¥350(CNY)/each</td>
+    <td>Include tickets for the Oriental Pearl TV Tower and Shanghai Chengxiang History and Culture Center, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></td>
+  </tr>
+  <tr>
+    <td><strong>T-shirt</strong></td>
+    <td>¥0(CNY)/each</td>
+    <td>In-person only</td>
+  </tr>
+</table>
+
+<h2>Registation FAQ</h2>
 
 <ol>
-    <li style="color: #00aeef:"><strong>Can one author register as the registered author for two or more papers/publications?</strong><br/>
-        Yes. During registration at Cvent, the author should inform all papers/publications for validation.</li>
-
-    <li style="color: #00aeef:"><strong>Can an author registered as "regular attendee" actually present a paper?</strong><br/>
-        Yes. As long as the paper has one author registered to validate the paper, another registered attendee can present the paper.</li>
-
-    <li style="color: #00aeef:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
-        You should use the same category as Workshop/Poster/Demo contributors.</li>
-
-    <li style="color: #00aeef:"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
+    <li style="color: #F5725E:"><strong>How many papers/publications can be valiated by one author registration?</strong><br/>
+        Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select only one contribution each time. <br/>Although mutiple "Author Registration" can be covered by one name, we suggest registrations followed by different names for promoting interactions among the community.</li>
+    <li style="color: #F5725E:"><strong>Can an author register as a "General Participant", while he/she actually presents a paper?</strong><br/>
+        Yes. As long as the paper has one author registered as "Paper Author Registration" to validate the paper, another registered participant can present the paper.</li>
+    <li style="color: #F5725E:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
+        You should use the same category as "Paper Author Registration".</li>
+    <li style="color: #F5725E:"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
         You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
-
-    <li style="color: #00aeef:"><strong>What is an Invited TVCG paper?</strong><br/>
-        Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2021 Journal Papers published in the special issue.</li>
-
-    <li style="color: #00aeef:"><strong>Can a participant registered as workshop/TVCG/Poster/Demo, attend the full conference?</strong><br/>
-        Yes.</li>
-    
-    <li style="color: #00aeef:"><strong>Can a participant registered for the conference, attend workshops and tutorials?</strong><br/>
-        Yes.</li>
-</ol> -->
+    <li style="color: #F5725E:"><strong>What is an Invited TVCG paper?</strong><br/>
+        Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2023 Journal Papers published in the special issue.</li>
+</ol>
 
 
 
