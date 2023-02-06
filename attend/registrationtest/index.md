@@ -382,7 +382,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   <tr>
     <td>One day tour in Shanghai (March 30th, 2023)</td>
     <td>¥350(CNY)/each</td>
-    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></small></td>
+    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_in_Shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></small></td>
   </tr>
   <tr>
     <td>T-shirt</td>
