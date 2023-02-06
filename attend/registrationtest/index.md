@@ -320,7 +320,7 @@ Please note that each accepted poster/demo/video/3DUI contest must be covered by
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>3190</td>
-    <td>2712</td>
+    <td>/</td>
   </tr>
 </table>
 
@@ -335,27 +335,27 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   <tr>
     <td>Member</td>
     <td>5800</td>
-    <td>3480</td>
+    <td>3770</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>6960</td>
-    <td>4176</td>
+    <td>4524</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>4060</td>
-    <td>2436</td>
+    <td>2639</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>4872</td>
-    <td>2923</td>
+    <td>3167</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>3190</td>
-    <td>1914</td>
+    <td>/</td>
   </tr>
 </table>
 
@@ -364,27 +364,27 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   <tr>
     <td><strong>Reception (March 27th, 2023)</strong></td>
     <td>¥0(CNY)/each</td>
-    <td><a href="https://ieeevr.org/2023/attend/tourism">A 2-hour Cruise on the Huangpu River</a> Only for the in-person registration The ticket is only available in the in-person conference registration (Full week or weekday only) </td>
+    <td><small><a href="https://ieeevr.org/2023/attend/tourism">A 2-hour Cruise on the Huangpu River</a> Only for the in-person registration The ticket is only available in the in-person conference registration (Full week or weekday only) </small></td>
   </tr>
   <tr>
     <td><strong>Banquet (March 28th, 2023)</strong></td>
     <td>¥0(CNY)/each</td>
-    <td>The ticket is only available in the in-person conference registration (Full week or weekday only) </td>
+    <td><small>The ticket is only available in the in-person conference registration (Full week or weekday only)</small> </td>
   </tr>
   <tr>
     <td><strong>Industry/Lab Tour</strong></td>
     <td>¥0(CNY)/each</td>
-    <td>The ticket is only available in the in-person conference registration (Full week or weekday only) <br/>NOTE: Considering the limited seats, the participation of the tour follows the first come first served policy</td>
+    <td><small>The ticket is only available in the in-person conference registration (Full week or weekday only) <br/>NOTE: Considering the limited seats, the participation of the tour follows the first come first served policy</small></td>
   </tr>
   <tr>
     <td><strong>One day tour in Shanghai (March 30th, 2023)</strong></td>
     <td>¥350(CNY)/each</td>
-    <td>Include tickets for the Oriental Pearl TV Tower and Shanghai Chengxiang History and Culture Center, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></td>
+    <td><small>Include tickets for the Oriental Pearl TV Tower and Shanghai Chengxiang History and Culture Center, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></small></td>
   </tr>
   <tr>
     <td><strong>T-shirt</strong></td>
     <td>¥0(CNY)/each</td>
-    <td>In-person only</td>
+    <td><small>In-person only</small></td>
   </tr>
 </table>
 
