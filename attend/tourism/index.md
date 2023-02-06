@@ -39,7 +39,7 @@ title: "Tourism"
     <p>The fastest elevator: from 118th to 2nd floor in 1 minute.</p>
     <strong>Distance from the conference venue: 700M</strong>
     <img src="../../assets/images/attend/t6.png" alt="Shanghai Tower" style="width: 90%"/>
-    <h3>Yu Garden</h3>
+    <h3>Yuyuan Garden</h3>
     <p>Covering an area of more than 20,000 m2, it was built in the 38th year of Jiajing Ming Dynasty (AD 1559). It is a famous Jiangnan classical garden and is known as the "urban forest".</p>
     <strong>Distance from the conference venue: 5KM</strong>
     <img src="../../assets/images/attend/t7.png" alt="Yu Garden1" style="width: 90%"/>
