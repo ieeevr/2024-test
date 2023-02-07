@@ -391,8 +391,11 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   </tr>
 </table>
 
-<h2>Registation FAQ</h2>
+<h2>Cancellation Policy</h2>
+<p>Should you need to cancel your registration, you may reassign your registration to another person. All cancellations and substitutions must be notified in writing to register2023@ieeevr.org. If you are unable to arrange a replacement, a full refund less an administration charge of 30% of your registration fee will be made providing notification is received in writing before and including 28th February 2023 @ 23:59 AoE. 
+</p>
 
+<h2>Registation FAQ</h2>
 <ol>
     <li style="color: #F5725E:"><strong>How many papers/publications can be valiated by one author registration?</strong><br/>
         Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select <u>only one contribution each time</u>. <br/>Although mutiple "Author Registration" can be covered by one name, we suggest registrations followed by different names for promoting interactions among the community.</li>
