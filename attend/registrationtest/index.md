@@ -407,7 +407,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
     <li style="color: #F5725E:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
         You should use the same category as "Paper Author Registration".</li>
     <li style="color: #F5725E:"><strong>What number should I provide to register as an invited TVCG paper author? </strong><br/>
-        You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
+        You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG).</li>
     <li style="color: #F5725E:"><strong>What is an Invited TVCG paper?</strong><br/>
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2023 Journal Papers published in the special issue.</li>
     <li style="color: #F5725E:"><strong>Why I can't open the registration system after I clicked the register button?</strong><br/>
