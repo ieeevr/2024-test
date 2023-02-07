@@ -368,12 +368,12 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 <h3>Optional Items</h3>
 <table class="styled-table">
   <tr>
-    <td>Reception (March 27th, 2023)</td>
+    <td>Reception</td>
     <td>¥0(CNY)/each</td>
     <td><small><a href="https://ieeevr.org/2023/attend/tourism">A 2-hour Cruise on the Huangpu River</a> The ticket is only available in the in-person conference registration (Full week or weekday only) </small></td>
   </tr>
   <tr>
-    <td>Banquet (March 28th, 2023)</td>
+    <td>Banquet</td>
     <td>¥0(CNY)/each</td>
     <td><small>The ticket is only available in the in-person conference registration (Full week or weekday only)</small> </td>
   </tr>
@@ -383,9 +383,9 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
     <td><small>The ticket is only available in the in-person conference registration (Full week or weekday only) <br/>NOTE: Considering the limited seats, the participation of the tour follows the first come first served policy</small></td>
   </tr>
   <tr>
-    <td>One day tour in Shanghai (March 30th, 2023)</td>
+    <td>One day tour in Shanghai</td>
     <td>¥350(CNY)/each</td>
-    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_in_Shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a></small></td>
+    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_in_Shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a>(March 30th, 2023)</small></td>
   </tr>
   <tr>
     <td>T-shirt</td>
