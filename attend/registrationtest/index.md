@@ -68,7 +68,7 @@ title_separator: "|"
 </div>
 -->
 <p>
-<a href="" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+<a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
 <a href="http://ieeevr.org/2023/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
 </p>
 
@@ -415,7 +415,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 <br/>
 <div style="">
     <p style="font-size: 20px;">
-        <a href="" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        <a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
 
