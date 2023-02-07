@@ -83,6 +83,9 @@ title_separator: "|"
     You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
     </p>
     <p style="font-size: 20px;">
+    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page.
+    </p>
+    <p style="font-size: 20px;">
     Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
     </p>
 </div>
@@ -407,6 +410,10 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
         You should indicate your full Paper DOI, eg: 10.1109/TVCG.20nn.ddddddd (as listed on TVCG)</li>
     <li style="color: #F5725E:"><strong>What is an Invited TVCG paper?</strong><br/>
         Invited TVCG papers are those manuscripts previously published on IEEE TVCG and invited for oral presentation at the conference. Not to be confused with IEEE VR 2023 Journal Papers published in the special issue.</li>
+    <li style="color: #F5725E:"><strong>Why I can't open the registration system after I clicked the register button?</strong><br/>
+      It may need a few minutes to open the registration system for the first time.</li>
+    <li style="color: #F5725E:"><strong>Why I can't click the "Pay" button although I have filled out the form correctly?</strong><br/>
+      The payment can not be made unless the server confirms the form is filled out. For uploading a digital copy of Student ID, you may wait a couple of minutes for the server to receive the data.</li>
 </ol>
 
 
