@@ -415,9 +415,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
     <li style="color: #F5725E:"><strong>Why I can't click the "Pay" button although I have filled out the form correctly?</strong><br/>
       The "Pay" button is inactive unless the server confirms the form is filled out. Usually, the confirmation is done automaticly in a minute. For uploading a digital copy of Student ID, you may wait a couple of minutes for the server to receive the registration data.</li>
 </ol>
-
-
-
+If you have further questions, please contact register2023@ieeevr.org.
     
 <br/>
 <div style="">
@@ -425,5 +423,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
         <a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
+
+
 
 
