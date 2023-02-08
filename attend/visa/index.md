@@ -17,7 +17,7 @@ title: "Visa Information"
     </p>
     <h2>Invitation Letter</h2>
     <p>
-        You can register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly and our registration administration will as quickly as possible send you a VISA letter. If you have further questions regarding registration and visa, please contact register2023@ieeevr.org.
+        You can register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly and our registration administration will as quickly as possible send you a VISA letter. 
         
     </p>
     <p>
@@ -52,3 +52,5 @@ title: "Visa Information"
     </ul>
     <p>Ministry of Foreign Affairs <a href="https://cova.mfa.gov.cn/">https://cova.mfa.gov.cn/</a></p>
 </div>
+
+If you have further questions regarding registration and visa, please contact register2023@ieeevr.org.
