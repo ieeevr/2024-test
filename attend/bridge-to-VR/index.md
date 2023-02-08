@@ -57,7 +57,7 @@ title_separator: "|"
 
     <p>
     <ul>
-    <li>Spend some time reviewing research from past conferences: Deadline to submit application:<br>
+    <li>Spend some time reviewing research from past conferences:<br>
     <a href="https://ieeevr.org/#past">https://ieeevr.org/#past</a>. What is an important problem in the world that you think VR can help address?
     </li>
     <li>How do you plan to share what you have learned at the IEEE VR conference with your fellow undergraduate students? <br>
