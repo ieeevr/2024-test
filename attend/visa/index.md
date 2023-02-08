@@ -53,4 +53,4 @@ title: "Visa Information"
     <p>Ministry of Foreign Affairs <a href="https://cova.mfa.gov.cn/">https://cova.mfa.gov.cn/</a></p>
 </div>
 
-If you have further questions regarding registration and visa, please contact register2023@ieeevr.org.
+If you have further questions regarding registration and visa, please contact register2023[at]ieeevr.org.
