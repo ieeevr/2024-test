@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="285.9" height="83.3">
   <style>
-    .st0{fill:#fff}
+    .st0{fill:#000}
   </style>
   <path class="st0" d="M95.3 74.2V11h17.5v63.2H95.3zM122 74.2V11h48.1v12.3h-30.6v13h28.2v12.2h-28.2v13.4h30.6v12.3H122zM179.9 74.2V11H228v12.3h-30.6v13h28.2v12.2h-28.2v13.4H228v12.3h-48.1zM237.8 74.2V11h48.1v12.3h-30.6v13h28.2v12.2h-28.2v13.4h30.6v12.3h-48.1z"/>
   <path fill="none" d="M0 0h285.9v83.3H0z"/>
