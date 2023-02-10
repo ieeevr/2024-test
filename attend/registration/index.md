@@ -73,6 +73,7 @@ title_separator: "|"
 </p>
 
 <div style="">
+    <p style="font-size: 20px;">Contect: register2023@ieeevr.org</p>
     <p style="font-size: 20px;">
         Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
     </p>
