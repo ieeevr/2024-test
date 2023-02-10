@@ -15,7 +15,7 @@ title: "Visa Information"
     <p>
         Conference participants may need a Chinese visa to enter China.
     </p>
-    <p >Contact: register2023@ieeevr.org</p>
+    <p >Contact: register2023[at]ieeevr.org</p>
     <h2>Invitation Letter</h2>
     <p>
         You can register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly and our registration administration will as quickly as possible send you a VISA letter. 
