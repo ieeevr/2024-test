@@ -401,7 +401,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 
 <h2>Registation FAQ</h2>
 <ol>
-    <li style="color: #F5725E:"><strong>How many papers/publications can be valiated by one author registration?</strong><br/>
+    <li style="color: #F5725E:"><strong>How many papers/publications can be validated by one author registration?</strong><br/>
         Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select <u>only one contribution each time</u>. <br/>Although mutiple "Author Registration" can be covered by one name, we encourage registrations followed by different names for promoting interactions among the community.</li>
     <li style="color: #F5725E:"><strong>Can an author register as a "General Participant", while he/she actually presents a paper?</strong><br/>
         Yes. As long as the paper has one author registered as "Paper Author Registration" to validate the paper, another registered participant can present the paper.</li>

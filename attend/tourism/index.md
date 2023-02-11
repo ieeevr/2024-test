@@ -67,5 +67,5 @@ title: "Tourism"
     <img src="../../assets/images/attend/t14.png" alt="Nanjing" style="width: 90%"/>
     <h3>Suzhou</h3>
     <p>About 40 minutes from Shanghai by train.</p>
-    <img src="../../assets/images/attend/t15.png" alt="Suzhou" style="width: 90%"/>
+    <img src="../../assets/images/attend/t15.jpeg" alt="Suzhou" style="width: 90%"/>
 </div>
