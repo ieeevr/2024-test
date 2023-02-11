@@ -31,6 +31,19 @@ title: "Conference Committee"
 			<li style="list-style: none">	program2023 [at] ieeevr.org		</li>	
 		</ul>				
 </div>
+
+<div>
+	<h2>	Awards Chairs	</h2>						
+		<ul>							
+			<li>	Mark Billinghurst	&#x2012; <i>University of South Australia, Australia </i></li>	
+			<li>	Shi-Min Hu	&#x2012; <i>	Tsinghua University, China	</i></li>
+			<li>	Kiyoshi Kiyokawa	&#x2012; <i> Nara Institute of Science and Technology, Japan	</i></li>
+			<li>	Amela Sadagic	&#x2012; <i> Naval Postgraduate School, USA	</i></li>
+			<li>	Anthony Steed	&#x2012; <i> University College London, UK 	</i></li>
+			<li style="list-style: none">	awards2023 [at] ieeevr.org	</li>	
+		</ul>				
+</div>
+
 <div>
 	<h2>	Finance Chairs	</h2>						
 		<ul>							
@@ -110,19 +123,6 @@ title: "Conference Committee"
 			<li style="list-style: none">	panels2023 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
-
-<div>
-	<h2>	Paper Awards Chairs	</h2>						
-		<ul>							
-			<li>	Mark Billinghurst	&#x2012; <i>University of South Australia, Australia </i></li>	
-			<li>	Shi-Min Hu	&#x2012; <i>	Tsinghua University, China	</i></li>
-			<li>	Kiyoshi Kiyokawa	&#x2012; <i> Nara Institute of Science and Technology, Japan	</i></li>
-			<li>	Amela Sadagic	&#x2012; <i> Naval Postgraduate School, USA	</i></li>
-			<li>	Anthony Steed	&#x2012; <i> University College London, UK 	</i></li>
-			<li style="list-style: none">	awards2023 [at] ieeevr.org	</li>	
-		</ul>				
-</div>
-
 
 <div>
 	<h2>	Posters Chairs	</h2>						
