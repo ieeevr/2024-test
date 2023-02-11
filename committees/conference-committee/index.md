@@ -112,6 +112,19 @@ title: "Conference Committee"
 </div>
 
 <div>
+	<h2>	Paper Awards Chairs	</h2>						
+		<ul>							
+			<li>	Mark Billinghurst	&#x2012; <i>University of South Australia, Australia </i></li>	
+			<li>	Shi-Min Hu	&#x2012; <i>	Tsinghua University, China	</i></li>
+			<li>	Kiyoshi Kiyokawa	&#x2012; <i> Nara Institute of Science and Technology, Japan	</i></li>
+			<li>	Amela Sadagic	&#x2012; <i> Naval Postgraduate School, USA	</i></li>
+			<li>	Anthony Steed	&#x2012; <i> University College London, UK 	</i></li>
+			<li style="list-style: none">	awards2023 [at] ieeevr.org	</li>	
+		</ul>				
+</div>
+
+
+<div>
 	<h2>	Posters Chairs	</h2>						
 		<ul>							
 			<li>	Isaac Cho	&#x2012; <i>	 Utah State University, USA	</i></li>	
@@ -208,6 +221,7 @@ title: "Conference Committee"
 		</ul>				
 </div>
 
+
 <div style="display:none">		
 	<h2>	3DUI Contest Chairs	</h2>						
 		<ul>							
@@ -290,7 +304,9 @@ title: "Conference Committee"
 			<li>	Takefumi	Hiraki	&#x2012; <i>	University of Tsukuba, Japan	</i></li>	
 			<li>	John	Quarles	&#x2012; <i>	University of Texas at San Antonio, USA	</i></li>	
 			<li style="list-style: none">	publicity2022	[at] ieeevr.org			</li>	 -->
-		</ul>							
+		</ul>	
+	
+	
 									
 	<h2>	Research Demonstrations Chairs	</h2>						
 		<ul>							
