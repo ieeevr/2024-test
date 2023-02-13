@@ -123,7 +123,7 @@ We look forward to seeing all of you in Shanghai soon.
         </tr>
     </table>
 
-
+<div>
 <h3 id="information">Registration Information</h3>
     <p style="font-size: 20px;">
         Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
@@ -143,7 +143,7 @@ We look forward to seeing all of you in Shanghai soon.
     <p style="font-size: 20px;">
     Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
     </p>
-
+</div>
 
 <h3 id="type">Registration Type</h3>
 <table class="styled-table">
