@@ -376,8 +376,10 @@ title: "Program Overview"
 
 <div style="">
     <p style="font-size: 20px;">
-        Coming soon!
+        Tentative Program
     </p>
+    <img src="../../assets/images/program/Tentative_Program_Page1.jpg" alt="tentative program page 1" style="width: 90%"/>
+    <img src="../../assets/images/program/Tentative_Program_Page2.jpg" alt="tentative program page 2" style="width: 90%"/>
 </div>
 
 <!--
