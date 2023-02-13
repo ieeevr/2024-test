@@ -73,24 +73,6 @@ title_separator: "|"
 </p>
 
 <div class="notice--info">
-    <strong>Registration Information:</strong>
-    <p style="font-size: 20px;">
-        Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
-    </p>
-    <p style="font-size: 20px;">
-    The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
-    </p>
-    <p style="font-size: 20px;">
-    You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
-    </p>
-    <p style="font-size: 20px;">
-    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page.
-    </p>
-    <p style="font-size: 20px;">
-    Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
-    </p>
-</div>
-
 <h2>IEEE VR 2023 will be in hybrid mode as we planned</h2>
 <p style="font-size: 20px;">
 The global COVID-19 situation has become more stabilized now. International travel to China has been much more convenient since Jan. 8, 2023. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
@@ -106,8 +88,64 @@ For those who cannot attend in person, we will provide live streaming of the con
 We look forward to seeing all of you in Shanghai soon.
 </strong>
 </p>
+</div>
 
-<h3>Registration Type</h3>
+<table class="styled-table">
+        <!-- <tr>
+            <th></th>
+        </tr> -->
+        <tr>
+            <th><a href="#information">Registration Information</a></th>
+        </tr>
+        <tr>
+            <th><a href="#type">Registration Type</a></th>
+        </tr>
+        <tr>
+            <th><a href="#general">General Participant Registration</a></th>
+        </tr>
+        <tr>
+            <th><a href="#paper">Paper Author Registration incl. TVCG Papers</a></th>
+        </tr>
+        <tr>
+            <th><a href="#poster">Posters, Demos, Videos, or 3DUI Contests Author Registration</a></th>
+        </tr>
+        <tr>
+            <th><a href="#workshops">Workshops, Tutorials, or DC Author Registration</a></th>
+        </tr>
+        <tr>
+            <th><a href="#optional">Optional Items</a></th>
+        </tr>
+        <tr>
+            <th><a href="#policy">Cancellation Policy</a></th>
+        </tr>
+        <tr>
+            <th><a href="#faq">Registation FAQ</a></th>
+        </tr>
+    </table>
+
+
+<h3 id="information">Registration Information</h3>
+    <p style="font-size: 20px;">
+        Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
+    </p>
+    <p style="font-size: 20px;">
+    The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
+    </p>
+    <p style="font-size: 20px;">
+    We recommend using English to fill out the registration form in case the information in other languages may be stored incorrectly in the database and lead to the loss of some data.
+    </p>
+    <p style="font-size: 20px;">
+    You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
+    </p>
+    <p style="font-size: 20px;">
+    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page.
+    </p>
+    <p style="font-size: 20px;">
+    Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
+    </p>
+
+
+<h3 id="type">Registration Type</h3>
 <table class="styled-table">
   <tr>
     <td><strong>Full Week</strong></td>
@@ -123,7 +161,7 @@ We look forward to seeing all of you in Shanghai soon.
   </tr>
 </table>
 
-<h3>General Participant Registration</h3>
+<h3 id="general">General Participant Registration</h3>
 Authors please see the next tables.
 
 <strong>Early Bird Registration Fee (CNY ¥) </strong>(on or before Feb/28/2023 @ 23:59 AoE) 
@@ -283,7 +321,7 @@ Authors please see the next tables.
   </tr>
 </table>
 
-<h3>Paper Author Registration incl. TVCG Papers</h3>
+<h3 id="paper">Paper Author Registration incl. TVCG Papers</h3>
 Please note that each accepted paper must be covered by at least one paper author registration by Feb. 28, 2023 @ 23:59 AoE.
 <table class="styled-table">
    <tr>   
@@ -312,7 +350,7 @@ Please note that each accepted paper must be covered by at least one paper autho
   </tr>
 </table>
 
-<h3>Posters, Demos, Videos, or 3DUI Contests Author Registration</h3>
+<h3 id="poster">Posters, Demos, Videos, or 3DUI Contests Author Registration</h3>
 Please note that each accepted poster/demo/video/3DUI contest must be covered by at least one full-week or weekday-only author registration by Feb. 28, 2023 @ 23:59 AoE.
 <table class="styled-table">
    <tr>   
@@ -347,7 +385,7 @@ Please note that each accepted poster/demo/video/3DUI contest must be covered by
   </tr>
 </table>
 
-<h3>Workshops, Tutorials, or DC Author Registration</h3>
+<h3 id="workshops">Workshops, Tutorials, or DC Author Registration</h3>
 Please note that each workshop/tutorial/DC paper must be covered by at least one full-week or weekend-only author registration by Feb. 28, 2023 @ 23:59 AoE.
 <table class="styled-table">
    <tr>   
@@ -382,7 +420,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   </tr>
 </table>
 
-<h3>Optional Items</h3>
+<h3 id="optional">Optional Items</h3>
 <table class="styled-table">
   <tr>
     <td>Reception</td>
@@ -411,11 +449,11 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
   </tr>
 </table>
 
-<h2>Cancellation Policy</h2>
+<h2 id="policy">Cancellation Policy</h2>
 <p>Should you need to cancel your registration, you may reassign your registration to another person. All cancellations and substitutions must be notified in writing to register2023@ieeevr.org. If you are unable to arrange a replacement, a full refund less an administration charge of 30% of your registration fee will be made providing notification is received in writing before and including 28th February 2023 @ 23:59 AoE. 
 </p>
 
-<h2>Registation FAQ</h2>
+<h2 id="faq">Registation FAQ</h2>
 <ol>
     <li style="color: #F5725E:"><strong>How many papers/publications can be valiated by one author registration?</strong><br/>
         Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select <u>only one contribution each time</u>. <br/>Although mutiple "Author Registration" can be covered by one name, we encourage registrations followed by different names for promoting interactions among the community.</li>
