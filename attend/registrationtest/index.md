@@ -73,6 +73,30 @@ title_separator: "|"
 </p>
 
 <div>
+<!-- <h3 id="information">Registration Information</h3> -->
+    <p style="font-size: 20px;">
+        Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a> 
+    </p>
+    <p style="font-size: 20px;"><a href="#content">Click here to identify your registration type</a></p>
+    <p style="font-size: 20px;">
+    The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
+    </p>
+    <!-- <p style="font-size: 20px;">
+    We recommend using English to fill out the registration form in case the information in other languages may be stored incorrectly in the database and lead to the loss of some data.
+    </p> -->
+    <p style="font-size: 20px;">
+    You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
+    </p>
+    <p style="font-size: 20px;">
+    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page.
+    </p>
+    <p style="font-size: 20px;">
+    Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
+    </p>
+</div>
+
+
+<div>
 <h2>IEEE VR 2023 will be in hybrid mode as we planned</h2>
 <p style="font-size: 20px;">
 The global COVID-19 situation has become more stabilized now. International travel to China has been much more convenient since Jan. 8, 2023. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
@@ -90,13 +114,13 @@ We look forward to seeing all of you in Shanghai soon.
 </p>
 </div>
 
-<table class="styled-table">
+<table class="styled-table", id="content">
         <!-- <tr>
             <th></th>
         </tr> -->
-        <tr>
+        <!-- <tr>
             <th><a href="#information">Registration Information</a></th>
-        </tr>
+        </tr> -->
         <tr>
             <th><a href="#type">Registration Type</a></th>
         </tr>
@@ -121,29 +145,8 @@ We look forward to seeing all of you in Shanghai soon.
         <tr>
             <th><a href="#faq">Registation FAQ</a></th>
         </tr>
-    </table>
+</table>
 
-<div class="notice--info">
-<h3 id="information">Registration Information</h3>
-    <p style="font-size: 20px;">
-        Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
-    </p>
-    <p style="font-size: 20px;">
-    The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
-    </p>
-    <!-- <p style="font-size: 20px;">
-    We recommend using English to fill out the registration form in case the information in other languages may be stored incorrectly in the database and lead to the loss of some data.
-    </p> -->
-    <p style="font-size: 20px;">
-    You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
-    </p>
-    <p style="font-size: 20px;">
-    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page.
-    </p>
-    <p style="font-size: 20px;">
-    Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.
-    </p>
-</div>
 
 <h3 id="type">Registration Type</h3>
 <table class="styled-table">
