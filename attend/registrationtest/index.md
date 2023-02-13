@@ -114,7 +114,7 @@ We look forward to seeing all of you in Shanghai soon.
 </p>
 </div>
 
-<table class="styled-table", id="content">
+<table class="styled-table" id="content">
         <!-- <tr>
             <th></th>
         </tr> -->
