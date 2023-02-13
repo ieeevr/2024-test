@@ -378,8 +378,8 @@ title: "Program Overview"
     <p style="font-size: 20px;">
         Tentative Program
     </p>
-    <img src="../../assets/images/program/Tentative_Program_Page1.jpg" alt="tentative program page 1" style="width: 90%"/>
-    <img src="../../assets/images/program/Tentative_Program_Page2.jpg" alt="tentative program page 2" style="width: 90%"/>
+    <img src="../../assets/images/program/Tentative_Program_Page1.png" alt="tentative program page 1" style="width: 90%"/>
+    <img src="../../assets/images/program/Tentative_Program_Page2.png" alt="tentative program page 2" style="width: 90%"/>
 </div>
 
 <!--

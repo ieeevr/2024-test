@@ -59,20 +59,21 @@ title_separator: "|"
 </p>
 
 
-<!--
+<!-- 
 <div class="notice--info">
-    <strong>Registration Information (20 Feb 2021):</strong>
+    <strong>Registration Information:</strong>
     <p>
         Due to the severe weather conditions in the USA, posting the registration form is delayed, since the support team is operating out of Dallas, TX. We expect the form to be up early next week. Thank you very much for your patience and understanding.
     </p>
-</div>
--->
+</div> -->
+
 <p>
 <a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
 <a href="http://ieeevr.org/2023/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
 </p>
 
-<div style="">
+<div class="notice--info">
+    <strong>Registration Information:</strong>
     <p style="font-size: 20px;">
         Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
     </p>
