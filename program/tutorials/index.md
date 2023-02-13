@@ -64,7 +64,7 @@ title: "Tutorials"
     {% if tutorial.id == 'T1' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
-    <!-- TAKE ME TO THE EVENT START -->
+    <!-- TAKE ME TO THE EVENT START 
     {% for event in site.data.events %}
     {% if event.id == 'T1' %}
     {% if event.location %}
@@ -90,62 +90,62 @@ title: "Tutorials"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+    TAKE ME TO THE EVENT END -->
 
     <p>
         <strong>Organizers</strong>
     </p>
     <p>
-        Evan Suma Rosenberg, University of Minnesota, suma[at]umn.edu<br />
-        Blair MacIntyre, Georgia Institute of Technology, blair[at]cc.gatech.edu<br />
+        Aditi Majumder, Department of Computer Science, University of California, Irvine.<br />
+        Muhammad Twaha Ibrahim, Department of Computer Science, University of California, Irvine.<br />
     </p>
-    <p>
+    <!-- <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
+    </p> -->
+    <h3>Summary</h3>
+    <p>Spatially augmented reality (SAR) uses projections to augment
+    physical surfaces with digital information. SAR has been the focus of
+    enormous research in the past, culminating in works that can generate
+    geometrically registered and photometrically seamless multi-projector
+    displays automatically on complex shapes. Today, such systems are largely
+    limited to static and rigid surfaces. More recent advances have enabled SAR
+    on non-rigid, dynamic surfaces as well. In addition to the challenges faced
+    with rigid static surfaces, SAR on non-rigid, dynamic surfaces introduces a
+    host of new technical challenges that must be overcome before they are ready
+    for general use.
     </p>
     <p>
-        This tutorial will teach attendees how to develop web-based virtual reality (VR) experiences and design instructional content for teaching 3D user interface (3DUI) concepts in a remote learning modality. The tutorial content is based upon the instructors' experiences teaching Virtual Reality and 3D User Interfaces at the University of Minnesota and at Georgia Tech using Babylon.js. While the focus will be on the value of this approach for remote teaching, it was initially used for face-to-face classes because web-based tools, combined with stand-alone VR displays like the Oculus Quest, support a wider range of student computers and have a much faster development turnaround time compared to traditional game development environments such as Unity and Unreal.
+    This tutorial will present an overview of automated geometric registration
+    techniques to build SAR systems on non-rigid surfaces. It will discuss the
+    complexities introduced by a non-rigid, dynamic surface for projection, as
+    well as how prior research has attempted to overcome those challenges.
+    Finally, it will illustrate various applications for non-rigid SAR systems.
     </p>
+    <h3>Technical Level</h3>
     <p>
-        The tutorial will be divided into two 90 minutes sessions.
+    The course will be self-contained and does not assume
+    prior knowledge on SAR. Familiarity and prior exposure to basic
+    graphics/vision techniques for geometric registration and color calibration
+    will be helpful. A basic understanding of linear algebra is required.
     </p>
+    <h3>Intended Audience</h3>
     <p>
-        <strong>The first session</strong> will be aimed at developers and will introduce the audience to the fundamental concepts, software tools, and workflow for creating immersive virtual reality experiences that run in entirely within a web browser. Specific topics that will be covered include:
+    The tutorial targets students, professionals and
+    practitioners who would like to build SAR systems using one or more
+    projectors. Though the tutorial focuses on non-rigid, dynamic surfaces, the
+    first part of the tutorial provides background knowledge that comprises SAR
+    systems on rigid surfaces. This course can be extremely useful for beginners
+    who want to start research in this domain and for professionals who want to
+    build SAR systems.
     </p>
-    <ul>
-        <li>Setting up a development environment using Node</li>
-        <li>Developing web-based virtual reality experiences using Babylon.js, TypeScript, and WebXR</li>
-        <li>Simulating a connected headset and controllers using a WebXR emulator</li>
-        <li>Building and deploying experiences to a remote server</li>
-        <li>Remotely debugging experiences on the Oculus Quest</li>
-    </ul>
+    <h3>Value</h3>
     <p>
-        This session will be interactive, and template code will be available so that attendees can follow along and replicate the instructors' examples on their own machines. Although this course material was targeted for deployment on the Oculus Quest, the described platform is device agnostic and will work on a range of potential hardware. Access to a headset is also not required, and the tutorial will show how to use an emulator that simulates the presence of a VR device during development.
+    The goal of this tutorial is to impart sufficient information that the
+    audience understands the current research, its limitations as well as
+    remaining open challenges in building their own automated SAR systems for
+    non-rigid, dynamic surfaces and objects.
     </p>
-
-    <p>
-        <strong>The second session</strong> will focus primarily on design of an innovative course curriculum for remotely teaching virtual reality and 3D user interface concepts over the web. Although this will be primarily targeted towards educators and students, developers may also find the content useful. Specific topics covered in this session will include:
-    </p>
-    <ul>
-        <li>Practical challenges for remote instruction using VR devices</li>
-        <li>Designing learning objectives and content for a web-based 3DUI course</li>
-        <li>Using GitHub Classroom to evaluate student code and provide timely feedback</li>
-        <li>Facilitating group projects for remote teams</li>
-        <li>Incorporating active learning in an online modality</li>
-    </ul>
-    <p>
-        The instructors will also discuss lessons learned from the initial course pilots in Spring and Fall 2020, including things that worked well and areas for improvement. Selected web-based projects from this course will also be demonstrated with permission from the student authors. Finally, research applications, such as conducting remote experiments over the web, will also be discussed.
-    </p>
-
-    <h3>Technical Level and Intended Audience</h3>
-    <p>
-        This tutorial is intended for a wide potential audience in the virtual reality community, and would be technically accessible for students, developers, researchers, and educators. Although basic familiarity with virtual reality hardware and software will be expected, no prior knowledge of web development (e.g., JavaScript or TypeScript) will be assumed.
-    </p>
-
-    <h3>Expected Value to Audience</h3>
-    <p>
-        Web-based game engines and APIs for VR devices (e.g., WebXR) are still very new. These tools are still being actively developed, and online documentation and tutorials are relatively sparse compared to more established professional game development platforms. At the same time, the tools to use them for teaching VR/AR development and 3D user interface concepts are free and relatively lightweight, making them more accessible to a wide range of schools and students. Additionally, the COVID-19 pandemic has fore fronted the unique challenges for remote development and teaching using virtual reality technologies. This tutorial aims to provide value to conference attendees by showing how to leverage an emerging web-based virtual reality software platform and disseminating knowledge from successful remote courses using the Oculus Quest.
-    </p>
-
+    
     {% endif %}
     {% endfor %}
 </div>
@@ -155,7 +155,7 @@ title: "Tutorials"
     {% if tutorial.id == 'T2' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
-    <!-- TAKE ME TO THE EVENT START -->
+    <!-- TAKE ME TO THE EVENT START
     {% for event in site.data.events %}
     {% if event.id == 'T2' %}
     {% if event.location %}
@@ -181,9 +181,9 @@ title: "Tutorials"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+    TAKE ME TO THE EVENT END-->
 
-    <p>
+    <!-- <p>
         <strong>Organizers</strong>
     </p>
     <p>
@@ -192,24 +192,22 @@ title: "Tutorials"
     </p>
     <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
-    </p>
+    </p> -->
+    <h3>Summary</h3>
     <p>
-        This tutorial will first discuss the replication crisis in empirical science. This term was coined to describe recent significant failures to replicate empirical findings, in a number of fields, including medicine and psychology. In many cases, over 50% of previously reported results could not be replicated. This fact has shaken the foundations of these fields: Can empirical results really be believed? Should, for example, medical decisions really be based on empirical research? How many psychological findings can we believe?
+        In this tutorial we will demonstrate how to construct social virtual reality applications using our Ubiq tool. Ubiq is open source and designed to be easily extensible. It enables development of applications or systems that would be difficult or time-consuming on commercial systems. The tutorial is targeted at participants with some technical background. 
     </p>
+    <h3>Background</h3>
     <p>
-        After describing the crisis, the tutorial will revisit enough of the basics of empirical science to explain the origins of the replication crisis. The key issue is that hypothesis testing, which in empirical science is used to establish truth, is the result of a probabilistic process. However, the human mind is wired to reason absolutely: Humans have a difficult time understanding probabilistic reasoning. The tutorial will discuss some of the ways that funding agencies, such as the US National Institutes of Health (NIH), have responded to the replication crisis, by, for example, funding replication studies, and requiring that grant recipients publicly post anonymized data. Other professional organizations, including IEEE, have recently begun efforts to enhance the replicability of published research. In addition, this tutorial will discuss the replication scenario in different research domains including cognitive psychology, human computer interaction and human factor.
+        One of the most promising applications of consumer virtual reality technology is its use for remote collaboration. A very wide variety of social virtual reality (SVR) applications are now available; from competitive games amongst small numbers of players; through to conference-like setups supporting dozens of visitors. Ubiq is an open source tool that allows developers to very quickly build SVR applications. In this short tutorial, we will introduce some of the capabilities of Ubiq, demonstrate some of the tools it has, and work through a complete example of how to build a non-trivial application including custom distributed behaviours. The tutorial is backed up by extensive online documentation, other explanatory videos and a growing set of more complex example systems.
     </p>
+    <h3>Intended Audience and Technical Level</h3>
     <p>
-        Finally, the tutorial will consider how the Virtual Environments community might respond to the replication crisis. In particular, in our community the reviewing process often considers work that involves systems, architectures, or algorithms. In these cases, the reasoning behind the correctness of the results is usually absolute. Therefore, the standard for accepting papers is that the finding exhibits novelty—to some degree, the result should be surprising. However, this standard does not work for empirical studies, which typically involve human experimental subjects. Because empirical reasoning is probabilistic, important results need to be replicated, sometimes multiple times, and by different laboratories. As the replications mount, the field is justified in embracing increasing belief in the results. In other words, consider a field that, in order to accept a paper reporting empirical results, always requires surprise: This is a field that will not progress in empirical knowledge.
+        The tutorial will be of value to any student, researcher or professional who wants to develop their own social VR applications, or just wants to get a grounding in what the challenges in building such applications are. Some experience with Unity would be very useful, but not necessary as the practical part will do a guided walkthrough of the specific issues of using Unity and will not rely on prior knowledge. More experienced participants will be able to implement their own ideas rather than follow our specific guidance.
     </p>
+    <h3>Expected Value</h3>
     <p>
-        The tutorial will end with a call for the community to be more accepting of replication studies. In addition, the tutorial will consider whether actions taken by other fields, in response to the replication crisis, might also be recommendable for the Mixed Reality community.
-    </p>
-
-    <h3>Technical level, intended audience </h3>
-    <p>
-        Because of the coverage of statistical material, attendees who have some previous training in statistics might be better able to follow those parts of the tutorial. However, the material is presented at a very high level, with an emphasis on the logical reasoning behind hypothesis testing and probabilistic reasoning. Therefore, we believe that nearly all VR attendees could follow the presentation.
-
+        In this tutorial, participants will learn about SVR technologies and how to build their own system using the Ubiq toolkit in Unity. We will give a short explanation of the difficulties of using many of the commercial platforms for research and the, through examples, show how it is relatively straightforward to implement quite sophisticated applications using Ubiq. We will also give an overview of some of the open source applications built using Ubiq, including tools for running distributed and remote experiments. 
     </p>
 
     {% endif %}
@@ -222,7 +220,7 @@ title: "Tutorials"
     {% if tutorial.id == 'T3' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
-    <!-- TAKE ME TO THE EVENT START -->
+    <!-- TAKE ME TO THE EVENT START 
     {% for event in site.data.events %}
     {% if event.id == 'T3' %}
     {% if event.location %}
@@ -248,37 +246,28 @@ title: "Tutorials"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+     TAKE ME TO THE EVENT END-->
 
     <p>
         <strong>Organizers</strong>
     </p>
     <p>
-        Adam O. Bebko, Biomotionlab, York University, adambebko[at]gmail.com<br />
-        Anne Thaler, Biomotionlab, York University, athaler[at]yorku.ca<br />
+        Shen Song, Senior Solution Architecture <br />
     </p>
-    <p>
+
+    <!-- <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
-    </p>
+    </p> -->
 
     <p>
-        Advances in virtual reality (VR) technology have provided a wealth of valuable new approaches to researchers. Coding VR experiments from scratch is technically challenging. Therefore, researchers typically use software such as Unity game engine to create and edit virtual scenes that interface with VR displays. However, Unity lacks built-in tools for controlling experiments, and existing third -party add-ins require substantial scripting and coding knowledge to design even the simplest of experiments, especially for multifactorial designs.
+        Creating interactive XR environments is becoming essential for researchers in XR areas. With the modern game engine, building an XR environment is reasonably convenient. However, developing an interactive XR environment for research purposes, such as usability studies, still needs many jobs in the working pipeline, including creating 3D models, animations, lighting, etc., which would require the research team to have different members for different works in the pipeline to finish a quality XR environments. How to help the team collaborate efficiently or how to create an XR POC environment quickly is challenging. For example, the entire pipeline might need various tools, such as the tools for 3D modeling, animation, lighting, programming, real-time engine, etc. Most of the time, it is teamwork. NVIDIA Omniverse is a platform that could connect those different tools and create a collaborative working pipeline. In this half-day tutorial, a new platform from NVIDIA will be introduced called NIVIDA Omniverse. The session will include how to start working with NVIDIA Omniverse, set up the environment, build an XR environment quickly for a POC by leveraging the resources and AI capabilities in NVIDIA Omniverse, and how to present the XR environments to the users using the cloud-based Omniverse XR.
+    </p>
+    <h3>Intended Audience and value</h3>
+    <p>
+        Since NVIDIA Omniverse will provide a collaborative pipeline for the entire design and development team, this tutorial will benefit any students, researchers, or professionals who need to design and develop XR environments, manage the projects, and who will review the work. Participants with experience in using the tools like Unity, UE, Maya, Blender, and Autodesk would be helpful but unnecessary.
     </p>
     <p>
-        In this tutorial, we will provide a brief overview of a free and open-source tool called the BiomotionLab Toolkit for Unity Experiments (bmlTUX): https://biomotionlab.github.io/TUX/. Unlike existing tools, bmlTUX provides a graphical interface for configuring factorial experimental designs and turning them into executable experiments. New experiments work “out-of-the-box” and can be created with fewer than twenty lines of code. The toolkit can automatically handle the combinatorics of both random and counterbalanced factors, mixed designs with within and between-subject factors, and blocking, repetition, and randomization of trial order.
-    </p>
-    <p>
-        During runtime, the experimenter can interactively control the flow of trials and monitor the progression of the experiment. Despite its simplicity, bmlTUX remains highly flexible and customizable, catering to both novice and advanced coders. The toolkit simplifies the process of getting experiments up and running quickly without the hassle of complicated scripting. The toolkit interfaces seamlessly with VR and AR packages, allowing for quick implementation of mixed reality experiments in Unity.
-    </p>
-
-    <h3>Technical level and intended audience</h3>
-    <p>
-        Users should already have the latest version of Unity installed and be familiar with basic controls (Scene view, Game view, Inspectors, how to add scripts to GameObjects). Unity Editor version 2020.1 or above will be suitable. Users should also have some basic C# coding knowledge. We will target the novice-level coder by explaining all steps. However, some basic C# experience will be essential to follow along.
-    </p>
-
-    <h3>Expected value to that audience</h3>
-    <p>
-        Attendees will learn how to design and set up a new VR-compatible behavioural experiments using bmlTUX. This should help attendees accelerate their workflows to create VR experiments, and greatly reduce the amount of coding required to get up and running. This tutorial will also familiarize users with implementing third-party packages into Unity Game Engine.
+        In this tutorial, the participants will learn how to work with NVIDIA Omniverse in their XR design and development. NVIDIA Omniverse is free for any individual developer. The participants will also have a glance at how NVIDIA Omniverse Enterprise could improve the collaborative working pipeline. With our real customers’ experiences, using NVIDIA Omniverse with our latest RTX GPUs could improve teamwork and rendering efficiency, creating more realistic rendering results with RTX on. 
     </p>
 
     {% endif %}
@@ -291,7 +280,7 @@ title: "Tutorials"
     {% if tutorial.id == 'T4' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
-    <!-- TAKE ME TO THE EVENT START -->
+    <!-- TAKE ME TO THE EVENT START 
     {% for event in site.data.events %}
     {% if event.id == 'T4' %}
     {% if event.location %}
@@ -317,9 +306,9 @@ title: "Tutorials"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+     TAKE ME TO THE EVENT END-->
 
-    <p>
+    <!-- <p>
         <strong>Organizers</strong>
     </p>
     <p>
@@ -328,27 +317,17 @@ title: "Tutorials"
     </p>
     <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
-    </p>
+    </p> -->
 
     <p>
-        This tutorial will start by giving a general overview of research into storytelling for VR and about the field of interactive narrative design, presenting a number of cases studies and discussing ways to connect research with questions gained from the industry. The concept of interaction will be presented as a tool for storytelling, as well as the concept of Meaningful VR. A short overview of how VR producers have used the medium in attempts to change viewers’ attitudes and values, often by enabling them to enter another person’s body or experience a slice of another’s life is given. In this context a number of earlier initiatives such as VR for Good and VR for Impact will be presented.
+        A virtual digital human is broadly defined as a computer application that presents and interacts with a humanoid appearance, integrating computer graphics, computer vision, intelligent speech, natural language processing and other technologies. It can be used for digital content generation and human-computer interaction to help improve content production efficiency and user experience. In a narrow sense, it is a digital twin of a human being that exists in the non-physical world, created and used by computer means such as computer graphics, graphics rendering, motion capture, deep learning, speech synthesis, etc. It is a comprehensive product with multiple human characteristics (external appearance characteristics, human performance ability, human interaction ability, etc.). In order to make the digital human more realistic, it is necessary to construct a highly realistic appearance of the digital human through various technical means. Such construction techniques are mainly divided into static and dynamic aspects. The mainstream static modeling technology captures multiple photos of the actor through camera arrays, thus achieving 3D reconstruction of the face and body. The light field capture technology represented by Lightstage, on the other hand, solves the problem by capturing sequential photos of the human face under different lighting modes, so as to obtain multiple skin material textures required for high fidelity rendering. The dynamic construction of digital human is mainly based on 4D acquisition technology, which expands the temporal dimension based on facial reconstruction. Multi-view geometry is used for continuous and batch reconstruction using camera arrays. The generated 4D model sequences can record clearly the nonlinear deformation characteristics of the human face in motion, breaking through the limitations of traditional 3D animation technology in realism.
+    </p>
+    <h3>Intended Audience and value</h3>
+    <p>
+        This course will be of value to any student, researcher and professional who wants to develop digital humans for PGC and AIGC. There are no mandatory requirements for participants' digital human production experience and skill level for the course. Anyone with experience in digital human production will be able to find ways to improve the efficiency and quality of digital human production in the content.
     </p>
     <p>
-        After this introduction a range of related theoretical concepts, such as embodiment, acknowledgment, positive technology, media-effects, parasocial interaction, and ludonarrative meaning-making will be discussed, also addressing how technological developments have enabled new ways of including interaction in VR. Subsequently, a conceptual model that aims to bring together different concepts of interaction in VR will be presented: this model can be used to differentiate between narrative and physical interaction, which can be either active or passive.
-    </p>
-    <p>
-        In the following interactive part of the tutorial, participants will be asked to take half an hour offline to look into a VR experience or a 360° video of their choice, and use the conceptual model to interpret the observed interactive elements. After this break, participants will be asked to present and discuss their findings with the group.
-    </p>
-    <p>
-        In the last part of the tutorial, the research project VR for Diversity that was started in October 2020 will be presented, aiming to connect insights that have been gained in the previous part of the tutorial to explore the groups ideas on how interaction design can be applied to realize a Meaningful VR installation that will challenge viewers to (re)consider their views, beliefs and/or opinions on the topic of diversity.
-    </p>
-
-    <h3>Technical level, intended audience and value </h3>
-    <p>
-        The intended audience of this tutorial is interested in the possibilities of VR as a meaningful storytelling medium that can evoke positive change and create new insights with a transformative potential. Previous experience with different types of VR is helpful, but no technical skills are required.
-    </p>
-    <p>
-        Value lies in the insights into the concept of Meaningful VR from both a psychological and design perspective and the demonstration and discussion of promising applications.
+        In this tutorial, an overview of the production path and difficulties of digital figures will be presented. Participants will learn how to use 3D and 4D acquisition data to optimize the skin texture and dynamics of expression.  Examples will be used to compare the level of realism of the figures in different production paths. We will also outline some practical applications of 3D reconstruction and Unreal Engine for digital human production.
     </p>
 
     {% endif %}
@@ -361,7 +340,7 @@ title: "Tutorials"
     {% if tutorial.id == 'T5' %}
     <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
-    <!-- TAKE ME TO THE EVENT START -->
+    <!-- TAKE ME TO THE EVENT START
     {% for event in site.data.events %}
     {% if event.id == 'T5' %}
     {% if event.location %}
@@ -387,221 +366,48 @@ title: "Tutorials"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
+     TAKE ME TO THE EVENT END-->
 
     <p>
         <strong>Organizers</strong>
     </p>
     <p>
-        Darlene Barker, University of Massachusetts Lowell, MA, darlene_barker[at]student.uml.edu<br />
-        Haim Levkowitz, University of Massachusetts Lowell, MA, haim_levkowitz[at]uml.edu<br />
+        Jerald Thomas<br/> 
+        Evan Suma Rosenberg<br/> 
+        Tabitha Peck<br/>
     </p>
-    <p>
+    <!-- <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
-    </p>
+    </p> -->
 
+    <h3>About this Tutorial</h3>
     <p>
-        To make more impact on social interaction within virtual reality (VR), we need to consider the impact of emotions on our interpersonal communications and how we can express them within VR. This tutorial will show the introductory research on the topic, where we propose the use of emotions that are based upon the use of voice, facial expressions, and touch to create the emotional closeness and nonverbal intimacy needed in nonphysical interpersonal communication. Virtual and long-distance communications lack the physical contact that we have with in-person interaction as well as the nonverbal cues that enhance what the conversation is conveying. The use of haptic devices and tactile sensations can help with the delivery of touch between parties and machine learning can be used for emotion recognition based on data collected from other sensory devices; all working towards better long-distance communications.
+        Several researchers in our field are expressing concern regarding the increased amount of paper reviews they are asked to provide. This is backed up by the <a href="https://clarivate.com/lp/global-state-of-peer-review-report/">2018 Publons Global State of Peer Review (GSPR) report</a>, which shows that the number of requested reviews is outpacing the available reviewers while reviewer fatigue is on the rise. A critical finding was the need for formal training so that newer researchers can enter the peer-reviewer pool earlier and more confidently. This responsibility is often pushed onto students’ advisors, but only 16.1% of the GSRP survey respondents were asked by their supervisor or PI to write a review with them or on their behalf. Furthermore, 39.4% of respondents had never had formal peer-review training. 88% of respondents believe that formal peer-reviewer training is either important or very important for producing high-quality reviews, and 80% respond that formal peer-reviewer training would have either a positive or extremely positive outcome on the peer-review system. It is clear that the research community at large believes that more peer-review training is important, and this tutorial is an attempt to provide it, in part, to this research community.
+    </p>
+    <h3>Intended Audience</h3>
+    <p>
+        There will be no technical aspect of the tutorial, so there is no required technical level for participants. The intended audience is persons relatively new to research who will likely find themselves participating in the peer-review process. Specifically, the content will be targeted at junior researchers, including Ph.D. students, but everyone should find something useful in the content.
+    </p>
+    <h3>Expected Value for the Audience</h3>
+    <p>
+        The expected value for the audience is twofold. First, participants will have a greater understanding of the peer-review process and how to construct a quality review. With this knowledge, they should be able to enter the peer-reviewer pool earlier than they would otherwise, increasing their visibility to our community. Second, as we increase the size of the peer-reviewer pool, participants will hopefully see a more manageable number of review requests in the future, reducing the chances of reviewer fatigue.
+    </p>
+    <h3>Topics Outline</h3>
+    <p>
+    The tutorial will be broken into three, one-hour-long sections. First, there will be an introduction and an instructional presentation. The second hour will consist of hands-on and interactive activities aimed at helping participants understand the core components of quality reviews. Finally, we will conclude the tutorial with a panel made up of senior researchers in the field, of whom participants will get the opportunity to ask questions regarding the review process.
     </p>
     <p>
-        In today’s world, we are forced to remain apart due to the global pandemic and the safety measures needed to prevent its spread. So, having a better means of communicating with loved ones would be invaluable. Outside of the pandemic, the ability to experience touch as well as other senses within VR could help enhance communication between family who lives at a distance or family who is separated because some of them must travel for work. Those who are visually impaired may also benefit from such technology.
-    </p>
-    <p>
-        Topics to be covered include the following:
+        Specific topics covered by this tutorial include:
     </p>
     <ul>
-        <li>Overview of how emotions are currently being interpreted.</li>
-        <li>Overview of the instructors’ implementing of emotions to include touch in VR from a software approach, an initial stage research.</li>
-        <li>More detailed approach of the interpretation of nonverbal communication in VR, movement, facial expressions, and touch by the avatar.</li>
-        <li>Applications of the use of emotions in VR.</li>
-        <li>Discussion of further research in emotions in VR</li>
+        <li>The purpose of the peer-review process</li>
+        <li>The goal of a paper review</li>
+        <li>A description of how the peer-review process works in our field, including the more “behind the scenes” aspects</li>
+        <li>Components of a good review and signs of a bad review</li>
+        <li>Example processes for writing reviews</li>
+        <li>Additional tips, tricks, and things to remember</li>
+        <li>Discussion and Q&A</li>
     </ul>
-
-    <h3>Technical level, intended audience and value </h3>
-    <p>
-        All can benefit from this. The tutorial will be accessible technically from high-schooler and above.
-        Given our current Covid-19 measures, it could add value to communications with family at a distance and close. Outside of that, visually impaired people could benefit from this. Also, long distance communication can benefit from this research.
-    </p>
-
-    {% endif %}
-    {% endfor %}
-
-</div>
-
-<div>
-    {% for tutorial in site.data.tutorials %}
-    {% if tutorial.id == 'T6' %}
-    <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
-
-    <p>
-        <strong>Organizers</strong>
-    </p>
-    <p>
-        Suzan Oslin, UXXR Design, suzan[at]uxxr.design<br />
-        Rolf Kruse, Erfurt University of Applied Sciences, rolf.kruse[at]fh-erfurt.de<br />
-        With members of the Open AR Cloud, <a href="https://www.openarcloud.org/ieeevr2021" target="_blank">https://www.openarcloud.org/ieeevr2021</a><br />
-
-    </p>
-    <p>
-        <strong style="font-size: 0.8em;color: black">Saturday, March 27 - Friday, April 2 </strong>
-    </p>
-
-    <p>
-        The Open AR Cloud consortium (OARC) set as mission to drive the development of an open spatial computing platform (OSCP) what many refer to as the “Metaverse”, “Mirror World” or “Spatial Web”. The members of OARC have created reference implementations of the core pieces towards interoperable spatial computing technology, data, and standards to connect the physical and digital worlds. Join us for the first ever tutorial with OARC members on building client-side applications on the platform. Participants will learn about the components of the OSCP, what’s possible now and what’s on the roadmap. More importantly, participants will be given sample projects from which they will be able to build their own spatial XR experiences anchored to the real world.
-    </p>
-    <p>
-        This tutorial consists of 3 sessions spread throughout the week. After a general introductory session, participants will engage in a hands-on coding session to build demo applications, individually or in teams, and receive asynchronous support throughout the week from Open AR Cloud members. The series will culminate with live presentations in VR in front of a review panel of well known industry professionals.
-    </p>
-
-    <br />
-    <p>
-        <strong style="font-size: 0.8em;color: black">Saturday, March 27 16:00 - 17:30, Lisbon WET, UTC</strong>
-    </p>
-    <h3 id="T6S1" style="color: #00aeef;">Session 1, The Interoperable Open Spatial Computing Platform </h3>
-
-    <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
-    {% if event.id == 'T6.1' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
-
-    <p>
-        will introduce the participants to a high-level overview of spatial computing concepts, ecosystem, use cases and some of the issues and concerns surrounding the current development of proprietary walled-garden solutions. The complexity of the technology tends towards proprietary hardware and siloed solutions, yet Open AR Cloud advocates for an open spatial web, available to everyone. The OARC’s approaches include developing an open, distributed architecture; defining components that anyone or any organization can deploy; and using standards (or developing new standards where they are absent) to ensure interoperability across solutions and services.
-    </p>
-    <p>
-        During this session, participants will gain knowledge about the emerging technology stack required for interoperable publishing, discovery and consumption of content anchored to a ‘digital-twin’ of real-world locations and how it relates to other technologies such as 5G, edge computing and smart sensors. They will also learn how the Open AR Cloud is leading the way in developing open-source reference implementations of the components and tools necessary to make an open and interoperable spatial computing platform possible. Participants will learn how open technologies such as GeoPose and the Spatial Discovery Service enable interoperability between different AR clouds, while still addressing privacy and security. Come learn how the efforts of OARC members are providing a blueprint that will drive innovation and encourage collaboration towards a vibrant, accessible, open, and interoperable ecosystem.
-    </p>
-    <h4>Technical level and audience</h4>
-    <p>
-        All levels are welcome and encouraged to participate. This is an introductory tutorial, open to all that have an interest in basic concepts about delivering mixed reality on the AR cloud. The tutorial will be particularly useful for participants who want to explore the use of the Open Spatial Computing Platform (OSCP) for interoperable publishing, discovery and consumption of content.
-    </p>
-
-    <br />
-    <p>
-        <strong style="font-size: 0.8em;color: black">Saturday, March 27 18:00 - 21:00, Lisbon WET, UTC</strong>
-    </p>
-    <h3 id="T6S2" style="color: #00aeef;">Session 2, Hands-on Tutorial: Developing Spatial Applications</h3>
-
-    <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
-    {% if event.id == 'T6.2' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
-
-
-    <p>
-        is a half-day hands-on interactive coding session where participants will gain knowledge about the design, development and use of localized AR technology, placing virtual content anchored to a digital-twin and building a client side application compatible with an Open Spatial Computing Platform (OSCP). Participants will also come away with better understanding of the challenges related to building a point-cloud ‘digital-twin’ of a real-world location, the practicalities of visual positioning and localization, and the integration of virtual content into the physical world with centimeter accuracy. The participants will learn how to publish immersive content leveraging open standards for GeoPose, Spatial Discovery Service(SDS) and Content Discovery Service(CDS), and both the technical and practical aspects of interacting with geospatially placed virtual content in the real world.
-    </p>
-    <p>
-        Example applications based in both Unity / AR Foundation and Web XR / Javascript will be provided as example code base for participants to build upon to create immersive content and experiences of their choosing. Participants will be presented with several development and publishing paths that use different OSCP-compatible technologies. Participants may work alone or build teams. Asynchronous support will be provided throughout the week by seasoned mentors on the Open AR Cloud Discord server.
-    </p>
-    <p>
-        This session will culminate at <strong>Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions</strong>. Selected finalists will have the opportunity to demonstrate their creations to a live panel of industry experts in VR. Certification of completion, a one-year free membership to the Open AR Cloud, and automatic submission to the lottery for free passes to the upcoming <a href="https://awexr.org" target="_blank">AWE conference</a> will be provided to all participants that successfully submit a final project. Those interested in this session are encouraged to also attend the introductory <strong>Session 1, The Interoperable Open Spatial Computing Platform</strong>.
-    </p>
-    <p>
-        <strong style="color: rgb(201, 52, 0);">
-            In addition to registration with IEEE, participants are required to fill out the <a href="https://forms.gle/gWMZjhyKandAeEyz5" target="_blank">Developing Spatial Applications form</a> and be ready to develop their own applications, individually or in teams.
-        </strong>
-    </p>
-
-    <h4>Technical level and audience</h4>
-    <p>
-        This is an intermediate tutorial, open to designers, developers, students, faculty and practitioners with some knowledge of either Unity / AR Foundation or Web XR / Javascript and basic mixed-reality concepts.
-    </p>
-
-    <br />
-    <p>
-        <strong style="font-size: 0.8em;color: black">Friday, April 2 17:00 - 20:30, Lisbon WEST, UTC+1</strong>
-    </p>
-    
-    <h3 id="T6S3" style="color: #00aeef;">Session 3, Tutorial Demonstrations: Experiencing Spatial Interactions</h3>
-
-    <div>
-    <!-- TAKE ME TO THE EVENT START -->
-    {% for event in site.data.events %}
-    {% if event.id == 'T6.3' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div> 
-    {% endif %}
-    {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
-    </div>
-
-    <p>
-        will conclude the series by highlighting the accomplishments of the participants from <strong>Session 2, Hands-on Tutorial: Spatial Web Applications</strong>. Participants will have the opportunity to demonstrate their completed submissions and receive feedback from a panel of well known experts in the field.
-    </p>
-    <p>
-        Participants will gain knowledge about the challenges of designing and executing a spatially integrated XR experience in the real world. They will learn about some of the usability and safety pitfalls of experiencing an interactive application in a physical space from actual use cases that are being built and tested in the span of this conference. And mostly, they will learn what’s possible from lively discussions with our panel of experts, now, in the near term and in the future for spatial computing.
-    </p>
-
-    <h4>Technical level and audience</h4>
-    <p>
-        All levels are welcome and encouraged to participate. It is open to anyone interested in learning more about what’s possible for interoperable spatial computing at this time of it’s evolution. And it’s about celebrating the work of the participants who are courageous enough to jump into this nascent technology to try to build a meaningful interaction in a very limited amount of time.
-    </p>
-
 
     {% endif %}
     {% endfor %}
