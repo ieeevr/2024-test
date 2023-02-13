@@ -77,8 +77,8 @@ title_separator: "|"
     <p style="font-size: 20px;">
         Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a> 
     </p>
-    <p style="font-size: 20px;"><a href="#content">Click here to identify your registration type</a></p>
-    <p style="font-size: 20px;">
+    <!-- <p style="font-size: 20px;"><a href="#content">Click here to identify your registration type</a></p>
+    <p style="font-size: 20px;"> -->
     The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
     </p>
     <!-- <p style="font-size: 20px;">
@@ -95,32 +95,13 @@ title_separator: "|"
     </p>
 </div>
 
-
-<div>
-<h2>IEEE VR 2023 will be in hybrid mode as we planned</h2>
-<p style="font-size: 20px;">
-The global COVID-19 situation has become more stabilized now. International travel to China has been much more convenient since Jan. 8, 2023. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
-</p>
-<p style="font-size: 20px;">
-After three years of virtual online VR conferences, we understand that members of the VR community are expecting more face-to-face meetings and interactions. Therefore, we strongly encourage all to come to Shanghai to attend the IEEE VR 2023 conference in person. The conference committee has been working hard to organize an outstanding technical program to be presented physically in our conference venue, consisting of keynotes, papers, posters, research demos, 3DUI contests, videos, panels, workshops, tutorials, and doctoral consortiums. To provide more face-to-face networking opportunities, we have further prepared a cruise reception, banquet, industry/lab tour, and other activities for in-person participants.
-</p>
-<p style="font-size: 20px;">
-For those who cannot attend in person, we will provide live streaming of the conference and online platforms for presenting and interaction. Considering the possible time difference between on-site and online participants, we plan to record the live paper sessions and replay them after 12 hours (Shanghai nighttime) so that online participants may attend the paper sessions at their convenient time while communicating with authors on Slack.
-</p>
-<p style="font-size: 20px;">
-<strong>
-We look forward to seeing all of you in Shanghai soon.
-</strong>
-</p>
-</div>
-
 <table class="styled-table" id="content">
         <!-- <tr>
             <th></th>
         </tr> -->
-        <!-- <tr>
-            <th><a href="#information">Registration Information</a></th>
-        </tr> -->
+        <tr>
+            <th><a href="#hybrid">IEEE VR 2023 will be in hybrid mode as we planned</a></th>
+        </tr>
         <tr>
             <th><a href="#type">Registration Type</a></th>
         </tr>
@@ -146,6 +127,26 @@ We look forward to seeing all of you in Shanghai soon.
             <th><a href="#faq">Registation FAQ</a></th>
         </tr>
 </table>
+
+
+<div id="hybrid">
+<h2>IEEE VR 2023 will be in hybrid mode as we planned</h2>
+<p style="font-size: 20px;">
+The global COVID-19 situation has become more stabilized now. International travel to China has been much more convenient since Jan. 8, 2023. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
+</p>
+<p style="font-size: 20px;">
+After three years of virtual online VR conferences, we understand that members of the VR community are expecting more face-to-face meetings and interactions. Therefore, we strongly encourage all to come to Shanghai to attend the IEEE VR 2023 conference in person. The conference committee has been working hard to organize an outstanding technical program to be presented physically in our conference venue, consisting of keynotes, papers, posters, research demos, 3DUI contests, videos, panels, workshops, tutorials, and doctoral consortiums. To provide more face-to-face networking opportunities, we have further prepared a cruise reception, banquet, industry/lab tour, and other activities for in-person participants.
+</p>
+<p style="font-size: 20px;">
+For those who cannot attend in person, we will provide live streaming of the conference and online platforms for presenting and interaction. Considering the possible time difference between on-site and online participants, we plan to record the live paper sessions and replay them after 12 hours (Shanghai nighttime) so that online participants may attend the paper sessions at their convenient time while communicating with authors on Slack.
+</p>
+<p style="font-size: 20px;">
+<strong>
+We look forward to seeing all of you in Shanghai soon.
+</strong>
+</p>
+</div>
+
 
 
 <h3 id="type">Registration Type</h3>
