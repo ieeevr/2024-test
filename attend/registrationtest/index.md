@@ -72,7 +72,7 @@ title_separator: "|"
 <a href="http://ieeevr.org/2023/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
 </p>
 
-<div class="notice--info">
+<div>
 <h2>IEEE VR 2023 will be in hybrid mode as we planned</h2>
 <p style="font-size: 20px;">
 The global COVID-19 situation has become more stabilized now. International travel to China has been much more convenient since Jan. 8, 2023. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
@@ -131,9 +131,9 @@ We look forward to seeing all of you in Shanghai soon.
     <p style="font-size: 20px;">
     The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
     </p>
-    <p style="font-size: 20px;">
+    <!-- <p style="font-size: 20px;">
     We recommend using English to fill out the registration form in case the information in other languages may be stored incorrectly in the database and lead to the loss of some data.
-    </p>
+    </p> -->
     <p style="font-size: 20px;">
     You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
     </p>
