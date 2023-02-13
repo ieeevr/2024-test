@@ -77,8 +77,8 @@ title_separator: "|"
     <p style="font-size: 20px;">
         Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a> 
     </p>
-    <!-- <p style="font-size: 20px;"><a href="#content">Click here to identify your registration type</a></p>
-    <p style="font-size: 20px;"> -->
+    <!-- <p style="font-size: 20px;"><a href="#content">Click here to identify your registration type</a></p>-->
+    <p style="font-size: 20px;">
     The early bird registration deadline is Feb 28th, 2023 @ 23:59 AoE. Following this date, late registration fees will apply.
     </p>
     <!-- <p style="font-size: 20px;">
