@@ -155,12 +155,12 @@ title_separator: "|"
     </p>
     <div style="width: 100%">
         <div style="width: 100%; display: flex;flex-direction: row;" >
-            <img src="../../assets/images/program/social-events/SE7.png" alt="fish" style="max-width: 50%"/>
-            <img src="../../assets/images/program/social-events/SE8.png" alt="chicken" style="max-width: 50%"/>
+            <img src="../../assets/images/program/social-events/SE7.png" alt="fish" style="width: 50%"/>
+            <img src="../../assets/images/program/social-events/SE8.png" alt="chicken" style="width: 50%"/>
         </div>
         <div style="width: 100%; display: flex;flex-direction: row;">
-            <img src="../../assets/images/program/social-events/SE9.png" alt="duck" style="max-width: 50%"/>
-            <img src="../../assets/images/program/social-events/SE10.png" alt="braised" style="max-width: 50%"/>
+            <img src="../../assets/images/program/social-events/SE9.png" alt="duck" style="width: 50%"/>
+            <img src="../../assets/images/program/social-events/SE10.png" alt="braised" style="width: 50%"/>
         </div>
     </div>
 </div>
