@@ -84,7 +84,7 @@ title_separator: "|"
     You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
     </p>
     <p style="font-size: 20px;">
-    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page.
+    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page. <a href="http://ieeevr.org/2023/assets/attend/Instruction_PaymentPage.pdf" target="_blank">Find the instrution here</a>
     </p>
     <p style="font-size: 20px;">
     <strong>Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.</strong>
@@ -468,6 +468,8 @@ Authors please see the above tables.
       It may need a few minutes to open the registration system for the first time.</li>
     <li style="color: #F5725E:"><strong>Why I can't click the "Pay" button although I have filled out the form correctly?</strong><br/>
       The "Pay" button is inactive unless the server confirms the form is filled out. Usually, the confirmation is done automaticly in a minute. For uploading a digital copy of Student ID, you may wait a couple of minutes for the server to receive the registration data.</li>
+    <li style="color: #F5725E:"><strong>The guidance for the payment page:</strong><br/>
+      We support a screenshot of the payment page in English <a href="http://ieeevr.org/2023/assets/attend/Instruction_PaymentPage.pdf" target="_blank">here</a>.</li> 
 </ol>
 If you have further questions, please contact register2023[at]ieeevr.org.
     
