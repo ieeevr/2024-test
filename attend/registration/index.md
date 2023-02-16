@@ -102,9 +102,6 @@ title_separator: "|"
             <th><a href="#type">Registration Type</a></th>
         </tr>
         <tr>
-            <th><a href="#general">General Participant Registration</a></th>
-        </tr>
-        <tr>
             <th><a href="#paper">Paper Author Registration incl. TVCG Papers</a></th>
         </tr>
         <tr>
@@ -112,6 +109,9 @@ title_separator: "|"
         </tr>
         <tr>
             <th><a href="#workshops">Workshops, Tutorials, or DC Author Registration</a></th>
+        </tr>
+        <tr>
+            <th><a href="#general">General Participant Registration</a></th>
         </tr>
         <tr>
             <th><a href="#optional">Optional Items</a></th>
@@ -159,8 +159,107 @@ We look forward to seeing all of you in Shanghai soon.
   </tr>
 </table>
 
+<h3 id="paper">Paper Author Registration incl. TVCG Papers</h3>
+Please note that each accepted paper must be covered by at least one paper author registration by Feb. 28, 2023 @ 23:59 AoE.
+<table class="styled-table">
+   <tr>   
+    <th rowspan="1"><strong>Category</strong></th>
+    <th>Full Week (Sat.-Wed.) <br/>CNY ¥</th> 
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>5800</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>6960</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>4060</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>4872</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>3190</td>
+  </tr>
+</table>
+
+<h3 id="poster">Posters, Demos, Videos, or 3DUI Contests Author Registration</h3>
+Please note that each accepted poster/demo/video/3DUI contest must be covered by at least one full-week or weekday-only author registration by Feb. 28, 2023 @ 23:59 AoE.
+<table class="styled-table">
+   <tr>   
+    <th rowspan="1"><strong>Category</strong></th>
+    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
+    <th>Weekday Only (Mon.-Wed.)<br/> CNY ¥</th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>5800</td>
+    <td>4930</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>6960</td>
+    <td>5916</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>4060</td>
+    <td>3451</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>4872</td>
+    <td>4141</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>3190</td>
+    <td>/</td>
+  </tr>
+</table>
+
+<h3 id="workshops">Workshops, Tutorials, or DC Author Registration</h3>
+Please note that each workshop/tutorial/DC paper must be covered by at least one full-week or weekend-only author registration by Feb. 28, 2023 @ 23:59 AoE.
+<table class="styled-table">
+   <tr>   
+    <th rowspan="1"><strong>Category</strong></th>
+    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
+    <th>Weekend Only (Sat.-Sun.)<br/> CNY ¥</th>
+  </tr>
+  <tr>
+    <td>Member</td>
+    <td>5800</td>
+    <td>3770</td>
+  </tr>
+  <tr>
+    <td>Non-Member</td>
+    <td>6960</td>
+    <td>4524</td>
+  </tr>
+  <tr>
+    <td>Student Member</td>
+    <td>4060</td>
+    <td>2639</td>
+  </tr>
+  <tr>
+    <td>Student Non-Member</td>
+    <td>4872</td>
+    <td>3167</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
+    <td>3190</td>
+    <td>/</td>
+  </tr>
+</table>
+
 <h3 id="general">General Participant Registration</h3>
-Authors please see the next tables.
+Authors please see the above tables.
 
 <strong>Early Bird Registration Fee (CNY ¥) </strong>(on or before Feb/28/2023 @ 23:59 AoE) 
 <table class="styled-table">
@@ -319,104 +418,6 @@ Authors please see the next tables.
   </tr>
 </table>
 
-<h3 id="paper">Paper Author Registration incl. TVCG Papers</h3>
-Please note that each accepted paper must be covered by at least one paper author registration by Feb. 28, 2023 @ 23:59 AoE.
-<table class="styled-table">
-   <tr>   
-    <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.) <br/>CNY ¥</th> 
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td>5800</td>
-  </tr>
-  <tr>
-    <td>Non-Member</td>
-    <td>6960</td>
-  </tr>
-  <tr>
-    <td>Student Member</td>
-    <td>4060</td>
-  </tr>
-  <tr>
-    <td>Student Non-Member</td>
-    <td>4872</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>3190</td>
-  </tr>
-</table>
-
-<h3 id="poster">Posters, Demos, Videos, or 3DUI Contests Author Registration</h3>
-Please note that each accepted poster/demo/video/3DUI contest must be covered by at least one full-week or weekday-only author registration by Feb. 28, 2023 @ 23:59 AoE.
-<table class="styled-table">
-   <tr>   
-    <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
-    <th>Weekday Only (Mon.-Wed.)<br/> CNY ¥</th>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td>5800</td>
-    <td>4930</td>
-  </tr>
-  <tr>
-    <td>Non-Member</td>
-    <td>6960</td>
-    <td>5916</td>
-  </tr>
-  <tr>
-    <td>Student Member</td>
-    <td>4060</td>
-    <td>3451</td>
-  </tr>
-  <tr>
-    <td>Student Non-Member</td>
-    <td>4872</td>
-    <td>4141</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>3190</td>
-    <td>/</td>
-  </tr>
-</table>
-
-<h3 id="workshops">Workshops, Tutorials, or DC Author Registration</h3>
-Please note that each workshop/tutorial/DC paper must be covered by at least one full-week or weekend-only author registration by Feb. 28, 2023 @ 23:59 AoE.
-<table class="styled-table">
-   <tr>   
-    <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
-    <th>Weekend Only (Sat.-Sun.)<br/> CNY ¥</th>
-  </tr>
-  <tr>
-    <td>Member</td>
-    <td>5800</td>
-    <td>3770</td>
-  </tr>
-  <tr>
-    <td>Non-Member</td>
-    <td>6960</td>
-    <td>4524</td>
-  </tr>
-  <tr>
-    <td>Student Member</td>
-    <td>4060</td>
-    <td>2639</td>
-  </tr>
-  <tr>
-    <td>Student Non-Member</td>
-    <td>4872</td>
-    <td>3167</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
-    <td>3190</td>
-    <td>/</td>
-  </tr>
-</table>
 
 <h3 id="optional">Optional Items</h3>
 <table class="styled-table">
