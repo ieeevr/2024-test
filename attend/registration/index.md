@@ -164,9 +164,9 @@ Please note that each accepted paper must be covered by at least one paper autho
 <table class="styled-table">
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.) <br/>CNY ¥</th> 
-    <th>Weekday Only (Mon.-Wed.) <br/>CNY ¥</th> 
-    <th>Weekend Only (Sat.-Sun.) <br/>CNY ¥</th> 
+    <th>Full Week <br/>(Sat.-Wed.)<br/>CNY ¥</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.)<br/>CNY ¥</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
@@ -205,9 +205,9 @@ Please note that each accepted poster/demo/video/3DUI contest must be covered by
 <table class="styled-table">
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
-    <th>Weekday Only (Mon.-Wed.) <br/>CNY ¥</th> 
-    <th>Weekend Only (Sat.-Sun.) <br/>CNY ¥</th> 
+    <th>Full Week <br/>(Sat.-Wed.)<br/> CNY ¥</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.) <br/>CNY ¥</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
@@ -246,9 +246,9 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 <table class="styled-table">
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
-    <th>Weekday Only (Mon.-Wed.) <br/>CNY ¥</th> 
-    <th>Weekend Only (Sat.-Sun.) <br/>CNY ¥</th> 
+    <th>Full Week <br/>(Sat.-Wed.)<br/> CNY ¥</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.) <br/>CNY ¥</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
@@ -290,9 +290,9 @@ Non-authors or authors who do not need to validate their accepted publications c
   <tr>   
     <th rowspan="6"><strong>In-person Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekday Only (Mon.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th> 
+    <th>Full Week <br/>(Sat.-Wed.)</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.)</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.)</th> 
   </tr>     
   <tr>
     <td>Member</td>
@@ -327,9 +327,9 @@ Non-authors or authors who do not need to validate their accepted publications c
   <tr>   
     <th rowspan="6"><strong>Online Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekday Only (Mon.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th> 
+    <th>Full Week <br/>(Sat.-Wed.)</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.)</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.)</th> 
   </tr> 
   <tr>
     <td>Member</td>
@@ -369,9 +369,9 @@ Non-authors or authors who do not need to validate their accepted publications c
    <tr>   
     <th rowspan="6"><strong>In-person Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekday Only (Mon.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th> 
+    <th>Full Week <br/>(Sat.-Wed.)</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.)</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.)</th> 
   </tr>      
   <tr>
     <td>Member</td>
@@ -406,9 +406,9 @@ Non-authors or authors who do not need to validate their accepted publications c
    <tr>   
     <th rowspan="6"><strong>Online Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
-    <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekday Only (Mon.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th> 
+    <th>Full Week <br/>(Sat.-Wed.)</th> 
+    <th>Weekday Only <br/>(Mon.-Wed.)</th> 
+    <th>Weekend Only <br/>(Sat.-Sun.)</th> 
   </tr>      
   <tr>
     <td>Member</td>
