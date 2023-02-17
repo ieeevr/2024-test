@@ -214,7 +214,7 @@ title: "Conference Committee"
 	<h2>	Workshops Chairs	</h2>						
 		<ul>							
 			<li>	Daisuke Iwai	&#x2012; <i>	 Osaka University, Japan	</i></li>	
-			<li>	Bhuvaneswari Sarupuri	&#x2012; <i>	INRIA, University of Rennes 2, France	</i></li>
+			<li>	Bhuvaneswari Sarupuri	&#x2012; <i>	Topdesk, Hungary	</i></li>
 			<li>	Gabriel Zachmann	&#x2012; <i>	Bremen University, Germany	</i></li>
 			<li>	Xinyu Zhang	&#x2012; <i>	East China Normal University, China	</i></li>
 			<li style="list-style: none">	workshops2023 [at] ieeevr.org	</li>	
