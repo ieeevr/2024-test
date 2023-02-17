@@ -259,7 +259,7 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
 </table>
 
 <h3 id="general">General Participant Registration</h3>
-Authors please see the above tables.
+Non-authors or authors who do not need to validate their accepted publications could register as general participants. Please see the above tables for authors who need to validate their accepted publications.
 
 <strong>Early Bird Registration Fee (CNY ¥) </strong>(on or before Feb/28/2023 @ 23:59 AoE) 
 <table class="styled-table">
