@@ -134,7 +134,10 @@ The global COVID-19 situation has become more stabilized now. International trav
 After three years of virtual online VR conferences, we understand that members of the VR community are expecting more face-to-face meetings and interactions. Therefore, we strongly encourage all to come to Shanghai to attend the IEEE VR 2023 conference in person. The conference committee has been working hard to organize an outstanding technical program to be presented physically in our conference venue, consisting of keynotes, papers, posters, research demos, 3DUI contests, videos, panels, workshops, tutorials, and doctoral consortiums. To provide more face-to-face networking opportunities, we have further prepared a cruise reception, banquet, industry/lab tour, and other activities for in-person participants.
 </p>
 <p style="font-size: 20px;">
-For those who cannot attend in person, we will provide live streaming of the conference and online platforms for presenting and interaction. Considering the possible time difference between on-site and online participants, we plan to record the live paper sessions and replay them after 12 hours (Shanghai nighttime) so that online participants may attend the paper sessions at their convenient time while communicating with authors on Slack.
+For those who cannot attend in person, we will provide live streaming of the conference and online platforms for presenting and interaction. <strong>Considering the possible time difference between on-site and online participants, we plan to record the live paper sessions and replay them after 12 hours (Shanghai nighttime)</strong> so that online participants may attend the paper sessions at their convenient time while communicating with authors on Slack.
+</p>
+<p style="font-size: 20px;">
+Why we charge the registration fee as the following tables?
 </p>
 <p style="font-size: 20px;">
 <strong>
@@ -165,26 +168,38 @@ Please note that each accepted paper must be covered by at least one paper autho
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.) <br/>CNY ¥</th> 
+    <th>Weekday Only (Mon.-Wed.) <br/>CNY ¥</th> 
+    <th>Weelend Only (Sat.-Sun.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
     <td>5800</td>
+    <td>/</td>
+    <td>/</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>6960</td>
+    <td>/</td>
+    <td>/</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>4060</td>
+    <td>/</td>
+    <td>/</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>4872</td>
+    <td>/</td>
+    <td>/</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>3190</td>
+    <td>/</td>
+    <td>/</td>
   </tr>
 </table>
 
@@ -194,31 +209,37 @@ Please note that each accepted poster/demo/video/3DUI contest must be covered by
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
-    <th>Weekday Only (Mon.-Wed.)<br/> CNY ¥</th>
+    <th>Weekday Only (Mon.-Wed.) <br/>CNY ¥</th> 
+    <th>Weelend Only (Sat.-Sun.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
     <td>5800</td>
     <td>4930</td>
+    <td>/</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>6960</td>
     <td>5916</td>
+    <td>/</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>4060</td>
     <td>3451</td>
+    <td>/</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>4872</td>
     <td>4141</td>
+    <td>/</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>3190</td>
+    <td>/</td>
     <td>/</td>
   </tr>
 </table>
@@ -229,37 +250,43 @@ Please note that each workshop/tutorial/DC paper must be covered by at least one
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.)<br/> CNY ¥</th> 
-    <th>Weekend Only (Sat.-Sun.)<br/> CNY ¥</th>
+    <th>Weekday Only (Mon.-Wed.) <br/>CNY ¥</th> 
+    <th>Weelend Only (Sat.-Sun.) <br/>CNY ¥</th> 
   </tr>
   <tr>
     <td>Member</td>
     <td>5800</td>
+    <td>/</td>
     <td>3770</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>6960</td>
+    <td>/</td>
     <td>4524</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>4060</td>
+    <td>/</td>
     <td>2639</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>4872</td>
+    <td>/</td>
     <td>3167</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
     <td>3190</td>
     <td>/</td>
+    <td>/</td>
   </tr>
 </table>
 
 <h3 id="general">General Participant Registration</h3>
-Authors please see the above tables.
+Non-authors or authors who do not need to validate their accepted publications could register as general participants. Please see the above tables for authors who need to validate their accepted publications.
 
 <strong>Early Bird Registration Fee (CNY ¥) </strong>(on or before Feb/28/2023 @ 23:59 AoE) 
 <table class="styled-table">
@@ -267,32 +294,32 @@ Authors please see the above tables.
     <th rowspan="6"><strong>In-person Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th>
     <th>Weekday Only (Mon.-Wed.)</th> 
+    <th>Weelend Only (Sat.-Sun.)</th> 
   </tr>     
   <tr>
     <td>Member</td>
     <td>5800</td>
-    <td>3480</td>
     <td>4640</td>
+    <td>3480</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>6960</td>
-    <td>4176</td>
     <td>5568</td>
+    <td>4176</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>4060</td>
-    <td>2436</td>
     <td>3248</td>
+    <td>2436</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>4872</td>
-    <td>2923</td>
     <td>3898</td>
+    <td>2923</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
@@ -304,32 +331,32 @@ Authors please see the above tables.
     <th rowspan="6"><strong>Online Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th>
     <th>Weekday Only (Mon.-Wed.)</th> 
+    <th>Weelend Only (Sat.-Sun.)</th> 
   </tr> 
   <tr>
     <td>Member</td>
     <td>3480</td>
-    <td>2088</td>
     <td>2784</td>
+    <td>2088</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>4176</td>
-    <td>2506</td>
     <td>3341</td>
+    <td>2506</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>2436</td>
-    <td>1462</td>
     <td>1949</td>
+    <td>1462</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>2923</td>
-    <td>1754</td>
     <td>2339</td>
+    <td>1754</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
@@ -346,32 +373,32 @@ Authors please see the above tables.
     <th rowspan="6"><strong>In-person Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th>
     <th>Weekday Only (Mon.-Wed.)</th> 
+    <th>Weelend Only (Sat.-Sun.)</th> 
   </tr>      
   <tr>
     <td>Member</td>
     <td>6960</td>
-    <td>4176</td>
     <td>5568</td>
+    <td>4176</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>8352</td>
-    <td>5011</td>
     <td>6682</td>
+    <td>5011</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>4872</td>
-    <td>2923</td>
     <td>3898</td>
+    <td>2923</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>5846</td>
-    <td>3508</td>
     <td>4677</td>
+    <td>3508</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
@@ -383,32 +410,32 @@ Authors please see the above tables.
     <th rowspan="6"><strong>Online Participation</strong></th>
     <th rowspan="1"><strong>Category</strong></th>
     <th>Full Week (Sat.-Wed.)</th> 
-    <th>Weekend Only (Sat.-Sun.)</th>
     <th>Weekday Only (Mon.-Wed.)</th> 
+    <th>Weelend Only (Sat.-Sun.)</th> 
   </tr>      
   <tr>
     <td>Member</td>
     <td>4176</td>
-    <td>2506</td>
     <td>3341</td>
+    <td>2506</td>
   </tr>
   <tr>
     <td>Non-Member</td>
     <td>5011</td>
-    <td>3007</td>
     <td>4009</td>
+    <td>3007</td>
   </tr>
   <tr>
     <td>Student Member</td>
     <td>2923</td>
-    <td>1754</td>
     <td>2339</td>
+    <td>1754</td>
   </tr>
   <tr>
     <td>Student Non-Member</td>
     <td>3508</td>
-    <td>2105</td>
     <td>2806</td>
+    <td>2105</td>
   </tr>
   <tr>
     <td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">Life Member Fee</a></td>
