@@ -105,7 +105,7 @@ title_separator: "|"
             <th><a href="#paper">Paper Author Registration incl. TVCG Papers</a></th>
         </tr>
         <tr>
-            <th><a href="#poster">Posters, Demos, Videos, or 3DUI Contests Author Registration</a></th>
+            <th><a href="#poster">Posters, Demos, Videos, 3DUI Contests, or Panels Author Registration</a></th>
         </tr>
         <tr>
             <th><a href="#workshops">Workshops, Tutorials, or DC Author Registration</a></th>
