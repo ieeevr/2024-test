@@ -200,8 +200,10 @@ Please note that each accepted paper must be covered by at least one paper autho
   </tr>
 </table>
 
-<h3 id="poster">Posters, Demos, Videos, or 3DUI Contests Author Registration</h3>
+<h3 id="poster">Posters, Demos, Videos, 3DUI Contests, or Panels Author Registration</h3>
 Please note that each accepted poster/demo/video/3DUI contest must be covered by at least one full-week or weekday-only author registration by Feb. 28, 2023 @ 23:59 AoE.
+
+For panelists and panel moderators, panelists from the industry can be offered a complimentary one-day registration, other panelists and the moderator should be registered for at least one full-week or weekday-only author registration. Registration for the panel can be covered by other full-week or weekday-only author registrations.
 <table class="styled-table">
    <tr>   
     <th rowspan="1"><strong>Category</strong></th>
