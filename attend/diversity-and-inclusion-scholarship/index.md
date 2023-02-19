@@ -12,7 +12,7 @@ title: "Diversity and Inclusion Scholarship"
     
     <h2>Who Should Apply?</h2>
     <p>
-    This scholarship provides funds for early-career researchers (graduate students and postdocs) as well as senior researchers from <strong>under-represented or historically marginalized groups<、strong> to attend this year’s conference. These groups may include (but is not exclusive to):
+    This scholarship provides funds for early-career researchers (graduate students and postdocs) as well as senior researchers from <strong>under-represented or historically marginalized groups</strong> to attend this year’s conference. These groups may include (but is not exclusive to):
     </p>
 
     <ul>
@@ -37,7 +37,7 @@ title: "Diversity and Inclusion Scholarship"
         This scholarship will cover registration costs for attending the 2023 IEEE VR conference. Funding is available for:
     </p>
     <ul>
-        <li>Researchers with full papers accepted&ast;</li>
+        <li>Researchers with full papers accepted</li>
         <li>Researchers presenting posters</li>
         <li>Student researchers who are not presenting work but who may benefit academically or professionally from attending the conference</li>
     </ul>
