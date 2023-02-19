@@ -153,7 +153,7 @@ title_separator: "|"
         Banquet at Shangri-La
     </h2>
     <p>
-        We will host a banquet for all in-person attendees at the Shangri-La Hotel. The banquet will offer a unique experience of traditional Chinese cuisine. During the banquet, we will have a VGTC award announcement and a keynote, creating a celebratory atmosphere where attendees can share in honor of academic achievement and discuss the past, present, and future of VR technology.
+        We will host a banquet for all in-person attendees at the Shangri-La Hotel. The banquet will offer a unique experience of traditional Chinese cuisine. During the banquet, we will have a VGTC award announcement and a banquet keynote, where attendees can share in honor of academic achievement and discuss the past, present, and future of VR technology.
     </p>
     <img src="../../assets/images/program/social-events/SE10.png"  alt="Banquet" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <!-- <div style="width: 100%">
