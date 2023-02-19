@@ -15,7 +15,7 @@ title: "Keynote Speakers"
     }
 
     .styled-table thead tr {
-        background-color: #00aeef;
+        background-color: #F5725E;
         color: #ffffff;
         text-align: left;
     }
@@ -34,12 +34,12 @@ title: "Keynote Speakers"
     }
 
     .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
+        border-bottom: 2px solid #F5725E;
     }
 
     .styled-table tbody tr.active-row {
         font-weight: bold;
-        color: #00aeef;
+        color: #F5725E;
     }
 
 </style>
