@@ -79,7 +79,7 @@ title_separator: "|"
         </tr>
         <tr>
             <td>
-                <a href="#reception">Reception: Cruise on THe Huangpu River</a>
+                <a href="#reception">Reception: Cruise on The Huangpu River</a>
             </td>
             <td>
                 Monday, March 27, 2023
@@ -111,7 +111,7 @@ title_separator: "|"
         </tr>
         <tr>
             <td>
-                 <a href="#tour">One-day tour in Shanghai</a>
+                 <a href="#tour">One-day Tour in Shanghai</a>
             </td>
             <td>
                 Thurday, March 30, 2023
@@ -143,7 +143,9 @@ title_separator: "|"
         Reception: Cruise on The Huangpu River
     </h2>
     <p>
-       The IEEE VR 2023 reception will take place beneath the dragon boats of Huangpu River of shanghai. This reception will celebrate the remarkable and splendid achievements of the 30th IEEE Conference on Virtual Reality and 3D User Interfaces with the most advanced researchers, scientists, artists, and entrepreneurs, ensuring that attendees will never be disappointed with their choice.</br>
+        The IEEE VR 2023 reception will take place aboard the traditional Chinese-style boat on the Huangpu River in Shanghai. This reception will celebrate the remarkable and splendid achievements of the 30th anniversary of IEEE VR with the most advanced researchers, scientists, artists, and entrepreneurs, ensuring that attendees will never be disappointed with their choice.
+    </p>
+    <p>
        Cruising the Huangpu River allows attendees to enjoy a magnificent nightscape with the city's most famous skyscrapers. At the reception, attendees can meet research partners with similar interests and discuss state-of-the-art topics for academic interactions.
     </p>
     <img src="../../assets/images/program/social-events/SE9.png"  alt="Huangpu River" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
@@ -179,7 +181,7 @@ title_separator: "|"
     <img src="../../assets/images/program/social-events/event3.png"  alt="SJTU1" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <!-- <img src="../../assets/images/program/social-events/SE8.png"  alt="SJTU2" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
     <h2 id="tour">
-        One-day tour in Shanghai
+        One-day Tour in Shanghai
     </h2>
     <p>
     Participants can join in a one-day exploration of Shanghai, which will take them to some of the city's most iconic sights, including Yuyuan Garden, the Oriental Pearl Radio and Television Tower, and the Shanghai Municipal History Museum. 
