@@ -183,13 +183,17 @@ title: "Tutorials"
     {% endfor %}
     TAKE ME TO THE EVENT END-->
 
-    <!-- <p>
+    <p>
         <strong>Organizers</strong>
     </p>
+    
     <p>
-        J. Edward Swan II, Mississippi State University, swan[at]acm.org<br />
-        Mohammed Safayet Arefin, Mississippi State University, arefin[at]acm.org<br />
+        Anthony Steed, University College London<br />
+        Sebastian Friston, University College London<br />
+        Ben Congdon, University College London<br />
     </p>
+
+    <!-- 
     <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p> -->
@@ -252,7 +256,7 @@ title: "Tutorials"
         <strong>Organizers</strong>
     </p>
     <p>
-        Shen Song, Senior Solution Architecture <br />
+        Shen Song, Senior Solution Architecture, Nividia<br />
     </p>
 
     <!-- <p>
@@ -308,13 +312,13 @@ title: "Tutorials"
     {% endfor %}
      TAKE ME TO THE EVENT END-->
 
-    <!-- <p>
+    <p>
         <strong>Organizers</strong>
     </p>
     <p>
-        Mirjam Vosmeer, Amsterdam University of Applied Sciences, m.s.vosmeer[at]hva.nl<br />
-        Christian Roth, HKU University of the Arts Utrecht, christian.roth[at]hku.nl<br />
+        Dongdong Weng, Beijing Institute of Technology<br />
     </p>
+    <!--
     <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
     </p> -->
@@ -372,9 +376,9 @@ title: "Tutorials"
         <strong>Organizers</strong>
     </p>
     <p>
-        Jerald Thomas<br/> 
-        Evan Suma Rosenberg<br/> 
-        Tabitha Peck<br/>
+        Jerald Thomas, Virginia Tech<br/> 
+        Evan Suma Rosenberg, University of Minnesota<br/> 
+        Tabitha Peck, Davidson College<br/>
     </p>
     <!-- <p>
         <strong style="font-size: 0.8em;color: black"> {{ tutorial.schedule1 }}, {{ tutorial.timezone1 }}</strong>
