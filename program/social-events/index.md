@@ -136,7 +136,7 @@ title_separator: "|"
         Industry Forum
     </h2>
     <p>
-        This industry forum aims to explore and discuss the latest advancements regarding the metaverse in industries such as production, education, intelligent manufacturing, and cultural tourism. During the event, presenters and panelists will provide and exchange information on key technologies and business innovations related to the development of the metaverse, such as its ecology, supporting technologies, terminal applications, economic systems, and development deductions. Furthermore, discussions will focus on the practical application of relevant technologies, products, and scenarios, with case studies of successful applications and deployments. By bringing together experts in the field, this industry forum aims to encourage the adoption of these technologies and offer more value to the community.
+        This two-day industry forum aims to explore and discuss the latest advancements regarding the metaverse in industries such as production, education, intelligent manufacturing, and cultural tourism. During the event, presenters and panelists will provide and exchange information on key technologies and business innovations related to the development of the metaverse, such as its ecology, supporting technologies, end-use applications, economic systems, development, and evolution. At the same time, we will showcase metaverse-related technologies, products, and applications and present the results of cooperation in metaverse industry ecology to promote the initial transition of the metaverse industry jointly.
     </p>
     <img src="../../assets/images/program/social-events/event2.png"  alt="Metaverse" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <h2 id="reception">
@@ -155,7 +155,7 @@ title_separator: "|"
     <p>
         We will host a banquet for all in-person attendees at the Shangri-La Hotel. The banquet will offer a unique experience of traditional Chinese cuisine. During the banquet, we will have a VGTC award announcement and a banquet keynote, where attendees can share in honor of academic achievement and discuss the past, present, and future of VR technology.
     </p>
-    <img src="../../assets/images/program/social-events/SE10.png"  alt="Banquet" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
+    <!-- <img src="../../assets/images/program/social-events/SE10.png"  alt="Banquet" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
     <!-- <div style="width: 100%">
         <div style="width: 100%; display: flex;flex-direction: row;" >
             <img src="../../assets/images/program/social-events/SE7.png" alt="fish" style="width: 50%"/>
