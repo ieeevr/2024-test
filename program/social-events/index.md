@@ -138,16 +138,16 @@ title_separator: "|"
     <p>
         This two-day industry forum aims to explore and discuss the latest advancements regarding the metaverse in industries such as production, education, intelligent manufacturing, and cultural tourism. During the event, presenters and panelists will provide and exchange information on key technologies and business innovations related to the development of the metaverse, such as its ecology, supporting technologies, end-use applications, economic systems, development, and evolution. At the same time, we will showcase metaverse-related technologies, products, and applications and present the results of cooperation in metaverse industry ecology to promote the initial transition of the metaverse industry jointly.
     </p>
-    <img src="../../assets/images/program/social-events/event2.png"  alt="Metaverse" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
+    <!-- <img src="../../assets/images/program/social-events/event2.png"  alt="Metaverse" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
     <h2 id="reception">
         Reception: Cruise on The Huangpu River
     </h2>
     <p>
-        The IEEE VR 2023 reception will take place aboard the traditional Chinese-style boat on the Huangpu River in Shanghai. This reception will celebrate the remarkable and splendid achievements of the 30th anniversary of IEEE VR with the most advanced researchers, scientists, artists, and entrepreneurs, ensuring that attendees will never be disappointed with their choice.
+        The welcome reception of the IEEE VR Conference will be arranged on a Chinese-style cruise ship on the Huangpu River, with a virtual scene of the Bund on the 3D online platform, and a live broadcast of the entire tour to experience the stunning night view of both sides of the river in a simultaneous virtual and real space. At the reception, attendees can meet academic experts and research partners with similar interests, and discuss cutting-edge technology topics in a premier academic exchange.
     </p>
-    <p>
+    <!-- <p>
        Cruising the Huangpu River allows attendees to enjoy a magnificent nightscape with the city's most famous skyscrapers. At the reception, attendees can meet research partners with similar interests and discuss state-of-the-art topics for academic interactions.
-    </p>
+    </p> -->
     <img src="../../assets/images/program/social-events/SE9.png"  alt="Huangpu River" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <h2 id="banquet">
         Banquet at Shangri-La
