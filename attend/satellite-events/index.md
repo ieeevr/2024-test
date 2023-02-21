@@ -13,7 +13,7 @@ title: "Satellite Events"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <p>
-        Though IEEE VR 2023 will be in hybrid mode, several members of the IEEE VR community worldwide have agreed to organize small meeting hubs for those unable to travel to Shanghai. Please find a list of these events below, and feel free to get in touch with each event's organizer (s) for more details. More events will be added as we get closer to the conference date.
+        Though IEEE VR 2023 will be in hybrid mode, several members of the IEEE VR community worldwide have agreed to organize small meeting hubs for those unable to travel to Shanghai. Please find a list of these events below, and feel free to get in touch with each event's organizer(s) for more details. More events will be added as we get closer to the conference date.
     </p>
     <h3>Blacksburg, Virginia, USA</h3>
     <p>Organizers: </p>
