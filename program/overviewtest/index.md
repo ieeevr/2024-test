@@ -77,11 +77,11 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0800] 5px [time-0815] 5px [time-0830] 15px [time-0900] 15px [time-0930] 15px [time-1000] 15px [time-1030] 15px [time-1100] 15px [time-1130] 15px [time-1200] 15px [time-1230] 15px [time-1300] 15px [time-1330] 15px [time-1400] 15px [time-1430] 15px [time-1500] 15px [time-1530] 15px [time-1600] 15px [time-1630] 15px [time-1700] 15px [time-1730] 20px [time-1800] 20px [time-1830] 20px [time-1900] 15px [time-2000] 15px [time-2100] 15px;
+                [tracks] auto [time-0800] 5px [time-0815] 5px [time-0830] 15px [time-0900] 15px [time-0930] 15px [time-1000] 15px [time-1030] 15px [time-1100] auto[time-1130] 15px [time-1200] 15px [time-1230] 15px [time-1300] 15px [time-1330] 15px [time-1400] 15px [time-1430] 15px [time-1500] 15px [time-1530] 15px [time-1600] 15px [time-1630] 15px [time-1700] 15px [time-1730] auto [time-1800] auto [time-1830] 15px [time-1900] 15px [time-2000] 15px [time-2100] 15px;
 
             grid-template-columns:
-                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr
-                [track-4-end track-5-start] 0.5fr [track-5-end track-6-start] 0.5fr 
+                [times] 4em [track-1-start] 0.001fr [track-1-end track-2-start] 0.1fr [track-2-end track-3-start] 0.1fr [track-3-end track-4-start] 0.1fr
+                [track-4-end track-5-start] 0.1fr [track-5-end track-6-start] 0.1fr 
                 [track-6-end track-7-start] 0.5fr [track-7-end track-8-start] 0.5fr 
                 [track-8-end];
         }
