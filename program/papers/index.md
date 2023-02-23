@@ -128,6 +128,7 @@ title: "Papers"
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
+            <td>{{ session.room }}</td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -144,6 +145,7 @@ title: "Papers"
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
+            <td>{{ session.room }}</td>
         </tr>
         {% endif %}
         {% endfor %}
@@ -160,6 +162,7 @@ title: "Papers"
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
+            <td>{{ session.room }}</td>
         </tr>
         {% endif %}
         {% endfor %}
