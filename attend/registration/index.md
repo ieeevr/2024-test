@@ -498,6 +498,18 @@ Non-authors or authors who do not need to validate their accepted publications c
       We support a screenshot of the payment page in English <a href="http://ieeevr.org/2023/assets/attend/Instruction_PaymentPage.pdf" target="_blank">here</a>.</li> 
     <li style="color: #F5725E:"><strong>What is the "huge handling/service fee" mentioned on the payment page, and how much will it be? </strong><br/>
       It is an additional charge for the credit card payment. This extra charge of credit card is not charged by the university and the local bank, but by the bank of the credit card. The amount varies depending on the bank of the credit card, e.g., around 3% for some banks. The total amount will be displayed on the page of credit card payment.</li> 
+    <li style="color: #F5725E:"><strong>What if my credit card payment fails? </strong><br/>
+      You can pay by bank transfer if the credit card payment fails. See for details about <a href="#bank_transfer">the process of bank transfer</a></li>
+    <li style="color: #F5725E:" id="bank_transfer"><strong>How to pay by bank transfer? </strong><br/>
+      If you need to pay by bank transfer, we hope you can first fill out <a href="https://ieeevr.org/2023/attend/registration/">the registration form on the website</a> so we can generate a unique number to manage your registration information and the invoice. This unique number is used to represent each registration order in our registration system.
+      The step-by-step instruction below may make this process clearer:
+      <ul>
+         <li>Fill out the registration form at http://150.158.11.215:3000/register.</li>
+         <li>Click the “Pay” button at the bottom of the second page of the registration form, which equals clicking a “save” button to send the information to our server.</li>
+         <li>Email <a href="mailto:register2023@ieeevr.org?subject=Bank Transfer Request">register2023@ieeevr.org</a> to ask for an invoice. We will send an invoice as soon as possible.</li>
+         <li>Pay the registration fee and quote your invoice number that shows on the invoice. We will send a receipt once we confirm the bank transfer, which may cost a few days.</li>
+      </ul>
+</li> 
 </ol>
 If you have further questions, please contact register2023[at]ieeevr.org.
     
