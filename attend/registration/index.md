@@ -73,6 +73,7 @@ title_separator: "|"
 </p>
 
 <div style="">
+    <!-- <p style="font-size: 20px;"></p> -->
     <p style="font-size: 20px;">Contact: register2023@ieeevr.org</p>
     <p style="font-size: 20px;">
         Please note all registration fees below are in Chinese Yuan (CNY) and include tax (6%). A currency converter can be found here: <a href="https://www.xe.com/currencyconverter/" target="_blank">https://www.xe.com/currencyconverter/</a>
@@ -481,7 +482,9 @@ Non-authors or authors who do not need to validate their accepted publications c
 <h2 id="faq">Registation FAQ</h2>
 <ol>
     <li style="color: #F5725E:"><strong>How many papers/publications can be validated by one author registration?</strong><br/>
-        Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select <u>only one contribution each time</u>. <br/>Although mutiple "Author Registration" can be covered by one name, we encourage registrations followed by different names for promoting interactions among the community.</li>
+        Each registered author can validate only one paper/poster/demo/video/3DUI contest/workshop paper/tutorial/DC. <br/>For example, if you have one conference and one demo, you need a "Paper Author Registration" and a "Demo Author Registration" to validate both. In the register system, you should select <u>only one contribution each time</u>. <br/>Although mutiple "Author Registration" can be covered by one name, we encourage registrations followed by different names for promoting interactions among the community.
+        <!-- <br/><strong style="color:black;">For those who don't have co-authors and need to register for more than two publications, a 50% discount will be automatically applied for the third or more registrations with the same name and email address.</strong> -->
+        </li>
     <li style="color: #F5725E:"><strong>Can an author register as a "General Participant", while he/she actually presents a paper?</strong><br/>
         Yes. As long as the paper has one author registered as "Paper Author Registration" to validate the paper, another registered participant can present the paper.</li>
     <li style="color: #F5725E:"><strong>I am invited to present a paper previously published on TVCG. What category should I register as?</strong><br/>
@@ -505,11 +508,13 @@ Non-authors or authors who do not need to validate their accepted publications c
       The step-by-step instruction below may make this process clearer:
       <ul>
          <li>Fill out the registration form at http://150.158.11.215:3000/register.</li>
-         <li>Click the “Pay” button at the bottom of the second page of the registration form, which equals clicking a “save” button to send the information to our server.</li>
-         <li>Email <a href="mailto:register2023@ieeevr.org?subject=Bank Transfer Request">register2023@ieeevr.org</a> to ask for an invoice. Please include your personal information, i.e., name, email address, pulication ID, and IEEE member ID, in your email, making it easier to find your order. We will send an invoice as soon as possible.</li>
+         <li>Click the “Pay” button at the bottom of the second page of the registration form, which equals clicking a “save” button to send the information to our server. Also, you will get a unique bill number. </li>
+         <li>Email <a href="mailto:register2023@ieeevr.org?subject=Bank Transfer Request">register2023@ieeevr.org</a> to ask for an invoice. Please include the unique bill nubmer and your personal information, making it easier to find your order. We will send an invoice as soon as possible.</li>
          <li>Pay the registration fee and quote your invoice number that shows on the invoice. We will send a receipt once we confirm the bank transfer, which may cost a few days.</li>
       </ul>
-</li> 
+    </li> 
+    <!-- <li style="color: #F5725E:"><strong>What if my credit card payment fails? </strong><br/>
+      You can pay by bank transfer if the credit card payment fails. See for details about <a href="#bank_transfer">the process of bank transfer</a></li> -->
 </ol>
 If you have further questions, please contact register2023[at]ieeevr.org.
     
