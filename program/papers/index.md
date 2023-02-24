@@ -115,7 +115,7 @@ title: "Papers"
 
 </style>
 
-<h1>Papers</h1>
+<h1>Papers -- Tentative Program</h1>
 
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
@@ -173,7 +173,7 @@ title: "Papers"
 INVITED MISSING
 -->
 
-<!--
+
 {% for day in site.data.days %}
 <div>
     {% for session in site.data.sessions %}
@@ -186,7 +186,7 @@ INVITED MISSING
     <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
     {% endif %}
     
-
+    <!--
     {% for event in site.data.events %}
     {% if event.id == session.id %}
     {% if event.location %}
@@ -212,7 +212,7 @@ INVITED MISSING
     </div>
     {% endif %}
     {% endfor %}
-    
+    -->
     
     {% for paper in site.data.papers %}
     {% if session.id == paper.session %}
@@ -234,7 +234,17 @@ INVITED MISSING
 
     {% for p in source %}
     {% if p.id == paper.id %}
-    <p><i>{{ p.authors }}</i></p>
+    {% assign authornames = p.authors | split: ";" %}
+    <p><i>
+    {% for name in authornames %}
+    {% assign barename = name | split: ":" %}
+    {% if name == authornames.last %}
+    {{ barename.first | strip }}
+    {% else %}
+    {{ barename.first | strip }}, 
+    {% endif %}
+    {% endfor %}
+    </i></p>
     <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
@@ -253,7 +263,6 @@ INVITED MISSING
 </div>
 {% endfor %}
 
--->
 
 
 
