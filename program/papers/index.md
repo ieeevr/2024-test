@@ -173,7 +173,7 @@ title: "Papers"
 INVITED MISSING
 -->
 
-<!--
+
 {% for day in site.data.days %}
 <div>
     {% for session in site.data.sessions %}
@@ -186,7 +186,7 @@ INVITED MISSING
     <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
     {% endif %}
     
-
+    <!--
     {% for event in site.data.events %}
     {% if event.id == session.id %}
     {% if event.location %}
@@ -212,7 +212,7 @@ INVITED MISSING
     </div>
     {% endif %}
     {% endfor %}
-    
+    -->
     
     {% for paper in site.data.papers %}
     {% if session.id == paper.session %}
@@ -253,7 +253,6 @@ INVITED MISSING
 </div>
 {% endfor %}
 
--->
 
 
 
