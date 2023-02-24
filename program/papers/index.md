@@ -115,7 +115,7 @@ title: "Papers"
 
 </style>
 
-<h1>Papers</h1>
+<h1>Papers -- Tentative Program</h1>
 
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
@@ -234,7 +234,13 @@ INVITED MISSING
 
     {% for p in source %}
     {% if p.id == paper.id %}
-    <p><i>{{ p.authors }}</i></p>
+    {% assign authornames = p.authors | split: ";" %}
+    <p><i>
+    {% for name in authornames %}
+    {% assign barename = name | split: ":" %}
+    {{ barename.first | strip }}
+    {% endfor %}
+    </i></p>
     <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
