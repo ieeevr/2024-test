@@ -238,7 +238,7 @@ INVITED MISSING
     <p><i>
     {% for name in authornames %}
     {% assign barename = name | split: ":" %}
-    {{ barename.first | strip }}
+    {{ barename.first | strip }}, 
     {% endfor %}
     </i></p>
     <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
