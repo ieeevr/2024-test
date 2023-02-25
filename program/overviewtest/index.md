@@ -75,20 +75,20 @@ title: "Program Overview"
 
         .schedule-sat-25 {
             display: grid;
-            grid-gap: 1em;
+            grid-gap: 0.3em;
             grid-template-rows:
                 [tracks] auto [time-0800] 5px [time-0815] 5px [time-0830] 15px [time-0900] 15px [time-0930] 15px [time-1000] 15px [time-1030] 15px [time-1100] auto[time-1130] 15px [time-1200] 15px [time-1230] 15px [time-1300] 15px [time-1330] 15px [time-1400] 15px [time-1430] 15px [time-1500] 15px [time-1530] 15px [time-1600] 15px [time-1630] 15px [time-1700] 15px [time-1730] auto [time-1800] auto [time-1830] 15px [time-1900] 15px [time-2000] 15px [time-2100] 15px;
 
             grid-template-columns:
-                [times] 4em [track-1-start] 0.001fr [track-1-end track-2-start] 0.1fr [track-2-end track-3-start] 0.1fr [track-3-end track-4-start] 0.1fr
-                [track-4-end track-5-start] 0.1fr [track-5-end track-6-start] 0.1fr 
-                [track-6-end track-7-start] 0.5fr [track-7-end track-8-start] 0.5fr 
+                [times] 3em [track-1-start] 0.1fr[track-1-end track-2-start] 0.1fr[track-2-end track-3-start] 0.1fr[track-3-end track-4-start] 0.1fr
+                [track-4-end track-5-start] 0.1fr[track-5-end track-6-start] 0.1fr
+                [track-6-end track-7-start] 0.1fr[track-7-end track-8-start] 0.1fr
                 [track-8-end];
         }
 
         .schedule-sun-27 {
             display: grid;
-            grid-gap: 1em;
+            grid-gap: 4em;
             grid-template-rows:
                 [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 5px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-1930] 5px [time-2000] 5px [time-2030] 5px;
 
