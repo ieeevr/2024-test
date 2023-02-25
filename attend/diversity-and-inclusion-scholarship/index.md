@@ -48,9 +48,10 @@ title: "Diversity and Inclusion Scholarship"
     <h2>Application Guidelines</h2>
     <p>
     Interested individuals may apply via the following Google Form:
+    <br>
 
-    <a href="https://docs.google.com/forms/d/1b6xLKMJT0tgN8r7gZqvwmCdRY5JD1Qxyd9j50e84S-k/edit">Apply Now</a>
-
+    <a href="https://forms.gle/mCGf251RmS8pyBiU6">Apply Now</a>
+    <br>
     The information provided by the candidates will be accessible only to the members of the Inclusion, Diversity and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2023. For this, please write an email to diversity2023@ieeevr.org. After the 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Inclusion, Diversity and Accessibility committee of future iterations of IEEE VR for statistical purposes.
     </p>
     <p>

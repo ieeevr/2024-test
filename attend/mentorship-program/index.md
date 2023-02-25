@@ -20,7 +20,7 @@ title_separator: "|"
         Interested individuals can apply to the Mentorship Program after registering for the 2023 IEEE VR conference. Mentors and mentees will be matched by the program organizers based on different levels of IEEE VR experience and research interests and will be put in contact before the conference begins.
     </p>
     <p> 
-        A sign-up <a href="https://docs.google.com/forms/d/1jRSAInWjZO-8fQST5UOfoRGiyw9nPDKeEWOTOcI-RtA/edit">form</a> will be shared with <strong>all registered attendees</strong> of the IEEE VR 2023 conference. Interested participants should complete this form by <strong>March 24, 2023</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins. First time attendees will receive priority consideration for a mentor, and the mentorship program will be open to the most compelling 40 applicants, based on need and order of application.
+        A sign-up <a href="https://forms.gle/hnnTFsnUMunntxXv8">form</a> will be shared with <strong>all registered attendees</strong> of the IEEE VR 2023 conference. Interested participants should complete this form by <strong>March 24, 2023</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins. First time attendees will receive priority consideration for a mentor, and the mentorship program will be open to the most compelling 40 applicants, based on need and order of application.
     </p>
 
     <h2>What is involved in this program?</h2>
