@@ -7,7 +7,7 @@ title: "Diversity and Inclusion Scholarship"
     <h1>Diversity and Inclusion Scholarship</h1>
 
     <p>
-    IEEE VR 2023 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for the <strong>2021 Inclusion, Diversity, and Accessibility Scholarship</strong>. 
+    IEEE VR 2023 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for the <strong>2023 Inclusion, Diversity, and Accessibility Scholarship</strong>. 
     </p>
     
     <h2>Who Should Apply?</h2>
@@ -55,7 +55,6 @@ title: "Diversity and Inclusion Scholarship"
     </p>
     <p>
     The deadline for application is the <strong>10th of March 2023</strong>. The deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00, no matter where the submitter is located. Recipients of the Scholarship will be informed by the 20th of March 2023. 
-    The deadline for application is the 15th of March 2021. The deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00, no matter where the submitter is located. Recipients of the Scholarship will be informed by the 22nd of March 2021. 
     </p>
     
     <h2>Questions?</h2>
