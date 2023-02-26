@@ -98,6 +98,18 @@ title: "Program Overview"
                 [track-6-end track-7-start] 0.5fr [track-7-end];
         }
 
+        .schedule-wed-29 {
+            display: grid;
+            grid-gap: 4em;
+            grid-template-rows:
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr[time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730];
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr
+                [track-4-end track-5-start] 0.5fr [track-5-end track-6-start] 0.5fr 
+                [track-6-end track-7-start] 0.5fr [track-7-end];
+        }
+
         .schedule-fri-2 {
             display: grid;
             grid-gap: 1em;
@@ -613,7 +625,7 @@ title: "Program Overview"
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Shanghai, China, UTC+8</strong></center>
-                <div class="schedule-wed-28" aria-labelledby="schedule-heading">
+                <div class="schedule-wed-29" aria-labelledby="schedule-heading">
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
