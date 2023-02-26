@@ -261,7 +261,7 @@ title: "Program Overview"
     }
 
     .track-break {
-        background-color: #ddf6ff;
+        background-color: #618285;
         color: #464646;
     }
 
@@ -646,7 +646,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1515;">15:15</p>
                     <p class="time-slot" style="grid-row: time-1615;">16:15</p>
                     <p class="time-slot" style="grid-row: time-1630;">16:30</p>
-                    <p class="time-slot" style="grid-row: time-1630;">17:00</p>
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
                         <h3 class="session-title"><a>Paper Session20 Gestures/Interaction-19</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
