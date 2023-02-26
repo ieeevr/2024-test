@@ -124,33 +124,9 @@ title: "Panels"
     <p>
     {{ panel.abstract }}
     </p>
-    <!--
-    {% for event in site.data.events %}
-    {% if event.id == session.id %}
-    {% if event.location %}
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
 
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
     {% endif %}
     {% endfor %}
-    -->
 </div>
 {% endfor %}
 
