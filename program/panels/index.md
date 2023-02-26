@@ -141,7 +141,7 @@ title: "Panels"
             <th></th>
         </tr>
         {% for panel in site.data.panels %}
-        {% if panel.day == 'Monday, March 27, 2023' %}
+        {% if panel.day == 'Tuesday, March 28, 2023' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ panel.id }}">{{ panel.name }}</a></td>
             <td>{{ panel.starttime }} - {{ panel.panel }}</td>
@@ -158,7 +158,7 @@ title: "Panels"
             <th></th>
         </tr>
         {% for panel in site.data.panels %}
-        {% if panel.day == 'Monday, March 27, 2023' %}
+        {% if panel.day == 'Wednesday, March 29, 2023' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ panel.id }}">{{ panel.name }}</a></td>
             <td>{{ panel.starttime }} - {{ panel.panel }}</td>
@@ -176,7 +176,7 @@ title: "Panels"
 
     <h2 id="{{ panel.id }}">{{ panel.name }}: {{ panel.title }}   ({{  panel.type  }})</h2>
     
-    <p><strong>{{ panel.day }}, {{ panel.starttime }}, {{ panel.timezone }}, {{ panel.room }}</strong></p>
+    <p><strong>{{ panel.day }}, {{ panel.start }}-{{ panel.end }}, {{ panel.timezone }}, {{ panel.room }}</strong></p>
 
     <h3>Moderator</h3>
     <p>
