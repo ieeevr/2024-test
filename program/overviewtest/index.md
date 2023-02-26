@@ -77,7 +77,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 0.3em;
             grid-template-rows:
-                [tracks] auto [time-0800] 15px [time-0815] 15px [time-0830] 20px [time-0900] 35px [time-0930] 35px [time-1000] 35px[time-1030] 35px [time-1100] 35px[time-1130] auto [time-1200] 35px [time-1230] 35px [time-1300] 35px [time-1330] 35px [time-1400] 35px [time-1430] 35px [time-1500] 35px [time-1530] 35px [time-1600] auto [time-1630] 35px [time-1700] 35px [time-1730] auto [time-1800] auto [time-1830] 35px [time-1900] 35px [time-2000] 35px [time-2100] 35px;
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr[time-1030] 0.5fr [time-1100] 0.5fr[time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr;
 
             grid-template-columns:
                 [times] 3em [track-1-start] 0.1fr[track-1-end track-2-start] 0.1fr[track-2-end track-3-start] 0.1fr[track-3-end track-4-start] 0.1fr
@@ -86,24 +86,23 @@ title: "Program Overview"
                 [track-8-end];
         }
 
-        .schedule-sun-27 {
+        .schedule-sun-26 {
             display: grid;
             grid-gap: 4em;
             grid-template-rows:
-                [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 5px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-1930] 5px [time-2000] 5px [time-2030] 5px;
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr[time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730];
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr
                 [track-4-end track-5-start] 0.5fr [track-5-end track-6-start] 0.5fr 
-                [track-6-end track-7-start] 0.5fr [track-7-end track-8-start] 0.5fr 
-                [track-8-end];
+                [track-6-end track-7-start] 0.5fr [track-7-end];
         }
 
         .schedule-fri-2 {
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-                [tracks] auto [time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 10px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-1930] 5px [time-2000] 5px [time-2030] 5px;
+                [tracks] auto [time-0800][time-0900] 5px [time-0930] 5px [time-1000] 5px [time-1030] 5px [time-1100] 5px [time-1130] 5px [time-1200] 5px [time-1230] 5px [time-1300] 5px [time-1330] 5px [time-1400] 5px [time-1430] 5px [time-1500] 5px [time-1530] 10px [time-1600] 5px [time-1630] 5px [time-1700] 5px [time-1730] 5px [time-1800] 5px [time-1830] 5px [time-1900] 5px [time-1930] 5px [time-2000] 5px [time-2030] 5px;
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end];
@@ -443,33 +442,33 @@ title: "Program Overview"
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <p class="time-slot" style="grid-row: time-0830;">08:30</p>
-                    <div class="session session-2 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-1300;">
+                    <div class="session session-3 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-1300;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#MASSXR">Workshop: Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR)</a></h3>
                         <span class="session-time">8:30 - 13:10</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-2 track-green" style="grid-column: track-4-start / track-4-end; grid-row: time-0830 / time-1130;">
+                    <div class="session session-4 track-green" style="grid-column: track-4-start / track-4-end; grid-row: time-0830 / time-1130;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#TrainingXR">Workshop: 4th Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR)</a></h3>
                         <span class="session-time">8:30 - 11:30</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-2 track-green" style="grid-column: track-6-start / track-6-end; grid-row: time-0830 / time-1730;">
+                    <div class="session session-5 track-green" style="grid-column: track-6-start / track-6-end; grid-row: time-0830 / time-1730;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#XRIOS">Workshop: 2nd International Workshop on eXtended Reality for Industrial and Occupational Support (XRIOS)</a></h3>
                         <span class="session-time">8:30 - 17:30</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
-                    <div class="session session-2 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
+                    <div class="session session-6 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#KELVAR">Workshop: KELVAR Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-2 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0900 / time-1700;">
+                    <div class="session session-7 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0900 / time-1700;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ENPT-XR">Workshop: Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR)</a></h3>
                         <span class="session-time">9:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-4 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-0900 / time-1230;">
+                    <div class="session session-8 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-0900 / time-1230;">
                         <h3 class="session-title"><a href="/2023/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">9:00 - 12:30</span>
                     </div>
@@ -479,24 +478,24 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-                    <div class="session session-6 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1700;">
+                    <div class="session session-9 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#XRHealth">Workshop: 2nd XR Health workshop - XR Technologies for Healthcare and Wellbeing (XR Health)</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-8 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
+                    <div class="session session-10 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ReDigiTS">Workshop: 3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span> -->
                     </div>
-                    <div class="session session-7 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-1400 / time-1730;">
+                    <div class="session session-11 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-1400 / time-1730;">
                         <h3 class="session-title"><a href="/2023/program/doctoral-consortium/">Doctoral Consortium</a></h3>
                         <span class="session-time">14:00 - 17:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-                    <div class="session session-9S2 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-1700 / time-1830;">
+                    <div class="session session-12 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-1700 / time-1830;">
                         <h3 class="session-title">
                             <a href="/2023/program/tutorials/#T2">
                                 Tutorial: Introduction to Building Social Virtual Reality with Ubiq
@@ -515,24 +514,37 @@ title: "Program Overview"
 </div>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Sunday, March 28</label>
+    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Sunday, March 26</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <center><strong>Lisbon WEST, UTC+1</strong></center>
-                <div class="schedule-sun-28" aria-labelledby="schedule-heading">
+                <center><strong>Shanghai, China, UTC+8</strong></center>
+                <div class="schedule-sun-26" aria-labelledby="schedule-heading">
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
-
-                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
-
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-6; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-7; grid-row: tracks;"></span>
+                    <p class="time-slot" style="grid-row: time-0800;">8:00</p>
+                    <div class="session session-1 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0800 / time-1330;">
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#WIVL">Workshop: Workshop on Immersive Visualization Laboratories - Past Present and Future</a></h3>
+                        <span class="session-time">8:00 - 13:40</span>
+                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
+                    </div>
+                    <p class="time-slot" style="grid-row: time-0815;">8:15</p>
                     <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ANIVAE">Workshop: Animation in Virtual and Augmented Environments (ANIVAE)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
                     </div>
-
+                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
+                    <div class="session session-1 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
+                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ANIVAE">Workshop: Animation in Virtual and Augmented Environments (ANIVAE)</a></h3>
+                        <span class="session-time">9:00 - 12:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span>
+                    </div>
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
                     <div class="session session-2 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1300 / time-1600;">
                         <h3 class="session-title"><a href="/2021/program/tutorials/#T2">Tutorial: The Replication Crisis in Empirical Science: Implications for Human Subject Research in MR</a></h3>
@@ -549,7 +561,6 @@ title: "Program Overview"
                         <span class="session-time">13:00 - 16:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
-
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <div class="session session-5 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SeatedVR">Workshop: Seated Virtual Reality & Embodiment (SeatedVR) </a></h3>
@@ -567,11 +578,11 @@ title: "Program Overview"
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
 </div>
+
 <!--
 <div>
     <div class="wrap-collabsible"> <input id="collapsible3" class="toggle" type="checkbox" checked> <label for="collapsible3" class="lbl-toggle">Monday, March 29</label>
