@@ -90,12 +90,24 @@ title: "Program Overview"
             display: grid;
             grid-gap: 4em;
             grid-template-rows:
-                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr[time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730];
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr[time-1030] 0.5fr [time-1100] 0.5fr[time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr;
 
             grid-template-columns:
                 [times] 4em [track-1-start] 0.5fr [track-1-end track-2-start] 0.5fr [track-2-end track-3-start] 0.5fr [track-3-end track-4-start] 0.5fr
                 [track-4-end track-5-start] 0.5fr [track-5-end track-6-start] 0.5fr 
                 [track-6-end track-7-start] 0.5fr [track-7-end];
+        }
+
+        .schedule-wed-29 {
+            display: grid;
+            grid-gap: 0.3em;
+            grid-template-rows:
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.25fr [time-0945] 0.25fr [time-1000] 0.5fr[time-1030] 0.25fr [time-1045] 0.25fr [time-1100] 0.5fr[time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.25fr [time-1515] 0.25fr [time-1530] 0.5fr [time-1600] 0.25fr [time-1615] 0.25fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr;
+
+            grid-template-columns:
+                [times] 3em [track-1-start] 0.12fr [track-1-end track-2-start] 0.12fr [track-2-end track-3-start] 0.12fr [track-3-end track-4-start] 0.12fr
+                [track-4-end track-5-start] 0.12fr [track-5-end track-6-start] 0.12fr 
+                [track-6-end track-7-start] 0.12fr [track-7-end];
         }
 
         .schedule-fri-2 {
@@ -219,6 +231,21 @@ title: "Program Overview"
         color: #fff;
     }
 
+    .track-5 {
+        background-color: #bf8f00;
+        color: #fff;
+    }
+    
+    .track-6 {
+        background-color: #53c5ca;
+        color: #fff;
+    }
+
+    .track-7 {
+        background-color: #f4b084;
+        color: #464646;
+    }
+
     .track-all {
         display: flex;
         justify-content: center;
@@ -229,12 +256,12 @@ title: "Program Overview"
     }
 
     .track-teal {
-        background-color: #00aeef;
+        background-color: #53c5ca;
         color: #fff;
     }
 
     .track-break {
-        background-color: #ddf6ff;
+        background-color: #618285;
         color: #464646;
     }
 
@@ -264,7 +291,17 @@ title: "Program Overview"
     }
 
     .track-keynote {
-        background-color: rgb(255, 45, 85);
+        background-color: rgb(135, 95, 200);
+        color: #fff;
+    }
+
+    .track-lunch {
+        background-color: rgb(198, 224, 180);
+        color: #fff;
+    }
+
+    .track-poster {
+        background-color: rgb(255, 230, 153);
         color: #fff;
     }
 
@@ -576,6 +613,131 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#TrainingXR">Workshop: 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR) - 2</a></h3>
                         <span class="session-time">17:00 - 21:00</span>
                         <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Wednesday, March 29</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                <center><strong>Shanghai, China, UTC+8</strong></center>
+                <div class="schedule-wed-29" aria-labelledby="schedule-heading">
+                    <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-6; grid-row: tracks;"></span>
+                    <span class="track-slot" aria-hidden="true" style="grid-column: track-7; grid-row: tracks;"></span>
+                    <p class="time-slot" style="grid-row: time-0830;">08:30</p>
+                    <p class="time-slot" style="grid-row: time-0930;">09:30</p>
+                    <p class="time-slot" style="grid-row: time-0945;">09:45</p>
+                    <p class="time-slot" style="grid-row: time-1045;">10:45</p>
+                    <p class="time-slot" style="grid-row: time-1100;">11:00</p>
+                    <p class="time-slot" style="grid-row: time-1200;">12:00</p>
+                    <p class="time-slot" style="grid-row: time-1230;">12:30</p>
+                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
+                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    <p class="time-slot" style="grid-row: time-1515;">15:15</p>
+                    <p class="time-slot" style="grid-row: time-1615;">16:15</p>
+                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
+                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <div class="session session-1 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title"><a>Paper Session20 Gestures/Interaction-19</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+                    <div class="session session-2 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title"><a>Paper Session21 Perception-21</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+                    <div class="session session-3 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0930;">
+                        <h3 class="session-title"><a>Panel3 [remote] (8:30-9:30) Standards for Virtual Reality</a></h3>
+                        <span class="session-time">8:30 - 9:30</span>
+                    </div>
+                    <div class="session session-4 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-0930 / time-0945;">
+                        <h3 class="session-title"><a>break</a></h3>
+                        <span class="session-time">9:30 - 9:45</span>
+                    </div>
+                    <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-1-end; grid-row: time-0945 / time-1045;">
+                        <h3 class="session-title"><a>Keynote3</a></h3>
+                        <span class="session-time">09:45 - 10:45</span>
+                    </div>
+                    <div class="session session-4 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1045 / time-1100;">
+                        <h3 class="session-title"><a>break</a></h3>
+                        <span class="session-time">10:45 - 11:00</span>
+                    </div>
+                    <div class="session session-5 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1100 / time-1200;">
+                        <h3 class="session-title"><a>Paper Session22 Perception-22</a></h3>
+                        <span class="session-time">11:00 - 12:00</span>
+                    </div>
+                    <div class="session session-6 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1100 / time-1200;">
+                        <h3 class="session-title"><a>Paper Session23 SocialEmotional-23</a></h3>
+                        <span class="session-time">11:00 - 12:00</span>
+                    </div>
+                    <div class="session session-7 track-teal" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1200;">
+                        <h3 class="session-title"><a>Paper Session24 Education/Medical-24</a></h3>
+                        <span class="session-time">11:00 - 12:00</span>
+                    </div>
+                    <div class="session session-8 track-poster" style="grid-column: track-1-start / track-7-end; grid-row: time-1200 / time-1230;">
+                        <h3 class="session-title"><a>Posters & Demos & 3DUI Contest fast forward: session 3</a></h3>
+                        <span class="session-time">12:00 - 12:30</span>
+                    </div>
+                    <div class="session session-9 track-lunch" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1400;">
+                        <h3 class="session-title"><a>lunch</a></h3>
+                        <span class="session-time">12:30 - 14:00</span>
+                    </div>
+                    <div class="session session-10 track-3dui" style="grid-column: track-4-start / track-4-end; grid-row: time-1230 / time-1400;">
+                        <h3 class="session-title"><a>Exhibition</a></h3>
+                        <span class="session-time">12:30 - 14:00</span>
+                    </div>
+                    <div class="session session-11 track-5" style="grid-column: track-5-start / track-5-end; grid-row: time-1230 / time-1400;">
+                        <h3 class="session-title"><a>Posters & Demos: session 3</a></h3>
+                        <span class="session-time">12:30 - 14:00</span>
+                    </div>
+                    <div class="session session-12 track-6" style="grid-column: track-6-start / track-6-end; grid-row: time-1230 / time-1400;">
+                        <h3 class="session-title"><a>3DUI Contest</a></h3>
+                        <span class="session-time">12:30 - 14:00</span>
+                    </div>
+                    <div class="session session-13 track-orange" style="grid-column: track-7-start / track-7-end; grid-row: time-1230 / time-1400;">
+                        <h3 class="session-title"><a>Videos</a></h3>
+                        <span class="session-time">12:30 - 14:00</span>
+                    </div>
+                    <div class="session session-14 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title"><a>Panel4 (14:00-15:00) Challenges and Opportunities of XR Applications for High-Risk Incidents</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+                    <div class="session session-14 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title"><a>Paper Session25 Agents/Perception-26</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+                    <div class="session session-14 track-teal" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
+                        <h3 class="session-title"><a>Paper Session26 Multimodal-25</a></h3>
+                        <span class="session-time">14:00 - 15:00</span>
+                    </div>
+                    <div class="session session-15 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1500 / time-1515;">
+                        <h3 class="session-title"><a>break</a></h3>
+                        <span class="session-time">15:00 - 15:15</span>
+                    </div>
+                    <div class="session session-16 track-teal" style="grid-column: track-1-start / track-1-end; grid-row: time-1515 / time-1615;">
+                        <h3 class="session-title"><a>Paper Session27 FoveatedRendering/Gaze/Haptics-27</a></h3>
+                        <span class="session-time">15:15 - 16:15</span>
+                    </div>
+                    <div class="session session-17 track-teal" style="grid-column: track-2-start / track-2-end; grid-row: time-1515 / time-1615;">
+                        <h3 class="session-title"><a>Paper Session28 InfoVis/TextEntry-28</a></h3>
+                        <span class="session-time">15:15 - 16:15</span>
+                    </div>
+                    <div class="session session-18 track-break" style="grid-column: track-1-start / track-2-end; grid-row: time-1615 / time-1630;">
+                        <h3 class="session-title"><a>break</a></h3>
+                        <span class="session-time">16:15 - 16:30</span>
+                    </div>
+                    <div class="session session-19 track-7" style="grid-column: track-1-start / track-3-end; grid-row: time-1630 / time-1700;">
+                        <h3 class="session-title"><a>Closing & Awards</a></h3>
+                        <span class="session-time">16:30 - 17:00</span>
                     </div>
                 </div>
             </div>
