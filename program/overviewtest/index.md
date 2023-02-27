@@ -633,7 +633,7 @@ title: "Program Overview"
 </div>
 
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible2" class="toggle" type="checkbox" checked> <label for="collapsible2" class="lbl-toggle">Wednesday, March 29</label>
+    <div class="wrap-collabsible"> <input id="collapsible29" class="toggle" type="checkbox" checked> <label for="collapsible29" class="lbl-toggle">Wednesday, March 29</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <center><strong>Shanghai, China, UTC+8</strong></center>
