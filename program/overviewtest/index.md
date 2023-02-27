@@ -101,6 +101,21 @@ title: "Program Overview"
                 [track-6-end track-7-start] 0.12fr [track-7-end];
         }
 
+        .schedule-sun-27 {
+            display: grid;
+            grid-gap: 0.3em;
+            grid-template-rows:
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr[time-1030] 0.5fr [time-1100] 0.5fr[time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr
+                [time-1900] 0.5fr [time-1930] 0.5fr [time-2000] 0.5fr
+                [time-2030] 0.5fr [time-2100] 0.5fr [time-2130] 0.5fr
+                [time-2200] 0.5fr;
+
+            grid-template-columns:
+                [times] 4em [track-1-start] 0.12fr [track-1-end track-2-start] 0.12fr [track-2-end track-3-start] 0.12fr [track-3-end track-4-start] 0.12fr
+                [track-4-end track-5-start] 0.12fr [track-5-end track-6-start] 0.12fr 
+                [track-6-end track-7-start] 0.12fr [track-7-end];
+        }
+
         .schedule-wed-29 {
             display: grid;
             grid-gap: 0.3em;
@@ -607,10 +622,10 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-                    <p class="time-slot" style="grid-row: time-1700;">18:00</p>
-                    <p class="time-slot" style="grid-row: time-1700;">19:00</p>
-                    <p class="time-slot" style="grid-row: time-1700;">20:00</p>
-                    <p class="time-slot" style="grid-row: time-1700;">21:00</p>
+                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <p class="time-slot" style="grid-row: time-1900;">19:00</p>
+                    <p class="time-slot" style="grid-row: time-2000;">20:00</p>
+                    <p class="time-slot" style="grid-row: time-2100;">21:00</p>
                     <div class="session session-7 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-2100;">
                         <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#SeatedVR">Workshop: Seated Virtual Reality & Embodiment (SeatedVR) </a></h3>
                         <span class="session-time">17:00 - 21:00</span>
