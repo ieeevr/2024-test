@@ -32,5 +32,6 @@ title: "Satellite Events"
     <li>Takafumi Taketomi - <a href="mailto:taketomi.takafumi@ieee.org?subject=IEEE VR 2023 Satellite Event - Osaka">taketomi.takafumi@ieee.org</a> </li>
     <li>Kiyoshi Kiyokawa - <a href="mailto:kiyo@is.naist.jp?subject=IEEE VR 2023 Satellite Event - Osaka">kiyo@is.naist.jp</a> </li>
     </ul>
+    <p><a href="http://sigmr.vrsj.org/events/2023Mar.html">Click here for more information on this event.</a></p>
 </div>
 
