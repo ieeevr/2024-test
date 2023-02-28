@@ -25,5 +25,12 @@ title: "Satellite Events"
     <p>We are organizing a 2023 IEEE VR satellite event at Virginia Tech in Blacksburg, Virginia, USA. Virginia Tech is uniquely situated in the southeastern U.S. to be within driving distance to several other universities with a strong VR/AR research presence, and is accessible by air travel for those in other parts of the U.S.</p>
     <p>The satellite event will be held during the main portion of the conference (Monday, Tuesday, and Wednesday). The current plan is to play the conference content 12 hours later than the standard schedule in Shanghai. We will host the event at Virginia Tech’s Moss Arts Center, where we will have exclusive access to three rooms during the event, the largest of which can comfortably seat 75 individuals. Each of the paper tracks will be shown in one of the three rooms. In addition to these rooms, we will have access to a more public area where we will hold coffee breaks as well as show posters/demos/etc. from the attendees.</p>
     <p>Community is at the forefront of our thought process, and we want the ability for all attendees to fit in the large room for opening/closing remarks, keynotes, etc. Because of this, we are setting the attendance cap to 75 attendees. We are also planning a banquet and lab tours/demos of the Virginia Tech VR/AR research labs and art installations. We hope to provide a quality and inspiring experience to the U.S. based members of our community who are unable to travel to Shanghai, specifically students who have not yet had the opportunity to attend an in-person conference.</p>
+    <h3>Osaka, Japan</h3>
+    <p>Organizers: </p>
+    <ul>
+    <li>Daisuke Iwai - <a href="mailto:daisuke.iwai@sys.es.osaka-u.ac.jp?subject=IEEE VR 2023 Satellite Event - Osaka">daisuke.iwai@sys.es.osaka-u.ac.jp</a> </li>
+    <li>Takafumi Taketomi - <a href="mailto:taketomi.takafumi@ieee.org?subject=IEEE VR 2023 Satellite Event - Osaka">taketomi.takafumi@ieee.org</a> </li>
+    <li>Kiyoshi Kiyokawa - <a href="mailto:kiyo@is.naist.jp?subject=IEEE VR 2023 Satellite Event - Osaka">kiyo@is.naist.jp</a> </li>
+    </ul>
 </div>
 
