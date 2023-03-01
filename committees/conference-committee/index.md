@@ -45,24 +45,6 @@ title: "Conference Committee"
 </div>
 
 <div>
-	<h2>	Finance Chairs	</h2>						
-		<ul>							
-			<li>	Shuangjiu Xiao	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>	
-			<li style="list-style: none">	finance2023 [at] ieeevr.org		</li>	
-		</ul>				
-</div>
-
-<div>
-	<h2>	Local Arrangements Chairs	</h2>						
-		<ul>							
-			<li>	Zhigeng Pan	&#x2012; <i>	Nanjing University of Information Science and Technology, China	</i></li>	
-			<li>	Fei Liu	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
-			<li style="list-style: none">	localarrangements2023 [at] ieeevr.org
-		</li>	
-		</ul>				
-</div>
-
-<div>
 	<h2>	3DUI Contest Chairs	</h2>						
 		<ul>							
 			<li>	Elham Ebrahimi	&#x2012; <i>	University of North Carolina Wilmington, USA	</i></li>	
@@ -99,7 +81,7 @@ title: "Conference Committee"
 	<h2>	Exhibits and Sponsors Chairs	</h2>						
 		<ul>							
 			<li>	Jingwen Dai	&#x2012; <i>	 Ximmerse, China	</i></li>	
-			<li>	Lu Chen	&#x2012; <i>	Shanghai, China	</i></li>
+			<li>	Lu Chen	&#x2012; <i>	Shanghai Jiao Yong University, China	</i></li>
 			<li style="list-style: none">	sponsorship2023 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
@@ -115,10 +97,28 @@ title: "Conference Committee"
 </div>
 
 <div>
+	<h2>	Finance Chairs	</h2>						
+		<ul>							
+			<li>	Shuangjiu Xiao	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>	
+			<li style="list-style: none">	finance2023 [at] ieeevr.org		</li>	
+		</ul>				
+</div>
+
+<div>
+	<h2>	Local Arrangements Chairs	</h2>						
+		<ul>							
+			<li>	Zhigeng Pan	&#x2012; <i>	Nanjing University of Information Science and Technology, China	</i></li>	
+			<li>	Fei Liu	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
+			<li style="list-style: none">	localarrangements2023 [at] ieeevr.org
+		</li>	
+		</ul>				
+</div>
+
+<div>
 	<h2>	Panels Chairs	</h2>						
 		<ul>							
 			<li>	Jian Chen	&#x2012; <i>	 The Ohio State University, USA	</i></li>	
-			<li>	Henry B.L. Duh	&#x2012; <i>	La Trobe University, Australia	</i></li>
+			<li>	Henry B.L. Duh	&#x2012; <i>	The Hong Kong Polytechnic University, China	</i></li>
 			<li>	Xin Tong	&#x2012; <i>	Microsoft Research Asia, China	</i></li>
 			<li style="list-style: none">	panels2023 [at] ieeevr.org	</li>	
 		</ul>				
@@ -184,7 +184,7 @@ title: "Conference Committee"
 	<h2>	Tutorials Chairs	</h2>						
 		<ul>							
 			<li>	Heide Lukosch	&#x2012; <i>	 University of Canterbury, New Zealand	</i></li>	
-			<li>	Beatriz Santos	&#x2012; <i>	U Aveiro, Portugal	</i></li>
+			<li>	Beatriz Santos	&#x2012; <i>	University of Aveiro, Portugal	</i></li>
 			<li>	Bin Zhou	&#x2012; <i>	Beihang University, China	</i></li>
 			<li>	Rongkai Guo	&#x2012; <i>	Nvidia, China	</i></li>
 			<li style="list-style: none">	tutorials2023 [at] ieeevr.org	</li>	
