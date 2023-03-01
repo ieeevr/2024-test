@@ -223,7 +223,7 @@ title: "Conference Committee"
 </div>
 
 <div>
-	<h2>	Industry Chairs	</h2>						
+	<h2>	Industry Forum Chairs	</h2>						
 		<ul>							
 			<li>	Haiying Duanmu	&#x2012; <i>	 Shanghai Multimedia Industry Association, China	</i></li>	
 			<li>	Lin Gao	&#x2012; <i>	Institute of Computing Technology Chinese Academy of Sciences, China	</i></li>
