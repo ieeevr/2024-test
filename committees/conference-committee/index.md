@@ -139,7 +139,7 @@ title: "Conference Committee"
 	<h2>	Publications Chairs	</h2>						
 		<ul>							
 			<li>	Christos Mousas	&#x2012; <i>	 Purdue University, USA	</i></li>	
-			<li>	Mohammed Safayet Arefin	&#x2012; <i>	Mississippi State University, USA	</i></li>
+			<li>	Mohammed Safayet Arefin	&#x2012; <i>	DEVCOM US Army Research Laboratory, USA	</i></li>
 			<li>	Matias Volonte	&#x2012; <i>	Northeastern University, USA	</i></li>
 			<li>	Yan Zhang	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
 			<li style="list-style: none">	publications2023 [at] ieeevr.org	</li>	
