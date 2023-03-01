@@ -205,6 +205,7 @@ title: "Conference Committee"
 	<h2>	Web Chairs	</h2>						
 		<ul>							
 			<li>	Jiannan Ye	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>	
+			<li>	Haotian Mao	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>
 			<li>	Jacob Young	&#x2012; <i>	Victoria University of Wellington, New Zealand	</i></li>
 			<li style="list-style: none">	web2023 [at] ieeevr.org	</li>	
 		</ul>				
@@ -218,6 +219,16 @@ title: "Conference Committee"
 			<li>	Gabriel Zachmann	&#x2012; <i>	Bremen University, Germany	</i></li>
 			<li>	Xinyu Zhang	&#x2012; <i>	East China Normal University, China	</i></li>
 			<li style="list-style: none">	workshops2023 [at] ieeevr.org	</li>	
+		</ul>				
+</div>
+
+<div>
+	<h2>	Industry Chairs	</h2>						
+		<ul>							
+			<li>	Haiying Duanmu	&#x2012; <i>	 Shanghai Multimedia Industry Association, China	</i></li>	
+			<li>	Lin Gao	&#x2012; <i>	Institute of Computing Technology Chinese Academy of Sciences, China	</i></li>
+			<li>	Xin Yang	&#x2012; <i>	Dalian University of Technology, China	</i></li>
+			<li style="list-style: none">	industry2023 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
