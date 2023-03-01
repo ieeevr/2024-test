@@ -71,6 +71,14 @@ title_separator: "|"
         </tr>
         <tr>
             <td>
+                <a href="#recruitment">Student Recruitment</a>
+            </td>
+            <td>
+                Sunday, March 26, 2023
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="#industry-forum">Industry Forum</a>
             </td>
             <td>
@@ -88,14 +96,6 @@ title_separator: "|"
         <tr>
             <td>
                 <a href="#banquet">Banquet at Shangri-La</a>
-            </td>
-            <td>
-                Tuesday, March 28, 2023
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="#recruitment">Student Recruitment</a>
             </td>
             <td>
                 Tuesday, March 28, 2023
@@ -132,6 +132,12 @@ title_separator: "|"
     <img src="../../assets/images/program/social-events/SE3.png"  alt="SE3" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <img src="../../assets/images/program/social-events/SE4.png"  alt="SE4" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <img src="../../assets/images/program/social-events/SE5.png"  alt="SE5" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
+    <h2 id="recruitment">
+        Student Recruitment
+    </h2>
+    <p>
+       This event aims to facilitate student employment and enterprise recruitment through various options, such as communication and integration across enterprises and on-site networking, which provides an excellent platform for students and high-quality employees for companies.
+    </p>
     <h2 id="industry-forum">
         Industry Forum
     </h2>
@@ -166,12 +172,6 @@ title_separator: "|"
             <img src="../../assets/images/program/social-events/SE10.png" alt="braised" style="width: 50%"/>
         </div>
     </div> -->
-    <h2 id="recruitment">
-        Student Recruitment
-    </h2>
-    <p>
-       This event aims to facilitate student employment and enterprise recruitment through various options, such as communication and integration across enterprises and on-site networking, which provides an excellent platform for students and high-quality employees for companies.
-    </p>
     <h2 id="online-activities">
         Online Activities
     </h2>
