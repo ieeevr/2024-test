@@ -88,7 +88,7 @@ title: "Program Overview"
 
         .schedule-sun-26 {
             display: grid;
-            grid-gap: 0.3em;
+            grid-gap: 0.4em;
             grid-template-rows:
                 [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr[time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr [time-1930] 0.5fr [time-2000] 0.5fr [time-2030] 0.5fr [time-2100] 0.5fr [time-2130] ;
 
@@ -599,17 +599,17 @@ title: "Program Overview"
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <div class="session session-2 track-green" style="grid-column: track-4-start / track-4-end; grid-row: time-0815 / time-1400;">
-                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#SecImmeWorld"> First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds)</a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#SecImmeWorld"> Workshop: First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds)</a></h3>
                         <span class="session-time">8:15 - 14:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
                     <div class="session session-3 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#Data4XR">Data4XR: Datasets for Developing Intelligent XR Applications</a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#Data4XR">Worksho: Data4XR: Datasets for Developing Intelligent XR Applications</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
                     <div class="session session-4 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#MixReal">Mixing Realities: Cross-reality Visualization| Interaction| and Collaboration </a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#MixReal">Worksho: Mixing Realities: Cross-reality Visualization| Interaction| and Collaboration </a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
                     <div class="session session-5 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0900 / time-1200;">
@@ -617,17 +617,17 @@ title: "Program Overview"
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
                     <div class="session session-6 track-green" style="grid-column: track-6-start / track-6-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#WISP">Workshop on Immersive Sickness Prevention (WISP)</a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#WISP">Workshop: Workshop on Immersive Sickness Prevention (WISP)</a></h3>
                         <span class="session-time">9:00 - 12:00</span>
                     </div>
-                    <div class="session session-7 track-orange" style="grid-column: track-7-start / track-7-end; grid-row: time-0900 / time-1030;">
-                        <h3 class="session-title"><a href="/2023/program/tutorials/#T4">Introduction to Building Digital human with 3D and 4D Face Capture</a></h3>
+                    <div class="session session-7 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-0900 / time-1030;">
+                        <h3 class="session-title"><a href="/2023/program/tutorials/#T4">Tutorial: Introduction to Building Digital human with 3D and 4D Face Capture</a></h3>
                         <span class="session-time">9:00 - 10:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
-                    <div class="session session-8 track-orange" style="grid-column: track-7-start / track-7-end; grid-row: time-1100 / time-1230;">
-                        <h3 class="session-title"><a href="/2023/program/tutorials/#T1">Towards Building Automated Non-Rigid Spatially Augmented Reality</a></h3>
+                    <div class="session session-8 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-1100 / time-1230;">
+                        <h3 class="session-title"><a href="/2023/program/tutorials/#T1">Tutorial: Towards Building Automated Non-Rigid Spatially Augmented Reality</a></h3>
                         <span class="session-time">11:00 - 12:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
@@ -650,8 +650,8 @@ title: "Program Overview"
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#OAT"> Open Access Tools and libraries for virtual reality (OAT)</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                     </div>
-                    <div class="session session-13 track-orange" style="grid-column: track-7-start / track-7-end; grid-row: time-1400 / time-1730;">
-                        <h3 class="session-title"><a href="/2023/program/tutorials/#T3"> Introduction of building XR environments using Omniverse</a></h3>
+                    <div class="session session-13 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-1400 / time-1730;">
+                        <h3 class="session-title"><a href="/2023/program/tutorials/#T3"> Tutorial: Introduction of building XR environments using Omniverse</a></h3>
                         <span class="session-time">14:00 - 17:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
