@@ -68,7 +68,7 @@ title_separator: "|"
 </div>
 -->
 <p>
-<a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+<a href="https://ieeevr.cn/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
 <a href="http://ieeevr.org/2023/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
 </p>
 
@@ -85,7 +85,7 @@ title_separator: "|"
     You must register for the conference to receive a VISA letter. There is a check box in the registration process that will then ask for more information needed for the VISA letter. Please fill this out promptly, and our registration administration will send you a VISA letter as soon as possible.
     </p>
     <p style="font-size: 20px;">
-    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page. <a href="http://ieeevr.org/2023/assets/attend/Instruction_PaymentPage.pdf" target="_blank">Find the instrution here</a>
+    The payment website shows content in Chinese by default. You may change the preferred language to English to access the English page. <a href="http://ieeevr.org/2023/assets/attend/Instruction_PaymentPage.pdf" target="_blank">Find the instruction here</a>
     </p>
     <p style="font-size: 20px;">
     <strong>Note: the payment is not available at 03:45-4:05 @ AoE (23:45-0:05 UTC/GMT +8), as it is the system maintenance time of the day.</strong>
@@ -524,7 +524,7 @@ If you have further questions, please contact register2023[at]ieeevr.org.
 <br/>
 <div style="">
     <p style="font-size: 20px;">
-        <a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
+        <a href="https://ieeevr.cn/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
     </p>
 </div>
 
