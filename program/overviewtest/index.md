@@ -692,12 +692,12 @@ title: "Program Overview"
                     <h3 class="session-title"><a href="/2023/program/papers/#5"> Paper Session1 Rendering</a></h3>
                         <span class="session-time">10:15 - 11:15</span>
                     </div>
-                    <div class="session session-3 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1015 / time-1115;">
-                    <h3 class="session-title"><a href="/2023/program/papers/#3">Paper Session2 Locomotion</a></h3>
+                    <div class="session session-3 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1015 / time-1115;">
+                    <h3 class="session-title"><a href="/2023/program/papers/#3">Paper Session3 Locomotion</a></h3>
                         <span class="session-time">10:15 - 11:15</span>
                     </div>
-                    <div class="session session-3 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1015 / time-1115;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#2">Paper Session3 Collaboration</a></h3>
+                    <div class="session session-3 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1015 / time-1115;">
+                        <h3 class="session-title"><a href="/2023/program/papers/#2">Paper Session2 Collaboration</a></h3>
                         <span class="session-time">10:15 - 11:15</span>
                     </div>
                     <div class="session session-3 track-event" style="grid-column: track-5-start / track-5-end; grid-row: time-1000 / time-1700;">
@@ -1016,11 +1016,11 @@ title: "Program Overview"
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a>Paper Session25 Agents and Perception</a></h3>
+                        <h3 class="session-title"><a>Paper Session25 Multimodal and Haptics</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a>Paper Session26 Multimodal</a></h3>
+                        <h3 class="session-title"><a>Paper Session26 Agents and Perception</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
