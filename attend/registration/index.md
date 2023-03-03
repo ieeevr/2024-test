@@ -503,7 +503,7 @@ Non-authors or authors who do not need to validate their accepted publications c
     <li style="color: #F5725E:"><strong>The guidance for the payment page:</strong><br/>
       We support a screenshot of the payment page in English <a href="http://ieeevr.org/2023/assets/attend/Instruction_PaymentPage.pdf" target="_blank">here</a>.</li> 
     <li style="color: #F5725E:"><strong>What is the "huge handling/service fee" mentioned on the payment page, and how much will it be? </strong><br/>
-      It is an additional charge for the credit card payment. This extra charge of credit card is not charged by the university and the local bank, but by the bank of the credit card. The amount varies depending on the bank of the credit card, e.g., around 3% for some banks. The total amount will be displayed on the page of credit card payment.</li> 
+      It is an additional charge for the credit card payment. This extra charge of credit card is not charged by the university and the local bank, but by the bank of the credit card. The amount varies depending on the bank of the credit card, e.g., around 3% for some banks. The total amount will be displayed on the page of credit card payment.As the fee is not charged by us, we are unable to issue a receipt that includes this handing fee.</li> 
     <li style="color: #F5725E:"><strong>What if my credit card payment fails? </strong><br/>
       You can pay by bank transfer if the credit card payment fails. See for details about <a href="#bank_transfer">the process of bank transfer</a></li>
     <li style="color: #F5725E:" id="bank_transfer"><strong>How to pay by bank transfer? </strong><br/>
