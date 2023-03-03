@@ -41,14 +41,10 @@ title: "Keynote Speakers"
         font-weight: bold;
         color: #F5725E;
     }
-
 </style>
-
 <h1>Keynote Speakers</h1>
-
 <div>
     <table class="styled-table">
-
         <tr>
             <th></th>
             <th>Date</th>
@@ -61,10 +57,7 @@ title: "Keynote Speakers"
         {% endfor %}
     </table>
 </div>
-
-
 {% for keynote in site.data.keynotes %}
-
 <br />
 <div id="{{ keynote.id }}">
     <center><strong><big>{{ keynote.name }}</big></strong></center>
@@ -72,15 +65,11 @@ title: "Keynote Speakers"
     <br />
     <center><img src="{{ keynote.photo }}" alt="Photo of {{ keynote.name }}" width="50%"></center>
     <br />
-
     <center><big><strong>{{ keynote.title }}</strong></big></center>
     <center><small>{{ keynote.day }} - {{ keynote.start }}, {{ keynote.timezone }}</small></center>
     {% if keynote.chair %}
     <center><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ keynote.chair }}</b></small></center>
-    
     {% endif %}
-    
-    
     <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == keynote.id %}
@@ -89,7 +78,6 @@ title: "Keynote Speakers"
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
             {% if event.stream-url %}
             <br />
             {% if event.aindanaoaconteceu %}
@@ -108,21 +96,15 @@ title: "Keynote Speakers"
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-    
-    
     <p>
         <strong>Abstract</strong><br />
         {{ keynote.abstract }}
     </p>
-
     <p>
         <strong>Bio</strong><br />
         {{ keynote.bio }}
     </p>
-    
     <hr>
-
 </div>
-
 {% endfor %}
 
