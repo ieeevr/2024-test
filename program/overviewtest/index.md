@@ -320,13 +320,14 @@ title: "Program Overview"
     }
 
     .track-keynote {
-        background-color: rgb(196, 136, 195);
+        /* background-color: rgb(196, 136, 195); */
+        background-color: rgb(211, 15, 69);
         color: #fff;
     }
 
     .track-3dui {
         /* background-color: rgb(88, 86, 214); */
-        background-color: rgb(211, 15, 69);
+        background-color: rgb(196, 136, 195);
         color: #fff;
     }
 
