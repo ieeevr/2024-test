@@ -92,7 +92,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 0.3em;
             grid-template-rows:
-                [tracks] auto [time-0800] auto[time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.25fr [time-1015] 0.25fr [time-1030] 0.5fr [time-1100] 0.25fr [time-1115] auto [time-1130] auto [time-1145] 0.25fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.25fr [time-1445] 0.25fr [time-1500] 0.5fr [time-1530] 0.25fr [time-1545] 0.25fr [time-1600] 0.5fr [time-1630] 0.25fr  [time-1645] 0.25fr [time-1700] auto [time-1730] auto [time-1800] 0.5fr [time-1830] auto[time-1900] auto [time-1930] auto [time-2000] auto [time-2030] auto [time-2100] 0.5fr  [time-2200] ;
+                [tracks] auto [time-0800] auto[time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.25fr [time-1015] 0.25fr [time-1030] 0.5fr [time-1100] 0.25fr [time-1115] auto [time-1130] auto [time-1145] 0.25fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.25fr [time-1445] 0.25fr [time-1500] 0.5fr [time-1530] 0.25fr [time-1545] 0.25fr [time-1600] 0.5fr [time-1630] 0.25fr  [time-1645] 0.25fr [time-1700] auto [time-1730] auto [time-1800] 0.5fr [time-1830] 0.25fr[time-1900] 0.25fr [time-1930] 0.25fr [time-2000] 0.25fr [time-2030] 0.25fr [time-2100] 0.25fr  [time-2200] ;
 
             grid-template-columns:
                 [times] 3em [track-1-start]20% [track-1-end track-2-start]20% [track-2-end track-3-start]20% [track-3-end track-4-start]20%
