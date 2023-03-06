@@ -119,6 +119,9 @@ title: "Forum"
         <td align="center"  style="width: 25%;">
             <img class="conf-icon" src={{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }} alt="hgmt">
         </td>
+        
+    </tr>
+    <tr>
         <td align="center"  style="width: 25%;">
             <img class="conf-icon" src={{ "/assets/images/program/forum/shunyu.png" | relative_url }} alt="shunyu">
         </td>
@@ -127,8 +130,8 @@ title: "Forum"
     </table>
 </div>
 
-<div class="exhibitors-row">
-    <div class="exhibitors-column" style="flex: 100%;">
+<div class="attend-row">
+    <div class="attend-column" style="flex: 100%;">
         <strong style="color:white;font-size: 25px">Registration link</strong>
         <div style="display: inline-block">
             <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
