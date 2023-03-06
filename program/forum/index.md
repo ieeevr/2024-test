@@ -78,7 +78,7 @@ title_separator: "|"
     </p>
     <br />
     <div>
-    <center><img src={{ "/assets/images/program/forum/teaser.png" | relative_url }} alt="teaser"></center>
+    <center><img src="{{ "/assets/images/program/forum/teaser.png" | relative_url }}" alt="teaser"></center>
     </div>
     <div style="display: inline-block">
         <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
@@ -98,7 +98,7 @@ title_separator: "|"
     </ol>
     </p>
 
-    <center><img src={{ "/assets/images/program/forum/hall.png" | relative_url }} alt="hall"></center>
+    <center><img src="{{ "/assets/images/program/forum/hall.png" | relative_url }}" alt="hall"></center>
 
     <h2>Conference structure(1+3+N) </h2>
     <h3>
@@ -141,61 +141,54 @@ title_separator: "|"
 <table width="100%" border="0" cellspacing="0" cellpadding="0" frame=void>
     <tr>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-baidu.png" | relative_url }} alt="baidu">
+            <img src="{{ "/assets/images/sponsors/logo-baidu.png" | relative_url }}" alt="baidu">
         </td>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/program/forum/meta.png" | relative_url }} alt="meta">
+            <img src="{{ "/assets/images/program/forum/meta.png" | relative_url }}" alt="meta">
         </td>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-unity.png" | relative_url }} alt="unity">
+            <img src="{{ "/assets/images/sponsors/logo-unity.png" | relative_url }}" alt="unity">
         </td>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-sensetime.png" | relative_url }} alt="sensetime">
-        </td>
-    </tr>
-
-    <tr>
-        <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-gaotong.png" | relative_url }} alt="gaotong">
-        </td>
-        <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-ximmerse.png" | relative_url }} alt="ximmerse">
-        </td>
-        <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-gritworld.png" | relative_url }} alt="gritworld">
-        </td>
-        <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-alibaba.png" | relative_url }} alt="alibaba">
+            <img src="{{ "/assets/images/sponsors/logo-sensetime.png" | relative_url }}" alt="sensetime">
         </td>
     </tr>
 
     <tr>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="xiangyan">
+            <img src="{{ "/assets/images/sponsors/logo-gaotong.png" | relative_url }}" alt="gaotong">
         </td>
         <td align="center"  style="width: 25%;">
-        <p style="text-align:center;">
-            <img src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo">
-        </p>
+            <img src="{{ "/assets/images/sponsors/logo-ximmerse.png" | relative_url }}" alt="ximmerse">
         </td>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/program/forum/oppo.png" | relative_url }} alt="oppo">
+            <img src="{{ "/assets/images/sponsors/logo-gritworld.png" | relative_url }}" alt="gritworld">
         </td>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }} alt="hgmt">
+            <img src="{{ "/assets/images/sponsors/logo-alibaba.png" | relative_url }}" alt="alibaba">
+        </td>
+    </tr>
+
+    <tr>
+        <td align="center"  style="width: 25%;">
+            <img src="{{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }}" alt="xiangyan">
+        </td>
+        <td align="center"  style="width: 25%;">
+            <img src="{{ "/assets/images/sponsors/logo-vivo.png" | relative_url }}" alt="Vivo">
+        </td>
+        <td align="center"  style="width: 25%;">
+            <img src="{{ "/assets/images/program/forum/oppo.png" | relative_url }}" alt="oppo">
+        </td>
+        <td align="center"  style="width: 25%;">
+            <img src="{{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }}" alt="hgmt">
         </td>
         
     </tr>
     <tr>
         <td align="center"  style="width: 25%;">
-            <img src={{ "/assets/images/program/forum/shunyu.png" | relative_url }} alt="shunyu">
+            <img src="{{ "/assets/images/program/forum/shunyu.png" | relative_url }}" alt="shunyu">
         </td>
 
-        <td align="center"  style="width: 33%;">
-            <a href="https://www.ccf.org.cn/" target="_blank">
-                <img class="conf-icon" src={{ "/assets/images/sponsors/logo-ccf.png" | relative_url }} alt="ccf-vr Logo">
-            </a> 
-        </td>
     </tr>
 
 </table>
