@@ -77,7 +77,14 @@ title_separator: "|"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <br />
+    <div>
     <center><img src={{ "/assets/images/program/forum/teaser.png" | relative_url }} alt="teaser"></center>
+    </div>
+    <div style="display: inline-block">
+        <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
+    </div>
+
+
     <p> The IEEE VR 2023 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
     </p>
 
@@ -127,7 +134,8 @@ title_separator: "|"
     <p>
     In addition, N metaverse closed-door discussions will be held according to specific needs, including but not limited to industrial ecological construction, large-scale application of benchmarking scenarios, local industry visits and diagnosis, etc.
     </p>
-    <h4>confirmed speakers</h4>
+
+    <h2>confirmed speakers</h2>
     
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" frame=void>
@@ -181,6 +189,12 @@ title_separator: "|"
     <tr>
         <td align="center"  style="width: 25%;">
             <img src={{ "/assets/images/program/forum/shunyu.png" | relative_url }} alt="shunyu">
+        </td>
+
+        <td align="center"  style="width: 33%;">
+            <a href="https://www.ccf.org.cn/" target="_blank">
+                <img class="conf-icon" src={{ "/assets/images/sponsors/logo-ccf.png" | relative_url }} alt="ccf-vr Logo">
+            </a> 
         </td>
     </tr>
 
