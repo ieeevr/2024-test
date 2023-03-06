@@ -28,7 +28,7 @@ title: "Forum"
         <br>
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
-    </br>
+    <br />
     <p> The IEEE VR 2023 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
     </p>
 
@@ -115,7 +115,9 @@ title: "Forum"
             <img class="conf-icon" src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="xiangyan"> </img>
         </td>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo"> </img>
+        <a>
+            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo"/>
+        </a>
         </td>
         <td align="center"  style="width: 25%;">
             <img class="conf-icon" src={{ "/assets/images/program/forum/oppo.png" | relative_url }} alt="oppo"> </img>
@@ -136,7 +138,7 @@ title: "Forum"
 <div class="attend-row">
     <div class="attend-column" style="flex: 100%;">
         <strong style="color:white;font-size: 25px">Registration link</strong>
-        </br></br>
+        <br /><br />
         <div style="display: inline-block">
             <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
         </div>
