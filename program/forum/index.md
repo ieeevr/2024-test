@@ -1,24 +1,72 @@
 ---
 layout: ieeevr-default
 title: "Forum"
+subtitle: "IEEE VR 2023"
+title_separator: "|"
 ---
-
 <style>
-.attend-row {
-    display: flex;
-    background-color: #F5725E;
-    border-radius: 10px;
-    padding: 10px;
-}
-.attend-column {
+    <style>* {
+        box-sizing: border-box;
+    }
+
+    .exhibitors-center {
+        margin: auto;
+        width: 90%;
+    }
+
+    .exhibitors-row {
+        display: flex;
+        background-color: #F5725E;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    .exhibitors-column {
         flex: 50%;
         padding: 20px;
         position: relative;
     }
-.conf-icon {
-            width: 200px;
-        }
+
+    .styled-table {
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.8em;
+        font-family: sans-serif;
+        /*min-width: 400px;*/
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        display: table;
+    }
+
+    .styled-table thead tr {
+        background-color: #00aeef;
+        color: #ffffff;
+        text-align: left;
+    }
+
+    .styled-table th,
+    .styled-table td {
+        padding: 12px 15px;
+    }
+
+    .styled-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+
+    .styled-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+
+    .styled-table tbody tr:last-of-type {
+        border-bottom: 2px solid #00aeef;
+    }
+
+    .styled-table tbody tr.active-row {
+        font-weight: bold;
+        color: #00aeef;
+    }
+
 </style>
+
 <div>
     <h1 id="cfp-conference">IEEE VR 2023 Metaverse Industry Forum</h1>
     <p>
@@ -29,7 +77,9 @@ title: "Forum"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <br />
+    <p style="text-align:center;">
     <img src={{ "/assets/images/program/forum/teaser.png" | relative_url }} alt="teaser">
+    </p>
     <p> The IEEE VR 2023 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
     </p>
 
@@ -43,7 +93,9 @@ title: "Forum"
     </ol>
     </p>
 
+    <p style="text-align:center;">
     <img src={{ "/assets/images/program/forum/hall.png" | relative_url }} alt="hall">
+    </p>
 
     <h2>Conference structure(1+3+N) </h2>
     <h3>
@@ -81,7 +133,7 @@ title: "Forum"
     </p>
     <h4>confirmed speakers</h4>
     
-</div>
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0" frame=void>
     <tr>
         <td align="center"  style="width: 25%;">
@@ -138,15 +190,9 @@ title: "Forum"
 
 </table>
 
-<div class="attend-row">
-    <div class="attend-column" style="flex: 100%;">
-        <p style="text-align:center;">
-        <strong style="color:white;font-size: 25px">Registration link</strong>
-        <br /><br />
+<strong style="color:white;font-size: 25px；text-align:center;">Registration link</strong>
+<div style="display: inline-block">
+    <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
+</div>
 
-        <div style="display: inline-block">
-            <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
-        </div>
-        </p>
-    </div>
 </div>
