@@ -118,9 +118,9 @@ title: "Forum"
             <img src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="xiangyan">
         </td>
         <td align="center"  style="width: 25%;">
-        <a>
+        <p style="text-align:center;">
             <img src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo">
-        </a>
+        </p>
         </td>
         <td align="center"  style="width: 25%;">
             <img src={{ "/assets/images/program/forum/oppo.png" | relative_url }} alt="oppo">
@@ -140,10 +140,13 @@ title: "Forum"
 
 <div class="attend-row">
     <div class="attend-column" style="flex: 100%;">
+        <p style="text-align:center;">
         <strong style="color:white;font-size: 25px">Registration link</strong>
         <br /><br />
+
         <div style="display: inline-block">
             <img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" >
         </div>
+        </p>
     </div>
 </div>
