@@ -29,7 +29,7 @@ title: "Forum"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <br />
-    <img class="conf-icon" src={{ "/assets/images/program/forum/teaser.png" | relative_url }} alt="teaser"> </img>
+    <img src={{ "/assets/images/program/forum/teaser.png" | relative_url }} alt="teaser">
     <p> The IEEE VR 2023 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
     </p>
 
@@ -43,7 +43,7 @@ title: "Forum"
     </ol>
     </p>
 
-    <img class="conf-icon" src={{ "/assets/images/program/forum/hall.png" | relative_url }} alt="hall"> </img>
+    <img src={{ "/assets/images/program/forum/hall.png" | relative_url }} alt="hall">
 
     <h2>Conference structure(1+3+N) </h2>
     <h3>
@@ -85,54 +85,54 @@ title: "Forum"
 <table width="100%" border="0" cellspacing="0" cellpadding="0" frame=void>
     <tr>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-baidu.png" | relative_url }} alt="baidu"> </img>
+            <img src={{ "/assets/images/sponsors/logo-baidu.png" | relative_url }} alt="baidu">
         </td>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/program/forum/meta.png" | relative_url }} alt="meta"> </img>
+            <img src={{ "/assets/images/program/forum/meta.png" | relative_url }} alt="meta">
         </td>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-unity.png" | relative_url }} alt="unity"> </img>
+            <img src={{ "/assets/images/sponsors/logo-unity.png" | relative_url }} alt="unity">
         </td>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-sensetime.png" | relative_url }} alt="sensetime"> </img>
-        </td>
-    </tr>
-
-    <tr>
-        <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-gaotong.png" | relative_url }} alt="gaotong"> </img>
-        </td>
-        <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-ximmerse.png" | relative_url }} alt="ximmerse"> </img>
-        </td>
-        <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-gritworld.png" | relative_url }} alt="gritworld"> </img>
-        </td>
-        <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-alibaba.png" | relative_url }} alt="alibaba"> </img>
+            <img src={{ "/assets/images/sponsors/logo-sensetime.png" | relative_url }} alt="sensetime">
         </td>
     </tr>
 
     <tr>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="xiangyan"> </img>
+            <img src={{ "/assets/images/sponsors/logo-gaotong.png" | relative_url }} alt="gaotong">
+        </td>
+        <td align="center"  style="width: 25%;">
+            <img src={{ "/assets/images/sponsors/logo-ximmerse.png" | relative_url }} alt="ximmerse">
+        </td>
+        <td align="center"  style="width: 25%;">
+            <img src={{ "/assets/images/sponsors/logo-gritworld.png" | relative_url }} alt="gritworld">
+        </td>
+        <td align="center"  style="width: 25%;">
+            <img src={{ "/assets/images/sponsors/logo-alibaba.png" | relative_url }} alt="alibaba">
+        </td>
+    </tr>
+
+    <tr>
+        <td align="center"  style="width: 25%;">
+            <img src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="xiangyan">
         </td>
         <td align="center"  style="width: 25%;">
         <a>
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo"/>
+            <img src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo">
         </a>
         </td>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/program/forum/oppo.png" | relative_url }} alt="oppo"> </img>
+            <img src={{ "/assets/images/program/forum/oppo.png" | relative_url }} alt="oppo">
         </td>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }} alt="hgmt"> </img>
+            <img src={{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }} alt="hgmt">
         </td>
         
     </tr>
     <tr>
         <td align="center"  style="width: 25%;">
-            <img class="conf-icon" src={{ "/assets/images/program/forum/shunyu.png" | relative_url }} alt="shunyu"> </img>
+            <img src={{ "/assets/images/program/forum/shunyu.png" | relative_url }} alt="shunyu">
         </td>
     </tr>
 
