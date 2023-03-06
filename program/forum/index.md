@@ -29,6 +29,7 @@ title: "Forum"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <br />
+    <img class="conf-icon" src={{ "/assets/images/program/forum/teaser.png" | relative_url }} alt="teaser"> </img>
     <p> The IEEE VR 2023 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
     </p>
 
@@ -41,6 +42,8 @@ title: "Forum"
     <li>Organizing unit: Shanghai Multimedia Industry Association</li>
     </ol>
     </p>
+
+    <img class="conf-icon" src={{ "/assets/images/program/forum/hall.png" | relative_url }} alt="hall"> </img>
 
     <h2>Conference structure(1+3+N) </h2>
     <h3>
