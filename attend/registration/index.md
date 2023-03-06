@@ -512,7 +512,7 @@ Non-authors or authors who do not need to validate their accepted publications c
       <ul>
          <li>Fill out the registration form at http://150.158.11.215:3000/register.</li>
          <li>Click the “Pay” button at the bottom of the second page of the registration form, which equals clicking a “save” button to send the information to our server. Also, you will get a unique bill number. </li>
-         <li>Email <a href="mailto:register2023@ieeevr.org?subject=Bank Transfer Request">register2023@ieeevr.org</a> to ask for an invoice. Please include the unique bill nubmer and your personal information, making it easier to find your order. We will send an invoice as soon as possible.</li>
+         <li>Email <a href="mailto:register2023@ieeevr.org?subject=Bank Transfer Request">register2023@ieeevr.org</a> to ask for an invoice. Please include the unique bill number and your personal information, making it easier to find your order. We will send an invoice as soon as possible.</li>
          <li>Pay the registration fee and quote your invoice number that shows on the invoice. We will send a receipt once we confirm the bank transfer, which may cost a few days.</li>
       </ul>
     </li> 
