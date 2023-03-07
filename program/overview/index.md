@@ -857,7 +857,7 @@ title: "Program Overview"
                         <span class="session-time">12:30 - 14:00</span>
                     </div> -->
                     <div class="session session-16 track-panel" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="/2023/program/panels/#P3">Panel2: Can a visual design and game approach for VR increase engagement with health issues?</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/panels/#P2">Panel2: Can a visual design and game approach for VR increase engagement with health issues?</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
@@ -909,7 +909,7 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2030;">
-                        <h3 class="session-title"><a href="/2023/program/social-events/#banquet">Banquet</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/social-events/#banquet">Banquet</a> & <a href="/2023/program/keynote-speakers/#keynote-lin">Keynote</a></h3>
                         <span class="session-time">18:00 - 20:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1900;">19:00</p>
@@ -936,15 +936,15 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-7; grid-row: tracks;"></span>
                     <p class="time-slot" style="grid-row: time-0830;">08:30</p>
                     <div class="session session-1 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a>Paper Session20 Gestures and Interaction</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#19">Paper Session20 Gestures and Interaction</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <div class="session session-2 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a>Paper Session21 Perception</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#21">Paper Session21 Perception</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <div class="session session-3 track-panel" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a>Panel3 [online]: Standards for Virtual Reality</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/panels/#P3">Panel3 [online]: Standards for Virtual Reality</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-0930;">09:30</p>
@@ -964,15 +964,15 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
                     <div class="session session-5 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><a>Paper Session22 Perception</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#22">Paper Session22 Perception</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
                     <div class="session session-6 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><a>Paper Session23 SocialEmotional</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#23">Paper Session23 SocialEmotional</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
                     <div class="session session-7 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1100 / time-1200;">
-                        <h3 class="session-title"><a>Paper Session24 Education and Medical</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#24">Paper Session24 Education and Medical</a></h3>
                         <span class="session-time">11:00 - 12:00</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
@@ -1006,15 +1006,15 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-14 track-panel" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a>Panel4: Challenges and Opportunities of XR Applications for High-Risk Incidents</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/panels/#P4">Panel4: Challenges and Opportunities of XR Applications for High-Risk Incidents</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a>Paper Session25 Multimodal and Haptics</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#25">Paper Session25 Multimodal and Haptics</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a>Paper Session26 Agents and Perception</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#26">Paper Session26 Agents and Perception</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
@@ -1024,11 +1024,11 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1515;">15:15</p>
                     <div class="session session-16 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1515 / time-1615;">
-                        <h3 class="session-title"><a>Paper Session27 FoveatedRendering, Gaze, and Haptics</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#27">Paper Session27 FoveatedRendering, Gaze, and Haptics</a></h3>
                         <span class="session-time">15:15 - 16:15</span>
                     </div>
                     <div class="session session-17 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1515 / time-1615;">
-                        <h3 class="session-title"><a>Paper Session28 InfoVis and TextEntry</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#28">Paper Session28 InfoVis and TextEntry</a></h3>
                         <span class="session-time">15:15 - 16:15</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1615;">16:15</p>
