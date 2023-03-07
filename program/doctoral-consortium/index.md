@@ -48,13 +48,14 @@ title: "Doctoral Consortium"
 <h1>Doctoral Consortium</h1>
 <div>
     <p>
-        Here is the proposed schedule with mentor assignments. All of this time is Lisbon time (GMT+0). All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible, however we understand that our different time zones may make attendance difficult at particular times. All talks will be recorded and available for later viewing. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both.
+        Coming Soon.
     </p>
-    <p>
+    <!-- <p>
         Mentors listed first next to a student will meet during the Mentor Group 1 Breakout session, and mentors listed second will meet with that student during the Mentor Group 2 Breakout session.
-    </p>
+    </p> -->
 </div>
 
+<!-- 
 <div>
 
 <div>
@@ -167,4 +168,4 @@ title: "Doctoral Consortium"
         </tr>
         {% endfor %}
     </table>
-</div>
+</div> -->
