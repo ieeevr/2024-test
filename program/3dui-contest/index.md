@@ -179,9 +179,8 @@ title: "3DUI Contest"
         {% endfor %}
     </table>
 </div>
-
-<!-- <div>
 <!-- TAKE ME TO THE EVENT START -->
+<!-- <div>
     {% for event in site.data.events %}
     {% if event.id == '3dui1' %}
     {% if event.location %}
@@ -189,7 +188,6 @@ title: "3DUI Contest"
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
             {% if event.stream-url %}
             <br />
             {% if event.aindanaoaconteceu %}
@@ -207,8 +205,8 @@ title: "3DUI Contest"
     </div>
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
 </div> -->
+<!-- TAKE ME TO THE EVENT END-->
 
 
 <!-- <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
