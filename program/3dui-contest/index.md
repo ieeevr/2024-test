@@ -180,7 +180,7 @@ title: "3DUI Contest"
     </table>
 </div>
 
-<div>
+<!-- <div>
 <!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == '3dui1' %}
@@ -208,10 +208,10 @@ title: "3DUI Contest"
     {% endif %}
     {% endfor %}
     <!-- TAKE ME TO THE EVENT END-->
-</div>
+</div> -->
 
 
-<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+<!-- <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
         Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
@@ -221,7 +221,7 @@ title: "3DUI Contest"
             <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
-</div>
+</div> -->
 
 
 <div>
