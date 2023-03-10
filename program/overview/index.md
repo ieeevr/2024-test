@@ -875,7 +875,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-14 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1515 / time-1615;">
                         <h3 class="session-title"><a href="/2023/program/papers/#10">Paper Session15 Accessibility and Applications</a></h3>
-                        <span class="session-time">14:00 - 15:00</span>
+                        <span class="session-time">15:15 - 16:15</span>
                     </div>
                     <div class="session session-17 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1515 / time-1615;">
                         <h3 class="session-title"><a  href="/2023/program/papers/#18">Paper Session16 Interaction</a></h3>
