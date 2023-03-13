@@ -77,15 +77,11 @@ title_separator: "|"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <br />
-    <div>
-    <center><img src="{{ "/assets/images/program/forum/teaser.jpg" | relative_url }}" alt="teaser" width="100%"></center>
-    </div>
-
     <center><img src="{{ "/assets/images/program/exchange-event/teaser.png" | relative_url }}" alt="hall" width="100%"></center>
 
     <p>The IEEE VR "Innovate for the Future" Youth Scholars Exchange Event is centered around the themes of virtual reality, augmented reality, mixed reality, and 3D user interfaces (3DUI). As a significant component of the IEEE VR 2023 conference, we cordially invite exceptional young scholars from all over the world to share their most recent research findings at the event.<p>
     <p>This event will also extend invitations to responsible individuals in talent recruitment, including recruitment officers or department heads from prestigious local universities and colleges, to participate in recruitment activities. It aims to serve as a platform for communication between young scholars from local and international regions and universities, thereby facilitating mutual understanding between the two parties.</p>
     <p>Furthermore, this exchange event will also feature prominent experts who will engage in discussions on topics related to the development of young talents and provide constructive recommendations to promote the growth of young scholars.</p>
-    <p>The closed-door roundtable forum will take place on the evening of March 26th to maximize the effectiveness of the exchange. <strong>The forum is invitation-only, and we extend a cordial invitation to the scholars, individuals and impending Ph.D. graduates aspiring to pursue a faculty/researcher position at the local university, institute or top company.</strong> Please register for the event using the following link: <a href="https://jinshuju.net/f/Px61Nq">https://jinshuju.net/f/Px61Nq</a>. The registration deadline is March 15th, and any inquiries should be directed to Professor Yang Xin at Dalian University of Technology: <a href="mailto:xinyang@dlut.edu.cn">xinyang@dlut.edu.cn<a>. Further details will be communicated via email or other appropriate channels.</p>
+    <p>The closed-door roundtable forum will take place on the evening of March 26th to maximize the effectiveness of the exchange. <strong>The forum is invitation-only, and we extend a cordial invitation to the scholars, individuals and impending Ph.D. graduates aspiring to pursue a faculty/researcher position at the local university, institute or top company.</strong> Please register for the event using the following link: <a href="https://jinshuju.net/f/Px61Nq">https://jinshuju.net/f/Px61Nq</a>. The registration deadline is March 15th, and any inquiries should be directed to Professor Yang Xin at Dalian University of Technology: <a href="mailto:xinyang@dlut.edu.cn">xinyang@dlut.edu.cn</a>. Further details will be communicated via email or other appropriate channels.</p>
 
 <div>
