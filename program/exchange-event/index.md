@@ -77,7 +77,6 @@ title_separator: "|"
         <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
     </p>
     <br />
-    <center><img src="{{ "/assets/images/program/exchange-event/teaser.png" | relative_url }}" alt="hall" width="100%"></center>
 
     <p>The IEEE VR "Innovate for the Future" Youth Scholars Exchange Event is centered around the themes of virtual reality, augmented reality, mixed reality, and 3D user interfaces (3DUI). As a significant component of the IEEE VR 2023 conference, we cordially invite exceptional young scholars from all over the world to share their most recent research findings at the event.<p>
     <p>This event will also extend invitations to responsible individuals in talent recruitment, including recruitment officers or department heads from prestigious local universities and colleges, to participate in recruitment activities. It aims to serve as a platform for communication between young scholars from local and international regions and universities, thereby facilitating mutual understanding between the two parties.</p>
