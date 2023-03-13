@@ -741,7 +741,7 @@ title: "Program Overview"
                         <span class="session-time">14:30 - 14:45</span>
                     </div>
                     <div class="session session-3 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1445 / time-1545;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#6">Paper Session6 Rendering 2</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#6">Paper Session6 Rendering 1</a></h3>
                         <span class="session-time">14:45 - 15:45</span>
                     </div>
                     <div class="session session-3 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1445 / time-1545;">
@@ -761,7 +761,7 @@ title: "Program Overview"
                         <span class="session-time">16:00 - 17:00</span>
                     </div>
                     <div class="session session-3 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1600 / time-1700;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#10">Paper Session10 Rendering 1</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#10">Paper Session10 Rendering 2</a></h3>
                         <span class="session-time">16:00 - 17:00</span>
                     </div>
                     <div class="session session-3 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-1700 / time-1800;">
