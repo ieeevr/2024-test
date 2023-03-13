@@ -135,13 +135,9 @@ title: "Videos"
     }
 
 </style>
-<div>
-Coming Soon!
-</div>
-<!-- 
+
 <div>
     <table class="styled-table">
-
         <tr>
             <th>Videos</th>
         </tr>
@@ -172,4 +168,4 @@ Coming Soon!
     </div>
 
     {% endfor %}
-</div> -->
+</div>
