@@ -663,9 +663,10 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
                     <p class="time-slot" style="grid-row: time-1600;">16:00</p>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
-                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    <p class="time-slot" style="grid-row: time-1330;">13:30</p>
+                    <p class="time-slot" style="grid-row: time-1430;">14:30</p>
+                    <p class="time-slot" style="grid-row: time-1445;">14:45</p>
+                    <p class="time-slot" style="grid-row: time-1545;">15:45</p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-1 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0900;">
@@ -740,7 +741,7 @@ title: "Program Overview"
                         <span class="session-time">14:30 - 14:45</span>
                     </div>
                     <div class="session session-3 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1445 / time-1545;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#6">Paper Session6 Rendering 1</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#6">Paper Session6 Rendering 2</a></h3>
                         <span class="session-time">14:45 - 15:45</span>
                     </div>
                     <div class="session session-3 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1445 / time-1545;">
@@ -837,7 +838,7 @@ title: "Program Overview"
                         <h3 class="session-title">lunch</h3>
                         <span class="session-time">12:30 - 14:00</span>
                     </div>
-                    <p class="time-slot" style="grid-row: time-1300;">13:00</p>
+                    <p class="time-slot" style="grid-row: time-1230;">12:30</p>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-10 track-3dui" style="grid-column: track-4-start / track-4-end; grid-row: time-0830 / time-1230;">
                         <h3 class="session-title">Exhibition</h3><br>
@@ -881,25 +882,29 @@ title: "Program Overview"
                     <div class="session session-14 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
                         <h3 class="session-title"><a href="/2023/program/papers/#15">Paper Session15 Interaction 2</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
-                    </div><p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    </div>
+                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
+                    <p class="time-slot" style="grid-row: time-1515;">15:15</p>
                     <div class="session session-15 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1500 / time-1515;">
                         <h3 class="session-title">break</h3>
                         <span class="session-time">15:00 - 15:15</span>
                     </div>
                     <div class="session session-14 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1515 / time-1615;">
                         <h3 class="session-title"><a href="/2023/program/papers/#16">Paper Session16 Accessibility and Applications</a></h3>
-                        <span class="session-time">14:00 - 15:00</span>
-                    </div>
-                    <div class="session session-17 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1515 / time-1615;">
-                        <h3 class="session-title"><a  href="/2023/program/papers/#17">Paper Session17 Interaction</a></h3>
                         <span class="session-time">15:15 - 16:15</span>
                     </div>
-                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
+                    <div class="session session-17 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1515 / time-1615;">
+                        <h3 class="session-title"><a  href="/2023/program/papers/#17">Paper Session17 Displays</a></h3>
+                        <span class="session-time">15:15 - 16:15</span>
+                    </div>
+                    <p class="time-slot" style="grid-row: time-1615;">16:15</p>
                     <div class="session session-15 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1615 / time-1630;">
                         <h3 class="session-title">break</h3>
                         <span class="session-time">16:15 - 16:30</span>
                     </div>
+                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
+                    <p class="time-slot" style="grid-row: time-1730;">17:30</p>
                     <div class="session session-19 track-break" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1800;">
                         <h3 class="session-title">Set up for Banquet</h3>
                         <span class="session-time">17:00 - 18:00</span>
@@ -922,7 +927,7 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2030;">
-                        <h3 class="session-title"><a href="/2023/program/social-events/#banquet">Banquet & VGTC Award Announcement</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/social-events/#banquet">Banquet</a> & VGTC Award Announcement & <a href="/2023/program/keynote-speakers/#keynote-lin">Keynote</a></h3>
                         <span class="session-time">18:00 - 20:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1900;">19:00</p>
@@ -999,7 +1004,7 @@ title: "Program Overview"
                         <h3 class="session-title"><a>Posters & Demos & 3DUI Contest fast forward: session 3</a></h3>
                         <span class="session-time">12:00 - 12:30</span>
                     </div>
-                    <p class="time-slot" style="grid-row: time-1245;">12:45</p>
+                    <p class="time-slot" style="grid-row: time-1230;">12:30</p>
                     <div class="session session-4 track-break" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1400;">
                         <h3 class="session-title">lunch</h3>
                         <span class="session-time">12:30 - 14:00</span>
@@ -1059,7 +1064,6 @@ title: "Program Overview"
                         <h3 class="session-title">Posters & Demos & 3DUI contest [online]</h3>
                         <span class="session-time">16:15 - 17:00</span>
                     </div>
-                    <p class="time-slot" style="grid-row: time-1630;">16:30</p>
                     <div class="session session-19 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1700 / time-1730;">
                         <h3 class="session-title"><a>Closing & Awards</a></h3>
                         <span class="session-time">17:00 - 17:30</span>
