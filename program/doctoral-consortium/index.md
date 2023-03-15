@@ -162,7 +162,7 @@ title: "Doctoral Consortium"
     
 </div>
 
-
+<!-- 
 <h2>Accepted Students</h2>
 
 <div>
@@ -181,3 +181,4 @@ title: "Doctoral Consortium"
         {% endfor %}
     </table>
 </div> 
+-->
