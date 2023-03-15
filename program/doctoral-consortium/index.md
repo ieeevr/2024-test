@@ -47,15 +47,16 @@ title: "Doctoral Consortium"
 
 <h1>Doctoral Consortium</h1>
 <div>
-    <p>
-        Coming Soon.
-    </p>
     <!-- <p>
-        Mentors listed first next to a student will meet during the Mentor Group 1 Breakout session, and mentors listed second will meet with that student during the Mentor Group 2 Breakout session.
+        Coming Soon.
     </p> -->
+    <p>
+        All times below are Shanghai, China local time (UTC+8).  The event will be held in a hybrid format, with both in-person and online attendees.  All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible.  However, we understand that our different time zones may make attendance difficult at particular times. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both.
+        Each presentation will be an 8 minute talk + 4 minutes for questions.
+    </p>
 </div>
 
-<!-- 
+
 <div>
 
 <div>
@@ -65,83 +66,94 @@ title: "Doctoral Consortium"
             <th></th>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">10:00 - 10:15 am</span></td>
+            <td><span style="color: #00aeef;">08:45 - 09:00 am</span></td>
             <td>
-                Welcome + Ice Breaker
+                Welcome
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">10:15 - 11:45 am</span></td>
+            <td><span style="color: #00aeef;">09:00 - 10:00 am</span></td>
             <td>
-                <strong>Presentations 1 - 6 (8 min talk + 4 min questions)</strong><br/>
-                Daniel Eckhoff - Dr. Gruchalla & Dr. Billinghurst<br/>
-                Nermin Shaltout - Dr. Billinghurst and Dr. Quarles<br/>
-                Shimmila Bhowmick - Dr. Froehlich and Dr. Correia<br/>
-                Zhiming Hu - Dr. Robb and Dr. Potter<br/>
-                Hannah Greber - Dr. Skarbez and Dr. Khadka<br/>
-                Dilshani Kumarapeli - Dr. Stevenson Won and Dr. Skarbez<br/>
+                <strong>Presentations 1 - 5 (8 min talk + 4 min questions)</strong><br/>
+                Shane Burrell Jr – Dr. Victoria Interrante<br/>
+                Radhika Jain – Dr. Steven Cutchin<br/>
+                Damaruka Priya Rajasagi – Dr. Andrea Stevenson Won<br/>
+                Xingyao Yu – Dr. Steven Feiner<br/>
+                Xiaoyan Zhou – Dr. Doug Bowman
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">11:45 - 12:00 pm</span></td>
+            <td ><span style="color: #00aeef;">10:00 - 10:30 am</span></td>
+            <td>
+                Breakout with mentors
+            </td>
+        </tr>
+        <tr>
+            <td ><span style="color: #00aeef;">10:30 - 11:00 am</span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">12:00 - 1:30 pm</span></td>
+            <td ><span style="color: #00aeef;">11:00 - 12:00 am</span></td>
             <td>
-                <strong>Presentations 7 - 12 (8 min talk + 4 min questions)</strong><br/>
-                Julia Belger - Dr. Stevenson Won and Dr. Suma Rosenberg<br/>
-                Niklas Stein - Dr. Johnsen and Dr. Steed<br/>
-                Alina Nikolaou - Dr. Potter and Dr. Johnsen<br/>
-                Florian Mathis - Dr. Holz and Dr. Santos<br/>
-                Eugene Kukshinov - Dr. Cutchin and Dr. Holz<br/>
-                Nuno Cid Martins - Dr. Feiner and Dr. Khadka*
+                <strong>Presentations 6-10 (8 min talk + 4 min questions)</strong><br/>
+                Klara Brandstätter – Dr. Andrew Robb<br/>
+                Ziwen Lu – Dr. Stefanie Zollmann<br/>
+                Mathieu Lutfallah – Dr. Tabitha Peck<br/>
+                Nels Numan – Dr. Rajiv Khadka<br/>
+                Antony Prakash – Dr. Joe Gabbard
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">1:30 - 2:15 pm</span></td>
+            <td><span style="color: #00aeef;">12:00 - 12:30 pm</span></td>
+            <td>
+                Breakout with mentors
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">12:30 - 14:00 pm</span></td>
+            <td>
+                Lunch
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">14:00 - 15:00 pm</span></td>
+            <td>
+                <strong>Presentations 11-15 (8 min talk + 4 min questions)</strong><br/>
+                Amira Mahmoud Shaban Ahmed – Dr. Richard Skarbez<br/>
+                Adil Khokhar – Dr. Jason Orlosky<br/>
+                Dooyoung Kim – Dr. Evan Suma Rosenberg<br/>
+                Nadine Wagener – Dr. Nilufar Baghaei<br/>
+                Yue Wang – Dr. Lili Wang
+            </td>
+        </tr>
+        <tr>
+            <td ><span style="color: #00aeef;">15:00 - 15:30 pm</span></td>
+            <td>
+                Breakout with mentors
+            </td>
+        </tr>
+        <tr>
+            <td><span style="color: #00aeef;">15:30 - 16:00 pm</span></td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">2:15 - 4:15 pm</span></td>
+            <td><span style="color: #00aeef;">16:00 - 17:00 pm</span></td>
             <td>
-                <strong>Presentations 13 - 20 (8 min talk + 4 min questions)</strong><br/>
-                Iris Willaert - Dr. Quarles and Dr. Gruchalla<br/>
-                Valentin Vallageas - Dr. Suma Rosenberg and Dr. Peck<br/>
-                Mohammed Safayet Arefin - Dr. Santos and Dr. Inami<br/>
-                Feiyu Lu - Dr. Steed and Dr. Feiner<br/>
-                Moloud Nasiri - Dr. Correia and Dr. Peck<br/>
-                Amanda Zilla - Dr. Bowman and Dr. Cutchin<br/>
-                Isayas Adhanom - Dr. Khadka and Dr. Bowman<br/>
-                PS Berge - Dr. Inami and Dr. Robb
+                <strong>Presentations 16-19 (8 min talk + 4 min questions)</strong><br/>
+                Zhuang Chang – Dr. Anthony Steed<br/>
+                Isla Xi Han – Dr. Yiyu Cai<br/>
+                Piaopiao Yu – Dr. Lik-Hang Lee<br/>
+                Yidan Zhang – Dr. Mark Billinghurst<br/>
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">4:15 - 5:00 pm</span></td>
+            <td ><span style="color: #00aeef;">17:00 - 17:30 pm</span></td>
             <td>
-                Mentoring Group 1 Breakout (45 min)
-            </td>
-        </tr>
-        <tr>
-            <td><span style="color: #00aeef;">5:00 - 5:15 pm</span></td>
-            <td>
-                Break
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #00aeef;">5:15 - 6:00 pm</span></td>
-            <td>
-                Mentoring Group 2 Breakout (45 min)
-            </td>
-        </tr>
-        <tr>
-            <td ><span style="color: #00aeef;">6:00 - 6:05 pm</span></td>
-            <td>
-                Closing
+                Breakout with mentors
             </td>
         </tr>
     </table>
@@ -168,4 +180,4 @@ title: "Doctoral Consortium"
         </tr>
         {% endfor %}
     </table>
-</div> -->
+</div> 
