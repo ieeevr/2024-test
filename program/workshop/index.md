@@ -341,7 +341,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/ImmersiveVisualizationLaboratories-PastPresentandFuture-SimonSu.pdf" | relative_url }}" target="_blank">Call for paper</a>
+        <strong style="color:black;">Website:</strong> <a href="https://ivl-workshop.github.io/" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 13<sup>th</sup> January 2023 </li>
