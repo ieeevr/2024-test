@@ -770,7 +770,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2000;">
                         <h3 class="session-title"><a href="/2023/program/social-events/#reception">Reception</a></h3>
-                        <span class="session-time">18:00 - 22:00</span>
+                        <span class="session-time">17:30 - 21:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-2000;">22:00</p>
                 </div>
