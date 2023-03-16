@@ -498,14 +498,14 @@ title: "Program Overview"
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
-                    <div class="session session-6 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-1130;">
+                    <div class="session session-6 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#KELVAR">Workshop [online]: KELVAR Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
-                        <span class="session-time">8:30 - 11:30</span>
+                        <span class="session-time">9:00 - 12:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-7 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0830 / time-1630;">
+                    <div class="session session-7 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0900 / time-1700;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ENPT-XR">Workshop [online]: Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR)</a></h3>
-                        <span class="session-time">8:30 - 16:30</span>
+                        <span class="session-time">9:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <div class="session session-8 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-0845 / time-1230;">
