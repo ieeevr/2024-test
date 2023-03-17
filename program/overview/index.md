@@ -92,7 +92,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 0.3em;
             grid-template-rows:
-                [tracks] auto [time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.25fr [time-1015] 0.25fr [time-1030] 0.5fr [time-1100] 0.25fr [time-1115] auto [time-1130] auto [time-1145] 0.25fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.25fr [time-1445] 0.25fr [time-1500] 0.5fr [time-1530] 0.25fr [time-1545] 0.25fr [time-1600] 0.5fr [time-1630] 0.25fr  [time-1645] 0.25fr [time-1700] auto [time-1730] auto [time-1800] 0.5fr [time-1830] 0.25fr[time-1900] 0.25fr [time-1930] 0.25fr [time-2000];
+                [tracks] auto [time-0700] 0.5fr [time-0800] 0.5fr [time-0830] 0.5fr[time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.25fr [time-1015] 0.25fr [time-1030] 0.5fr [time-1100] 0.25fr [time-1115] auto [time-1130] auto [time-1145] 0.25fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.25fr [time-1445] 0.25fr [time-1500] 0.5fr [time-1530] 0.25fr [time-1545] 0.25fr [time-1600] 0.5fr [time-1630] 0.25fr  [time-1645] 0.25fr [time-1700] auto [time-1730] auto [time-1800] 0.5fr [time-1830] 0.25fr[time-1900] 0.25fr [time-1930] 0.25fr [time-2000];
 
             grid-template-columns:
                 [times] 3em [track-1-start]20% [track-1-end track-2-start]20% [track-2-end track-3-start]20% [track-3-end track-4-start]20%
@@ -657,6 +657,8 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-3; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
+                    <p class="time-slot" style="grid-row: time-0700;">7:00</p>
+                    <p class="time-slot" style="grid-row: time-0800;">8:00</p>
                     <p class="time-slot" style="grid-row: time-0830;">8:30</p>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
@@ -669,6 +671,10 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1545;">15:45</p>
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
+                    <div class="session session-3 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-0700 / time-0800;">
+                        <h3 class="session-title">Posters & Demos & 3DUI contest [online]</h3>
+                        <span class="session-time">7:00 - 8:00</span>
+                    </div>
                     <div class="session session-1 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0900;">
                         <h3 class="session-title">Opening</h3>
                         <span class="session-time">8:30 - 9:00</span>
@@ -711,7 +717,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-3 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-1200 / time-1330;">
                         <h3 class="session-title">Exhibition</h3><br>
-                        <h3 class="session-title">Posters: session 1</h3>
+                        <h3 class="session-title">Posters</h3>
                         <br>
                         <h3 class="session-title">Research Demos</h3>
                         <br>
@@ -846,7 +852,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-10 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-1230 / time-1400;">
                         <h3 class="session-title">Exhibition</h3><br>
-                        <h3 class="session-title">Posters: session 2</h3>
+                        <h3 class="session-title">Posters</h3>
                         <br>
                         <h3 class="session-title">Research Demos</h3>
                         <br>
@@ -1014,7 +1020,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-10 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-1230 / time-1400;">
                         <h3 class="session-title">Exhibition</h3><br>
-                        <h3 class="session-title">Posters: session 3</h3>
+                        <h3 class="session-title">Posters</h3>
                         <br>
                         <h3 class="session-title">Research Demos</h3>
                         <br>
