@@ -61,7 +61,7 @@ title: "Tutorials"
     </table>
 </div>
 
-{% for tutorial in site.data.tutorial %}
+{% for tutorial in site.data.tutorials %}
 {% if tutorial.id == 'T1' %}
 <div>
 <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
