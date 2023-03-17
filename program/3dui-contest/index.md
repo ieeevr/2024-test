@@ -226,12 +226,12 @@ title: "3DUI Contest"
     {% for entry in site.data.3duicontest %}
     <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
     <p><small><strong> Booth {{ entry.boothid2}} - {{ entry.boothid1}}   </strong></small></p>
-    <p><i>{{ entry.authors }}</i></p>
-    <hr>
+    <p><i>{{ entry.authors }}</i></p>  
     {% if entry.url-embed %}
         <div class="video-container">
             <iframe src="https://www.youtube.com/embed/{{ entry.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     {% endif %}
+    <hr>
     {% endfor %}
 </div>
