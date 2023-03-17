@@ -602,7 +602,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
                     <div class="session session-8 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-1100 / time-1230;">
-                        <h3 class="session-title"><a href="/2023/program/tutorials/#T1">Tutorial [hybrid]: Towards Building Automated Non-Rigid Spatially Augmented Reality</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/tutorials/#T1">Tutorial [online]: Towards Building Automated Non-Rigid Spatially Augmented Reality</a></h3>
                         <span class="session-time">11:00 - 12:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
