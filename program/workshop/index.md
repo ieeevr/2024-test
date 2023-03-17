@@ -73,7 +73,7 @@ title_separator: "|"
 
     <!-- ------------------------------------------------MASSXR-------------------------------------------------------- -->
 
-    <h2 id="MASSXR"> "Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR) </h2>
+    <h2 id="MASSXR"> Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR) </h2>
     <!-- TAKE ME TO THE EVENT START -->
     <!--{% for event in site.data.events %}
     {% if event.id == 'ANIVAE' %}
