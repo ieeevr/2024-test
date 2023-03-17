@@ -111,6 +111,28 @@ title: "Research Demos"
     .collapsible-content p {
         margin-bottom: 0;
     }
+
+        /* video container */
+    .video-container {
+        overflow: hidden;
+        position: relative;
+        width: 100%;
+    }
+
+    .video-container::after {
+        padding-top: 56.25%;
+        /* 75% if 4:3*/
+        display: block;
+        content: '';
+    }
+
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
     
 </style>
 
@@ -173,14 +195,16 @@ title: "Research Demos"
 
 <div>
     {% for demo in site.data.demos %}
-    
     <h3 id="{{ demo.id }}">{{ demo.title }}</h3>
     <p><i>{{ demo.authors }}</i></p>
-    
 <p> <small><strong style="color: black;"> Booth: {{ demo.booth }} - {{ demo.hall }} </strong></small> <br> </p>    
-    
     {% if demo.url %}
-        <p>Teaser Video: <a href="{{ demo.url }}" target="_blank">Watch Now</a></p>
+        <!-- <p>Teaser Video: <a href="{{ demo.url }}" target="_blank">Watch Now</a></p> -->
+    {% endif %}
+    {% if demo.url-embed %}
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/{{ demo.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     {% endif %}
     {% if demo.abstract %}
     <div id="{{ demo.id }}" class="wrap-collabsible"> <input id="collapsible{{ demo.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ demo.id }}" class="lbl-toggle">Abstract</label>
@@ -189,6 +213,9 @@ title: "Research Demos"
                 <p>{{ demo.abstract }}</p>
             </div>
         </div>
+    </div>
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/{{ video.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     {% endif %}
     {% endfor %}
