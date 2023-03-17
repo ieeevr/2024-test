@@ -633,9 +633,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <p class="time-slot" style="grid-row: time-1900;">19:00</p>
-                    <div class="session session-14 track-5" style="grid-column: track-1-start / track-7-end; grid-row: time-1900 / time-2030;">
+                    <div class="session session-14 track-5" style="grid-column: track-3-start / track-3-end; grid-row: time-1900 / time-2030;">
                         <h3 class="session-title"> Paper fast forward</h3>
                         <span class="session-time">19:00 - 20:30</span>
+                    </div>
+                    <div class="session session-14 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1900 / time-2100;">
+                        <h3 class="session-title"> <a href="/2023/program/exchange-event/">Youth Scholars Exchange Event </a></h3>
+                        <span class="session-time">19:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> Room BEIJING</span>
+                    </div>
+                    <div class="session session-14 track-event" style="grid-column: track-2-start / track-2-end; grid-row: time-1900 / time-2100;">
+                        <h3 class="session-title"> Excellent Students Forum</h3>
+                        <span class="session-time">19:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> Room SHANGHAI</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-2000;">20:00</p>
                     <p class="time-slot" style="grid-row: time-2100;">21:00</p>
