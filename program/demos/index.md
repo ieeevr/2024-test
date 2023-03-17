@@ -214,9 +214,6 @@ title: "Research Demos"
             </div>
         </div>
     </div>
-    <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/{{ video.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
     {% endif %}
     {% endfor %}
 </div>
