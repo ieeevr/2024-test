@@ -176,7 +176,7 @@ title_separator: "|"
         Online Activities
     </h2>
     <p>
-       The conference will adopt a hybrid mode, combining online and on-site participation. Those who cannot attend the events in person will be able to interact via a dedicated Slack channel and a particular Minecraft platform, where we have created a replica of Shanghai Jiao Tong University to allow an online experience of the university on the 30th anniversary of the IEEE VR Conference. We will provide further details about online participation in advance of the conference. 
+       The conference will adopt a hybrid mode, combining online and on-site participation. Those who cannot attend the events in person will be able to interact via a dedicated Slack channel and a Zoom broadcasting of a virtual travel to Shanghai Jiao Tong University to celebrate the anniversary of the IEEE VR Conference. We will provide further details about online participation in advance of the conference. 
     </p>
     <img src="../../assets/images/program/social-events/event3.png"  alt="SJTU1" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
     <!-- <img src="../../assets/images/program/social-events/SE8.png"  alt="SJTU2" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->

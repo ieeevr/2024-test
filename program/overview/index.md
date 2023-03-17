@@ -67,7 +67,7 @@ title: "Program Overview"
             display: grid;
             grid-gap: 0.3em;
             grid-template-rows:
-                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr[time-1030] 0.5fr [time-1100] 0.5fr[time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr;
+                [tracks] auto [time-0800] 0.25fr [time-0815] 0.25fr [time-0830] 0.25fr [time-0845] 0.25fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr[time-1030] 0.5fr [time-1100] 0.5fr[time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr;
 
             grid-template-columns:
                 [times] 3em [track-1-start] 0.1fr[track-1-end track-2-start] 0.1fr[track-2-end track-3-start] 0.1fr[track-3-end track-4-start] 0.1fr
@@ -498,19 +498,19 @@ title: "Program Overview"
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <p class="time-slot" style="grid-row: time-0900;">9:00</p>
-                    <div class="session session-6 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-1130;">
+                    <div class="session session-6 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#KELVAR">Workshop [online]: KELVAR Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
-                        <span class="session-time">8:30 - 11:30</span>
+                        <span class="session-time">9:00 - 12:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-7 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0830 / time-1630;">
+                    <div class="session session-7 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0900 / time-1700;">
                         <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ENPT-XR">Workshop [online]: Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR)</a></h3>
-                        <span class="session-time">8:30 - 16:30</span>
+                        <span class="session-time">9:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
-                    <div class="session session-8 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-0900 / time-1230;">
+                    <div class="session session-8 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-0845 / time-1230;">
                         <h3 class="session-title"><a href="/2023/program/doctoral-consortium/">Doctoral Consortium</a></h3>
-                        <span class="session-time">9:00 - 12:30</span>
+                        <span class="session-time">8:45 - 12:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1000;">10:00</p>
                     <p class="time-slot" style="grid-row: time-1100;">11:00</p>
@@ -770,7 +770,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2000;">
                         <h3 class="session-title"><a href="/2023/program/social-events/#reception">Reception</a></h3>
-                        <span class="session-time">18:00 - 22:00</span>
+                        <span class="session-time">17:30 - 21:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-2000;">22:00</p>
                 </div>
