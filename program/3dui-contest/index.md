@@ -228,5 +228,10 @@ title: "3DUI Contest"
     <p><small><strong> Booth {{ entry.boothid2}} - {{ entry.boothid1}}   </strong></small></p>
     <p><i>{{ entry.authors }}</i></p>
     <hr>
+    {% if entry.url-embed %}
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/{{ entry.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    {% endif %}
     {% endfor %}
 </div>
