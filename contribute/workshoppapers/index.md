@@ -71,17 +71,6 @@ title_separator: "|"
         {% endfor %}
     </table>
 
-    <table class="styled-table">
-
-        <tr>
-            <th>Workshops</th>
-        </tr>
-        {% for workshop in site.data.workshops %}
-        <tr>
-            <td style="font-size: 0.9em;"><a href="#{{ workshop.id }}">{{ workshop.title }}</a></td>
-        </tr>
-        {% endfor %}
-    </table>
 
     <!-- ------------------------------------------------MASSXR-------------------------------------------------------- -->
 
