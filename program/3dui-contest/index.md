@@ -161,7 +161,7 @@ title: "3DUI Contest"
     <h2>Fast Forward</h2>
     
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/5BB05YIG7uY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/odXeJpKPf3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </div>
     
@@ -226,7 +226,12 @@ title: "3DUI Contest"
     {% for entry in site.data.3duicontest %}
     <h3 id="{{ entry.id }}">{{ entry.title }}</h3>
     <p><small><strong> Booth {{ entry.boothid2}} - {{ entry.boothid1}}   </strong></small></p>
-    <p><i>{{ entry.authors }}</i></p>
+    <p><i>{{ entry.authors }}</i></p>  
+    {% if entry.url-embed %}
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/{{ entry.url-embed }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    {% endif %}
     <hr>
     {% endfor %}
 </div>

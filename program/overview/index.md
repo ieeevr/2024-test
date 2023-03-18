@@ -524,7 +524,7 @@ title: "Program Overview"
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ReDigiTS">Workshop 8 [hybrid]: 3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ReDigiTS">Workshop 8 [hybrid]: 3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span> -->
                     </div>
@@ -610,7 +610,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <div class="session session-9 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
-                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ANIVAE-2023">Workshop 15 [hybrid]: 6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023)</a></h3>
+                        <h3 class="session-title"><a href="/2tutorials023/contribute/workshoppapers/#ANIVAE-2023">Workshop 15 [hybrid]: 6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023)</a></h3>
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1600;">
@@ -633,9 +633,19 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1700;">17:00</p>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <p class="time-slot" style="grid-row: time-1900;">19:00</p>
-                    <div class="session session-14 track-5" style="grid-column: track-1-start / track-7-end; grid-row: time-1900 / time-2030;">
+                    <div class="session session-14 track-5" style="grid-column: track-3-start / track-3-end; grid-row: time-1900 / time-2030;">
                         <h3 class="session-title"> Paper fast forward</h3>
                         <span class="session-time">19:00 - 20:30</span>
+                    </div>
+                    <div class="session session-14 track-event" style="grid-column: track-1-start / track-1-end; grid-row: time-1900 / time-2100;">
+                        <h3 class="session-title"> <a href="/2023/program/exchange-event/">Youth Scholars Exchange Event </a></h3>
+                        <span class="session-time">19:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> Room BEIJING</span>
+                    </div>
+                    <div class="session session-14 track-event" style="grid-column: track-2-start / track-2-end; grid-row: time-1900 / time-2100;">
+                        <h3 class="session-title"> Excellent Students Forum</h3>
+                        <span class="session-time">19:00 - 21:00</span>
+                        <span class="session-title"><b style="color: white;">Location:</b> Room SHANGHAI</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-2000;">20:00</p>
                     <p class="time-slot" style="grid-row: time-2100;">21:00</p>
@@ -719,9 +729,9 @@ title: "Program Overview"
                         <h3 class="session-title">Exhibition</h3><br>
                         <h3 class="session-title">Posters</h3>
                         <br>
-                        <h3 class="session-title">Research Demos</h3>
+                        <h3 class="session-title"><a href="/2023/program/demos/">Research Demos</a></h3>
                         <br>
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2023/program/3dui-contest/">3DUI Contest</a></h3>
                         <br>
                         <h3 class="session-title">Videos</h3>
                         <span class="session-time">12:00 - 13:30</span>
@@ -854,9 +864,9 @@ title: "Program Overview"
                         <h3 class="session-title">Exhibition</h3><br>
                         <h3 class="session-title">Posters</h3>
                         <br>
-                        <h3 class="session-title">Research Demos</h3>
+                        <h3 class="session-title"><a href="/2023/program/demos/">Research Demos</a></h3>
                         <br>
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2023/program/3dui-contest/">3DUI Contest</a></h3>
                         <br>
                         <h3 class="session-title">Videos</h3>
                         <span class="session-time">12:30 - 14:00</span>
@@ -1022,11 +1032,11 @@ title: "Program Overview"
                         <h3 class="session-title">Exhibition</h3><br>
                         <h3 class="session-title">Posters</h3>
                         <br>
-                        <h3 class="session-title">Research Demos</h3>
+                        <h3 class="session-title"><a href="/2023/program/demos/">Research Demos</a></h3>
                         <br>
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2023/program/3dui-contest/">3DUI Contest</a></h3>
                         <br>
-                        <h3 class="session-title">Videos</h3>
+                        <h3 class="session-title"><a href="/2023/program/videos/">Videos</a></h3>
                         <span class="session-time">12:30 - 14:00</span>
                     </div>
                     <div class="session session-10 track-3dui" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1615;">
