@@ -729,9 +729,9 @@ title: "Program Overview"
                         <h3 class="session-title">Exhibition</h3><br>
                         <h3 class="session-title">Posters</h3>
                         <br>
-                        <h3 class="session-title">Research Demos</h3>
+                        <h3 class="session-title"><a href="/2023/program/demos/">Research Demos</a></h3>
                         <br>
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2023/program/3dui-contest/">3DUI Contest</a></h3>
                         <br>
                         <h3 class="session-title">Videos</h3>
                         <span class="session-time">12:00 - 13:30</span>
@@ -864,9 +864,9 @@ title: "Program Overview"
                         <h3 class="session-title">Exhibition</h3><br>
                         <h3 class="session-title">Posters</h3>
                         <br>
-                        <h3 class="session-title">Research Demos</h3>
+                        <h3 class="session-title"><a href="/2023/program/demos/">Research Demos</a></h3>
                         <br>
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2023/program/3dui-contest/">3DUI Contest</a></h3>
                         <br>
                         <h3 class="session-title">Videos</h3>
                         <span class="session-time">12:30 - 14:00</span>
