@@ -76,7 +76,7 @@ title_separator: "|"
         <li>Tatzgern, Markus - <i>Salzburg University of Applied Science</i>                            </li>
         <li>Pietrzak, Thomas - <i>University of Lille</i>                            </li>
         <li>Mori, Shohei - <i>Graz University of Technology</i>                                </li>
-        <li>Besancon, Lonni - <i>Monash University</i>                             </li>
+        <li>Besançon, Lonni - <i>Monash University</i>                             </li>
         <li>Williams, Ian - <i>Birmingham City University, UK</i>                               </li>
         <li>Weyers, Benjamin - <i>Trier University</i>                            </li>
         <li>Andujar, Carlos - <i>Universitat Poltecnica de Catalunya, Spain</i>                             </li>
@@ -141,7 +141,7 @@ title_separator: "|"
         <li>Kelly, Jonathan - <i>Iowa State University</i>                             </li>
         <li>Rojas-Mu??oz, Edgar - <i>Texas A&M University</i>                         </li>
         <li>Mania, Katerina - <i>Technical University of Crete</i>                             </li>
-        <li>Kroesl, Katharina - <i>VRVis Forschungs-GmbH</i>                           </li>
+        <li>Krösl, Katharina - <i>VRVis Forschungs-GmbH</i>                           </li>
         <li>Boulic, Ronan - <i>EPFL</i>                               </li>
         <li>Nedel, Luciana - <i>Federal University of Rio Grande do Sul (UFRGS)</i>                              </li>
         <li>Nunes, Fatima - <i>University of São Paulo</i>                               </li>
