@@ -1032,11 +1032,11 @@ title: "Program Overview"
                         <h3 class="session-title">Exhibition</h3><br>
                         <h3 class="session-title">Posters</h3>
                         <br>
-                        <h3 class="session-title">Research Demos</h3>
+                        <h3 class="session-title"><a href="/2023/program/demos/">Research Demos</a></h3>
                         <br>
-                        <h3 class="session-title">3DUI Contest</h3>
+                        <h3 class="session-title"><a href="/2023/program/3dui-contest/">3DUI Contest</a></h3>
                         <br>
-                        <h3 class="session-title">Videos</h3>
+                        <h3 class="session-title"><a href="/2023/program/videos/">Videos</a></h3>
                         <span class="session-time">12:30 - 14:00</span>
                     </div>
                     <div class="session session-10 track-3dui" style="grid-column: track-4-start / track-4-end; grid-row: time-1400 / time-1615;">
