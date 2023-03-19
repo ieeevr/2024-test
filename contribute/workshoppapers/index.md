@@ -90,7 +90,7 @@ title_separator: "|"
         <div class="collapsible-content">
             <div class="content-inner">
                 {% for paper in site.data.workshoppapers %}
-                    {% if workshop.id == paper.workshop %}
+                    {% if paper.id == "MASS" %}
 
                         <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
 
@@ -111,7 +111,6 @@ title_separator: "|"
                                 </div>
                             </div>
                         {% endif %}
-
                     {% endif %}
                 {% endfor %}
             </div>
