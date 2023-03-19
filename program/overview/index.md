@@ -610,7 +610,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <div class="session session-9 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
-                        <h3 class="session-title"><a href="/2tutorials023/contribute/workshoppapers/#ANIVAE-2023">Workshop 15 [hybrid]: 6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023)</a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ANIVAE-2023">Workshop 15 [hybrid]: 6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023)</a></h3>
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1600;">
@@ -819,7 +819,7 @@ title: "Program Overview"
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <div class="session session-2 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#S12">Paper Session12 Cybersickness</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#S12">Paper Session12 Cybersickness 1</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <div class="session session-17 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0930;">
@@ -847,7 +847,7 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     <div class="session session-8 track-5" style="grid-column: track-1-start / track-3-end; grid-row: time-1200 / time-1230;">
-                        <h3 class="session-title"><a href="/2023/program/keynote-speakers/#keynote-gao">Posters & Demos & 3DUI Contest fast forward: session 2</a></h3>
+                        <h3 class="session-title"><a>Posters & Demos & 3DUI Contest fast forward: session 2</a></h3>
                         <span class="session-time">12:00 - 12:30</span>
                     </div>
                     <div class="session session-9 track-lunch" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1400;">
@@ -888,7 +888,7 @@ title: "Program Overview"
                         <span class="session-time">12:30 - 14:00</span>
                     </div> -->
                     <div class="session session-16 track-panel" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="/2023/program/panels/#P3">Panel2: Can a visual design and game approach for VR increase engagement with health issues?</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/panels/#P2">Panel 2: Can a visual design and game approach for VR increase engagement with health issues?</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
@@ -983,7 +983,7 @@ title: "Program Overview"
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <div class="session session-3 track-panel" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0930;">
-                        <h3 class="session-title"><a>Panel3 [online]: Standards for Virtual Reality</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/panels/#P4">Panel 3 [online]: Standards for Virtual Reality</a></h3>
                         <span class="session-time">8:30 - 9:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-0930;">09:30</p>
@@ -1045,7 +1045,7 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <div class="session session-14 track-panel" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a>Panel4: Challenges and Opportunities of XR Applications for High-Risk Incidents</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/panels/#P4">Panel 4: Challenges and Opportunities of XR Applications for High-Risk Incidents</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
