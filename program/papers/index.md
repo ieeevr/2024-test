@@ -178,14 +178,11 @@ INVITED MISSING
 <div>
     {% for session in site.data.sessions %}
     {% if session.day == day.day' %}
-
     <h2 id="{{ session.id }}">Session: {{ session.name }}</h2>
-    
     <p><strong>{{ session.day }}, {{ session.starttime }}, {{ session.timezone }}, {{ session.room }}</strong></p>
     {% if session.sessionchair %}
     <p><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ session.sessionchair }}</b></small></p>
     {% endif %}
-    
     <!--
     {% for event in site.data.events %}
     {% if event.id == session.id %}
@@ -194,7 +191,6 @@ INVITED MISSING
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
             {% if event.stream-url %}
             <br />
             {% if event.aindanaoaconteceu %}
@@ -213,25 +209,19 @@ INVITED MISSING
     {% endif %}
     {% endfor %}
     -->
-    
     {% for paper in site.data.papers %}
     {% if session.id == paper.session %}
-
     <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
     <p><strong><small>{{ paper.type }}</small></strong></p>
-
     {% if paper.type == 'Journal' %}
     {% assign source = site.data.journalpapers %}
     {% endif %}
-
     {% if paper.type == 'Conference' %}
     {% assign source = site.data.conferencepapers %}
     {% endif %}
-
     {% if paper.type == 'Invited Journal' %}
     {% assign source = site.data.invitedjournalpapers %}
     {% endif %}
-
     {% for p in source %}
     {% if p.id == paper.id %}
     {% assign authornames = p.authors | split: ";" %}
