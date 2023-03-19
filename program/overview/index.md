@@ -524,7 +524,7 @@ title: "Program Overview"
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="/2021/contribute/workshoppapers/#ReDigiTS">Workshop 8 [hybrid]: 3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
+                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ReDigiTS">Workshop 8 [hybrid]: 3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
                         <span class="session-time">14:00 - 17:00</span>
                         <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span> -->
                     </div>
@@ -610,7 +610,7 @@ title: "Program Overview"
                     <p class="time-slot" style="grid-row: time-1400;">14:00</p>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
                     <div class="session session-9 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1630;">
-                        <h3 class="session-title"><a href="/2023/contribute/workshoppapers/#ANIVAE-2023">Workshop 15 [hybrid]: 6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023)</a></h3>
+                        <h3 class="session-title"><a href="/2tutorials023/contribute/workshoppapers/#ANIVAE-2023">Workshop 15 [hybrid]: 6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023)</a></h3>
                         <span class="session-time">14:00 - 16:30</span>
                     </div>
                     <div class="session session-10 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1600;">
@@ -939,7 +939,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-3 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1800;">
                         <h3 class="session-title">Posters & Demos & 3DUI contest [online]</h3>
-                        <span class="session-time">17:30 - 18:00</span>
+                        <span class="session-time">17:00 - 18:00</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2030;">

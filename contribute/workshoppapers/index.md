@@ -75,48 +75,46 @@ title_separator: "|"
     <!-- ------------------------------------------------MASSXR-------------------------------------------------------- -->
 
     <h2 id="MASSXR"> Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR) </h2>
-    <!-- TAKE ME TO THE EVENT START -->
-    <!--{% for event in site.data.events %}
-    {% if event.id == 'ANIVAE' %}
-    {% if event.location %}
-    <div class="notice--info">
-        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-        <p>
-            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-            {% if event.stream-url %}
-            <br />
-            {% if event.aindanaoaconteceu %}
-            <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% else %}
-            <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-            {% endif %}
-            {% endif %}
-            {% if event.discordurl %}
-            <br />
-            <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-            {% endif %}
-            {% endif %}
-        </p>
-    </div>
-    {% endif %}
-    {% endfor %}-->
-    <!-- TAKE ME TO THE EVENT END-->
     
     <p>
         <strong style="color:black;">Website:</strong> <a href="https://sites.google.com/view/massxrworkshop2023" target="_blank">https://sites.google.com/view/massxrworkshop2023</a>
     </p>
-    <ul>
-        <li> Submission deadline: 9<sup>th</sup> January 2023 </li>
-        <li> Notification of results: 20<sup>th</sup> January 2023 </li>
-        <li> Camera-ready submission due: 27<sup>rd</sup> January 2023 </li>
-    </ul>
     <p>
         The objective of this workshop on Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality is to bring together researchers and practitioners working in the field of social and affective computing with the ones on 3D computer vision and computer graphics/animation and discuss the current state and future directions, opportunities, and challenges. The workshop aims to establish a new platform for the development of immersive embodied intelligence at the intersection of Artificial intelligence (AI) and Extended Reality (XR). We expect that the workshop will provide an opportunity for researchers to develop new techniques and will lead to new collaboration among the participants. 
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Zerrin Yumak
     </p>
+    
+    <div  class="wrap-collabsible"> <input class="toggle" type="checkbox"> <label class="lbl-toggle">Workshop Papers</label>
+        <div class="collapsible-content">
+            <div class="content-inner">
+                {% for paper in site.data.workshoppapers %}
+                    <!-- {% if paper.id == "MASS" %} -->
+                        <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
+                        {% if paper.authors %}
+                            <p><i>{{ paper.authors }}</i></p>
+                        {% else %}
+                            <p><i>Author information coming soon</i></p>
+                        {% endif %}
+                        {% if paper.url %}
+                            <p><small>URL: <a href="{{ paper.url }}" target="_blank">{{ paper.url }}</a></small></p>
+                        {% endif %}
+                        {% if paper.abstract %}
+                            <div id="{{ paper.id }}" class="wrap-collabsible"> <input id="collapsible{{ paper.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ paper.id }}" class="lbl-toggle">Abstract</label>
+                                <div class="collapsible-content">
+                                    <div class="content-inner">
+                                        <p>{{ paper.abstract }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endif %}
+                    <!-- {% endif %} -->
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+            
 
     <!-- ------------------------------------------------VR4Exergame-------------------------------------------------------- -->
 
