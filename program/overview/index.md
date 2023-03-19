@@ -939,7 +939,7 @@ title: "Program Overview"
                     </div>
                     <div class="session session-3 track-poster" style="grid-column: track-4-start / track-4-end; grid-row: time-1730 / time-1800;">
                         <h3 class="session-title">Posters & Demos & 3DUI contest [online]</h3>
-                        <span class="session-time">17:30 - 18:00</span>
+                        <span class="session-time">17:00 - 18:00</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2030;">
