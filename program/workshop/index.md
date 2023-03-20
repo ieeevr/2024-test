@@ -537,7 +537,7 @@ title_separator: "|"
     Immersive analytics has become a significant research field with applications in natural sciences in contexts that require users’ understanding, exploration, and communication about high-dimensional data. Cross-reality provides users with the possibility of switching visual representations between systems using different degrees of virtuality and allows users to interact with data across multiple technologies. 
     </p>
     <p>
-    The goal of the workshop is to provide an opportunity for researchers from VR/MR/AR, HCI and Visualization fields to submit their original ideas, work-in-progress contribution, and position papers on the design of interactive systems for effective cross-reality visualization, interaction, and collaboration. "
+    The goal of the workshop is to provide an opportunity for researchers from VR/MR/AR, HCI and Visualization fields to submit their original ideas, work-in-progress contribution, and position papers on the design of interactive systems for effective cross-reality visualization, interaction, and collaboration.
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Hai-Ning Liang

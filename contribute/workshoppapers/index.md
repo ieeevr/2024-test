@@ -73,20 +73,16 @@ title_separator: "|"
     {% for workshop in site.data.workshops %}
             <!-- Workshop title matter -->
             <h2 id="{{ workshop.id }}">Workshop: {{ workshop.name }}</h2>
-    
             <!-- <p><strong>{{ workshop.day }}, {{ workshop.starttime }}, {{ workshop.timezone }}</strong></p> -->
-
             {% if workshop.organiser %}
                 <p><small><b style="color: black;">Principal Organiser:</b> {{ workshop.organiser }}</small></p>
             {% endif %}
-
             {% if workshop.videourl %}
                 <div class="video-container">
                     <iframe src="{{workshop.videourl}}" title="YouTube video player" frameborder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             {% endif %}
-
             <p>
             {% if workshop.url %}
                 <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
