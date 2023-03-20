@@ -177,7 +177,7 @@ title_separator: "|"
             <p>
             {% if workshop.url and workshop.id == "MixReal" %}
                 <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/MixingRealitiesIEEEVR2023-LingyunYu.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
-            {% else if (workshop.url and workshop.id == "XRHealth") %}
+            {% else if workshop.id == "XRHealth" and workshop.url  %}
                 <small><b style="color: black;">Website:</b> <a href = "{{'/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2023-Matias-Volonte.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
             {% else if workshop.url and workshop.id == "SecImmeWorld" %}
                 <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/SecurityandPrivacyforSecureImmersiveWorlds-SeanBanerjee.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
