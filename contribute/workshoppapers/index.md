@@ -260,7 +260,6 @@ title_separator: "|"
                     </div>
                 </div>
             </div>
-            {% endif %}
     {% endfor %}
 </div>
 </div> 
