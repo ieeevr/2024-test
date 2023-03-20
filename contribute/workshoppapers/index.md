@@ -243,7 +243,9 @@ title_separator: "|"
                                 {% else %}
                                     <p><i>Author information coming soon</i></p>
                                 {% endif %}
-                                {% if paper.url %}
+                                {% if paper.url and paper.id == "XRHealth" %}
+                                    <p><small>URL: <a href="{{ paper.url }}" target="_blank">Call for paper</a></small></p>
+                                {% elif paper.url %}
                                     <p><small>URL: <a href="{{ paper.url }}" target="_blank">{{ paper.url }}</a></small></p>
                                 {% endif %}
                                 {% if paper.abstract %}
