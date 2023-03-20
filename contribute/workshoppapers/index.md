@@ -175,17 +175,7 @@ title_separator: "|"
                 </div>
             {% endif %}
             <p>
-            {% if workshop.url and workshop.id == "MixReal" %}
-                <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/MixingRealitiesIEEEVR2023-LingyunYu.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
-            {% elif workshop.id == "XRHealth" and workshop.url  %}
-                <small><b style="color: black;">Website:</b> <a href = "{{'/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2023-Matias-Volonte.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
-            {% elif workshop.url and workshop.id == "SecImmeWorld" %}
-                <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/SecurityandPrivacyforSecureImmersiveWorlds-SeanBanerjee.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
-            {% elif workshop.url and workshop.id == "EUCHS" %}
-                <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/EUCHSARVR-CFP-ArashMahnan.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
-            {% elif workshop.url and workshop.id == "I-Meta" %}
-                <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/Industrial-Metaverse.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
-            {% elif workshop.url %}
+            {% if workshop.url %}
                 <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
             {% endif %}
             {% if workshop.discordurl %}
