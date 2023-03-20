@@ -896,7 +896,7 @@ title: "Program Overview"
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <div class="session session-14 track-3" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#S16">Paper Session15 Interaction 2</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#S15">Paper Session15 Interaction 2</a></h3>
                         <span class="session-time">14:00 - 15:00</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1500;">15:00</p>
@@ -906,7 +906,7 @@ title: "Program Overview"
                         <span class="session-time">15:00 - 15:15</span>
                     </div>
                     <div class="session session-14 track-1" style="grid-column: track-1-start / track-1-end; grid-row: time-1515 / time-1615;">
-                        <h3 class="session-title"><a href="/2023/program/papers/#S15">Paper Session16 Accessibility and Applications</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/papers/#S16">Paper Session16 Accessibility and Applications</a></h3>
                         <span class="session-time">15:15 - 16:15</span>
                     </div>
                     <div class="session session-17 track-2" style="grid-column: track-2-start / track-2-end; grid-row: time-1515 / time-1615;">
@@ -943,7 +943,7 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-1800;">18:00</p>
                     <div class="session session-3 track-event" style="grid-column: track-1-start / track-5-end; grid-row: time-1800 / time-2030;">
-                        <h3 class="session-title"><a href="/2023/program/social-events/#banquet">Banquet</a> & VGTC Award Announcement & <a href="/2023/program/keynote-speakers/#keynote-lin">Keynote</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/social-events/#banquet">Banquet</a> & VGTC Award Announcement & <a href="/2023/program/keynote-speakers/#keynote-lin">Keynote3</a></h3>
                         <span class="session-time">18:00 - 20:30</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-2000;">20:00</p>
@@ -993,7 +993,7 @@ title: "Program Overview"
                     </div>
                     <p class="time-slot" style="grid-row: time-0945;">09:45</p>
                     <div class="session session-5 track-keynote" style="grid-column: track-1-start / track-1-end; grid-row: time-0945 / time-1045;">
-                        <h3 class="session-title"><a>Keynote3</a></h3>
+                        <h3 class="session-title"><a href="/2023/program/keynote-speakers/#keynote-shum">Keynote4</a></h3>
                         <span class="session-time">09:45 - 10:45</span>
                     </div>
                     <p class="time-slot" style="grid-row: time-1045;">10:45</p>
