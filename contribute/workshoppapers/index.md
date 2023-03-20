@@ -178,5 +178,4 @@ title_separator: "|"
         {% endif %}
     {% endfor %}
 </div>
-{% endfor %}
 </div> 
