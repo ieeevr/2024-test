@@ -1,19 +1,19 @@
-id,title,day,time,timezone
-MASSXR,Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR),,,
-VR4Exergame,First Workshop on VR for Exergaming (VR4Exergame),,,
-KELVAR,KELVAR Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality,,,
-TrainingXR,4th Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR),,,
-ENPT-XR,Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR) ,,,
-XRIOS,2nd International Workshop on eXtended Reality for Industrial and Occupational Support (XRIOS),,,
-XRHealth,2nd XR Health workshop - XR Technologies for Healthcare and Wellbeing (XR Health),,,
-ReDigiTS,3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS),,,
-Data4XR,Data4XR: Datasets for Developing Intelligent XR Applications,,,
-MixReal,Mixing Realities: Cross-reality Visualization| Interaction| and Collaboration,,,
-WIVL,Workshop on Immersive Visualization Laboratories - Past Present and Future ,,,
-SecImmeWorld,First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds),,,
-EUCHS,Enhancing User Comfort| Health| and Safety in VR and AR,,,
-WISP,Workshop on Immersive Sickness Prevention (WISP),,,
-ANIVAE-2023,6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023),,,
-I-Meta,Industrial Metaverse (I-Meta),,,
-ARES,ARES - Augmented Reality Enabling Superhuman Sports + Serious Games (2nd Annual Workshop),,,
-OAT,Open Access Tools and libraries for virtual reality (OAT) ,,,
+id,title,day,time,timezone,abstract,organiser,url
+MASSXR,Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR),,,,"The objective of this workshop on Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality is to bring together researchers and practitioners working in the field of social and affective computing with the ones on 3D computer vision and computer graphics/animation and discuss the current state and future directions, opportunities, and challenges. The workshop aims to establish a new platform for the development of immersive embodied intelligence at the intersection of Artificial intelligence (AI) and Extended Reality (XR). We expect that the workshop will provide an opportunity for researchers to develop new techniques and will lead to new collaboration among the participants. ",Zerrin Yumak,https://sites.google.com/view/massxrworkshop2023
+VR4Exergame,First Workshop on VR for Exergaming (VR4Exergame),,,,"VR exergames have potential to enable a broad spectrum of users to participate in fitness and rehabilitation activities in immersive social environments. Yet, consumer grade VR systems show only limited ability to realize the adoption of VR exergaming at such scale. Key challenges to enable VR as an engaging, interactive and social alternative to existing practices include ¨C therapeutic benefits to fitness and rehabilitation activities; human factors including the ability to simulate real-world scenarios, long term usage comfort among others; and technical capabilities such as simplified system setup, low multi-user latency, and realistic whole-body immersion. This full-day workshop will bring researchers and industry practitioners together to discuss these new emerging research challenges and technologies. It will consist of keynote speakers, juried paper presentations, and a panel discussion. We invite authors to submit 6-page (plus 1-page for references) research or position papers.",Bhawna Shiwani,https://altecresearch.com/vr4exergame/
+KELVAR,KELVAR Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality,,,,,Steven Cutchin,https://sites.google.com/site/vrkelvar/
+TrainingXR,4th Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR),,,,,Lap Fai (Craig) Yu,https://sites.google.com/view/trainingxrieeevr2023/trainingxr
+ENPT-XR,Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR) ,,,,,Assem Kroma,http://www.xrprototyping.com
+XRIOS,2nd International Workshop on eXtended Reality for Industrial and Occupational Support (XRIOS),,,,,Kangsoo Kim,https://sites.google.com/view/xrios
+XRHealth,2nd XR Health workshop - XR Technologies for Healthcare and Wellbeing (XR Health),,,,,Matias Volonte,"{{""/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2023-Matias-Volonte.pdf"" | relative_url }}"
+ReDigiTS,3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS),,,,,Alberto Cannav¨°,https://sites.google.com/view/redigits2023
+Data4XR,Data4XR: Datasets for Developing Intelligent XR Applications,,,,,Yuyang Wang,https://sites.google.com/view/ieee-vr-data4xr
+MixReal,Mixing Realities: Cross-reality Visualization| Interaction| and Collaboration,,,,,Hai-Ning Liang,"{{""/assets/contribute/workshops/MixingRealitiesIEEEVR2023-LingyunYu.pdf"" | relative_url }}"
+WIVL,Workshop on Immersive Visualization Laboratories - Past Present and Future ,,,,,William Sherman,https://ivl-workshop.github.io/
+SecImmeWorld,First Workshop on Security and Privacy for Immersive Virtual Worlds (Secure Immersive Worlds),,,,,Sean Banerjee,"{{""/assets/contribute/workshops/SecurityandPrivacyforSecureImmersiveWorlds-SeanBanerjee.pdf"" | relative_url }}"
+EUCHS,Enhancing User Comfort| Health| and Safety in VR and AR,,,,,Arash Mahnan,"{{""/assets/contribute/workshops/EUCHSARVR-CFP-ArashMahnan.pdf"" | relative_url }}"
+WISP,Workshop on Immersive Sickness Prevention (WISP),,,,,Isayas Berhe Adhanom,https://sites.google.com/umn.edu/wisp
+ANIVAE-2023,6th IEEE VR Internal Workshop on Animation in Virtual and Augmented Environments (ANIVAE-2023),,,,,Thomas Moser,https://anivae.fhstp.ac.at/
+I-Meta,Industrial Metaverse (I-Meta),,,,,"Hongming Cai, Shuangjiu Xiao, Bingqing Shen","{{""/assets/contribute/workshops/Industrial-Metaverse.pdf"" | relative_url }}"
+ARES,ARES - Augmented Reality Enabling Superhuman Sports + Serious Games (2nd Annual Workshop),,,,,Christian Eichhorn,https://wiki.tum.de/pages/viewpage.action?pageId=1003688592
+OAT,Open Access Tools and libraries for virtual reality (OAT) ,,,,,Matias Volonte,https://openvrlab.github.io/
