@@ -177,8 +177,7 @@ title_separator: "|"
             <p>
             {% if workshop.url and workshop.id == "MixReal" %}
                 <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">Call for paper</a></small>
-            {% else %}
-            {% if workshop.url %}
+            {% else if workshop.url %}
                 <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
             {% endif %}
             {% if workshop.discordurl %}
