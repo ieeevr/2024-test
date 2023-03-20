@@ -94,7 +94,6 @@ title_separator: "|"
                 <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
             {% endif %}
             </p>
-
             {% if workshop.abstract %}
                 <div id="{{ workshop.id }}" class="wrap-collabsible"> <input id="collapsible{{ workshop.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ workshop.id }}" class="lbl-toggle">Workshop Description</label>
                     <div class="collapsible-content">
@@ -104,7 +103,6 @@ title_separator: "|"
                     </div>
                 </div>
             {% endif %}
-            
             <!-- TAKE ME TO THE EVENT START -->
             <!--{% for event in site.data.events %}
                 {% if event.id == workshop.id %}
@@ -113,7 +111,6 @@ title_separator: "|"
                         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
                         <p>
                             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
                             {% if event.stream-url %}
                                 <br />
                                 {% if event.aindanaoaconteceu %}
@@ -132,7 +129,6 @@ title_separator: "|"
                 {% endif %}
             {% endfor %}-->
             <!-- TAKE ME TO THE EVENT END-->
-    
             <!-- Only show the 'workshop papers' toggle if there's actually something to show -->
             {% assign papers_in_session = false %}
             {% for paper in site.data.workshoppapers %}
@@ -140,7 +136,6 @@ title_separator: "|"
                     {% assign papers_in_session = true %}
                 {% endif %}
             {% endfor %}
-
             <!-- Show a hideable list of all papers in this workshop -->
             {% if papers_in_session == true %}
             <div id="{{ workshop.id }}2" class="wrap-collabsible"> <input id="collapsible{{ workshop.id }}2" class="toggle" type="checkbox"> <label for="collapsible{{ workshop.id }}2" class="lbl-toggle">Workshop Papers</label>
@@ -148,9 +143,7 @@ title_separator: "|"
                     <div class="content-inner">
                         {% for paper in site.data.workshoppapers %}
                             {% if workshop.id == paper.workshop %}
-
                                 <h4 id="{{ paper.id }}">{{ paper.title }}</h4>
-
                                 {% if paper.authors %}
                                     <p><i>{{ paper.authors }}</i></p>
                                 {% else %}
@@ -168,14 +161,12 @@ title_separator: "|"
                                         </div>
                                     </div>
                                 {% endif %}
-
                             {% endif %}
                         {% endfor %}
                     </div>
                 </div>
             </div>
             {% endif %}
-        {% endif %}
     {% endfor %}
 </div>
 </div> 
