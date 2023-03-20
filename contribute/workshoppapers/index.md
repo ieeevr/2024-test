@@ -184,7 +184,7 @@ title_separator: "|"
             {% else if workshop.url and workshop.id == "EUCHS" %}
                 <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/EUCHSARVR-CFP-ArashMahnan.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
             {% else if workshop.url and workshop.id == "I-Meta" %}
-                <small><b style="color: black;">Website:</b> <a href="{{’/assets/contribute/workshops/Industrial-Metaverse.pdf" | relative_url }}‘ target="_blank">Call for paper</a></small>
+                <small><b style="color: black;">Website:</b> <a href="{{'/assets/contribute/workshops/Industrial-Metaverse.pdf' | relative_url }}" target="_blank">Call for paper</a></small>
             {% else if workshop.url %}
                 <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
             {% endif %}
