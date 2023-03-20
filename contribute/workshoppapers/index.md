@@ -175,6 +175,9 @@ title_separator: "|"
                 </div>
             {% endif %}
             <p>
+            {% if workshop.url and workshop.id == "MixReal" %}
+                <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">Call for paper</a></small>
+            {% else %}
             {% if workshop.url %}
                 <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
             {% endif %}
@@ -240,9 +243,7 @@ title_separator: "|"
                                 {% else %}
                                     <p><i>Author information coming soon</i></p>
                                 {% endif %}
-                                {% if paper.url and paper.id == "XRHealth" %}
-                                    <p><small>URL: <a href="{{ paper.url }}" target="_blank">Call for paper</a></small></p>
-                                {% else if paper.url %}
+                                {% if paper.url %}
                                     <p><small>URL: <a href="{{ paper.url }}" target="_blank">{{ paper.url }}</a></small></p>
                                 {% endif %}
                                 {% if paper.abstract %}
