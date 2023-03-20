@@ -163,7 +163,7 @@ title_separator: "|"
 <div>
     {% for workshop in site.data.workshops %}
             <!-- Workshop title matter -->
-            <h2 id="{{ workshop.id }}">Workshop: {{ workshop.name }}</h2>
+            <h2 id="{{ workshop.id }}">Workshop: {{ workshop.title }}</h2>
             <!-- <p><strong>{{ workshop.day }}, {{ workshop.starttime }}, {{ workshop.timezone }}</strong></p> -->
             {% if workshop.organiser %}
                 <p><small><b style="color: black;">Principal Organiser:</b> {{ workshop.organiser }}</small></p>
