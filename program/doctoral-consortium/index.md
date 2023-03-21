@@ -78,8 +78,8 @@ title: "Doctoral Consortium"
                 Shane Burrell Jr – Dr. Victoria Interrante<br/>
                 Radhika Jain – Dr. Steven Cutchin<br/>
                 Damaruka Priya Rajasagi – Dr. Andrea Stevenson Won<br/>
-                Xingyao Yu – Dr. Steven Feiner<br/>
                 Xiaoyan Zhou – Dr. Doug Bowman
+                (one moved to 16:00-17:00)
             </td>
         </tr>
         <tr>
@@ -148,6 +148,7 @@ title: "Doctoral Consortium"
                 Isla Xi Han – Dr. Yiyu Cai<br/>
                 Piaopiao Yu – Dr. Lik-Hang Lee<br/>
                 Yidan Zhang – Dr. Mark Billinghurst<br/>
+                Xingyao Yu – Dr. Steven Feiner
             </td>
         </tr>
         <tr>
