@@ -144,11 +144,10 @@ title_separator: "|"
 
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
-    <p>
+    <!-- <p>
         IEEE VR 2023 seeks high-quality contributions to the following 18 workshops. 
-        <!-- These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>.  -->
         For more details, see each workshop's Call for Papers below.
-    </p>
+    </p> -->
     <table class="styled-table">
         <tr>
             <th>Workshops</th>
