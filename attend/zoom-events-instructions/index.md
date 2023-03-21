@@ -7,7 +7,7 @@ title_separator: "|"
 
 <!-- NAO ESTA NO MENUBAR -->
 <div>
-    <h1 id="zoom-events-instructions">Zoome Events Instructions</h1>
+    <h1 id="zoom-events-instructions">Zoom Events Instructions</h1>
     <p>
     <br/>
     Dear IEEE VR 2023 attendee,<br/>
