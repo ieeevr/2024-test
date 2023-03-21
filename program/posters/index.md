@@ -239,7 +239,7 @@ TAKE ME TO THE EVENT END-->
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
     {% if poster.abstract %}
-    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+    <div id="{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <p>{{ poster.abstract }}</p>
@@ -263,7 +263,7 @@ TAKE ME TO THE EVENT END-->
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
     {% if poster.abstract %}
-    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
+    <div id="{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <p>{{ poster.abstract }}</p>
