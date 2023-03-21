@@ -23,7 +23,7 @@ title_separator: "|"
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/0.png" | relative_url }}" alt="webpage" width="80%"></center>
     <p>
-    After clicking on the above link, you will be brought to a webpage similar to the one below:<br/>
+    Click “Join Lobby” to bring up the main interface.<br/>
     <strong>Important for audience</strong>: If you are asked to log in to Zoom, <strong>please use the same email address as you used in the conference registration.</strong>
     </p>
     <h2>Joining a Session</h2>
@@ -62,7 +62,7 @@ title_separator: "|"
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/7.png" | relative_url }}" alt="custom" width="50%"></center>
     <p>
-    If you find a session you are interested in, you can bookmark it by clicking on the flag icon in the lower left corner of its session card. Any session in which you are registered as a speaker or host will be automatically bookmarked. You can also see how many other attendees have bookmarked this session.
+    Clicking on the “Itinerary” tab on the left hand side of the window will then bring up a personalised timetable with all sessions you have bookmarked. Please feel free to use this feature to plan your IEEE VR experience for 2023.
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/8.png" | relative_url }}" alt="plan" width="80%"></center>
     <h2>Need additional help?</h2>
