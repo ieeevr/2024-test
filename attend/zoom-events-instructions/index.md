@@ -7,8 +7,9 @@ title_separator: "|"
 
 <!-- NAO ESTA NO MENUBAR -->
 <div>
-    <h1 id="zoom-events-instructions">zoom-events-instructions</h1>
+    <h1 id="zoom-events-instructions">Zoome Events Instructions</h1>
     <p>
+    <br/>
     Dear IEEE VR 2023 attendee,<br/>
     This year, keynotes, workshops, tutorials, panels, paper presentations, posters, demos, the 3DUI contest, doctoral consortium, and the opening and closing ceremonies will all be presented via a Zoom event. Below is a quick guide to help you navigate the Zoom Events interface.<br/>
     <a href="https://events.zoom.us/ev/AhmCCzVC-RADb00wPUlHZoiqmekZamDY4geBdWaG7KMYNKf70Chh~AggLXsr32QYFjq8BlYLZ5I06Dg">Link to IEEE VR 2023 Zoom Lobby</a>
@@ -59,7 +60,7 @@ title_separator: "|"
     <p>
     If you find a session you are interested in, you can bookmark it by clicking on the flag icon in the lower left corner of its session card. Any session in which you are registered as a speaker or host will be automatically bookmarked. You can also see how many other attendees have bookmarked this session.
     </p>
-    <center><img src="{{ "/assets/images/attend/zoom/7.png" | relative_url }}" alt="custom" width="80%"></center>
+    <center><img src="{{ "/assets/images/attend/zoom/7.png" | relative_url }}" alt="custom" width="50%"></center>
     <p>
     If you find a session you are interested in, you can bookmark it by clicking on the flag icon in the lower left corner of its session card. Any session in which you are registered as a speaker or host will be automatically bookmarked. You can also see how many other attendees have bookmarked this session.
     </p>
