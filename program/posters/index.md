@@ -140,32 +140,27 @@ title: "Posters"
 
 <div>
     <table class="styled-table">
-
         <tr>
             <th>Posters</th>
             <th>Location</th>
         </tr>
         <tr>
-            <td><a href="#DCA">Doctoral Consortium Posters</a></td>
-            <td>Hall A</td>
+            <td><a href="#P1">Poster Session 1</a></td>
+            <td>Session/Server 1</td>
         </tr>
         <tr>
-            <td><a href="#DCB">Doctoral Consortium Posters</a></td>
-            <td>Hall B</td>
+            <td><a href="#P2">Poster Session 2</a></td>
+            <td>Session/Server 2</td>
         </tr>
         <tr>
-            <td><a href="#PA">Posters</a></td>
-            <td>Hall A</td>
-        </tr>
-        <tr>
-            <td><a href="#PB">Posters</a></td>
-            <td>Hall B</td>
+            <td><a href="#P3">Poster Session 3</a></td>
+            <td>Session/Server 3</td>
         </tr>
     </table>
 </div>
 
+<!-- TAKE ME TO THE EVENT START
 <div>
-<!-- TAKE ME TO THE EVENT START -->
     {% for event in site.data.events %}
     {% if event.id == 'posters-all' %}
     {% if event.location %}
@@ -173,7 +168,6 @@ title: "Posters"
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
             {% if event.stream-url %}
             <br />
             {% if event.aindanaoaconteceu %}
@@ -191,10 +185,10 @@ title: "Posters"
     </div> 
     {% endif %}
     {% endfor %}
-    <!-- TAKE ME TO THE EVENT END-->
 </div>
+TAKE ME TO THE EVENT END-->
 
-<div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+<!-- <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
     <strong>Best of IEEE VR 2021</strong>
     <p>
         Please use this form to vote for the best poster, best demo, and best 3DUI contest submission.
@@ -204,101 +198,22 @@ title: "Posters"
             <a href="https://cutt.ly/Mx0n5Zu" class="btn btn--primary" style="color: white;" target="_blank">Vote!</a>
         </p>
     </center>
-</div>
+</div> -->
 
-<div>
-    
-    <h2 id="DCA"> Doctoral Consortium - Hall A</h2>
-    
+<div>    
+    <h2 id="P1"> Session/Server 1</h2>    
     {% for poster in site.data.posters %}
-    {% if poster.type == 'DC' %}
-    {% if poster.location == 'Expo Hall A' %}
-    
-    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
-    <p><strong>Doctoral Consortium</strong></p>
-    
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
-    
-    <p><i>{{ poster.authors }}</i></p>
-    {% if poster.url %}
-        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
-    {% endif %}
-    
-    {% if poster.abstract %}
-    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>{{ poster.abstract }}</p>
-            </div>
-        </div>
-    </div>   
-    {% endif %}
-    
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-</div>
-
-<div>
-    
-    <h2 id="DCB"> Doctoral Consortium - Hall B</h2>
-    
-    {% for poster in site.data.posters %}
-    {% if poster.type == 'DC' %}
-    {% if poster.location == 'Expo Hall B' %}
-    
-    <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
-    <p><strong>Doctoral Consortium</strong></p>
-    
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
-    
-    <p><i>{{ poster.authors }}</i></p>
-    {% if poster.url %}
-        <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
-    {% endif %}
-    
-    {% if poster.abstract %}
-    <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
-        <div class="collapsible-content">
-            <div class="content-inner">
-                <p>{{ poster.abstract }}</p>
-            </div>
-        </div>
-    </div>   
-    {% endif %}
-    
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-</div>
-
-<div>
-    
-    <h2 id="PA"> Posters - Hall A</h2>
-    
-    {% for poster in site.data.posters %}
-    {% if poster.type == 'Poster' %}
-    {% if poster.location == 'Expo Hall A' %}
-    
+    {% if poster.location == 'Session/Server 1' %}
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p> 
-    
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} 
-    
-    {% if poster.id == 'C2223' %}
-    <strong> <br> Note: </strong> Previously on Booth E38 - Expo Hall B 
-    {% endif %}  
-        
-</strong></small> <br> </p>
-
-    
-
+    <p> 
+        <small><strong style="color: black;"> Booth: {{ poster.booth }}  
+        </strong></small> <br> 
+    </p>
     <p><i>{{ poster.authors }}</i></p>
-    
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
-    
     {% if poster.abstract %}
     <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
@@ -307,35 +222,24 @@ title: "Posters"
             </div>
         </div>
     </div>   
-    {% endif %}
-    
-    {% endif %}
+    {% endif %}    
     {% endif %}
     {% endfor %}
 </div>
 
 <div>
-    
-    <h2 id="PB"> Posters - Hall B</h2>
-    
+    <h2 id="P2"> Session/Server 2</h2>
     {% for poster in site.data.posters %}
-    {% if poster.type == 'Poster' %}
-    {% if poster.location == 'Expo Hall B' %}
-    
+    {% if poster.location == 'Session/Server 2' %}
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p>
-    
 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
 
-{% if poster.id == 'C2223' %}
-<p><small><strong> Note: </strong> <strong style="color: black;"> Previously on booth E38 - Expo Hall B </strong> </small><br></p>
-{% endif %}
-    
+  
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
-    
     {% if poster.abstract %}
     <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
@@ -344,43 +248,31 @@ title: "Posters"
             </div>
         </div>
     </div>   
-    {% endif %}
-    
-    {% endif %}
+    {% endif %}    
     {% endif %}
     {% endfor %}
 </div>
 
-
-
-
-
-
-
-
-<!--
-
 <div>
+    <h2 id="P3"> Session/Server 3</h2>
     {% for poster in site.data.posters %}
-
+    {% if poster.location == 'Session/Server 3' %}
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
-    
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
-    
+    <p><strong>{{ poster.type }}</strong></p>
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>   
     <p><i>{{ poster.authors }}</i></p>
-    
-    
-    
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
     {% endif %}
+    {% if poster.abstract %}
     <div id="abstract{{ poster.id }}" class="wrap-collabsible"> <input id="collapsibleabstract{{ poster.id }}" class="toggle" type="checkbox"> <label for="collapsibleabstract{{ poster.id }}" class="lbl-toggle">Abstract</label>
         <div class="collapsible-content">
             <div class="content-inner">
                 <p>{{ poster.abstract }}</p>
             </div>
         </div>
-    </div>
+    </div>   
+    {% endif %}    
+    {% endif %}
     {% endfor %}
 </div>
--->
