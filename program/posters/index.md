@@ -203,7 +203,7 @@ TAKE ME TO THE EVENT END-->
     <h2>
         On-site Map
     </h2>
-    <img src="../../assets/images/program/map.png" style="width: 80%"/>
+    <img src="../../assets/images/program/posters/map.png" style="width: 80%"/>
 </div>
 
 
