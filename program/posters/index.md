@@ -201,7 +201,7 @@ TAKE ME TO THE EVENT END-->
 </div> -->
 <div>
     <h2>
-        On-site Map
+        On-site Floor Plan
     </h2>
     <img src="../../assets/images/program/posters/map.png" style="width: 80%"/>
 </div>
