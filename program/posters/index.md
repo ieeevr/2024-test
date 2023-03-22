@@ -206,10 +206,9 @@ TAKE ME TO THE EVENT END-->
     {% if poster.location == 'Session/Server 1' %}
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p> 
-    <p> 
-        <small><strong style="color: black;"> Booth: {{ poster.booth }}  
-        </strong></small> <br> 
-    </p>
+    {% if poster.booth %}
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>  
+    {% endif %}
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
@@ -233,7 +232,9 @@ TAKE ME TO THE EVENT END-->
     {% if poster.location == 'Session/Server 2' %}
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p>
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>
+    {% if poster.booth %}
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>  
+    {% endif %}
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
@@ -257,7 +258,9 @@ TAKE ME TO THE EVENT END-->
     {% if poster.location == 'Session/Server 3' %}
     <h3 id="{{ poster.id }}">{{ poster.title }}</h3>
     <p><strong>{{ poster.type }}</strong></p>
-<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>   
+    {% if poster.booth %}
+<p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>  
+    {% endif %}
     <p><i>{{ poster.authors }}</i></p>
     {% if poster.url %}
         <p>Teaser Video: <a href="{{ poster.url }}" target="_blank">Watch Now</a></p>
