@@ -93,7 +93,7 @@ title_separator: "|"
     }
 
     .toggle:checked+.lbl-toggle+.collapsible-content {
-        /* max-height: 1500px; */
+        max-height: 10000px;
     }
 
     .toggle:checked+.lbl-toggle {
