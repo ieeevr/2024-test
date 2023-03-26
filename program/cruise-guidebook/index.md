@@ -69,7 +69,7 @@ title_separator: "|"
     <li>Due to the late disembarkation time and limited public transport, we recommend following to follow the volunteers' guidances to take the arranged bus back to the hotel together.</li>
 </ul>
 <h2 id="cruise-line">Cruise Line</h2>
-<img src="../../assets/images/attend/t2.png" style="width: 80%"/>
+<img src="../../assets/images/attend/t2.png" style="width: 100%"/>
 <h2 id="menu">Menu of food and drinks</h2>
 <p>Menu of food and drinks that will be served on board</p>
 <h3>冷菜 Starter:</h3>
