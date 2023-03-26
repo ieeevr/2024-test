@@ -55,6 +55,8 @@ title_separator: "|"
 <p>
     <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2023, Shanghai
     <br />
+    <strong style="color: red">We receive no more registrations now.</strong>
+    <br />
     <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
 </p>
 
