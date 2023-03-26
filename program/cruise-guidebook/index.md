@@ -48,7 +48,7 @@ title_separator: "|"
 <h2 id="introduction">Introduction</h2>
 <p>The welcome reception of the IEEE VR Conference will be arranged on a Chinese-style cruise ship on the Huangpu River, with a virtual scene of the Bund on the 3D online platform, and a live broadcast of the entire tour to experience the stunning night view of both sides of the river in a simultaneous virtual and real space. At the reception, attendees can meet academic experts and research partners with similar interests, discuss cutting-edge technology topics, and find opportunities for cooperation.</p>
 <h2 id="schedule">Schedule</h2>
-<ul style="list-style-type: none">
+<ul style="list-style-type: none; padding: 0">
     <li><strong style="color:black">17:00</strong> End of the paper sessions, transfer from Pudong Shangri-La Hotel to the pier by bus</li>
     <li><strong style="color:black">19:00</strong> Scheduled cruise departure</li>
     <li><strong style="color:black">19:00~21:30</strong> Self-service meal</li>
@@ -192,7 +192,7 @@ title_separator: "|"
 <h2 id="safety-guidances">Safety Guidances</h2>
 <p>Welcome to IEEE VR 2023 cruise reception on the Huangpu River. Please take care of your belongings. If you find lost items, please hand them over to our staff. In order to ensure your safety, please follow the guidance of the cruise staff and do not climb the side of the cruise ship. Please do not enter the working area of the crew and use the equipment on the ship without authorisation.</p>
 <h2 id="useful-tips">Useful Tips</h2>
-<ul style="list-style-type: none">
+<ul style="list-style-type: none; padding: 0">
     <li><strong style="color:black">Weather precaution:</strong> The night temperature in Shanghai is 9°C to 11°C, and the temperature on the river may be lower. Please pay attention to keeping warm and adding clothes.</li>
     <li><strong style="color:black">Smoking policy:</strong> For the safety of the cruise ship and the health of you and others, smoking is prohibited on the cruise ship.</li>
 </ul>
