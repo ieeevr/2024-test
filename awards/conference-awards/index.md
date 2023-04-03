@@ -2,7 +2,6 @@
 layout: ieeevr-default
 title: "Conference Award Winners"
 ---
-<!-- Commented out because of compiler errors
 <style>
     <style>* {
         box-sizing: border-box;
@@ -356,7 +355,6 @@ follow.
 <h2 id='journal-best' style="text-align: center; color: #00aeef;">TVCG - Best Journal Papers</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Journal' %}
         {% if item.award == 'Best Paper' %}
         
@@ -373,10 +371,8 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
@@ -464,10 +460,8 @@ follow.
 <h2 id='conference-honorable' style="text-align: center; color: #00aeef;">Conference Papers - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Conference' %}
         {% if item.award == 'Honorable Mention' %}
-        
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.Title }}</h4>
@@ -491,10 +485,8 @@ follow.
 <h2 id='conference-nominees' style="text-align: center; color: #00aeef;">Conference Papers - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Conference' %}
         {% if item.award == 'Nominee' %}
-        
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.Title }}</h4>
@@ -508,20 +500,16 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
 <h2 id='best-poster' style="text-align: center; color: #00aeef;">Best Poster</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Poster' %}
         {% if item.award == 'Best Poster' %}
-        
             {% for j in site.data.posters %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
@@ -535,20 +523,16 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
 <h2 id='poster-honorable' style="text-align: center; color: #00aeef;">Posters - Honorable Mention</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Poster' %}
         {% if item.award == 'Honorable Mention' %}
-        
             {% for j in site.data.posters %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
@@ -562,20 +546,16 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
 <h2 id='demo-best' style="text-align: center; color: #00aeef;">Best Demo</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Demo' %}
         {% if item.award == 'Best Demo' %}
-        
             {% for j in site.data.demos %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
@@ -589,20 +569,16 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
 <h2 id='demo-honorable' style="text-align: center; color: #00aeef;">Demos - Honorable Mention</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Demo' %}
         {% if item.award == 'Honorable Mention' %}
-        
             {% for j in site.data.demos %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
@@ -616,20 +592,16 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
 <h2 id='demo-people' style="text-align: center; color: #00aeef;">Demos - People's Choice</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == 'Demo' %}
-        {% if item.award == 'Peoples Choice Demo' %}
-        
+        {% if item.award == 'Peoples Choice Demo' %}`
             {% for j in site.data.demos %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
@@ -643,25 +615,20 @@ follow.
                 </div>
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
     {% endif %}
-    
 {% endfor %}
 </div>
 
 <h2 id='3dui-best' style="text-align: center; color: #00aeef;">3DUI Contest - Best 3DUI</h2>
 <div>
 {% for item in site.data.awards %}
-    
     {% if item.type == '3DUI Contest' %}
         {% if item.award == 'Best 3DUI' %}
-        
             {% for j in site.data.3duicontest %}
                 {% if j.id == item.id %}
                 <h4 id="{{ j.id }}">{{ j.title }}</h4>
                 <p><i>{{ j.authors }}</i></p>-->
-                <!--
                 <div id="{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -669,13 +636,10 @@ follow.
                         </div>
                     </div>
                 </div>
-                --><!--
                 {% endif %}
             {% endfor %}
-    
         {% endif %}
-    {% endif %}
-    
+    {% endif %}    
 {% endfor %}
 </div>
 
@@ -687,7 +651,6 @@ follow.
         <i>Dept. of Texts & Technology, University of Central Florida, Orlando, Florida, United States</i><br/>
     </p>
 </div>
-
 <h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
 <div>
     <h4>A Framework for Enhancing the Sense of Presence in Virtual and Mixed Reality</h4>
@@ -714,7 +677,3 @@ follow.
     <i>Nara Institute of Science and Technology, Ikoma, Japan</i>
 </div>
 
-
-
-
--->
