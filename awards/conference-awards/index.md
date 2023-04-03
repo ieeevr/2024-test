@@ -721,14 +721,14 @@ follow.
             {% for j in site.data.3duicontest %}
                 {% if j.id == item.id %}
                 <h4 id="3dui{{ j.id }}">{{ j.title }}</h4>
-                <p><i>{{ j.authors }}</i></p>-->
-                <div id="3dui{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
+                <p><i>{{ j.authors }}</i></p>
+                <!-- <div id="3dui{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
                             <p>{{ j.abstract }}</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 {% endif %}
             {% endfor %}
         {% endif %}
@@ -743,14 +743,14 @@ follow.
             {% for j in site.data.3duicontest %}
                 {% if j.id == item.id %}
                 <h4 id="3dui{{ j.id }}">{{ j.title }}</h4>
-                <p><i>{{ j.authors }}</i></p>-->
-                <div id="3dui{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
+                <p><i>{{ j.authors }}</i></p>
+                <!-- <div id="3dui{{ j.id }}" class="wrap-collabsible"> <input id="collapsible3dui{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible3dui{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
                             <p>{{ j.abstract }}</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 {% endif %}
             {% endfor %}
         {% endif %}
