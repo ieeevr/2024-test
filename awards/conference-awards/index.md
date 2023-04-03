@@ -732,7 +732,7 @@ follow.
     </p>
 </div>
 
-<h2 id='journal-best' style="text-align: center; color: #00aeef;">Best Paper Presentation</h2>
+<h2 id='Paper-presentation-best' style="text-align: center; color: #00aeef;">Best Paper Presentation</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'PresentationJ' %}
