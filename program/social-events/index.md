@@ -151,6 +151,7 @@ title_separator: "|"
     <p>
         The welcome reception of the IEEE VR Conference will be arranged on a Chinese-style cruise ship on the Huangpu River, with a virtual scene of the Bund on the 3D online platform, and a live broadcast of the entire tour to experience the stunning night view of both sides of the river in a simultaneous virtual and real space. At the reception, attendees can meet academic experts and research partners with similar interests, discuss cutting-edge technology topics, and find opportunities for cooperation.
     </p>
+    <p><a href="/2023/program/cruise-guidebook">Reception Cruise Guidebook</a></p>
     <!-- <p>
        Cruising the Huangpu River allows attendees to enjoy a magnificent nightscape with the city's most famous skyscrapers. At the reception, attendees can meet research partners with similar interests and discuss state-of-the-art topics for academic interactions.
     </p> -->
