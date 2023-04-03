@@ -355,8 +355,18 @@ follow.
         {% if item.award == 'Best Paper' %}
             {% for j in site.data.journalpapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="JT{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="J{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleJ{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleJ{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -372,8 +382,18 @@ follow.
         {% if item.award == 'Best Paper' %}
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="CT{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="C{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleC{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleC{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -395,8 +415,18 @@ follow.
         {% if item.award == 'Honorable Mention' %}
             {% for j in site.data.journalpapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="JT{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="J{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleJ{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleJ{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -412,8 +442,18 @@ follow.
         {% if item.award == 'Honorable Mention' %}
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="CT{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="C{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleC{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleC{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -435,8 +475,18 @@ follow.
         {% if item.award == 'Nominee' %}
             {% for j in site.data.journalpapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="JT{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="J{{ j.id }}" class="wrap-collabsible"> <input id="collapsible1J{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsible1J{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -452,8 +502,18 @@ follow.
         {% if item.award == 'Nominee' %}
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="CT{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="C{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleC{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleC{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
@@ -653,7 +713,6 @@ follow.
     {% endif %}
 {% endfor %}
 </div> -->
-
 <h2 id='3dui-best' style="text-align: center; color: #00aeef;">Best 3DUI</h2>
 <div>
 {% for item in site.data.awards %}
@@ -676,8 +735,7 @@ follow.
     {% endif %}    
 {% endfor %}
 </div>
-
-<h2 id='3dui-best' style="text-align: center; color: #00aeef;">3DUI - Honorable Mention</h2>
+<h2 id='3dui-honorable' style="text-align: center; color: #00aeef;">3DUI - Honorable Mention</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == '3DUI Contest' %}
@@ -766,8 +824,18 @@ follow.
         {% if item.award == 'Best Presentation' %}
             {% for j in site.data.conferencepapers %}
                 {% if j.id == item.id %}
+                {% assign authornames = j.authors | split: ";" %}
                 <h4 id="C{{ j.id }}">{{ j.Title }}</h4>
-                <p><i>{{ j.authors }}</i></p>
+                <p><i>
+                {% for name in authornames %}
+                {% assign barename = name | split: ":" %}
+                {% if name == authornames.last %}
+                {{ barename.first | strip }}
+                {% else %}
+                {{ barename.first | strip }}, 
+                {% endif %}
+                {% endfor %}
+                </i></p>
                 <div id="C{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleC{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleC{{ j.id }}" class="lbl-toggle">Abstract</label>
                     <div class="collapsible-content">
                         <div class="content-inner">
