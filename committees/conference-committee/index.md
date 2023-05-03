@@ -207,6 +207,8 @@ title: "Conference Committee"
 			<li>	Jiannan Ye	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>	
 			<li>	Haotian Mao	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>
 			<li>	Jacob Young	&#x2012; <i>	Victoria University of Wellington, New Zealand	</i></li>
+			<li>	Zhi Wang &#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>
+			<li>	Daiyun Guo	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>
 			<li style="list-style: none">	web2023 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
