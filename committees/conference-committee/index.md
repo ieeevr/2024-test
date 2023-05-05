@@ -227,6 +227,16 @@ title: "Conference Committee"
 <div>
 	<h2>	Industry Forum Chairs	</h2>						
 		<ul>							
+			<li>	Fangzhou Zhu	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>	
+			<li>	Keyao You	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
+			<li>	Shulin Hong	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
+			<li>	Tiance Li	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
+			<li>	Yankai Mao	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
+		</ul>				
+</div>
+<div>
+	<h2>	Streaming Chairs	</h2>						
+		<ul>							
 			<li>	Haiying Duanmu	&#x2012; <i>	 Shanghai Multimedia Industry Association, China	</i></li>	
 			<li>	Lin Gao	&#x2012; <i>	Institute of Computing Technology Chinese Academy of Sciences, China	</i></li>
 			<li>	Xin Yang	&#x2012; <i>	Dalian University of Technology, China	</i></li>
