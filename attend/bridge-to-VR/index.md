@@ -9,7 +9,7 @@ title_separator: "|"
 <div>
     <h1 id="Bridge-to-VR">IEEE VR 2024 Bridge to VR Call for Participation</h1>
     <p>
-    <strong style="color: black">IEEE VR 2024: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
     25-29 March, 2024, 
     <br />
@@ -28,7 +28,7 @@ title_separator: "|"
     
     <h2>Overview</h2>
     <p>
-        The 30th IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks outstanding candidates to participate in the Bridge to VR program. 
+        The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks outstanding candidates to participate in the Bridge to VR program. 
     </p>
     <p> 
         Successful applicants will have the opportunity to participate in the IEEE VR conference, the premier international venue for the presentation of research results in the broad area of virtual reality. The aim of this program is to enable undergraduate students interested in VR <strong>to participate in the conference with current scholars</strong> and to encourage these students <strong>to pursue VR research in academic settings</strong>. 

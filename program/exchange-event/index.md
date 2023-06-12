@@ -70,7 +70,7 @@ title_separator: "|"
 <div>
     <h1 id="cfp-conference">Invitation to Exceptional Young Scholars: The Innovate for the Future Event</h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <strong style="color: black">IEEE VR 2024: the 331<sup>st</sup>0th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
         March 25-29, 2024, Shanghai, China
         <br>

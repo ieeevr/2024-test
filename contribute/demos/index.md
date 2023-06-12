@@ -14,7 +14,7 @@ title_separator: "|"
 <div>
     <h1 id="cfp-demos">Call for Research Demos</h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-March 29, 2024
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-March 29, 2024
         <br />
         <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
@@ -56,7 +56,7 @@ title_separator: "|"
 
     <h2 id="Overview">Overview</h2>
     <p>
-        The 30th IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks research demonstrations from laboratories or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally, authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their demo and relate it to research being performed at their lab.
+        The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks research demonstrations from laboratories or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally, authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their demo and relate it to research being performed at their lab.
     </p>
 
     <h2 id="submission-guidelines">Submission Guidelines</h2>

@@ -16,7 +16,7 @@ title_separator: "|"
 <div>
     <h1 id="cfp-posters"> Call for Posters</h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2024
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2024
         <br />
         <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
@@ -33,7 +33,7 @@ title_separator: "|"
     
     <h2 id="Overview">Overview</h2>
     <p>
-        The 30th IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks poster submissions, which describe recently completed work, highly relevant results of work in progress, or successful systems and applications, in all areas related to virtual reality, augmented reality, mixed reality, and 3D user interfaces.
+        The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks poster submissions, which describe recently completed work, highly relevant results of work in progress, or successful systems and applications, in all areas related to virtual reality, augmented reality, mixed reality, and 3D user interfaces.
     </p>
     <p>
         Presenting a poster is a great way to get feedback on work that has not yet been published. As the conference will be a hybrid, likely both a remote and in-person poster presentation will be part of the conference, with sessions for interactive discussion between presenters and attendees for at least two days where authors can orally present a brief summary of their work to all conference attendees. Note that, in order to maintain interactive and exciting poster presentations, we require at least one presenter per accepted poster to attend the conference virtually or in person.

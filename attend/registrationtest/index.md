@@ -53,7 +53,7 @@ title_separator: "|"
 <h1 id="registration"> Registration</h1>
 
 <p>
-    <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2024, Shanghai
+    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2024, Shanghai
     <br />
     <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
 </p>
@@ -69,7 +69,7 @@ title_separator: "|"
 -->
 <p>
 <a href="http://150.158.11.215:3000/register" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
-<a href="http://ieeevr.org/2024/assets/attend/Tentative_Program_VR2024.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
+<a href="http://ieeevr.org/2024/assets/attend/Tentative_Program_VR2023.pdf" class="btn btn--info" style="" target="_blank">Tentative Program</a> 
 </p>
 
 <div style="">
@@ -466,7 +466,7 @@ Non-authors or authors who do not need to validate their accepted publications c
   <tr>
     <td>One day tour in Shanghai</td>
     <td>¥350(CNY)/each</td>
-    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_in_Shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a>(March 30th, 2024)</small></td>
+    <td><small>Include tickets for the Oriental Pearl TV Tower and Yuyuan Garden, a dinner, and other expenses (transportation, guide service, accident insurance, comprehensive service fee, and taxes) <a href="{{"/assets/attend/tour_in_Shanghai.pdf" | relative_url }}" target="_blank">One day tour in Shanghai</a>(March 30th, 2023)</small></td>
   </tr>
   <tr>
     <td>T-shirt</td>

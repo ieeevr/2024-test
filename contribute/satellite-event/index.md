@@ -12,7 +12,7 @@ title_separator: "|"
     
     <h1 id="cfp-journal"> Call for Satellite Events </h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces March 25th-March 29th, 2024</strong>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces March 25th-March 29th, 2024</strong>
         <br />
         <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>

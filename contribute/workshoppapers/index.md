@@ -380,7 +380,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2024-Matias-Volonte.pdf" | relative_url }}" target="_blank">Call for paper</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/XR-HealthWorkshopIEEEVR2023-Matias-Volonte.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 10<sup>th</sup> January 2024 </li>
@@ -523,7 +523,7 @@ title_separator: "|"
     <!-- TAKE ME TO THE EVENT END-->
     
     <p>
-        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/MixingRealitiesIEEEVR2024-LingyunYu.pdf" | relative_url }}" target="_blank">Call for paper</a>
+        <strong style="color:black;">Website:</strong> <a href="{{"/assets/contribute/workshops/MixingRealitiesIEEEVR2023-LingyunYu.pdf" | relative_url }}" target="_blank">Call for paper</a>
     </p>
     <ul>
         <li> Submission deadline: 15<sup>th</sup> January 2024 </li>

@@ -53,7 +53,7 @@ title_separator: "|"
 <h1 id="registration"> Registration</h1>
 
 <p>
-    <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2024, Shanghai
+    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2024, Shanghai
     <br />
     <strong style="color: red">We receive no more registrations now.</strong>
     <br />
@@ -71,7 +71,7 @@ title_separator: "|"
 -->
 <p>
 <a href="https://ieeevr.cn/" class="btn btn--primary" style="" target="_blank">Click Here to Register</a>
-<a href="http://ieeevr.org/2024/assets/attend/IEEEVR2024_Program.pdf" class="btn btn--info" style="" target="_blank">Program</a> 
+<a href="http://ieeevr.org/2024/assets/attend/IEEEVR2023_Program.pdf" class="btn btn--info" style="" target="_blank">Program</a> 
 </p>
 
 <div style="">

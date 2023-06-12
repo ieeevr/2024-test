@@ -13,9 +13,9 @@ title: "Call for Journal Papers"
 <div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
 <p>
-    <strong style="color: black">IEEE VR 2024: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
-    12-16 March, 2022, Virtual
+    12-16 March, 2024, Virtual
     <br />
     <a href="http://ieeevr.org/2022/">http://ieeevr.org/2022/</a>
 </p>
