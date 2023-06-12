@@ -112,7 +112,7 @@ title_separator: "|"
 </div>
 
     <div style="display: inline-block">
-        <img src= "{{ "/assets/images/sponsors/VR2024.png" | relative_url }}"  width="95%" >
+        <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
     </div>
 
 
