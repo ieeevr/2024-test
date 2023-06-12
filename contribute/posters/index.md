@@ -17,7 +17,7 @@ title_separator: "|"
     <h1 id="cfp-posters"> Call for Posters</h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
-        March 16-21, 2024 | Contemporary Hotel, Walt Disney World, Orlando, Florida USA
+        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
         <br />
         <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>

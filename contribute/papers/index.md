@@ -21,7 +21,7 @@ title_separator: "|"
     <br /> 
     March 16-21, 2024
     <br />
-    Contemporary Hotel, Walt Disney World, Orlando, Florida USA
+    Contemporary Resort, Walt Disney World, Orlando, Florida USA
     <br />
     <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
 </p>
