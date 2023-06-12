@@ -1,26 +1,26 @@
 ---
 layout: ieeevr-default
 title: "Mentorship-program"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
 <!-- NAO ESTA NO MENUBAR -->
 <div>
-    <h1 id="mentorship-program">IEEE VR 2023 Mentorship Program</h1>
+    <h1 id="mentorship-program">IEEE VR 2024 Mentorship Program</h1>
     
     <h2>Overview</h2>
     <p>
-    The goal of the IEEE VR 2023 Mentorship Program is to connect newcomers to the conference (mentees) and experienced attendees (mentors) via shared interests. This program is a great networking opportunity for both mentees and mentors to learn both about each other and the VR field in general!
+    The goal of the IEEE VR 2024 Mentorship Program is to connect newcomers to the conference (mentees) and experienced attendees (mentors) via shared interests. This program is a great networking opportunity for both mentees and mentors to learn both about each other and the VR field in general!
 
     </p>
     
     <h2>How do I participate?</h2>
     <p>
-        Interested individuals can apply to the Mentorship Program after registering for the 2023 IEEE VR conference. Mentors and mentees will be matched by the program organizers based on different levels of IEEE VR experience and research interests and will be put in contact before the conference begins.
+        Interested individuals can apply to the Mentorship Program after registering for the 2024 IEEE VR conference. Mentors and mentees will be matched by the program organizers based on different levels of IEEE VR experience and research interests and will be put in contact before the conference begins.
     </p>
     <p> 
-        A sign-up <a href="https://forms.gle/hnnTFsnUMunntxXv8">form</a> will be shared with <strong>all registered attendees</strong> of the IEEE VR 2023 conference. Interested participants should complete this form by <strong>March 24, 2023</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins. First time attendees will receive priority consideration for a mentor, and the mentorship program will be open to the most compelling 40 applicants, based on need and order of application.
+        A sign-up <a href="https://forms.gle/hnnTFsnUMunntxXv8">form</a> will be shared with <strong>all registered attendees</strong> of the IEEE VR 2024 conference. Interested participants should complete this form by <strong>March 24, 2024</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins. First time attendees will receive priority consideration for a mentor, and the mentorship program will be open to the most compelling 40 applicants, based on need and order of application.
     </p>
 
     <h2>What is involved in this program?</h2>
@@ -40,11 +40,11 @@ title_separator: "|"
     
     <h2>Contact</h2>
     <p>
-        This program is an initiative of the 2023 IEEE VR Inclusion, Diversity, and Accessibility Committee. The committee can be reached via email at diversity2023[at]ieeevr.org
+        This program is an initiative of the 2024 IEEE VR Inclusion, Diversity, and Accessibility Committee. The committee can be reached via email at diversity2024[at]ieeevr.org
     </p>
     <h3>Data Privacy Information</h3>
     <p>
-        The information provided by the participants will be accessible only to the members of the Inclusion, Diversity, and Accessibility committee. The participants can request for their information to be corrected or deleted at any time until 31st of May 2023. After this date, their data will be anonymized and provided to the Inclusion, Diversity, and Accessibility committee of future iterations of IEEE VR for statistical purposes.
+        The information provided by the participants will be accessible only to the members of the Inclusion, Diversity, and Accessibility committee. The participants can request for their information to be corrected or deleted at any time until 31st of May 2024. After this date, their data will be anonymized and provided to the Inclusion, Diversity, and Accessibility committee of future iterations of IEEE VR for statistical purposes.
     </p>
 
 </div>

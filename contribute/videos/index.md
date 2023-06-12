@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Videos"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -12,16 +12,16 @@ title_separator: "|"
     
     <h1 id="cfp-videos"> Call for Videos</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2023
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2024
         <br />
-        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 13th, 2023:</b> Submission deadline</li>
-        <li><b>January 27th, 2023:</b> Notification of Acceptance</li>
-        <li><b>February 3rd, 2023:</b> Final materials due</li>
+        <li><b>January 13th, 2024:</b> Submission deadline</li>
+        <li><b>January 27th, 2024:</b> Notification of Acceptance</li>
+        <li><b>February 3rd, 2024:</b> Final materials due</li>
     </ul>
 
     <h2 id="overview">Overview</h2>
@@ -156,7 +156,7 @@ title_separator: "|"
     
     <h2 id="contact">Contacts</h2>
     <p>
-        For more information or details on video submission, please contact the Video Chairs (videos2023 [at] ieeevr.org):
+        For more information or details on video submission, please contact the Video Chairs (videos2024 [at] ieeevr.org):
     </p>
 
     <ul>
@@ -164,5 +164,5 @@ title_separator: "|"
         <li>Mauricio Sousa ‒ University of Toronto, Canada</li>
         <li>Jerald Thomas ‒ Virginia Tech, USA</li>
     </ul>
-    videos2023 [at] ieeevr.org
+    videos2024 [at] ieeevr.org
 </div>

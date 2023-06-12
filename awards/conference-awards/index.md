@@ -236,9 +236,9 @@ title: "Conference Award Winners"
 </style>
 
 
-<h1>IEEE VR 2023 Conference Awards</h1>
+<h1>IEEE VR 2024 Conference Awards</h1>
 
-<!-- <p> Awards presented at the annual IEEE VR 2023 are in two categories:</p>
+<!-- <p> Awards presented at the annual IEEE VR 2024 are in two categories:</p>
 <ul>
     <li>Awards sponsored by the Visualization and Graphics Technical Committee of the IEEE Computer
 Society, and</li>

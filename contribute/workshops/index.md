@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Workshops"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -16,25 +16,25 @@ title_separator: "|"
 <div>
 <h1 id="cfp-workshops"> Call for Workshops</h1>
 <p>
-    <strong style="color: black">IEEE VR 2023: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2024: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br />
-    (March 25-29, 2023)
+    (March 25-29, 2024)
     <br />
-    <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+    <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
 </p>
     
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
     <li><b>December 2, 2022</b>:    Proposals and CFPs due</li>
     <li><b>December 9, 2022</b>:    Notification of results</li>
-    <li><b>January 20, 2023</b>:    Latest accepted workshop paper notification</li>
-    <li><b>February 3, 2023</b>:    Camera-ready submission of workshop papers for inclusion in the IEEE Digital Library</li>
-    <li><b>March 25-26, 2023</b>:   Workshops (held on the first two days of the conference)</li>
+    <li><b>January 20, 2024</b>:    Latest accepted workshop paper notification</li>
+    <li><b>February 3, 2024</b>:    Camera-ready submission of workshop papers for inclusion in the IEEE Digital Library</li>
+    <li><b>March 25-26, 2024</b>:   Workshops (held on the first two days of the conference)</li>
 </ul>
 
 <h2 id="overview">Overview</h2>
 <p>
-    We invite individuals or teams interested in organizing such a workshop to submit proposals that will work well online or on-site at the conference venue for IEEE VR 2023. IEEE VR 2023 will probably be held in a hybrid mode, depending on the pandemic situation and potential travel restrictions next year. We encourage workshops to consider this in their initial submission already to maximize participation. 
+    We invite individuals or teams interested in organizing such a workshop to submit proposals that will work well online or on-site at the conference venue for IEEE VR 2024. IEEE VR 2024 will probably be held in a hybrid mode, depending on the pandemic situation and potential travel restrictions next year. We encourage workshops to consider this in their initial submission already to maximize participation. 
     
     However, at this moment, we would suggest the oversea organizers and participants may have to organize/attend the conference remotely and in a hybrid mode. To maximize the conference expereince, we are technically preparing a hybrid conference, including virtual and onsite attendees. For workshops, we will have rooms to let the onsite attendees to be involved and connected even though organizers and presenters host the workshop remotely.
     
@@ -71,7 +71,7 @@ title_separator: "|"
             strongly encourage submitting the proposal through the following Google form: <a href="https://forms.gle/XQ9rN8rtF2iRyNaJ6">https://forms.gle/XQ9rN8rtF2iRyNaJ6</a>.
         </li>
         <li>
-            However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at workshops2023 [at] ieeevr.org, which should address:
+            However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at workshops2024 [at] ieeevr.org, which should address:
             <ul>
                 <li>Workshop title (and acronym if applicable)</li>
                 <li>The goal of organising the workshop</li>
@@ -130,12 +130,12 @@ title_separator: "|"
 </p>
 
 <p>
-    Workshop organizers are expected to issue any acceptance decisions to their contributors no later than Friday, January 20, 2023, in order to allow sufficient time for planning and advance registration for the conference. IEEE VR Workshops proceedings will be published electronically through the IEEE Digital Library, depending on the on-time submission of the proceedings by the workshop organizers before the mandatory IEEE deadline of Saturday, January 29, 2023. Organizers of accepted workshops are encouraged to seek assistance from the Workshops Chairs to navigate this process.
+    Workshop organizers are expected to issue any acceptance decisions to their contributors no later than Friday, January 20, 2024, in order to allow sufficient time for planning and advance registration for the conference. IEEE VR Workshops proceedings will be published electronically through the IEEE Digital Library, depending on the on-time submission of the proceedings by the workshop organizers before the mandatory IEEE deadline of Saturday, January 29, 2024. Organizers of accepted workshops are encouraged to seek assistance from the Workshops Chairs to navigate this process.
 </p>
 
 <h2 id="contacts">Contacts</h2>
 <p>
-    For more information and inquiries, please contact the Workshop Chairs at workshops2023 [at] ieeevr.org:
+    For more information and inquiries, please contact the Workshop Chairs at workshops2024 [at] ieeevr.org:
     <ul>
         <li>Daisuke Iwai (Osaka, Japan)</li>
         <li>Bhuvaneswari Sarupuri (Rennes, France)</li>

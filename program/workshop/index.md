@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Workshop Program"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -145,7 +145,7 @@ title_separator: "|"
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <!-- <p>
-        IEEE VR 2023 seeks high-quality contributions to the following 18 workshops. 
+        IEEE VR 2024 seeks high-quality contributions to the following 18 workshops. 
         For more details, see each workshop's Call for Papers below.
     </p> -->
     <table class="styled-table">

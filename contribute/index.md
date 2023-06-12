@@ -13,7 +13,7 @@ title: "Call for Journal Papers"
 <div>
 <h1 id="cfp-journal"> Call for Journal Papers </h1>
 <p>
-    <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2024: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
     12-16 March, 2022, Virtual
     <br />
@@ -38,7 +38,7 @@ title: "Call for Journal Papers"
 
 <h2 id="overview">Overview</h2>
 <p>
-    IEEE VR 2023 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs).
+    IEEE VR 2024 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs).
 </p>
 <p>
     Inquiries contact: journalpapers2022 [at] ieeevr.org
@@ -92,7 +92,7 @@ title: "Call for Journal Papers"
     <b>Conference Presentation.</b> All accepted papers must be orally presented at the conference. We are actively monitoring the COVID-19 situation to determine if the in-person IEEE VR 
     experiences will be safe as well as feasible due to international travel rules. We expect that travel restrictions will enable all authors to join us at the conference. In the case that 
     the sanitary situation does not allow it, we will support authors to present their work remotely. There is also the possibility for authors of relevant previously published TVCG papers 
-    (accepted within the last year) to present their work at IEEE VR 2023. Interested authors should contact the program chairs for more details.
+    (accepted within the last year) to present their work at IEEE VR 2024. Interested authors should contact the program chairs for more details.
 </p>
 <p>
     <b>Abstract Submission.</b> Note that a paper abstract must be uploaded five days prior to the actual paper submission deadline. This facilitates the process of assigning reviewers, as the review process operates on a very tight schedule.
@@ -101,7 +101,7 @@ title: "Call for Journal Papers"
 
 <h2 id="topics"> Topics </h2>
 <p>
-IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
+IEEE VR 2024 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
     <ul>
         <li>3D and volumetric display and projection technology</li>
         <li>3D authoring</li>

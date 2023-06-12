@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Conference Papers"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -15,7 +15,7 @@ title_separator: "|"
 <div>
 <h1 id="cfp-conference"> Call for Conference Papers </h1>
 <p>
-    <strong style="color: black">IEEE VR 2023: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2024: the 29<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
     12-16 March, 2022, Virtual
     <br />
@@ -39,7 +39,7 @@ title_separator: "|"
 
 <h2 id="overview">Overview</h2>
 <p>
-    IEEE VR 2023 seeks original, high-quality papers in all areas related to mixed realities (MR), including virtual reality (VR), augmented reality (AR), and 3D user interfaces (3DUIs).
+    IEEE VR 2024 seeks original, high-quality papers in all areas related to mixed realities (MR), including virtual reality (VR), augmented reality (AR), and 3D user interfaces (3DUIs).
 </p>
 <p>
     For inquiries, contact: conferencepapers2022 [at] ieeevr.org
@@ -79,7 +79,7 @@ title_separator: "|"
 
 <h2 id="topics"> Topics </h2>
 <p>
-IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
+IEEE VR 2024 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
     <ul>
         <li>3D and volumetric display and projection technology</li>
         <li>3D authoring</li>

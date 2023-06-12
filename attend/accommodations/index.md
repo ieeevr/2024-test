@@ -6,9 +6,9 @@ title: "Accommodations"
 <div>
     <h1>Accommodations</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 25-29, 2023, Shanghai, China
+        March 25-29, 2024, Shanghai, China
         <br>
     </p>
     <p>
@@ -32,7 +32,7 @@ title: "Accommodations"
         Book Pudong Shangri-La Hotel with the following link to receive the discount.
     </p>
     <p>
-    <a href="http://www.shangri-la.com/reservations/booking/en/index.aspx?hid=SLPU&group_code=JEX250323&check_in=20230325&check_out=20230330" class="btn btn--primary" style="" target="_blank">Book the Hotel</a>
+    <a href="http://www.shangri-la.com/reservations/booking/en/index.aspx?hid=SLPU&group_code=JEX250323&check_in=20240325&check_out=20240330" class="btn btn--primary" style="" target="_blank">Book the Hotel</a>
     </p>
     <p>
         Contact Ms. Shen if you have any questions about booking.<br>
@@ -72,9 +72,9 @@ title: "Accommodations"
     <p>
         <strong>You can use a hotel booking site online.</strong><br>
         From the link below, you can check the availability of accommodations around Pudong Shangri-La Hotel from 3/24 to 3/29 (check out on 3/30)<br>
-        <a href = "https://www.booking.com/hotel/cn/pudong-shangri-la.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaGKIAQGYARW4AQfIAQ3YAQHoAQH4AQuIAgGoAgO4AqG87p4GwAIB0gIkNWU0NGVjYmMtMmRjMy00ZmQxLThiM2YtYjY1ODA5Zjc5MmE52AIG4AIB&sid=64e80a742c14b42b6551aeb1a6c7f163&\atlas_src=sr_iw_btn%3Bcheckin%3D2023-03-25%3Bcheckout%3D2023-03-29%3Bdest_id%3D0%3Bdist%3D0%3Bgroup_adults%3D1%3Bgroup_children%3D0%3Bhighlighted_blocks%3D18142209_189756224_2_2_0%3Bno_rooms%3D1%3Broom1%3DA%3Bsb_price_type%3Dtotal%3Btype%3Dtotal%3Bucfs%3D1&lang=en-us&soz=1&lang_changed=1">booking.com
+        <a href = "https://www.booking.com/hotel/cn/pudong-shangri-la.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaGKIAQGYARW4AQfIAQ3YAQHoAQH4AQuIAgGoAgO4AqG87p4GwAIB0gIkNWU0NGVjYmMtMmRjMy00ZmQxLThiM2YtYjY1ODA5Zjc5MmE52AIG4AIB&sid=64e80a742c14b42b6551aeb1a6c7f163&\atlas_src=sr_iw_btn%3Bcheckin%3D2024-03-25%3Bcheckout%3D2024-03-29%3Bdest_id%3D0%3Bdist%3D0%3Bgroup_adults%3D1%3Bgroup_children%3D0%3Bhighlighted_blocks%3D18142209_189756224_2_2_0%3Bno_rooms%3D1%3Broom1%3DA%3Bsb_price_type%3Dtotal%3Btype%3Dtotal%3Bucfs%3D1&lang=en-us&soz=1&lang_changed=1">booking.com
         </a><br>
-        <a href = "https://www.expedia.com/Shanghai-Hotels-Pudong-Shangri-La.h124595.Hotel-Information?chkin=2023-02-02&chkout=2023-02-08&x_pwa=1&rfrr=HSR&pwa_ts=1675337406837&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=3145&destination=Shanghai%2C+China&destType=MARKET&neighborhoodId=6130137&selected=124595&sort=RECOMMENDED&top_dp=166&top_cur=USD&userIntent=&selectedRoomType=202151678&selectedRatePlan=222190788">expdeia.com
+        <a href = "https://www.expedia.com/Shanghai-Hotels-Pudong-Shangri-La.h124595.Hotel-Information?chkin=2024-02-02&chkout=2024-02-08&x_pwa=1&rfrr=HSR&pwa_ts=1675337406837&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a1&regionId=3145&destination=Shanghai%2C+China&destType=MARKET&neighborhoodId=6130137&selected=124595&sort=RECOMMENDED&top_dp=166&top_cur=USD&userIntent=&selectedRoomType=202151678&selectedRatePlan=222190788">expdeia.com
         </a>
     </p>
 </div>

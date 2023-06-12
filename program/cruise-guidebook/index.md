@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Cruise-Guidebook"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -190,7 +190,7 @@ title_separator: "|"
 <h2 id="volunteer">Student Volunteer</h2>
 <p>There will be a standby volunteer on each floor of the cruise ship, near the bar. If you have any questions or needs, please consult them for help.</p>
 <h2 id="safety-guidances">Safety Guidances</h2>
-<p>Welcome to IEEE VR 2023 cruise reception on the Huangpu River. Please take care of your belongings. If you find lost items, please hand them over to our staff. In order to ensure your safety, please follow the guidance of the cruise staff and do not climb the side of the cruise ship. Please do not enter the working area of the crew and use the equipment on the ship without authorisation.</p>
+<p>Welcome to IEEE VR 2024 cruise reception on the Huangpu River. Please take care of your belongings. If you find lost items, please hand them over to our staff. In order to ensure your safety, please follow the guidance of the cruise staff and do not climb the side of the cruise ship. Please do not enter the working area of the crew and use the equipment on the ship without authorisation.</p>
 <h2 id="useful-tips">Useful Tips</h2>
 <ul style="list-style-type: none; padding: 0">
     <li><strong style="color:black">Weather precaution:</strong> The night temperature in Shanghai is 9°C to 11°C, and the temperature on the river may be lower. Please pay attention to keeping warm and adding clothes.</li>

@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Forum"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 <style>
@@ -68,28 +68,28 @@ title_separator: "|"
 </style>
 
 <div>
-    <h1 id="cfp-conference">IEEE VR 2023 Metaverse Industry Forum</h1>
+    <h1 id="cfp-conference">IEEE VR 2024 Metaverse Industry Forum</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 25-29, 2023, Shanghai, China
+        March 25-29, 2024, Shanghai, China
         <br>
-        <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
+        <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     </p>
     <br />
     <div>
     <center><img src="{{ "/assets/images/program/forum/teaser.jpg" | relative_url }}" alt="teaser" width="100%"></center>
     </div>
 
-    <p> The IEEE VR 2023 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
+    <p> The IEEE VR 2024 Metaverse Industry Forum is the only event during the conference that is open to the public for free. Attendees will have the opportunity to meet with industry leaders and learn about the latest developments in the metaverse and the XR industry. Representative companies of the whole industry chain of the global metaverse, authoritative experts in academia, and senior representatives of the industry will attend the conference and exchange ideas, discuss the history and future trends of the metaverse, and discuss cutting-edge topics such as the industrial ecology of the metaverse, supporting technology, terminal application, economic system, development deduction, and development progress of the metaverse at home and abroad. At the same time, relevant technologies, products, and scenarios of the metaverse will be displayed, and the achievements of the meta-universe industrial ecological cooperation will be released to jointly promote the initial transition of the metaverse industry.
     </p>
 
     <p  style="text-align: left ! important;">
     During the two-day forum, participating experts will have a dialogue on industry trends, hot areas, and localization issues.
     <ol>
-    <li>Forum time: March 27 to March 28, 2023</li>
+    <li>Forum time: March 27 to March 28, 2024</li>
     <li>Venue: Ballroom, Pudong Shangri-la Hotel, Shanghai, China</li>
-    <li>Guiding organization: IEEE VR 2023 Organizing Committee</li>
+    <li>Guiding organization: IEEE VR 2024 Organizing Committee</li>
     <li>Organizing unit: Shanghai Multimedia Industry Association</li>
     </ol>
     </p>

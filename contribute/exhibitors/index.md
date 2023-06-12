@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Call for Exhibitors and Sponsors"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -72,9 +72,9 @@ title_separator: "|"
 <div>
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
         <br />
-        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
 
 
@@ -112,13 +112,13 @@ title_separator: "|"
 </div>
 
     <div style="display: inline-block">
-        <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
+        <img src= "{{ "/assets/images/sponsors/VR2024.png" | relative_url }}"  width="95%" >
     </div>
 
 
     <h2 id="contacts">Contacts</h2>
 
-    <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsor2023@ieeevr.org">sponsor2023 [at] ieeevr.org</a></p>
+    <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsor2024@ieeevr.org">sponsor2024 [at] ieeevr.org</a></p>
 
     
 </div>

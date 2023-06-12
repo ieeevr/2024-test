@@ -7,7 +7,7 @@ title: "Diversity and Inclusion Scholarship"
     <h1>Diversity and Inclusion Scholarship</h1>
 
     <p>
-    IEEE VR 2023 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for the <strong>2023 Inclusion, Diversity, and Accessibility Scholarship</strong>. 
+    IEEE VR 2024 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for the <strong>2024 Inclusion, Diversity, and Accessibility Scholarship</strong>. 
     </p>
     
     <h2>Who Should Apply?</h2>
@@ -34,7 +34,7 @@ title: "Diversity and Inclusion Scholarship"
     
     <h2>Scholarship Details</h2>
     <p>
-        This scholarship will cover registration costs for attending the 2023 IEEE VR conference. Funding is available for:
+        This scholarship will cover registration costs for attending the 2024 IEEE VR conference. Funding is available for:
     </p>
     <ul>
         <li>Researchers with full papers accepted</li>
@@ -52,14 +52,14 @@ title: "Diversity and Inclusion Scholarship"
 
     <a href="https://forms.gle/mCGf251RmS8pyBiU6">Apply Now</a>
     <br>
-    The information provided by the candidates will be accessible only to the members of the Inclusion, Diversity and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2023. For this, please write an email to diversity2023@ieeevr.org. After the 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Inclusion, Diversity and Accessibility committee of future iterations of IEEE VR for statistical purposes.
+    The information provided by the candidates will be accessible only to the members of the Inclusion, Diversity and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2024. For this, please write an email to diversity2024@ieeevr.org. After the 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Inclusion, Diversity and Accessibility committee of future iterations of IEEE VR for statistical purposes.
     </p>
     <p>
-    The deadline for application is the <strong>10th of March 2023</strong>. The deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00, no matter where the submitter is located. Recipients of the Scholarship will be informed by the 20th of March 2023. 
+    The deadline for application is the <strong>10th of March 2024</strong>. The deadline is 23:59:59 AoE (Anywhere on Earth) == GMT/UTC-12:00, no matter where the submitter is located. Recipients of the Scholarship will be informed by the 20th of March 2024. 
     </p>
     
     <h2>Questions?</h2>
     <p>
-        This program is an initiative of the 2023 IEEE VR Diversity and Inclusion Committee. The committee can be reached via email at diversity2023@ieeevr.org.
+        This program is an initiative of the 2024 IEEE VR Diversity and Inclusion Committee. The committee can be reached via email at diversity2024@ieeevr.org.
     </p>
 </div>

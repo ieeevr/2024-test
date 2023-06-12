@@ -120,11 +120,11 @@ title: "Papers"
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
-            <th>Monday, March 27, 2023, Shanghai UTC+8</th>
+            <th>Monday, March 27, 2024, Shanghai UTC+8</th>
             <th></th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.day == 'Monday, March 27, 2023' %}
+        {% if session.day == 'Monday, March 27, 2024' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
@@ -137,11 +137,11 @@ title: "Papers"
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
-            <th>Tuesday, March 28, 2023, Shanghai UTC+8</th>
+            <th>Tuesday, March 28, 2024, Shanghai UTC+8</th>
             <th></th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.day == 'Tuesday, March 28, 2023' %}
+        {% if session.day == 'Tuesday, March 28, 2024' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>
@@ -154,11 +154,11 @@ title: "Papers"
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
         <tr>
-            <th>Wednesday, March 29, 2023, Shanghai UTC+8</th>
+            <th>Wednesday, March 29, 2024, Shanghai UTC+8</th>
             <th></th>
         </tr>
         {% for session in site.data.sessions %}
-        {% if session.day == 'Wednesday, March 29, 2023' %}
+        {% if session.day == 'Wednesday, March 29, 2024' %}
         <tr>
             <td style="font-size: 0.9em;"><a href="#{{ session.id }}">{{ session.name }}</a></td>
             <td>{{ session.starttime }} - {{ session.endtime }}</td>

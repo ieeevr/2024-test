@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Research Demos"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -14,16 +14,16 @@ title_separator: "|"
 <div>
     <h1 id="cfp-demos">Call for Research Demos</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-March 29, 2023
+        <strong style="color: black">IEEE VR 2024: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-March 29, 2024
         <br />
-        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 6, 2023:</b> Two-page abstract and video material submission.</li>
-        <li><b>January 20, 2023:</b> Notification of results.</li>
-        <li><b>February 3, 2023:</b> Camera-ready two-page abstract and final video material submission with a 30 second video teaser..</li>
+        <li><b>January 6, 2024:</b> Two-page abstract and video material submission.</li>
+        <li><b>January 20, 2024:</b> Notification of results.</li>
+        <li><b>February 3, 2024:</b> Camera-ready two-page abstract and final video material submission with a 30 second video teaser..</li>
     </ul>
 
     <p>
@@ -56,7 +56,7 @@ title_separator: "|"
 
     <h2 id="Overview">Overview</h2>
     <p>
-        The 30th IEEE Conference on Virtual Reality and 3D User Interfaces 2023 seeks research demonstrations from laboratories or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally, authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their demo and relate it to research being performed at their lab.
+        The 30th IEEE Conference on Virtual Reality and 3D User Interfaces 2024 seeks research demonstrations from laboratories or research groups (academic, government, or industry). Demos should interest the broad XR community and be presentable in a conference setting exhibiting new and innovative work. The conference will provide basic infrastructure. Additionally, authors of accepted demos will present an overview in a fast-forward research demonstration session to summarize their demo and relate it to research being performed at their lab.
     </p>
 
     <h2 id="submission-guidelines">Submission Guidelines</h2>
@@ -92,6 +92,6 @@ title_separator: "|"
             <li>Yigang Wang - Hangzhou Dianzi University, China</li>
             <li>Yi Xu - OPPO, USA</li>
         </ul>
-        researchdemos2023 [at] ieeevr.org
+        researchdemos2024 [at] ieeevr.org
     </p>
 </div>

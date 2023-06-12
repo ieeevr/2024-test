@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Tutorials"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -16,16 +16,16 @@ title_separator: "|"
 <div>
     <h1 id="cfp-tutorials"> Call for Tutorials</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2023
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2024
         <br />
-        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 9, 2023:</b> Tutorial submissions due (AOE)</li>
-        <li><b>January 16, 2023:</b> Acceptance notification</li>
-        <li><b>January 31, 2023:</b> Advance program descriptions for IEEE VR 2023 website due</li>
+        <li><b>January 9, 2024:</b> Tutorial submissions due (AOE)</li>
+        <li><b>January 16, 2024:</b> Acceptance notification</li>
+        <li><b>January 31, 2024:</b> Advance program descriptions for IEEE VR 2024 website due</li>
     </ul>
     
     <h2 id="overview">Overview</h2>
@@ -78,7 +78,7 @@ title_separator: "|"
     </ul>
     
     <p>
-    Tutorial submissions must be submitted via email to the Tutorials Chairs at tutorials2023 [at] ieeevr.org.
+    Tutorial submissions must be submitted via email to the Tutorials Chairs at tutorials2024 [at] ieeevr.org.
     </p>
     <p>
     For each 90 minute accepted tutorial, we will be able to provide a free one-day registration for the day of the tutorial, and two one-day registrations for the day of the tutorial for each half-day accepted tutorial.
@@ -93,7 +93,7 @@ title_separator: "|"
             <li>Bin Zhou, <i>Beihang University, China</i></li>
             <li>Rongkai Guo, <i>Nvidia, China</i></li>
         </ul>
-        tutorials2023 [at] ieeevr.org
+        tutorials2024 [at] ieeevr.org
     </p>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Program Committee"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 

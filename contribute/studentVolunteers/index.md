@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Student Volunteers"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -12,23 +12,23 @@ title_separator: "|"
     
     <h1 id="cfp-journal"> Call for Student Volunteers </h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces March 25th-March 29th, 2023</strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces March 25th-March 29th, 2024</strong>
         <br />
-        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
 
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
-        <li><b>January 1, 2023:</b> Open student volunteer applications</li>
-        <li><b>February 3, 2023:</b> Close student volunteer applications</li>
-        <li><b>February 20, 2023:</b> Student volunteer notification of acceptance</li>
+        <li><b>January 1, 2024:</b> Open student volunteer applications</li>
+        <li><b>February 3, 2024:</b> Close student volunteer applications</li>
+        <li><b>February 20, 2024:</b> Student volunteer notification of acceptance</li>
     </ul>
     
     <p>
         Dedicated and enthusiastic student volunteers (SVs) are crucial for the organization of a successful conference. Serving as a student volunteer is also a great chance to meet and interact with scientists from the field of Virtual Reality.
     </p>
     <p>
-        We look forward to receiving your application for IEEE VR 2023!
+        We look forward to receiving your application for IEEE VR 2024!
     </p>
 
     <h2 id="benefits"> Benefits </h2>
@@ -62,7 +62,7 @@ title_separator: "|"
         <li>Xuanhui Yang  - Shanghai Jiao Tong University, China</li>
     </ul>
     <p>
-        The SV chairs can be reached via email at studentvolunteers2023 [at] ieeevr.org.
+        The SV chairs can be reached via email at studentvolunteers2024 [at] ieeevr.org.
     </p>
    
 

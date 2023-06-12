@@ -1,13 +1,13 @@
 ---
 layout: ieeevr-default
 title: "Papers"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
 <!-- <div>
     <p>
-        For VR 2023, the VR Steering Committee has decided to return to a unified submission & decision process. There will be only one paper track for VR 2023.
+        For VR 2024, the VR Steering Committee has decided to return to a unified submission & decision process. There will be only one paper track for VR 2024.
 
         More information coming soon, please watch this space.
    </p>
@@ -17,28 +17,28 @@ title_separator: "|"
 <div>
 <h1 id="cfp-conference"> Call for Papers </h1>
 <p>
-    <strong style="color: black">IEEE VR 2023: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+    <strong style="color: black">IEEE VR 2024: the 30<sup>th</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
-    25-29 March, 2023, 
+    25-29 March, 2024, 
     <br />
     Shanghai, China
     <br />
-    <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+    <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
 </p>
 
 <h2 id="overview">Overview</h2>
 <p>
-    IEEE VR 2023 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs). This year there will be a single submission deadline for a unified review process for both the IEEE TVCG and the conference only papers. The possible outcomes of this unified process are:
+    IEEE VR 2024 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs). This year there will be a single submission deadline for a unified review process for both the IEEE TVCG and the conference only papers. The possible outcomes of this unified process are:
 </p>
 <ol>
-    <li>Accept as IEEE TVCG paper, with presentation at IEEE VR 2023</li>
+    <li>Accept as IEEE TVCG paper, with presentation at IEEE VR 2024</li>
     <li>Major revision to IEEE TVCG</li>
-    <li>Accept as IEEE VR 2023 conference paper</li>
-    <li>Accept as IEEE VR 2023 poster</li>
+    <li>Accept as IEEE VR 2024 conference paper</li>
+    <li>Accept as IEEE VR 2024 poster</li>
     <li>Reject</li>
 </ol>
 <p>
-    For inquiries, contact: program2023 [at] ieeevr.org
+    For inquiries, contact: program2024 [at] ieeevr.org
 </p>
 <p style="color:red"> !!Attention!! <a href="#submission-guidelines-important">All paper submissions should be in IEEE VGTC conference format.</a> </p> 
 <p style="color:red"> !!Attention!! <a href="#review-process">The Review process is different from past years.</a> </p> 
@@ -53,10 +53,10 @@ title_separator: "|"
     <li><b>October 7, 2022</b>:   Abstracts due <b>(REQUIRED)</b></li>
     <li><b>October 14, 2022</b>:   Submissions due</li>
     <li><b>December 16, 2022</b>:   Notification of first review cycle results</li>
-    <li><b>January 13, 2023</b>:   Revised submissions due for TVCG accepted papers </li> 
-    <li><b>January 20, 2023</b>:    Revised submissions due for conference accepted papers </li>
-    <li><b><del>January 27, 2023</del>, January 30, 2023</b>:    Final notifications</li>
-    <li><b>February 3, 2023</b>:    Camera-ready material due</li>
+    <li><b>January 13, 2024</b>:   Revised submissions due for TVCG accepted papers </li> 
+    <li><b>January 20, 2024</b>:    Revised submissions due for conference accepted papers </li>
+    <li><b><del>January 27, 2024</del>, January 30, 2024</b>:    Final notifications</li>
+    <li><b>February 3, 2024</b>:    Camera-ready material due</li>
 </ul>
 
 
@@ -131,7 +131,7 @@ All submissions describing research experiments with human participants must fol
 <p><b style="color:black;">Reject.</b></p>
 <p><b style="color:black;"><i>Second review cycle</i></b></p>
 <p>Primary reviewers will review the revised papers and will make a final recommendation for acceptance. Should the conditions for acceptance not be met, the paper will be rejected.</p>
-<p><b>Presentation at the Conference.</b> All accepted submissions must be presented orally during the conference either in person or remotely. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 2023. Interested authors should contact the editor in chief of IEEE TVCG for more details.
+<p><b>Presentation at the Conference.</b> All accepted submissions must be presented orally during the conference either in person or remotely. There is also the possibility for authors of relevant previously published TVCG papers (accepted within the last year) to present their work at IEEE VR 2024. Interested authors should contact the editor in chief of IEEE TVCG for more details.
 </p>
 <p><b>Review Duties for Authors.</b> The increasing number of submissions for IEEE VR makes us all dependent on a large number of good reviewers who are willing to provide feedback and engage with authors on their work. To expand the reviewing pool and to promote quality reviews, one author will be required to register to review up to three papers through PCS at the time of submission. Additionally, senior authors are encouraged to ask experienced junior authors to register in PCS to review papers, and then to mentor the junior authors during the review process.
 </p>
@@ -162,7 +162,7 @@ Both abstracts and complete papers must be submitted electronically through PCS:
 
 <h2 id="topics"> Topics </h2>
 <p>
-IEEE VR 2023 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
+IEEE VR 2024 seeks contributions in VR/AR/MR and 3DUI including, but not limited to, the following topics:
     <ul>
         <li>3D and volumetric display and projection technology</li>
         <li>3D authoring</li>
@@ -348,7 +348,7 @@ All IEEE VR Conference Paper submissions must be prepared in IEEE Computer Socie
         <li>John Quarles, <i>The University of Texas at San Antonio, USA</i></li>
         <li>Lili Wang, <i>Beihang University, China</i></li>
     </ul>
-    program2023 [at] ieeevr.org
+    program2024 [at] ieeevr.org
 </p>
 
 

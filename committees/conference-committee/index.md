@@ -18,7 +18,7 @@ title: "Conference Committee"
 			<li>    Kun Zhou &#x2012; <i> Zhejiang University, China </i></li>					
 			<li>	Stephan	Lukosch	&#x2012; <i>	HIT Lab NZ, University of Canterbury, New Zealand	</i></li>	
 			<li>	Tobias	Langlotz	&#x2012; <i>	University of Otago, New Zealand	</i></li>	
-			<li style="list-style: none">	general2023	[at] ieeevr.org			</li>	
+			<li style="list-style: none">	general2024	[at] ieeevr.org			</li>	
 		</ul>										
 </div>
 <div>
@@ -28,7 +28,7 @@ title: "Conference Committee"
 			<li>	Voicu Popescu	&#x2012; <i>	Purdue University, USA	</i></li>	
 			<li>	John Quarles	&#x2012; <i>	The University of Texas at San Antonio, USA	</i></li>	
 			<li>	Lili Wang	&#x2012; <i>	Beihang University, China	</i></li>	
-			<li style="list-style: none">	program2023 [at] ieeevr.org		</li>	
+			<li style="list-style: none">	program2024 [at] ieeevr.org		</li>	
 		</ul>				
 </div>
 
@@ -40,7 +40,7 @@ title: "Conference Committee"
 			<li>	Kiyoshi Kiyokawa	&#x2012; <i> Nara Institute of Science and Technology, Japan	</i></li>
 			<li>	Amela Sadagic	&#x2012; <i> Naval Postgraduate School, USA	</i></li>
 			<li>	Anthony Steed	&#x2012; <i> University College London, UK 	</i></li>
-			<li style="list-style: none">	awards2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	awards2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -51,7 +51,7 @@ title: "Conference Committee"
 			<li>	BoYu Gao	&#x2012; <i>	Jinan University, China	</i></li>
 			<li>	Chao Mei	&#x2012; <i>	Meta Reality Labs, USA	</i></li>
 			<li>	Thammathip Piumsomboon	&#x2012; <i>	University of Canterbury, New Zealand	</i></li>
-			<li style="list-style: none">	contest2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	contest2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -62,7 +62,7 @@ title: "Conference Committee"
 			<li>	Aleshia Hayes	&#x2012; <i>	University of North Texas, USA	</i></li>
 			<li>	Sean K. Banerjee	&#x2012; <i>	Clarkson University, USA	</i></li>
 			<li>	Yongning Zhu	&#x2012; <i>	Tongji University, China	</i></li>
-			<li style="list-style: none">	diversity2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	diversity2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -73,7 +73,7 @@ title: "Conference Committee"
 			<li>	Hai-Ning Liang	&#x2012; <i>	Xi’an Jiaotong-Liverpool University, China	</i></li>
 			<li>	Jonathan Ventura	&#x2012; <i>	California Polytechnic State University, USA	</i></li>
 			<li>	Weiwei Xu	&#x2012; <i>	Zhejiang University, China	</i></li>
-			<li style="list-style: none">	doctoralconsortium2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	doctoralconsortium2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -82,7 +82,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Jingwen Dai	&#x2012; <i>	 Ximmerse, China	</i></li>	
 			<li>	Lu Chen	&#x2012; <i>	Shanghai Jiao Yong University, China	</i></li>
-			<li style="list-style: none">	sponsorship2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	sponsorship2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -92,7 +92,7 @@ title: "Conference Committee"
 			<li>	Kyle Johnson	&#x2012; <i>	 University Of Georgia, USA	</i></li>	
 			<li>	Yue Li	&#x2012; <i>	Xi'an Jiaotong-Liverpool University, China	</i></li>
 			<li>	Zhihan Lv	&#x2012; <i>	Uppsala University, Swenden	</i></li>
-			<li style="list-style: none">	online2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	online2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -100,7 +100,7 @@ title: "Conference Committee"
 	<h2>	Finance Chairs	</h2>						
 		<ul>							
 			<li>	Shuangjiu Xiao	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>	
-			<li style="list-style: none">	finance2023 [at] ieeevr.org		</li>	
+			<li style="list-style: none">	finance2024 [at] ieeevr.org		</li>	
 		</ul>				
 </div>
 
@@ -109,7 +109,7 @@ title: "Conference Committee"
 		<ul>							
 			<li>	Zhigeng Pan	&#x2012; <i>	Nanjing University of Information Science and Technology, China	</i></li>	
 			<li>	Fei Liu	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
-			<li style="list-style: none">	localarrangements2023 [at] ieeevr.org
+			<li style="list-style: none">	localarrangements2024 [at] ieeevr.org
 		</li>	
 		</ul>				
 </div>
@@ -120,7 +120,7 @@ title: "Conference Committee"
 			<li>	Jian Chen	&#x2012; <i>	 The Ohio State University, USA	</i></li>	
 			<li>	Henry B.L. Duh	&#x2012; <i>	The Hong Kong Polytechnic University, China	</i></li>
 			<li>	Xin Tong	&#x2012; <i>	Microsoft Research Asia, China	</i></li>
-			<li style="list-style: none">	panels2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	panels2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -131,7 +131,7 @@ title: "Conference Committee"
 			<li>	Frank Guan	&#x2012; <i>	Singapore Institute of Technology, Singapore	</i></li>
 			<li>	Yue Liu	&#x2012; <i>	Beijing Institute of Technology, China	</i></li>
 			<li>	Daniel Zielasko	&#x2012; <i>	University of Trier, Germany	</i></li>
-			<li style="list-style: none">	posters2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	posters2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -142,7 +142,7 @@ title: "Conference Committee"
 			<li>	Mohammed Safayet Arefin	&#x2012; <i>	DEVCOM US Army Research Laboratory, USA	</i></li>
 			<li>	Matias Volonte	&#x2012; <i>	Northeastern University, USA	</i></li>
 			<li>	Yan Zhang	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
-			<li style="list-style: none">	publications2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	publications2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -154,7 +154,7 @@ title: "Conference Committee"
 			<li>	Qi Sun	&#x2012; <i>	New York University,  USA	</i></li>
 			<li>	Xin Yang	&#x2012; <i>	Dalian University of Technology, China	</i></li>
 			<li>	Zhenyi He	&#x2012; <i>	Huawei HMI Lab, China	</i></li>
-			<li style="list-style: none">	publicity2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	publicity2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -165,7 +165,7 @@ title: "Conference Committee"
 			<li>	Sylvia Xueni Pan	&#x2012; <i>	Goldsmiths University of London, UK	</i></li>
 			<li>	Yigang Wang	&#x2012; <i>	Hangzhou Dianzi University, China	</i></li>
 			<li>	Yi Xu	&#x2012; <i>	Oppo, USA	</i></li>
-			<li style="list-style: none">	researchdemos2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	researchdemos2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -176,7 +176,7 @@ title: "Conference Committee"
 			<li>	Xiaoxu Meng	&#x2012; <i>	Tencent, USA	</i></li>
 			<li>	Prasanth Sasikuma	&#x2012; <i>	University of Auckland, New Zealand	</i></li>
 			<li>	Xuanhui Yang	&#x2012; <i>	Shanghai Jiao Tong University, China	</i></li>
-			<li style="list-style: none">	studentvolunteers2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	studentvolunteers2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -187,7 +187,7 @@ title: "Conference Committee"
 			<li>	Beatriz Santos	&#x2012; <i>	University of Aveiro, Portugal	</i></li>
 			<li>	Bin Zhou	&#x2012; <i>	Beihang University, China	</i></li>
 			<li>	Rongkai Guo	&#x2012; <i>	Nvidia, China	</i></li>
-			<li style="list-style: none">	tutorials2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	tutorials2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -197,7 +197,7 @@ title: "Conference Committee"
 			<li>	Ye Pan	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>	
 			<li>	Mauricio Sousa	&#x2012; <i>	University of Toronto, Canada	</i></li>
 			<li>	Jerald Thomas	&#x2012; <i>	Virginia Tech, USA	</i></li>
-			<li style="list-style: none">	videos2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	videos2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -209,7 +209,7 @@ title: "Conference Committee"
 			<li>	Jacob Young	&#x2012; <i>	Victoria University of Wellington, New Zealand	</i></li>
 			<li>	Zhi Wang &#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>
 			<li>	Daiyun Guo	&#x2012; <i>	 Shanghai Jiao Tong University, China	</i></li>
-			<li style="list-style: none">	web2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	web2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -220,7 +220,7 @@ title: "Conference Committee"
 			<li>	Bhuvaneswari Sarupuri	&#x2012; <i>	Topdesk, Hungary	</i></li>
 			<li>	Gabriel Zachmann	&#x2012; <i>	Bremen University, Germany	</i></li>
 			<li>	Xinyu Zhang	&#x2012; <i>	East China Normal University, China	</i></li>
-			<li style="list-style: none">	workshops2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	workshops2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 
@@ -230,7 +230,7 @@ title: "Conference Committee"
 			<li>	Haiying Duanmu	&#x2012; <i>	 Shanghai Multimedia Industry Association, China	</i></li>	
 			<li>	Lin Gao	&#x2012; <i>	Institute of Computing Technology Chinese Academy of Sciences, China	</i></li>
 			<li>	Xin Yang	&#x2012; <i>	Dalian University of Technology, China	</i></li>
-			<li style="list-style: none">	industry2023 [at] ieeevr.org	</li>	
+			<li style="list-style: none">	industry2024 [at] ieeevr.org	</li>	
 		</ul>				
 </div>
 

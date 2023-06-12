@@ -1,7 +1,7 @@
 ---
 layout: ieeevr-default
 title: "Doctoral Consortium"
-subtitle: "IEEE VR 2023"
+subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
@@ -16,18 +16,18 @@ title_separator: "|"
 <div>
     <h1 id="cfp-doctoral-cosortium">Call for Doctoral Consortium</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br /> 
-    25 March - 29 March 2023, Shanghai, China
+    25 March - 29 March 2024, Shanghai, China
     <br />
-        <a href="http://ieeevr.org/2023/">http://ieeevr.org/2023/</a>
+        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>December 16<sup>th</sup>, 2022 23:59 AoE:</b> Submission deadline.</li>
-        <li><b>January 27<sup>th</sup>, 2023 23:59 AoE:</b> Notification of acceptance.</li>
-        <li><b>February 10<sup>th</sup>, 2023 23:59 AoE:</b> Camera-ready.</li>
-        <li><b>March 25<sup>th</sup>, 2023:</b> Consortium.</li>
+        <li><b>January 27<sup>th</sup>, 2024 23:59 AoE:</b> Notification of acceptance.</li>
+        <li><b>February 10<sup>th</sup>, 2024 23:59 AoE:</b> Camera-ready.</li>
+        <li><b>March 25<sup>th</sup>, 2024:</b> Consortium.</li>
     </ul>
     <h2 id="Overview">Overview</h2>
     <p>
@@ -57,14 +57,14 @@ title_separator: "|"
     </p>
     <h2 id="contact">Questions?</h2>
     <p>
-        For more information, please contact the DC Program Chairs at doctoralconsortium2023 [at] ieeevr.org:
+        For more information, please contact the DC Program Chairs at doctoralconsortium2024 [at] ieeevr.org:
         <ul>
             <li>Jens Grubert - <i>Coburg University of Applied Sciences and Arts, Germany</i></li>
             <li>Hai-Ning Liang - <i>Xi'an Jiaotong-Liverpool University, China</i></li>
             <li>Jonathan Ventura - <i>California Polytechnic State University, USA</i></li>
             <li>Weiwei Xu - <i>Zhejiang University, China</i></li>
         </ul>
-        doctoralconsortium2023 [at] ieeevr.org
+        doctoralconsortium2024 [at] ieeevr.org
     </p>
 
 </div>

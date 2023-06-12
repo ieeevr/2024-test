@@ -6,11 +6,11 @@ title: "Dining Out"
 <div>
     <h1>Dining Out in Shanghai</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 25-29, 2023, Shanghai, China
+        March 25-29, 2024, Shanghai, China
         <br>
-        <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
+        <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     </p>
     <h2>1. Xiaolongbao</h2>
     <p>A type of steamed dumpling made with a thin skin of dough and stuffed with pork or minced crab meat, and soup. The delicious soup stays inside the dumpling until it is bitten.</p>

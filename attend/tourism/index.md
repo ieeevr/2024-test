@@ -6,11 +6,11 @@ title: "Tourism"
 <div>
     <h1>Tourism</h1>
     <p>
-        <strong style="color: black">IEEE VR 2023: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <strong style="color: black">IEEE VR 2024: the 30th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 25-29, 2023, Shanghai, China
+        March 25-29, 2024, Shanghai, China
         <br>
-        <a href="https://ieeevr.org/2023/">https://ieeevr.org/2023/</a>
+        <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     </p>
     <h2>About Shanghai</h2>
     <p>Located at the mouth of the Yangtze River in eastern China, facing the Pacific Ocean, Shanghai covers an area of more than 6,340.5 square kilometers and has a population of 24,284,000.</p>
