@@ -54,6 +54,13 @@ title_separator: "|"
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <br>
+        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
+        <br>
+        <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
+    </p>
+    <p>
         IEEE VR 2024 seeks high-quality contributions to the following 18 workshops. 
         <!-- These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>.  -->
         For more details, see each workshop's Call for Papers below.
@@ -336,6 +343,7 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Website:</strong>  <a href="https://sites.google.com/view/xrios" target="_blank">https://sites.google.com/view/xrios</a>
     </p> 
+    
     <ul>
         <li> Submission deadline: 25<sup>th</sup> January 2024 </li>
         <li> Notification of results: 30<sup>th</sup> January 2024 </li>

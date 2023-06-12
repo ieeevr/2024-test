@@ -72,11 +72,12 @@ title_separator: "|"
 <div>
     <h1>Exhibitors and Sponsors Call for Participation</h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
-        <br />
-        <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <br>
+        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
+        <br>
+        <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     </p>
-
 
     <h2>Overview</h2>
     <p>
