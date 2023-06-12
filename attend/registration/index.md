@@ -53,10 +53,9 @@ title_separator: "|"
 <h1 id="registration"> Registration</h1>
 
 <p>
-    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25-29, 2024, Shanghai
-    <br />
-    <strong style="color: red">We receive no more registrations now.</strong>
-    <br />
+    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> 
+    March 16-21, 2024 | Contemporary Hotel, Walt Disney World, Orlando, Florida USA<br /> 
+    
     <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
 </p>
 

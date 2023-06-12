@@ -16,7 +16,8 @@ title_separator: "|"
 <div>
     <h1 id="cfp-tutorials"> Call for Tutorials</h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> March 25<sup>th</sup>-March 29<sup>th</sup>, 2024
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+        March 16-21, 2024 | Contemporary Hotel, Walt Disney World, Orlando, Florida USA
         <br />
         <a href="http://ieeevr.org/2024/">http://ieeevr.org/2024/</a>
     </p>

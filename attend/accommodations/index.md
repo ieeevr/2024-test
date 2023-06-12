@@ -8,25 +8,24 @@ title: "Accommodations"
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 25-29, 2024, Shanghai, China
+        March 16-21, 2024 | Contemporary Hotel, Walt Disney World, Orlando, Florida USA
         <br>
     </p>
-    <p>
-        The conference will be held at the Pudong Shangri-La Hotel. 
-    </p>
+    
     <h2>
-        Pudong Shangri-La, Shanghai
+       Contemporary Hotel, Walt Disney World
     </h2>
     <p>
-        No. 33, Fucheng Road, Pudong New Area, Shanghai, China<br>
+        4600 North World Drive<br>
+        Lake Buena Vista, Florida 32830-8413<br>
         Stars: 5 star
     </p>
     <p>
         As Shanghai's preeminent hotel, Pudong Shangri-La, Shanghai offers business and leisure travellers the perfect combination of comfort, service and convenience. Located on the Huangpu River in Shanghai's vibrant Lujiazui financial district, directly opposite the historic Bund, the hotel enjoys easy access to the city's most famous sites. Hongqiao International Airport (SHA) can be reached in just 35 minutes and Pudong International Airport (PVG） in 45 minutes by taxi. The hotel comprises a luxurious collection of well-appointed guestrooms and suites in two distinctive wings, and all rooms feature panoramic views of the Bund, the Huangpu River or Pudong's spectacular skyline.
     </p>
     <p>
-        Website of Pudong Shangri-La:<br>
-        <a href = "https://www.shangri-la.com/shanghai/pudongshangrila/">https://www.shangri-la.com/shanghai/pudongshangrila/</a>
+        Website of Contemporary Resort, Walt Disney World:<br>
+        <a href = "https://disneyworld.disney.go.com/resorts/contemporary-resort/">https://disneyworld.disney.go.com/resorts/contemporary-resort/</a>
     </p>
     <p>
         Book Pudong Shangri-La Hotel with the following link to receive the discount.

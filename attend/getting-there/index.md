@@ -8,7 +8,7 @@ title: "Getting There"
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 25-29, 2024, Shanghai, China
+        March 16-21, 2024 | Contemporary Hotel, Walt Disney World, Orlando, Florida USA
         <br>
         <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     </p>
@@ -17,7 +17,7 @@ title: "Getting There"
         <img src="../../assets/images/attend/gt1.png" alt="Pudong Shangri-La Hotel" style="width: 50%"/>
         <img src="../../assets/images/attend/gt0.jpg" alt="The hotel’s grand room2" style="max-width: 50%"/>
     </div>
-    <p>IEEE VR 2024 will take place at the Pudong Shangri-La Hotel in Shanghai, China, from March 25th-29th, 2024.</p>
+    <p>IEEE VR 2024 will take place at the Contemporary Hotel, Walt Disney World, Orlando, Florida USA, from March 16th-21st, 2024.</p>
     <p>The hotel’s grand room can accommodate 1500 people for meetings or banquets, and include 12 function rooms with professional audio-visual facilities.</p>
     <div style="width: 80%">
         <div style="width: 100%; display: flex;flex-direction: row;" >

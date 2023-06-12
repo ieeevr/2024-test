@@ -18,7 +18,7 @@ title_separator: "|"
 <p>
     <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
     <br />
-    March 25-29, 2024, Hybrid
+    March 16-21, 2024, Hybrid
     <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     <br />
     Contest Registrations can be made via email to  <a href="mailto:contest2024@ieeevr.org">contest2024@ieeevr.org</a>, final submissions can be made through the Online System: <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>.
