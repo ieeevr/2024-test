@@ -9,7 +9,16 @@ title_separator: "|"
 <h1 id="past-conferences"> Past Conferences </h1>
 
 <br>
-
+<div>
+    <p>
+        <strong style="color:black">IEEE Virtual Reality 2023 <i>(Shanghai, China)</i></strong>
+        <br>
+        <a href="https://ieeevr.org/2023" class="btn btn--secundary">Website</a>
+        &nbsp;
+        <a href="https://ieeexplore.ieee.org/xpl/conhome/10108080/proceeding" class="btn btn--secundary">Proceedings</a>
+    </p>
+</div>
+<hr>
 <div>
     <p>
         <strong style="color:black">IEEE Virtual Reality 2022 <i>(Christchurch, New Zealand)</i></strong>
