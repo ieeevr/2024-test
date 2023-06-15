@@ -2,15 +2,13 @@
 layout: ieeevr-default
 title: "Visa Information"
 ---
-
+<script> /***
 <div>
     <h1>Visa Information</h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
         March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
-        <br>
-        <a href="https://ieeevr.org/2024/">https://ieeevr.org/2024/</a>
     </p>
     <p>
         Conference participants may need a Chinese visa to enter China.
@@ -53,8 +51,9 @@ title: "Visa Information"
     <p>Ministry of Foreign Affairs <a href="https://cova.mfa.gov.cn/">https://cova.mfa.gov.cn/</a></p>
     <h2>Travel to China</h2>
     <p>
-    Latest information for traveling to Shanghai. In China, the COVID-19 controlling policy has been almost completely relaxed since Dec. 7, 2022. From Jan. 8, 2024, international traveling to China is much more convenient, only needing a nucleic acid test within 48 hours before flight departures and no other controls. Travelers are advised to take primary responsibility for their health, and use precautionary measures for self-protection.  Here is <a href="http://sanfrancisco.china-consulate.gov.cn/eng/zytz/202212/t20221227_10995733.htm"> a reference official link to the latest traveling policy to China </a>. For more details, please consult Chinese consulate in your local region. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
+    Latest information for traveling to Shanghai. In China, the COVID-19 controlling policy has been almost completely relaxed since Dec. 7, 2022. From Jan. 8, 2023, international traveling to China is much more convenient, only needing a nucleic acid test within 48 hours before flight departures and no other controls. Travelers are advised to take primary responsibility for their health, and use precautionary measures for self-protection.  Here is <a href="http://sanfrancisco.china-consulate.gov.cn/eng/zytz/202212/t20221227_10995733.htm"> a reference official link to the latest traveling policy to China </a>. For more details, please consult Chinese consulate in your local region. The situation in China is stable and normal as usual and is good for traveling and in-person conferences.
     </p>
 </div>
 
 If you have further questions regarding registration and visa, please contact register2024[at]ieeevr.org.
+***/ </script>

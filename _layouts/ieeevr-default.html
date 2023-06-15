@@ -4,16 +4,16 @@ layout: default
 
 
 <style>
-
+   
     p {
         text-align: justify;
         text-justify: auto;
     }
 
     .topnav {
-        /*#position: fixed; */
-        /*#top: 0px; */
-        /*#width: 100%; */
+        #position: fixed;
+        #top: 0px;
+        #width: 100%;
         overflow: hidden;
         background-color: white;
         #border-bottom: 1px solid #00aeef;
@@ -195,7 +195,7 @@ layout: default
         margin-right: 30px;
     }
 
-    .ieeevrmsgbox { /* Any boxes with the theme-primary color as background */
+    .ieeevrmsgbox { // Any boxes with the theme-primary color as background
       background-color: #F5725E;
       border-radius: 7px;
     }
@@ -205,12 +205,12 @@ layout: default
     }
 
     .notice--info {
-        background-color: #fffbed ! important;
+        background-color: $fffbed ! important;
         color: #363636 ! important;
     }
 
     .notice--text {
-        background-color: #fffbed ! important;
+        background-color: $fffbed ! important;
         color: #363636 ! important;
     }
 
@@ -232,14 +232,14 @@ layout: default
             padding: 0px 0px;
         }
 
+        
+
         .conf-icon {
             width: 200px;
         }
     }
 
 </style>
-
-
 
 <button onclick="topFunction()" id="myBtnTop" title="Go to top">Top</button>
 
@@ -272,35 +272,29 @@ layout: default
             x.className = "topnav";
         }
     }
-
 </script>
 
-
-
 <div id="main" role="main">
-    <article class="splash" style="margins:0px;" itemscope itemtype="https://schema.org/CreativeWork">
+    <article class="splash" style="margin:0px;" itemscope itemtype="https://schema.org/CreativeWork">
         <!-- navbar -->
         <div class="topnav" id="myTopnav">
             <a href={{ "/" | relative_url }} class="active">IEEE VR</a>
             <a href={{ "/about" | relative_url }}>About</a>
-            <!-- <a href="#">Online</a>  -->
 
             <div class="dropdown">
                 <button class="dropbtn">Attend &#9662;</button>
                 <div class="dropdown-content">
                     <a href={{ "/attend/code-of-conduct/" | relative_url }}>Code of Conduct</a>
-                    <a href={{ "/attend/zoom-events-instructions/" | relative_url }}>Zoom Instructions</a>
+                    <!--<a href={{ "/attend/zoom-events-instructions/" | relative_url }}>Zoom Instructions</a>-->
                     <a href={{ "/attend/registration/" | relative_url }}>Registration</a>
-                    <a href={{ "/attend/visa/" | relative_url }}>Visa Information</a>
+                    <!--<a href={{ "/attend/visa/" | relative_url }}>Visa Information</a>-->
                     <a href={{ "/attend/getting-there/" | relative_url }}>Getting There</a>
                     <a href={{ "/attend/accommodations" | relative_url }}>Accommodations</a>
                     <a href={{ "/attend/tourism" | relative_url }}>Tourism</a>
-                    <a href={{ "/attend/dining-out/" | relative_url }}>Dining Out</a>
-                    <a href={{ "/attend/satellite-events/" | relative_url }}>Satellite Events</a>
-                    <a href={{ "/attend/mentorship-program/" | relative_url }}>Mentorship Program</a>
-                    <!-- <a href={{ "/attend/why-attend/" | relative_url }}>Why Attend</a> -->
-                    <!-- <a href={{ "/attend/bridge-to-VR/" | relative_url }}>Bridge to VR</a> -->
-                    <a href={{ "/attend/diversity-and-inclusion-scholarship/" | relative_url }}>Diversity and inclusion scholarship</a>
+                    <!--<a href={{ "/attend/dining-out/" | relative_url }}>Dining Out</a>-->
+                    <!--<a href={{ "/attend/satellite-events/" | relative_url }}>Satellite Events</a>-->
+                    <!--<a href={{ "/attend/mentorship-program/" | relative_url }}>Mentorship Program</a>-->
+                    <!--<a href={{ "/attend/diversity-and-inclusion-scholarship/" | relative_url }}>Diversity and Inclusion scholarship</a>-->
                 </div>
             </div>
             
@@ -308,8 +302,6 @@ layout: default
                 <button class="dropbtn">Program &#9662;</button>
                 <div class="dropdown-content">
                     <a href={{ "/program/overview/" | relative_url }}>Overview</a>
-                    <!-- <a href={{ "/program/exhibitors/" | relative_url }}>Exhibitors and Sponsors</a>
-                    <a href={{ "/program/plenary-sessions/" | relative_url }}>Plenary Sessions</a>-->
                     <a href={{ "/program/keynote-speakers/" | relative_url }}>Keynote Speakers</a>
                     <a href={{ "/program/papers/" | relative_url }}>Papers</a>
                     <a href={{ "/program/posters/" | relative_url }}>Posters</a>
@@ -330,10 +322,7 @@ layout: default
                 <button class="dropbtn">Contribute &#9662;</button>
                 <div class="dropdown-content">
                     <a href={{ "/contribute/exhibitors" | relative_url }}>Call for Exhibitors and Sponsors</a>
-                    <!-- <a href={{ "/contribute/" | relative_url }} style="color:#919191">Call for Journal Papers</a>                 -->
-                    <!-- <a href={{ "/contribute/conference-papers/" | relative_url }} style="color:#919191">Call for Conference Papers</a>                 -->
                     <a href={{ "/contribute/papers/" | relative_url }}>Call for Papers</a>
-                    <!-- <a href={{ "/contribute/posters/" | relative_url }}>Call for Posters</a> -->
                     <a href={{ "/contribute/workshops/" | relative_url }}>Call for Workshops</a>
                     <a href={{ "/contribute/3dui-contest/" | relative_url }}>Call for 3DUI Contest Entries</a>
                     <a href={{ "/contribute/demos/" | relative_url }}>Call for Research Demos</a>
@@ -344,10 +333,6 @@ layout: default
                     <a href={{ "/contribute/videos/" | relative_url }}>Call for Videos</a>
                     <a href={{ "/contribute/studentVolunteers/" | relative_url }}>Call for Student Volunteers</a>
                     <a href={{ "/contribute/satellite-event/" | relative_url }}>Call for Satellite Event</a>
-            <!--        <a href={{ "/contribute/bridge-to-vr/" | relative_url }}>Bridge to VR CFP</a>                      -->
-            <!--        <a href={{ "/contribute/presenterInfo" | relative_url }}>Presenter Guidelines</a>                  -->
-            <!--        <a href={{ "/contribute/videoInstructions/" | relative_url }}" | relative_url }}>Video Guidelines</a>                 -->
-
                 </div>
             </div>
             
@@ -373,8 +358,6 @@ layout: default
                 <div class="dropdown-content">
                     <a href={{ "/resources#slide-templates" | relative_url }}>Slide Templates</a>
                     <a href={{ "/resources#poster-templates" | relative_url }}>Poster Templates</a>
-                    <!-- <a href={{ "/resources#zoom-backgrounds" | relative_url }}>Zoom Backgrounds</a>
-                    <a href={{ "/resources#banner" | relative_url }}>Banners</a>-->
                     <a href={{ "/resources#logos" | relative_url }}>Conference Logos</a> 
                 </div>
             </div>
@@ -382,31 +365,20 @@ layout: default
             <a href="javascript:void(0);" style="font-size:16px;" class="icon" onclick="myFunction()">&#9776;</a>
         </div>
 
-
         <!-- banner -->
         <img class="ieeevrbanner" src={{ "/assets/images/IEEE VR 2023 Logo Banner.png" | relative_url }} alt="The official banner for the IEEE Conference on Virtual Reality + User Interfaces, comprised of a Kiwi wearing a VR headset overlaid on an image of Mount Cook and a braided river.">
 
         <!-- content -->
         <section class="page__content" itemprop="text">
             <div class="row">
-
-
-
                 <!-- left sidebar -->
-                <div class="column left" style="">
-
-
+                <div class="column left">
                     {{ content }}
-
-
                 </div>
-                <div class="column center" style=""></div>
+                <div class="column center"></div>
 
                 <!-- Main Content -->
                 <div class="column right" style="text-align: center">
-            
-                    <!-- <img class="sidebar-header-icon" src="/assets/images/ieeevr-logo.jpg">-->
-                    <!-- <a class="twitter-timeline" data-height="450" href="https://twitter.com/IEEEVR?ref_src=twsrc%5Etfw">Tweets by IEEEVR</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
                     <div>
                         <ul class="social-icons">
                             <li><a href="https://facebook.com/ieeevr"><img src={{ "/assets/images/social/circle-color/Facebook.png" | relative_url }} alt="Facebook" /></a></li>
@@ -427,122 +399,126 @@ layout: default
                             </a>
                         </div>
 
-                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>
+                        <!-- Conference Sponsors -->
+                        <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Conference Sponsors</h4>  
                         
+                        
+                        <!-- Special -->
                         <div style="background-color: #F5725E; border-radius: 7px;">
                             <b style="color: #363636">Special</b>
                         </div>
                         <br>
-                            <a href="https://www.pudong.gov.cn/ljzjrc/" target="_blank">
-                                <img class="conf-icon" style="width: 95%;padding-top: 15px;padding-bottom: 15px;" src={{ "/assets/images/sponsors/logo-lujiazui.png" | relative_url }} alt="Lujiazui Logo">
-                            </a>
-                            <br>
-                        <br>
+                        <a href="https://www.pudong.gov.cn/ljzjrc/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 15px;padding-bottom: 15px;" src={{ "/assets/images/sponsors/logo-lujiazui.png" | relative_url }} alt="Lujiazui Logo">
+                        </a>
+                        <br><br>
 
+                        <!-- Diamond -->
                         <div style="background-color: #F5725E; border-radius: 7px;">
                             <b style="color: #363636">Diamond</b>
                         </div>
                         <br>
 
+                        <!-- Platinum -->
                         <div style="background-color: #F5725E; border-radius: 7px;">
                             <b style="color: #363636">Platinum</b>
                         </div>
                         <br>
-                            <a href="https://www.baidu.com/" target="_blank">
-                                <img class="conf-icon" style="width: 95%;padding-top: 15px;padding-bottom: 15px;" src={{ "/assets/images/sponsors/logo-baidu.png" | relative_url }} alt="Baidu Logo">
-                            </a>
-                            <br>
-                        <br>
+                        <a href="https://www.baidu.com/" target="_blank">
+                            <img class="conf-icon" style="width: 95%;padding-top: 15px;padding-bottom: 15px;" src={{ "/assets/images/sponsors/logo-baidu.png" | relative_url }} alt="Baidu Logo">
+                        </a>
+                        <br><br>
                         
+                        <!-- Gold -->
                         <div style="background-color: #F5725E; border-radius: 7px;">
                             <b style="color: #363636">Gold</b>
                         </div>
                         <br>
-                            <a href="https://www.sensetime.com/en" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-sensetime.png" | relative_url }} alt="Senstime Logo">
-                            </a>
-                            <br>
-                            <a href="https://unity.cn/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-unity2.png" | relative_url }} alt="Unity china"></a>
-                            <br>
-                            <a href="https://www.ximmerse.com/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-ximmerse.png" | relative_url }} alt="XImmerse Logo"></a>
-                            <br>
-                            <a href="https://www.vivo.com/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo Logo"></a>
-                            <br>
-                         <br>
+                        <a href="https://www.sensetime.com/en" target="_blank">
+                            <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-sensetime.png" | relative_url }} alt="Senstime Logo">
+                        </a>
+                        <br>
+                        <a href="https://unity.cn/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-unity2.png" | relative_url }} alt="Unity china"></a>
+                        <br>
+                        <a href="https://www.ximmerse.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-ximmerse.png" | relative_url }} alt="XImmerse Logo"></a>
+                        <br>
+                        <a href="https://www.vivo.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 7px;" src={{ "/assets/images/sponsors/logo-vivo.png" | relative_url }} alt="Vivo Logo"></a>
+                        <br><br>
+
+                        <!-- Silver -->
                         <div style="background-color: #F5725E; border-radius: 7px;margin-top: 5px;">
                             <b style="color: #363636">Silver</b>
                         </div>
                         <br> 
-                            <a href="https://www.gritworld.cn/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 5px;" src={{ "/assets/images/sponsors/logo-gritworld.png" | relative_url }} alt="GritWorld logo"></a>
-                            <br> 
-                        <br>
+                        <a href="https://www.gritworld.cn/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 5px;" src={{ "/assets/images/sponsors/logo-gritworld.png" | relative_url }} alt="GritWorld logo"></a>
+                        <br><br>
+
+                        <!-- Bronze -->
                         <div style="background-color: #F5725E; border-radius: 7px;margin-top: 5px;">
                             <b style="color: #363636">Bronze</b>
                         </div>
                         <br>
-                            <a href="https://image-derivative.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="ImageDerivative logo"></a>
-                            <br> 
-                            <a href="https://www.yuanjingio.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-alibaba.png" | relative_url }} alt="yuanjing alibaba logo"></a>
-                            <br> 
-                            <a href="https://www.raysengine.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-rays.png" | relative_url }} alt="raysengine alibaba logo"></a>
-                            <br> 
-                            <a href="https://mp.weixin.qq.com/s/rRnYXRa8Ia9N6gS3R0um2Q" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/S-DREAM-Logo.png" | relative_url }} alt="S-Dream logo"></a>
-                            <br> 
-                            <a href="https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-vrih.png" | relative_url }} alt="VRIH logo"></a>
-                            <br> 
-                            <a href="https://www.hypergryph.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/yingjiao.jpg" | relative_url }} alt="VRIH logo"></a>
-                            <br> 
-                            <a href="http://www.evistek.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-evis.png" | relative_url }} alt="evis logo"></a>
-                            <br> 
-                            <a href="http://www.soarscape.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-kanjing.png" | relative_url }} alt="kanjing logo"></a>
-                            <br> 
-                            <a href="https://www.united-imaging.com/" target="_blank">
-                                <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-lianying.png" | relative_url }} alt="lianying logo"></a>
-                            <br> 
-                        <br>
+                        <a href="https://image-derivative.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-xiangyan.png" | relative_url }} alt="ImageDerivative logo"></a>
+                        <br> 
+                        <a href="https://www.yuanjingio.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-alibaba.png" | relative_url }} alt="yuanjing alibaba logo"></a>
+                        <br> 
+                        <a href="https://www.raysengine.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-rays.png" | relative_url }} alt="raysengine alibaba logo"></a>
+                        <br> 
+                        <a href="https://mp.weixin.qq.com/s/rRnYXRa8Ia9N6gS3R0um2Q" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/S-DREAM-Logo.png" | relative_url }} alt="S-Dream logo"></a>
+                        <br> 
+                        <a href="https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-vrih.png" | relative_url }} alt="VRIH logo"></a>
+                        <br> 
+                        <a href="https://www.hypergryph.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/yingjiao.jpg" | relative_url }} alt="VRIH logo"></a>
+                        <br> 
+                        <a href="http://www.evistek.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-evis.png" | relative_url }} alt="evis logo"></a>
+                        <br> 
+                        <a href="http://www.soarscape.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-kanjing.png" | relative_url }} alt="kanjing logo"></a>
+                        <br> 
+                        <a href="https://www.united-imaging.com/" target="_blank">
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-lianying.png" | relative_url }} alt="lianying logo"></a>
+                        <br><br>
 
+                        <!-- Doctoral Consortium Sponsors -->
                         <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Doctoral Consortium Sponsors</h4>
-                        <!--<a href="https://www.nsf.gov" target="_blank">
-                            <img class="conf-icon" style="width: 65%;" src={{ "/assets/images/sponsors/nsf.jpg" | relative_url }} alt="NSF Logo">
-                        </a>
-                        <br>-->
+
+                        <!-- Supporters -->
                         <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporters</h4>
                         <a href="https://gameinstitute.qq.com/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-tencent.png" | relative_url }} alt="Tencent Learn logo"></a>
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-tencent.png" | relative_url }} alt="Tencent Learn logo"></a>
                         <br> 
                         <a href="https://www.lenovo.com.cn/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-lenovo.png" | relative_url }} alt="lenovo logo"></a>
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-lenovo.png" | relative_url }} alt="lenovo logo"></a>
                         <br> 
                         <a href="https://www.qualcomm.cn/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-gaotong.png" | relative_url }} alt="qualcomm logo"></a>
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-gaotong.png" | relative_url }} alt="qualcomm logo"></a>
                         <br> 
                         <a href="https://www.hiscene.com/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-liangfengtai.png" | relative_url }} alt="liangfengtai logo"></a>
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-liangfengtai.png" | relative_url }} alt="liangfengtai logo"></a>
                         <br> 
                         <a href="https://ieeevr.org/2024/" target="_blank">
-                            <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }} alt="hgmt logo"></a>
-                        <br> 
-                        
-                        <br>
+                        <img class="conf-icon" style="width: 90%;padding-top: 3px;" src={{ "/assets/images/sponsors/logo-hgmt.png" | relative_url }} alt="hgmt logo"></a>
+                        <br><br>
 
+                        <!-- Host -->
                         <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Host</h4>
                         <a href="https://www.sjtu.edu.cn" target="_blank">
                             <img class="conf-icon" style="width: 90%;padding-top: 5px;" src={{ "/assets/images/sponsors/logo-sjtu.png" | relative_url }} alt="SJTU">
                         </a>
                         <br>
 
+                        <!-- Co-Host -->
                         <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Co-Host</h4>
                         <a href="https://www.zju.edu.cn" target="_blank">
                             <img class="conf-icon" style="width: 90%;padding-top: 5px;" src={{ "/assets/images/sponsors/logo-zju.png" | relative_url }} alt="ZJU">
@@ -550,11 +526,10 @@ layout: default
                         <a href="https://www.nuist.edu.cn/main.htm" target="_blank">
                             <img class="conf-icon" style="width: 90%;padding-top: 5px;" src={{ "/assets/images/sponsors/logo-nuist.jpg" | relative_url }} alt="NUIST">
                         </a>
-                        <br>
-                        <br>
+                        <br><br>
 
+                        <!-- Supporting Associations -->
                         <h4 style="border-bottom: 1px solid black;padding-bottom: 5px;">Supporting Associations</h4>
-
                         <table width="100%" border="0" cellspacing="0" cellpadding="0" frame=void>
                         <tr>
                             <td align="center"  style="width: 33%;">
@@ -613,7 +588,6 @@ layout: default
                         </table>
                         <br>
                     </div>
-
                 </div>
             </div>
 
@@ -632,7 +606,7 @@ layout: default
                         <img src={{ "/assets/images/sponsors/ieee-vgtc-logo-white.svg" | relative_url }} alt="IEEE Visualization and Graphics Technical Community" style="height: 35px;">
                     </a>
                 </div>
-                <p style="text-align:center ! important;">© IEEE VR Conference 2024, Sponsored by the IEEE Computer Society and the Visualization and Graphics Technical Committee</p>
+                <p style="text-align:center ! important;">©IEEE VR Conference 2024, Sponsored by the IEEE Computer Society and the Visualization and Graphics Technical Committee</p>
             </div>
         </section>
 

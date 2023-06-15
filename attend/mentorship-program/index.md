@@ -5,7 +5,7 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
-<!-- NAO ESTA NO MENUBAR -->
+<script> /***
 <div>
     <h1 id="mentorship-program">IEEE VR 2024 Mentorship Program</h1>
     
@@ -48,3 +48,4 @@ title_separator: "|"
     </p>
 
 </div>
+***/ </script>
