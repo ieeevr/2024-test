@@ -4,15 +4,17 @@ title: "zoom-events-instructions"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-
-<!-- NAO ESTA NO MENUBAR -->
+<p>
+    More information coming soon, please watch this space.
+</p>
+<script> /***
 <div>
     <h1 id="zoom-events-instructions">Zoom Events Instructions</h1>
     <p>
     <br/>
-    Dear IEEE VR 2024 attendee,<br/>
+    Dear IEEE VR 2023 attendee,<br/>
     This year, keynotes, workshops, tutorials, panels, paper presentations, posters, demos, the 3DUI contest, doctoral consortium, and the opening and closing ceremonies will all be presented via a Zoom event. Below is a quick guide to help you navigate the Zoom Events interface.<br/>
-    <a href="https://events.zoom.us/ev/AhmCCzVC-RADb00wPUlHZoiqmekZamDY4geBdWaG7KMYNKf70Chh~AggLXsr32QYFjq8BlYLZ5I06Dg">Link to IEEE VR 2024 Zoom Lobby</a>
+    <a href="https://events.zoom.us/ev/AhmCCzVC-RADb00wPUlHZoiqmekZamDY4geBdWaG7KMYNKf70Chh~AggLXsr32QYFjq8BlYLZ5I06Dg">Link to IEEE VR 2023 Zoom Lobby</a>
     </p>
     <h2>Joining the Zoom Event</h2>
     <p>
@@ -28,7 +30,7 @@ title_separator: "|"
     </p>
     <h2>Joining a Session</h2>
     <p>
-    You should now enter the IEEE VR 2024 Zoom hub! This is your gateway to all of the sessions available in this year’s conference. The hub interface looks like the screenshot below:
+    You should now enter the IEEE VR 2023 Zoom hub! This is your gateway to all of the sessions available in this year’s conference. The hub interface looks like the screenshot below:
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/1.png" | relative_url }}" alt="hub" width="80%"></center>
     <p>
@@ -38,7 +40,7 @@ title_separator: "|"
     <p>
     By clicking the “Play” icon in the lower right corner of this area, you can watch sessions straight from the hub. If multiple sessions are running at the same time, they will be shown as thumbnails on the right hand side. Simply click on the thumbnails to switch between active sessions.
     All current and upcoming sessions are shown in the lower area of this page. To join a session, simply click on the “Join” button. Please note that you may not be able to join a session unless 1) it has been started by the session chair, or 2) you are a speaker for that session. 
-    <strong>If you cannot access a session where you are a speaker, please get in contact with us via the #helpdesk channel in <a href="https://ieeevr2024.slack.com/archives/C04TP0SBTK6">Slack</a>, or send us an email: <a href="mailto:streaming2024@ieeevr.org">streaming2024@ieeevr.org</a>.</strong>
+    <strong>If you cannot access a session where you are a speaker, please get in contact with us via the #helpdesk channel in <a href="https://ieeevr2023.slack.com/archives/C04TP0SBTK6">Slack</a>, or send us an email: <a href="mailto:streaming2023@ieeevr.org">streaming2023@ieeevr.org</a>.</strong>
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/3.png" | relative_url }}" alt="icon" width="80%"></center>
     <h2>Live Q&As</h2>
@@ -54,19 +56,21 @@ title_separator: "|"
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/6.png" | relative_url }}" alt="session" width="80%"></center>
     <p>
-    Each session is presented as a card. By clicking on this, you can bring up information about that session depending on what type of session it is and who is scheduled to speak in it. Each card will also notify you of any special roles you have in that session (e.g. speaker). <strong>If you are registered as a speaker or host for any session in which you shouldn’t be, please get in contact with us via the #helpdesk channel in <a href="https://ieeevr2024.slack.com/archives/C04TP0SBTK6">Slack</a>, or send us an email: <a href="mailto:streaming2024@ieeevr.org">streaming2024@ieeevr.org</a>.</strong>
+    Each session is presented as a card. By clicking on this, you can bring up information about that session depending on what type of session it is and who is scheduled to speak in it. Each card will also notify you of any special roles you have in that session (e.g. speaker). <strong>If you are registered as a speaker or host for any session in which you shouldn’t be, please get in contact with us via the #helpdesk channel in <a href="https://ieeevr2023.slack.com/archives/C04TP0SBTK6">Slack</a>, or send us an email: <a href="mailto:streaming2023@ieeevr.org">streaming2023@ieeevr.org</a>.</strong>
     </p>
-    <h2>Customising your IEEE VR 2024 Experience</h2>
+    <h2>Customising your IEEE VR 2023 Experience</h2>
     <p>
     If you find a session you are interested in, you can bookmark it by clicking on the flag icon in the lower left corner of its session card. Any session in which you are registered as a speaker or host will be automatically bookmarked. You can also see how many other attendees have bookmarked this session.
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/7.png" | relative_url }}" alt="custom" width="50%"></center>
     <p>
-    Clicking on the “Itinerary” tab on the left hand side of the window will then bring up a personalised timetable with all sessions you have bookmarked. Please feel free to use this feature to plan your IEEE VR experience for 2024.
+    Clicking on the “Itinerary” tab on the left hand side of the window will then bring up a personalised timetable with all sessions you have bookmarked. Please feel free to use this feature to plan your IEEE VR experience for 2023.
     </p>
     <center><img src="{{ "/assets/images/attend/zoom/8.png" | relative_url }}" alt="plan" width="80%"></center>
     <h2>Need additional help?</h2>
     <p>
-    If you need additional help navigating the Zoom interface, or think that your registration has been configured incorrectly, please get in touch with us via the #helpdesk channel in <a href="https://ieeevr2024.slack.com/archives/C04TP0SBTK6">Slack</a> or email our Streaming Team of the IEEE VR 2024 Online Experience: <a href="mailto:streaming2024@ieee.org">streaming2024@ieee.org</a>.
+    If you need additional help navigating the Zoom interface, or think that your registration has been configured incorrectly, please get in touch with us via the #helpdesk channel in <a href="https://ieeevr2023.slack.com/archives/C04TP0SBTK6">Slack</a> or email our Streaming Team of the IEEE VR 2023 Online Experience: <a href="mailto:streaming2023@ieee.org">streaming2023@ieee.org</a>.
     </p>
 </div>
+
+***/ </script>

@@ -3,6 +3,7 @@ layout: ieeevr-default
 title: "Diversity and Inclusion Scholarship"
 ---
 
+<script> /***
 <div>
     <h1>Diversity and Inclusion Scholarship</h1>
 
@@ -27,10 +28,6 @@ title: "Diversity and Inclusion Scholarship"
     <p> 
     We also invite researchers from <strong>regions and countries historically under-represented at the IEEE VR conference</strong> to apply. The countries that are eligible to receive a registration grant are: India, any country in Latin America, Africa, and the Middle East. Countries in southern Europe will also be considered. Given that we have a limited number of grants, you will need to submit an updated copy of your CV (1 page) and justify why you are applying for this grant in the registration form. 
     </p>
-    
-    <!-- <p>
-    Undergraduate students with limited or no experience conducting virtual reality research are encouraged to apply to the <a href="/2021/contribute/bridge-to-vr">Bridge to VR Program</a>.
-    </p> -->
     
     <h2>Scholarship Details</h2>
     <p>
@@ -63,3 +60,4 @@ title: "Diversity and Inclusion Scholarship"
         This program is an initiative of the 2024 IEEE VR Diversity and Inclusion Committee. The committee can be reached via email at diversity2024@ieeevr.org.
     </p>
 </div>
+***/ </script>
