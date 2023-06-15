@@ -44,13 +44,14 @@ title_separator: "|"
         color: #F5725E;
     }
 </style>
+<p>
+    More information coming soon, please watch this space.
+</p>
 
+<script> /***
 <div>
-    <!-- <p>
-        你好，欢迎来到中国，上海
-    </p> -->
     <p>
-        <strong>Hello and welcome to Shanghai, China!</strong>
+        <strong>Hello and welcome to Orlando, Florida!</strong>
     </p>
     <table class="styled-table">
         <tr>
@@ -63,142 +64,39 @@ title_separator: "|"
         </tr>
         <tr>
             <td>
-                <a href="#industry-lab-tour">Industry / Lab Tour</a>
+                <a href="#event1">Event 1</a>
             </td>
             <td>
-                Sunday, March 26, 2023
+                Date 1
             </td>
         </tr>
         <tr>
             <td>
-                <a href="#recruitment">Student Recruitment</a>
+                <a href="#event2">Event 2</a>
             </td>
             <td>
-                Sunday, March 26, 2023
+                Date 2
             </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="#industry-forum">Industry Forum</a>
-            </td>
-            <td>
-                Monday, March 27, 2023 – Tuesday, March 28, 2023
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="#reception">Reception: Cruise on The Huangpu River</a>
-            </td>
-            <td>
-                Monday, March 27, 2023
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="#banquet">Banquet at Shangri-La</a>
-            </td>
-            <td>
-                Tuesday, March 28, 2023
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="#online-activities">Online Activities</a>
-            </td>
-            <td>
-                Monday, March 27, 2023 – Tuesday, March 28, 2023
-            </td>
-        </tr>
-        <tr>
-            <td>
-                 <a href="#tour">One-day Tour in Shanghai</a>
-            </td>
-            <td>
-                Thurday, March 30, 2023
-            </td>
-        </tr>
+        </tr>        
     </table>
-    <h2 id="industry-lab-tour">
-        Industry/Lab Tour
+    <h2 id="event1">
+        Event 1
     </h2>
     <p>
-        School of Information Science and Technology, ShanghaiTech University
+        Location
     </p>
     <p>
-        At the SIST of ShanghaiTech University, participants can visit the MARS Lab (Multidisciplinary Artificial Reality Studio) and experience a series of VR/AR research facilities. MARS Lab will highlight leading-edge VR and visualization research through various top-tier light-field stages and captured domes for physically-based 4D asset reproduction. It will also demonstrate a series of fascinating applications, i.e., the digital twins for smart cities, hyper-real human generation, VR/AR experiences of dynamic neural radiance fields, immersive holographic interactions, etc.
+        Description
     </p>
     <img src="../../assets/images/program/social-events/event1.png"  alt="industry/lab tour" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
-    <!-- <img src="../../assets/images/program/social-events/SE2.png"  alt="SE2" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
-    <img src="../../assets/images/program/social-events/SE3.png"  alt="SE3" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
-    <img src="../../assets/images/program/social-events/SE4.png"  alt="SE4" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
-    <img src="../../assets/images/program/social-events/SE5.png"  alt="SE5" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <h2 id="recruitment">
-        Student Recruitment
+    
+    <h2 id="event1">
+        Event 2
     </h2>
     <p>
-       This event aims to facilitate student employment and enterprise recruitment through various options, such as communication and integration across enterprises and on-site networking, which provides an excellent platform for students and high-quality employees for companies.
-    </p>
-    <h2 id="industry-forum">
-        Industry Forum
-    </h2>
-    <p>
-        This two-day industry forum aims to explore and discuss the latest advancements regarding the metaverse in industries such as production, education, intelligent manufacturing, and cultural tourism. During the event, presenters and panelists will provide and exchange information on key technologies and business innovations related to the development of the metaverse, such as its ecology, supporting technologies, end-use applications, economic systems, development, and evolution. At the same time, we will showcase metaverse-related technologies, products, and applications and present the results of cooperation in metaverse industry ecology to promote the initial transition of the metaverse industry jointly.
-    </p>
-    <!-- <img src="../../assets/images/program/social-events/event2.png"  alt="Metaverse" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <h2 id="reception">
-        Reception: Cruise on The Huangpu River
-    </h2>
-    <p>
-        The welcome reception of the IEEE VR Conference will be arranged on a Chinese-style cruise ship on the Huangpu River, with a virtual scene of the Bund on the 3D online platform, and a live broadcast of the entire tour to experience the stunning night view of both sides of the river in a simultaneous virtual and real space. At the reception, attendees can meet academic experts and research partners with similar interests, discuss cutting-edge technology topics, and find opportunities for cooperation.
-    </p>
-    <p><a href="/2023/program/cruise-guidebook">Reception Cruise Guidebook</a></p>
-    <!-- <p>
-       Cruising the Huangpu River allows attendees to enjoy a magnificent nightscape with the city's most famous skyscrapers. At the reception, attendees can meet research partners with similar interests and discuss state-of-the-art topics for academic interactions.
-    </p> -->
-    <img src="../../assets/images/program/social-events/SE9.png"  alt="Huangpu River" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
-    <h2 id="banquet">
-        Banquet at Shangri-La
-    </h2>
-    <p>
-        We will host a banquet for all in-person attendees at the Shangri-La Hotel. The banquet will offer a unique experience of traditional Chinese cuisine. During the banquet, we will have a VGTC award announcement and a banquet keynote, where attendees can share in honor of academic achievement and discuss the past, present, and future of VR technology.
-    </p>
-    <!-- <img src="../../assets/images/program/social-events/SE10.png"  alt="Banquet" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <!-- <div style="width: 100%">
-        <div style="width: 100%; display: flex;flex-direction: row;" >
-            <img src="../../assets/images/program/social-events/SE7.png" alt="fish" style="width: 50%"/>
-            <img src="../../assets/images/program/social-events/SE8.png" alt="chicken" style="width: 50%"/>
-        </div>
-        <div style="width: 100%; display: flex;flex-direction: row;">
-            <img src="../../assets/images/program/social-events/SE9.png" alt="duck" style="width: 50%"/>
-            <img src="../../assets/images/program/social-events/SE10.png" alt="braised" style="width: 50%"/>
-        </div>
-    </div> -->
-    <h2 id="online-activities">
-        Online Activities
-    </h2>
-    <p>
-       The conference will adopt a hybrid mode, combining online and on-site participation. Those who cannot attend the events in person will be able to interact via a dedicated Slack channel and a Zoom broadcasting of a virtual travel to Shanghai Jiao Tong University to celebrate the anniversary of the IEEE VR Conference. We will provide further details about online participation in advance of the conference. 
-    </p>
-    <!-- <img src="../../assets/images/program/social-events/event3.png"  alt="SJTU1" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <!-- <img src="../../assets/images/program/social-events/SE8.png"  alt="SJTU2" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <h2 id="tour">
-        One-day Tour in Shanghai
-    </h2>
-    <p>
-    Participants can join in a one-day exploration of Shanghai, which will take them to some of the city's most iconic sights, including Yuyuan Garden, the Oriental Pearl Radio and Television Tower, and the Shanghai Municipal History Museum. 
-    </p>
-    <!-- <p>
-    Explore the culture of Shanghai's Old City and take a stroll through the Yuyuan Garden. Step back in time and discover the traditional goods and services of the City God Temper of Shanghai. From time-honored Chinese brands such as Wang Dalong and Liyun Pavilion to unique specialty shops like chopsticks and walking stick vendors, this area has something for everyone. Experience the charm of Shanghai's past and present in this one-of-a-kind destination.
-    </p> -->
-    <!-- <img src="../../assets/images/program/social-events/SE11.png"  alt="Tour1" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <!-- <p>
-    Experience the beauty and culture of Shanghai by visiting the Oriental Pearl Radio and Television Tower. Climb to the observation deck of the iconic tower and take in the breathtaking panoramic views of the Huangpu River. Standing at 468 meters, it is one of the first National AAAAA Level Scenic Spots in China and offers a variety of experiences, from the space capsules to the revolving restaurant, exhibition halls of Shanghai's urban history and development, and more.
-    </p> -->
-    <!-- <img src="../../assets/images/program/social-events/SE12.png"  alt="Tour2" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
-    <!-- <p>
-    Shanghai Municipal History Museum is in the Oriental Pearl Radio and TV Tower, which is an image display reflecting the changes of Shanghai's modern history. From the six themed exhibition sections, such as "Style and Features in the Town" and "Past Footsteps in Shanghai," visitors can explore the development of Shanghai through more than 80 scenic spots, hundreds of historical relics, and 117 life-size wax figures. Marvel at the nearly 1000 small wax figures and clay figurines, as well as the thousand pieces of precious cultural relics, which offer insight into the folk customs of Old Shanghai.
-    </p> -->
-    <img src="../../assets/images/program/social-events/event7.png"  alt="Tour3" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/>
-    <!-- <img src="../../assets/images/program/social-events/SE14.png"  alt="Tour4" style="width: 90%;display: block;margin-left: auto;margin-right: auto;"/> -->
+      Description Event 2
+    </p>    
 </div>
+
+***/ </script>
 
