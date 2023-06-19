@@ -1,20 +1,244 @@
-/* From Index */
 
-.dropdown-content {
-    display: none !important;
-    position: absolute !important;
-    background-color: #e6eaf3 !important;
-    min-width: 160px !important;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2) !important;
-    z-index: 1 !important;
-}
-
-.topnav a:hover,
-    .dropdown:hover .dropbtn {
-        background-color: #152840 !important;
-        color: #fff !important;
+/* From default layout */
+    p {
+        text-align: justify;
+        text-justify: auto;
     }
 
+    .topnav {
+        overflow: hidden;
+        background-color: #0c5789;  
+        border-radius: 0px 0px 40px 40px;  
+        color: white; 
+        padding-left: 35px;  
+    }
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        font-weight: bold;
+    }
+
+    .topnav a:hover,
+    .dropdown:hover .dropbtn {
+        background-color: #14b2d7 !important;
+        color: #fff !important;
+        font-weight: bold;
+    }
+
+    .topnav a:visited {
+        color: white;
+    }
+
+    .dropdown a:visited {
+        color: black;
+    }
+
+    .topnav .icon {
+        display: none;
+    }
+
+    .dropdown {
+        float: left;
+        overflow: hidden;
+    }
+
+    .dropdown .dropbtn {
+        font-size: 17px;
+        border: none;
+        outline: none;
+        color: white;
+        font-weight: bold;
+        padding: 16px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f3f3f3;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        float: none;
+        color: #363636;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:checked .dropdown-content {
+        display: block;
+    }
+
+    @media screen and (max-width: 600px) {
+
+        .topnav a:not(:first-child),
+        .dropdown .dropbtn {
+            display: none;
+        }
+
+        .topnav a.icon {
+            float: right;
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .topnav.responsive {
+            position: relative;
+        }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+            height: inherit;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+
+        .topnav.responsive .dropdown {
+            float: none;
+        }
+
+        .topnav.responsive .dropdown-content {
+            position: relative;
+        }
+
+        .topnav.responsive .dropdown .dropbtn {
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+    }
+
+    .ieeevrbanner {
+        margin-top: 20px;
+        padding: 0px;
+        border-radius: 40px 40px 0px 0px;
+    }
+
+    .column {
+        float: left;
+        padding: 10px;
+    }
+
+    .left {
+        width: 75%;
+    }
+
+    .center {
+        width: 2%;
+    }
+
+    .right {
+        width: 22%;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .sponsorsend {
+        display: block;
+    }
+
+    .ieeevrfooter {
+        position: static;
+        padding-top: 10px;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social-icons li {
+        display: inline-block;
+        list-style-type: none;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+    }
+
+    .social-icons li a {
+        border-bottom: none;
+    }
+
+    .social-icons li img {
+        width: 40px;
+        height: 40px;
+        margin-right: 30px;
+    }
+
+    .ieeevrmsgbox { /* Any boxes with the theme-primary color as background */
+      background-color: #F5725E;
+      border-radius: 7px;
+    }
+
+    .ieeevrmsgbox b {
+        color: #363636;
+    }
+
+    .notice--info {
+        background-color: #f3f3f3 ! important;
+        color: #363636 ! important;
+    }
+
+    .notice--text {
+        background-color: #f3f3f3 ! important;
+        color: #363636 ! important;
+    }
+
+    @media screen and (max-width: 900px) {
+        .left {
+            width: 100%;
+        }
+
+        .center {
+            display: none;
+        }
+
+        .right {
+            width: 100%;
+        }
+
+        .sidebar-header-icon {
+            display: none;
+            padding: 0px 0px;
+        }
+
+        .conf-icon {
+            width: 200px;
+        }
+    }
+
+/* From Index */
 .styled-table tbody tr:nth-of-type(even) {
     background-color: #f3f3f3 !important;
 }
@@ -37,14 +261,12 @@
 }
 
 /* End Index */
-
-
-
 .confsponsors-type {
     background: #152840;
     background: linear-gradient(45deg, #c90f7f, #152840, #14b2d7);
     line-height: 35px;
 }
+
 .confsponsors-type > b {color:#fff;}
 
 #myBtnTop {
@@ -69,10 +291,6 @@
         background-color:#14b2d7;
         color: #fff;
     }
-}
-
-b,strong {
-    /*color: #14b2d7;*/
 }
 
 .page__content .notice,.page__content .notice--primary,.page__content .notice--info,.page__content .notice--warning,.page__content .notice--success,.page__content .notice--danger {
@@ -610,15 +828,6 @@ body {
     margin: 0
 }
 
-/*::-moz-selection {
-    color: #fff;
-    background: #000
-}
-
-::selection {
-    color: #fff;
-    background: #000
-}*/
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section {
     display: block
@@ -4523,6 +4732,21 @@ body {
     margin-bottom: 1em
 }
 
+.sponsor{
+    background-color: #0c5789; 
+    border-radius: 7px;
+    margin-top: 5px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.sponsor_section{
+    border-bottom: 1px solid black !important;
+    padding-bottom: 5px !important;
+}
+
+/* Media Section */
+
 @media (min-width: 64em) {
     .sidebar__right {
         position:absolute;
@@ -5010,13 +5234,3 @@ body {
         height: 1px !important
     }
 }
-
-/*::-moz-selection {
-    color: #fff;
-    background: #14b2d7;
-}
-
-::selection {
-    color: #fff;
-    background: #14b2d7;
-}*/
