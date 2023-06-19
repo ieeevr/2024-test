@@ -132,6 +132,10 @@
         }
     }
 
+    b, strong {
+        color: #0c5789;
+    }
+
     .ieeevrbanner {
         margin-top: 20px;
         padding: 0px;
