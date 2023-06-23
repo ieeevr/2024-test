@@ -1,3 +1,6 @@
 source "https://rubygems.org"
-gem "github-pages", "~> 218", group: :jekyll_plugins
+gem "github-pages", 
+group: :jekyll_plugins do    
+    gem 'wdm', '>= 0.1.0'
+end
 gemspec

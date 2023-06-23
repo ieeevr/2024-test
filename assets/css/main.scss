@@ -52,10 +52,6 @@ b, strong {
     color: $theme-yellow;
 }
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
-
 
 ::-moz-selection { /* Code for Firefox */
   color: $theme-text;
