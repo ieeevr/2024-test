@@ -220,6 +220,10 @@
         color: #363636 ! important;
     }
 
+    .paddingBottomSmall {
+        padding-bottom: 20px;
+    }
+
     @media screen and (max-width: 900px) {
         .left {
             width: 100%;
