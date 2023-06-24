@@ -10,3 +10,4 @@ _site/
 vendor/
 Gemfile
 Gemfile.lock
+committees/.DS_Store
