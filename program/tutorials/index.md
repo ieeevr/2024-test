@@ -3,47 +3,7 @@ layout: ieeevr-default
 title: "Tutorials"
 ---
 
-<style>
-    .styled-table {
-        border-collapse: collapse;
-        margin: 25px 0;
-        font-size: 0.8em;
-        font-family: sans-serif;
-        /*min-width: 400px;*/
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        display: table;
-    }
-
-    .styled-table thead tr {
-        background-color: #00aeef;
-        color: #ffffff;
-        text-align: left;
-    }
-
-    .styled-table th,
-    .styled-table td {
-        padding: 12px 15px;
-    }
-
-    .styled-table tbody tr {
-        border-bottom: 1px solid #dddddd;
-    }
-
-    .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
-    }
-
-    .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
-    }
-
-    .styled-table tbody tr.active-row {
-        font-weight: bold;
-        color: #00aeef;
-    }
-
-</style>
-
+<link rel="stylesheet" href="{{ '/assets/css/program.css' | relative_url }}">
 
 <div>
     <table class="styled-table">
@@ -66,33 +26,6 @@ title: "Tutorials"
 <div>
 <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
 
-<!-- TAKE ME TO THE EVENT START
-{% for event in site.data.events %}
-{% if event.id == 'T5' %}
-{% if event.location %}
-<div class="notice--info">
-    <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-    <p>
-        <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-
-        {% if event.stream-url %}
-        <br />
-        {% if event.aindanaoaconteceu %}
-        <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-        {% else %}
-        <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-        {% endif %}
-        {% endif %}
-        {% if event.discordurl %}
-        <br />
-        <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-        {% endif %}
-        {% endif %}
-    </p>
-</div>
-{% endif %}
-{% endfor %}
-    TAKE ME TO THE EVENT END-->
 
 <p>
     {{ tutorial.day }}, {{ tutorial.starttime }}-{{ tutorial.endtime }}, {{ tutorial.timezone }}, {{ tutorial.room }}
