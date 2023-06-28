@@ -12,6 +12,7 @@
         color: white; 
         padding-left: 35px;  
         margin-bottom: 20px;
+        cursor: pointer;
     }
 
     .topnav a {
@@ -97,6 +98,10 @@
         .topnav a.icon {
             float: right;
             display: block;
+            margin-right: 35px;
+            height: 53px;
+            width: 50px;
+            line-height: 25px;
         }
     }
 
@@ -116,6 +121,7 @@
             float: none;
             display: block;
             text-align: left;
+            margin-right: 35px;
         }
 
         .topnav.responsive .dropdown {
@@ -124,6 +130,10 @@
 
         .topnav.responsive .dropdown-content {
             position: relative;
+        }
+
+        .topnav.responsive .dropdown-content a {
+            margin-right:0px;
         }
 
         .topnav.responsive .dropdown .dropbtn {
@@ -146,14 +156,6 @@
     .column {
         float: left;
         padding: 10px;
-    }
-
-    .floatLeft{
-        float: left;
-    }
-
-    .floatRight{
-        float: right;
     }
 
     .left {
@@ -209,22 +211,9 @@
         margin-right: 30px;
     }
 
-    .emailIcon{
-        font-size: 14px;
-        color:#14b2d7;  
-    }
-
-    .emailText{
-        font-size:12px;
-        color:#14b2d7; 
-        font-weight: bold; 
-    }
-    
     .ieeevrmsgbox { /* Any boxes with the theme-primary color as background */
-      background-color: #14b2d7;
+      background-color: #F5725E;
       border-radius: 7px;
-      padding: 20px;
-      color: #FFF;
     }
 
     .ieeevrmsgbox b {
@@ -239,10 +228,6 @@
     .notice--text {
         background-color: #f3f3f3 ! important;
         color: #363636 ! important;
-    }
-
-    .paddingBottomSmall {
-        padding-bottom: 20px;
     }
 
     @media screen and (max-width: 900px) {
@@ -296,7 +281,7 @@
     background: #152840;
     background: linear-gradient(45deg, #c90f7f, #152840, #14b2d7);
     line-height: 35px;
-    border-radius: 7px;
+    border-radius: 20px;
     margin-top: 5px;
     color: #FFF;
     font-weight: bold;
@@ -316,12 +301,12 @@
     font-size: 18px;
     border: none;
     outline: none;
-    background-color: #152840;
+    background-color: #f01380;
     color: #fff;
     cursor: pointer;
     padding: 15px;
     border-color: 1px solid white;
-    border-radius: 4px
+    border-radius: 10px
 }
 
 @media (hover: hover) and (pointer: fine) {
@@ -827,8 +812,8 @@ img.mfp-img {
 }
 
 a:focus,button:focus {
-    outline: thin dotted #14b2d7;
-    outline: 5px auto #14b2d7;
+    outline: thin dotted #F5725E;
+    outline: 5px auto #F5725E;
     outline-offset: -2px
 }
 
@@ -910,10 +895,6 @@ img {
     vertical-align: middle;
     border: 0;
     -ms-interpolation-mode: bicubic
-}
-
-.bold{    
-    font-weight: bold;
 }
 
 #map_canvas img,.google-maps img {
@@ -1046,7 +1027,7 @@ blockquote {
     padding-left: 1em;
     padding-right: 1em;
     font-style: italic;
-    border-left: 0.25em solid #14b2d7
+    border-left: 0.25em solid #F5725E
 }
 
 blockquote cite {
@@ -1373,7 +1354,7 @@ input[disabled],select[disabled],textarea[disabled],input[readonly],select[reado
 }
 
 input:focus,textarea:focus {
-    border-color: #14b2d7;
+    border-color: #F5725E;
     outline: 0;
     outline: thin dotted \9;
     box-shadow: inset 0 1px 3px rgba(0,0,0,0.06),0 0 5px rgba(245,114,94,0.7)
@@ -1846,7 +1827,7 @@ tr,td,th {
 }
 
 .notice--primary a {
-    color: #14b2d7
+    color: #F5725E
 }
 
 .notice--primary a:hover {
@@ -2268,7 +2249,7 @@ tr,td,th {
 
 .pagination li a.current,.pagination li a.current.disabled {
     color: #fff;
-    background: #14b2d7
+    background: #F5725E
 }
 
 .pagination li a.disabled {
@@ -2405,7 +2386,7 @@ tr,td,th {
     left: 0;
     bottom: 0;
     height: 4px;
-    background: #14b2d7;
+    background: #F5725E;
     width: 100%;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
@@ -2662,7 +2643,7 @@ tr,td,th {
 .toc .nav__title {
     color: #fff;
     font-size: .75em;
-    background: #14b2d7;
+    background: #F5725E;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px
 }
@@ -2820,7 +2801,7 @@ tr,td,th {
     height: 2rem;
     border: 0;
     outline: none;
-    color: #14b2d7;
+    color: #F5725E;
     background-color: transparent;
     cursor: pointer;
     -webkit-transition: 0.2s;
@@ -2933,13 +2914,13 @@ tr,td,th {
 }
 
 .archive__item-title .ais-Highlight {
-    color: #14b2d7;
+    color: #F5725E;
     font-style: normal;
     text-decoration: underline
 }
 
 .archive__item-excerpt .ais-Highlight {
-    color: #14b2d7;
+    color: #F5725E;
     font-style: normal;
     font-weight: bold
 }
@@ -3509,7 +3490,7 @@ body:hover .visually-hidden a,body:hover .visually-hidden input,body:hover .visu
     position: relative;
     width: 1.5rem;
     height: .25rem;
-    background: #14b2d7;
+    background: #F5725E;
     margin: auto;
     -webkit-transition: 0.3s;
     transition: 0.3s
@@ -3521,7 +3502,7 @@ body:hover .visually-hidden a,body:hover .visually-hidden input,body:hover .visu
     left: 0;
     width: 1.5rem;
     height: .25rem;
-    background: #14b2d7;
+    background: #F5725E;
     -webkit-transition: 0.3s;
     transition: 0.3s
 }
