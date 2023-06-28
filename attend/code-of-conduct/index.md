@@ -63,6 +63,6 @@ title_separator: "|"
 
     <p>
         IEEE seeks to provide a secure environment at its events. Participants should report any behavior inconsistent with the principles outlined here, to 
-        on site staff, security or venue personnel, or to <span nowrap><i class="fas fa-fw fa-envelope-square"></i>eventconduct [at] ieee.org</span>  
+        on site staff, security or venue personnel, or to <span style="white-space: nowrap"><i class="fas fa-fw fa-envelope-square"></i>eventconduct [at] ieee.org</span>  
     </p>
 </div>
