@@ -1,33 +1,34 @@
 ---									
 layout: ieeevr-default									
-title: "Conference Committee"									
----						
-
+title: "Conference Committee"	
+subtitle: "IEEE VR 2024"
+title_separator: "|"
+---
+  
+<h1>Conference Committee</h1>
 <div>									
-	<h2>General Chairs</h2>					
+	<h2>General Chairs <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">general [at] ieeevr.org</i></div></h2>
+					
 	<ul>	
-		<li>Carolina Cruz-Neirag &#x2012; <i>University of Central Florida, USA</i></li>			
-		<li>Greg Welch &#x2012; <i>University of Central Florida, USA</i></li>					
-		<li>Xubo Yang &#x2012; <i>Shanghai Jiao Tong University, China</i></li>
-		<li style="list-style: none">general [at] ieeevr.org</li>	
-	</ul>										
+		<li><span class="bold">Carolina Cruz-Neira</span> &#x2012; <i>University of Central Florida, USA</i></li>			
+		<li><span class="bold">Greg Welch</span> &#x2012; <i>University of Central Florida, USA</i></li>					
+		<li><span class="bold">Xubo Yang</span> &#x2012; <i>Shanghai Jiao Tong University, China</i></li>
+	</ul>					
 </div>
 <div>
-	<h2>Program Chairs</h2>						
+	<h2>Program Chairs <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">program [at] ieeevr.org</i></div></h2>						
 	<ul>							
-		<li>Tabitha Peck &#x2012; <i>Davidson College, USA</i></li>	
-		<li>Yuta Itoh &#x2012; <i>The University of Tokyo, Japan</i></li>	
-		<li>Voicu Popescu &#x2012; <i>Purdue University, USA</i></li>	
-		<li>Stephanie Zollman &#x2012; <i>The University of Otago, New Zealand</i></li>	
-		<li style="list-style: none">program [at] ieeevr.org</li>	
+		<li><span class="bold">Tabitha Peck</span> &#x2012; <i>Davidson College, USA</i></li>	
+		<li><span class="bold">Yuta Itoh</span> &#x2012; <i>The University of Tokyo, Japan</i></li>	
+		<li><span class="bold">Voicu Popescu</span> &#x2012; <i>Purdue University, USA</i></li>	
+		<li><span class="bold">Stephanie Zollman</span> &#x2012; <i>The University of Otago, New Zealand</i></li>	
 	</ul>				
 </div>
 
 <div>
-	<h2>Web Chairs</h2>						
+	<h2>Web Chairs <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">web2024 [at] ieeevr.org</i></div></h2>						
 	<ul>							
-		<li>Carole McDaniel	&#x2012; <i>University of Central Florida, USA</i></li>	
-		<li>Susan Bethel &#x2012; <i>University of Central Florida, USA</i></li>
-		<li style="list-style: none">web2024 [at] ieeevr.org</li>	
+		<li><span class="bold">Carole McDaniel</span> &#x2012; <i>University of Central Florida, USA</i></li>	
+		<li><span class="bold">Susan Bethel</span> &#x2012; <i>University of Central Florida, USA</i></li>
 	</ul>				
 </div>																

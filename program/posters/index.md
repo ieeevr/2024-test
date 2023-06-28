@@ -3,7 +3,7 @@ layout: ieeevr-default
 title: "Posters"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/program.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 <h1>Posters</h1>
 <div>
     <table class="styled-table">

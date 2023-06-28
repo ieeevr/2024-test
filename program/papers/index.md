@@ -3,7 +3,7 @@ layout: ieeevr-default
 title: "Papers"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/program.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <h1>Papers -- Tentative Program</h1>
 

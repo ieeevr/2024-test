@@ -3,47 +3,7 @@ layout: ieeevr-default
 title: "Doctoral Consortium"
 ---
 
-<style>
-    .styled-table {
-        border-collapse: collapse;
-        margin: 25px 0;
-        font-size: 0.8em;
-        font-family: sans-serif;
-        /*min-width: 400px;*/
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        display: table;
-    }
-
-    .styled-table thead tr {
-        background-color: #00aeef;
-        color: #ffffff;
-        text-align: left;
-    }
-
-    .styled-table th,
-    .styled-table td {
-        padding: 12px 15px;
-        font-size: 0.9em;
-    }
-
-    .styled-table tbody tr {
-        border-bottom: 1px solid #dddddd;
-    }
-
-    .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
-    }
-
-    .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
-    }
-
-    .styled-table tbody tr.active-row {
-        font-weight: bold;
-        color: #00aeef;
-    }
-
-</style>
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <h1>Doctoral Consortium</h1>
 <div>
@@ -51,8 +11,7 @@ title: "Doctoral Consortium"
         Coming Soon.
     </p> -->
     <p>
-        All times below are Shanghai, China local time (UTC+8).  The event will be held in a hybrid format, with both in-person and online attendees.  All presenters and mentors are encouraged to attend as much of the doctoral consortium as possible.  However, we understand that our different time zones may make attendance difficult at particular times. If a student and/or mentor are not available to meet during the scheduled mentoring sessions, they should set up a time to meet later that is convenient for them both.
-        Each presentation will be an 8 minute talk + 4 minutes for questions.
+       
     </p>
 </div>
 
