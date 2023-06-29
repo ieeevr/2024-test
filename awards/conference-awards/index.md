@@ -116,7 +116,7 @@ follow.
 </table> -->
 
 
-<h2 id='conference-best' style="text-align: center; color: #00aeef;">Best Papers</h2>
+<h2 id='conference-best' class="alignCenter">Best Papers</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Journal' %}
@@ -176,7 +176,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='conference-honorable' style="text-align: center; color: #00aeef;">Paper - Honorable Mentions</h2>
+<h2 id='conference-honorable' class="alignCenter">Paper - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Journal' %}
@@ -236,7 +236,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='conference-nominees' style="text-align: center; color: #00aeef;">Paper - Nominees</h2>
+<h2 id='conference-nominees' >Paper - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Journal' %}
@@ -296,7 +296,7 @@ follow.
 {% endfor %}
 </div>
 
-<!-- <h2 id='conference-best' style="text-align: center; color: #00aeef;">Best Conference Papers</h2>
+<!-- <h2 id='conference-best' class="alignCenter">Best Conference Papers</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Conference' %}
@@ -319,7 +319,7 @@ follow.
 {% endfor %}
 </div> -->
 
-<!-- <h2 id='conference-honorable' style="text-align: center; color: #00aeef;">Conference Papers - Honorable Mentions</h2>
+<!-- <h2 id='conference-honorable' class="alignCenter">Conference Papers - Honorable Mentions</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Conference' %}
@@ -344,7 +344,7 @@ follow.
 {% endfor %}
 </div> -->
 
-<!-- <h2 id='conference-nominees' style="text-align: center; color: #00aeef;">Conference Papers - Nominees</h2>
+<!-- <h2 id='conference-nominees' class="alignCenter">Conference Papers - Nominees</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Conference' %}
@@ -367,7 +367,7 @@ follow.
 {% endfor %}
 </div> -->
 
-<h2 id='best-poster' style="text-align: center; color: #00aeef;">Best Poster</h2>
+<h2 id='best-poster' class="alignCenter">Best Poster</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Poster' %}
@@ -390,7 +390,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='poster-honorable' style="text-align: center; color: #00aeef;">Poster - Honorable Mention</h2>
+<h2 id='poster-honorable' class="alignCenter">Poster - Honorable Mention</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Poster' %}
@@ -413,7 +413,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='demo-best' style="text-align: center; color: #00aeef;">Best Demo</h2>
+<h2 id='demo-best' class="alignCenter">Best Demo</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Demo' %}
@@ -436,7 +436,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='demo-honorable' style="text-align: center; color: #00aeef;">Demo - Honorable Mention</h2>
+<h2 id='demo-honorable' class="alignCenter">Demo - Honorable Mention</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Demo' %}
@@ -459,7 +459,7 @@ follow.
 {% endfor %}
 </div>
 
-<!-- <h2 id='demo-people' style="text-align: center; color: #00aeef;">Demos - People's Choice</h2>
+<!-- <h2 id='demo-people' class="alignCenter">Demos - People's Choice</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'Demo' %}
@@ -481,7 +481,7 @@ follow.
     {% endif %}
 {% endfor %}
 </div> -->
-<h2 id='3dui-best' style="text-align: center; color: #00aeef;">Best 3DUI</h2>
+<h2 id='3dui-best' class="alignCenter">Best 3DUI</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == '3DUI Contest' %}
@@ -503,7 +503,7 @@ follow.
     {% endif %}    
 {% endfor %}
 </div>
-<h2 id='3dui-honorable' style="text-align: center; color: #00aeef;">3DUI - Honorable Mention</h2>
+<h2 id='3dui-honorable' class="alignCenter">3DUI - Honorable Mention</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == '3DUI Contest' %}
@@ -526,7 +526,7 @@ follow.
 {% endfor %}
 </div>
 
-<h2 id='DC-best' style="text-align: center; color: #00aeef;">DC - Honorable Mention</h2>
+<h2 id='DC-best' class="alignCenter">DC - Honorable Mention</h2>
 <div>
     <h4>Supporting Embodied Sensemaking in Immersive Environment</h4>
     <p>
@@ -549,7 +549,7 @@ follow.
     </p>
 </div>
 
-<h2 id='DC-best' style="text-align: center; color: #00aeef;">DC - Best Presentation</h2>
+<h2 id='DC-best' class="alignCenter">DC - Best Presentation</h2>
 <div>
     <h4>Fostering Well-Being with Virtual Reality Applications</h4>
     <p>
@@ -558,7 +558,7 @@ follow.
     </p>
 </div>
 
-<h2 id='Paper-presentation-best' style="text-align: center; color: #00aeef;">Best Paper Presentation</h2>
+<h2 id='Paper-presentation-best' class="alignCenter">Best Paper Presentation</h2>
 <div>
 {% for item in site.data.awards %}
     {% if item.type == 'PresentationJ' %}
@@ -618,7 +618,7 @@ follow.
 {% endfor %}
 </div>
 
-<!--<h2 id='best-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation</h2>
+<!--<h2 id='best-dissertation' class="alignCenter">Best Dissertation</h2>
  <div>
     <h4>A Framework for Enhancing the Sense of Presence in Virtual and Mixed Reality</h4>
     <p>
@@ -627,7 +627,7 @@ follow.
         Advisor: <i>Pattie Maes</i>
     </p>
 </div>
-<h2 id='honorable-dissertation' style="text-align: center; color: #00aeef;">Best Dissertation - Honorable Mention</h2>
+<h2 id='honorable-dissertation' class="alignCenter">Best Dissertation - Honorable Mention</h2>
 <div>
     <h4>Optimal Spatial Registration of SLAM for Augmented Reality</h4>
     <p>
@@ -637,9 +637,9 @@ follow.
     </p>
 </div> -->
 
-<!-- <h2 id='ready-player-21' style="text-align: center; color: #00aeef;">Ready Player 21 - Winner</h2>
+<!-- <h2 id='ready-player-21' class="alignCenter">Ready Player 21 - Winner</h2>
 <div>
-    <h4 style="color: #00aeef;">Xiaodan Hu</h4>
+    <h4>Xiaodan Hu</h4>
     <i>Nara Institute of Science and Technology, Ikoma, Japan</i>
 </div> -->
 

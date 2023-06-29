@@ -127,7 +127,7 @@ title: "Panels"
     <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
-    <h3 style="color: #00aeef;">Description</h3>
+    <h3 >Description</h3>
     <p>
         Humans are social beings, and even in VR we typically do not want to be alone. As VR becomes increasingly utilized for a wide range of applications, virtual humans are expected to play increasingly important roles.  A lot of research has concentrated on making virtual humans look and move photo-realistically. Here we argue that the fundamental question is what makes virtual humans effective, in the sense that people respond to them in a way that is useful for and predicted by the application. For example, if the purpose of the application is to make people laugh, then no matter how photorealistic or how expressive the virtual humans involved might be, if the human participants do not laugh then the application would have failed. So, the question shifts from ‘How realistic can we make these virtual humans’ to ‘How should the virtual humans look and behave in order to make you laugh as a human comedian would’ - which may not require high levels of animation realism and photorealism.
     </p>
@@ -152,7 +152,7 @@ title: "Panels"
     </ul>
     
     
-    <h3 style="color: #00aeef;">Moderator</h3>
+    <h3 >Moderator</h3>
     <p>
         <strong style="color: black">Xueni Pan, Department of Computing, Goldsmiths, University of London, UK [x.pan@gold.ac.uk]</strong>
     </p>
@@ -160,7 +160,7 @@ title: "Panels"
         Xueni Pan is an Assistant Prof. in VR in Virtual Reality at Goldsmiths College, University of London. She worked at UCL in both Computer Science and Institute of Cognitive Neuroscience. Dr Pan has a unique interdisciplinary research profile, with journal and conference publications on both VR technology and social neuroscience. Her work has featured on the BBC, in New Scientist magazine and the Wall Street Journal. Her Coursera VR specialisation has attracted over 80,000 registered learners globally, and she co-leads on the MA/MSc in Virtual and Augmented Reality at Goldsmith’s Computing.
     </p>
     
-    <h3 style="color: #00aeef;">Panelists</h3>
+    <h3 >Panelists</h3>
     <p>
         <strong style="color: black">Doron Friedman, Sammy Ofer School of Communications, Israel [doronf@idc.ac.il]</strong>
     </p>
