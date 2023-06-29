@@ -7,8 +7,6 @@ title_separator: "|"
 
 <div>
 <h1 id="past-conferences"> Past Conferences </h1>
-
-<br>
 <div>
     <p>
         <strong style="color:black">IEEE Virtual Reality 2023 <i>(Shanghai, China)</i></strong>
