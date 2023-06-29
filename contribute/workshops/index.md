@@ -70,7 +70,7 @@ title_separator: "|"
                 strongly encourage submitting the proposal through the following Google form: <a href="https://forms.gle/XQ9rN8rtF2iRyNaJ6">https://forms.gle/XQ9rN8rtF2iRyNaJ6</a>.
             </li>
             <li>
-                However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at workshops2024 [at] ieeevr.org, which should address:
+                However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">workshops2024 [at] ieeevr.org</i>, which should address:
                 <ul>
                     <li>Workshop title (and acronym if applicable)</li>
                     <li>The goal of organising the workshop</li>
@@ -134,7 +134,7 @@ title_separator: "|"
 
     <h2 id="contacts">Contacts</h2>
     <p>
-        For more information and inquiries, please contact the Workshop Chairs at workshops2024 [at] ieeevr.org:
+        For more information and inquiries, please contact the Workshop Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">workshops2024 [at] ieeevr.org</i>:
         <ul>
             <li>Daisuke Iwai (Osaka, Japan)</li>
             <li>Bhuvaneswari Sarupuri (Rennes, France)</li>

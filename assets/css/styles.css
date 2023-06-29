@@ -224,17 +224,25 @@
         margin-right: 30px;
     }
 
-    .emailIcon{
+    .emailIconSm{
         font-size: 0.6em;
         color:#14b2d7;  
     }
 
-    .emailText{
+    .emailTextSm{
         font-size: 0.6em;
         color:#14b2d7; 
         font-weight: bold; 
     }
-    
+    .emailText{
+        font-size: 0.9em;
+        color:#14b2d7; 
+        font-weight: bold; 
+    }
+    .emailIcon{
+        font-size: 0.9em;
+        color:#14b2d7;  
+    }
     .ieeevrmsgbox { /* Any boxes with the theme-primary color as background */
       background-color: #14b2d7;
       border-radius: 7px;
@@ -899,10 +907,11 @@ audio:not([controls]) {
 
 a {
     color: #c90c80;
+    font-weight: bold;
 }
 
-a:hover,a:active {
-    outline: 0
+a:hover {
+    text-decoration: none;    
 }
 
 sub,sup {
@@ -986,28 +995,29 @@ body {
     padding: 0;
     color: #000;
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    line-height: 1.5
+    line-height: 1.5;
 }
 
 body.overflow--hidden {
-    overflow: hidden
+    overflow: hidden;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    margin: 2em 0 0.5em;
     line-height: 1.2;
     font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    font-weight: bold
+    font-weight: bold;
 }
 
 h1 {
     margin-top: 0;
-    font-size: 1.563em;
+    font-size: 1.1em;
+    text-transform: uppercase;
     color: #0c5789;
 }
 
 h2 {
-    font-size: 1.25em
+    font-size: 0.9em;
+    text-transform: uppercase;
 }
 
 h3 {
@@ -1073,15 +1083,6 @@ blockquote cite {
 blockquote cite:before {
     content: "\2014";
     padding-right: 5px
-}
-
-a:visited {
-    color: #851b87;
-}
-
-a:hover {
-    color: #152840;
-    outline: 0
 }
 
 tt,code,kbd,samp,pre {
@@ -3853,7 +3854,7 @@ body {
 }
 
 .page__content a:not(.btn):not(#goog-wm-sb):hover {
-    text-decoration: underline
+    text-decoration: none;
 }
 
 .page__content a:not(.btn):not(#goog-wm-sb):hover img {

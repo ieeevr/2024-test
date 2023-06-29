@@ -53,7 +53,7 @@ title_separator: "|"
 
 <h2 id="contact"> Contact Chairs </h2>
 <p>
-For more information and inquiries, please contact the Panels Chairs at <a href="mailto:panels2024@ieeevr.org">panels2024 [at] ieeevr.org</a>:
+For more information and inquiries, please contact the Panels Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">panels2024 [at] ieeevr.org</i>:
 </p>
 <ul>   
     <li>Jian Chen ‒ The Ohio State University, USA</li>

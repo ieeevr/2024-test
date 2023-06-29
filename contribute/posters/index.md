@@ -58,6 +58,6 @@ It is currently not decided which online platform will be used for the online pa
             <li>Yue Liu, <i>Beijing Institute of Technology, China</i></li>
             <li>Daniel Zielasko, <i>University of Trier, Germany</i></li>
         </ul>
-        posters2024 [at] ieeevr.org
+        <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">posters2024 [at] ieeevr.org</i>
     </p>
 </div>

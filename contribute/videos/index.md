@@ -155,7 +155,7 @@ title_separator: "|"
     
     <h2 id="contact">Contacts</h2>
     <p>
-        For more information or details on video submission, please contact the Video Chairs (videos2024 [at] ieeevr.org):
+        For more information or details on video submission, please contact the Video Chairs (<i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">videos2024 [at] ieeevr.org</i>):
     </p>
 
     <ul>
@@ -163,5 +163,5 @@ title_separator: "|"
         <li>Mauricio Sousa ‒ University of Toronto, Canada</li>
         <li>Jerald Thomas ‒ Virginia Tech, USA</li>
     </ul>
-    videos2024 [at] ieeevr.org
+    <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">videos2024 [at] ieeevr.org</i>
 </div>

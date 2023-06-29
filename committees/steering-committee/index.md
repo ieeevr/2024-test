@@ -5,7 +5,7 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
-<h1> Steering Committee <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">steering [at] ieeevr.org</i></div></h1>
+<h1> Steering Committee <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">steering [at] ieeevr.org</i></div></h1>
     
 <div>						
     <ul>

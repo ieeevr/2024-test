@@ -24,7 +24,7 @@ title_separator: "|"
 
     <h2 id="guideline"> Submission Guidelines</h2>
     <p>
-        Proposals for satellite events should be submitted electronically to  <a href="mailto:general2024@ieeevr.org"> general2024 [at] ieeevr.org </a> and should include:
+        Proposals for satellite events should be submitted electronically to  <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText"> general2024 [at] ieeevr.org </i> and should include:
         <ul>
         <li>A brief description (500 words or less) of the satellite event (location, time, the maximum number of attendances, etc.)</li>
         <li>The names, contact information, and short (100 words or less) biographies for the organizers.</li>
@@ -34,7 +34,7 @@ title_separator: "|"
 
     <h2 id="contacts"> Contacts </h2>
     <p>
-        For more information, please contact <a href="mailto:general2024@ieeevr.org"> general2024 [at] ieeevr.org </a>
+        For more information, please contact <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">general2024 [at] ieeevr.org </i>
     </p>
    
 

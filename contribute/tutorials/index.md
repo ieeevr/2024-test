@@ -77,7 +77,7 @@ title_separator: "|"
     </ul>
     
     <p>
-    Tutorial submissions must be submitted via email to the Tutorials Chairs at tutorials2024 [at] ieeevr.org.
+    Tutorial submissions must be submitted via email to the Tutorials Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">tutorials2024 [at] ieeevr.org</i>.
     </p>
     <p>
     For each 90 minute accepted tutorial, we will be able to provide a free one-day registration for the day of the tutorial, and two one-day registrations for the day of the tutorial for each half-day accepted tutorial.
@@ -92,7 +92,7 @@ title_separator: "|"
             <li>Bin Zhou, <i>Beihang University, China</i></li>
             <li>Rongkai Guo, <i>Nvidia, China</i></li>
         </ul>
-        tutorials2024 [at] ieeevr.org
+        <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">tutorials2024 [at] ieeevr.org</i>
     </p>
 
 </div>

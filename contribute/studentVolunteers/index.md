@@ -61,7 +61,7 @@ title_separator: "|"
         <li>Xuanhui Yang  - Shanghai Jiao Tong University, China</li>
     </ul>
     <p>
-        The SV chairs can be reached via email at studentvolunteers2024 [at] ieeevr.org.
+        The SV chairs can be reached via email at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">studentvolunteers2024 [at] ieeevr.org</i>.
     </p>
    
 

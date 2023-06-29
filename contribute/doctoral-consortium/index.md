@@ -55,7 +55,7 @@ title_separator: "|"
     </p>
     <h2 id="contact">Questions?</h2>
     <p>
-        For more information, please contact the DC Program Chairs at doctoralconsortium2024 [at] ieeevr.org:
+        For more information, please contact the DC Program Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">doctoralconsortium2024 [at] ieeevr.org</i>:
         <ul>
             <li>Jens Grubert - <i>Coburg University of Applied Sciences and Arts, Germany</i></li>
             <li>Hai-Ning Liang - <i>Xi'an Jiaotong-Liverpool University, China</i></li>

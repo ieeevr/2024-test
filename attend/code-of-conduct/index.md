@@ -17,11 +17,13 @@ title_separator: "|"
         If you wish to report a breach of the code of conduct this can be done via email to:
         <ul>
             <li> 
-                The General Co-Chairs: <i class="fas fa-fw fa-envelope-square"></i>general [at] ieeevr.org</li>
+                The General Co-Chairs: <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">general [at] ieeevr.org</i>
+            </li>
             <li> 
-                The Steering Committee: <i class="fas fa-fw fa-envelope-square"></i>steering [at] ieeevr.org</li>
+                The Steering Committee: <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">steering [at] ieeevr.org</i>
+            </li>
             <li> 
-                The Chair, Ed Swan: <i class="fas fa-fw fa-envelope-square"></i>swan [at] acm.org 
+                The Chair, Ed Swan: <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">swan [at] acm.org</i>
             </li>
         </ul>
         All reports will only be sent to the authorized people and will be treated confidentially.
@@ -63,6 +65,6 @@ title_separator: "|"
 
     <p>
         IEEE seeks to provide a secure environment at its events. Participants should report any behavior inconsistent with the principles outlined here, to 
-        on site staff, security or venue personnel, or to <span style="white-space: nowrap"><i class="fas fa-fw fa-envelope-square"></i>eventconduct [at] ieee.org</span>  
+        on site staff, security or venue personnel, or to <span style="white-space: nowrap"><i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">eventconduct [at] ieee.org</i></span>  
     </p>
 </div>

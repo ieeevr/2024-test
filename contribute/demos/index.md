@@ -91,6 +91,6 @@ title_separator: "|"
             <li>Yigang Wang - Hangzhou Dianzi University, China</li>
             <li>Yi Xu - OPPO, USA</li>
         </ul>
-        researchdemos2024 [at] ieeevr.org
+        <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">researchdemos2024 [at] ieeevr.org</i>
     </p>
 </div>

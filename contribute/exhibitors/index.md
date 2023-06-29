@@ -55,7 +55,7 @@ title_separator: "|"
 
     <h2 id="contacts">Contacts</h2>
 
-    <p>For more information, please contact the Exhibits and Sponsors chairs at <a href="mailto:sponsor2024@ieeevr.org">sponsor2024 [at] ieeevr.org</a></p>
+    <p>For more information, please contact the Exhibits and Sponsors chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">sponsor2024 [at] ieeevr.org</i></p>
 
     
 </div>
