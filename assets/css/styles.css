@@ -167,6 +167,10 @@
         float: right;
     }
 
+    .alignCenter{
+        text-align: center;
+    }
+
     .left {
         width: 75%;
     }
@@ -1103,9 +1107,9 @@ p>code:before,p>code:after,a>code:before,a>code:after,li>code:before,li>code:aft
 
 hr {
     display: block;
-    margin: 1em 0;
+    margin: 15px 0px;
     border: 0;
-    border-top: 1px solid #bfbfbf
+    border-top: 1px dotted #0c5789;
 }
 
 ul li,ol li {
@@ -5173,13 +5177,6 @@ body {
         vertical-align: middle
     }
 
-    hr {
-        border: 0;
-        border-bottom: 2px solid #bbb;
-        height: 0;
-        margin: 2.25rem 0;
-        padding: 0
-    }
 
     dt {
         font-weight: bold

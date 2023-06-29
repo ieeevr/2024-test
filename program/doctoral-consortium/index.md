@@ -25,13 +25,13 @@ title: "Doctoral Consortium"
             <th></th>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">08:45 - 09:00 am</span></td>
+            <td>08:45 - 09:00 am</td>
             <td>
                 Welcome
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">09:00 - 10:00 am</span></td>
+            <td>09:00 - 10:00 am</td>
             <td>
                 <strong>Presentations 1 - 5 (8 min talk + 4 min questions)</strong><br/>
                 Shane Burrell Jr – Dr. Victoria Interrante<br/>
@@ -42,19 +42,19 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">10:00 - 10:30 am</span></td>
+            <td >10:00 - 10:30 am</td>
             <td>
                 Breakout with mentors
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">10:30 - 11:00 am</span></td>
+            <td >10:30 - 11:00 am<</td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">11:00 - 12:00 am</span></td>
+            <td >11:00 - 12:00 am</td>
             <td>
                 <strong>Presentations 6-10 (8 min talk + 4 min questions)</strong><br/>
                 Klara Brandstätter – Dr. Andrew Robb<br/>
@@ -65,19 +65,19 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">12:00 - 12:30 pm</span></td>
+            <td>12:00 - 12:30 pm</td>
             <td>
                 Breakout with mentors
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">12:30 - 14:00 pm</span></td>
+            <td>12:30 - 14:00 pm</td>
             <td>
                 Lunch
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">14:00 - 15:00 pm</span></td>
+            <td>14:00 - 15:00 pm</td>
             <td>
                 <strong>Presentations 11-15 (8 min talk + 4 min questions)</strong><br/>
                 Amira Mahmoud Shaban Ahmed – Dr. Richard Skarbez<br/>
@@ -88,19 +88,19 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">15:00 - 15:30 pm</span></td>
+            <td >15:00 - 15:30 pm</td>
             <td>
                 Breakout with mentors
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">15:30 - 16:00 pm</span></td>
+            <td>15:30 - 16:00 pm</td>
             <td>
                 Break
             </td>
         </tr>
         <tr>
-            <td><span style="color: #00aeef;">16:00 - 17:00 pm</span></td>
+            <td>16:00 - 17:00 pm</td>
             <td>
                 <strong>Presentations 16-19 (8 min talk + 4 min questions)</strong><br/>
                 Zhuang Chang – Dr. Anthony Steed<br/>
@@ -111,7 +111,7 @@ title: "Doctoral Consortium"
             </td>
         </tr>
         <tr>
-            <td ><span style="color: #00aeef;">17:00 - 17:30 pm</span></td>
+            <td >17:00 - 17:30 pm</td>
             <td>
                 Breakout with mentors
             </td>
@@ -134,7 +134,7 @@ title: "Doctoral Consortium"
         </tr>
         {% for student in site.data.dc %}
         <tr>
-            <td style="font-size: 0.8em;"><span style="color: #00aeef;">{{ student.author }}</span></td>
+            <td style="font-size: 0.8em;">{{ student.author }}</td>
             <td>{{ student.title }}</td>
             <td>{{ student.affiliation }}</td>
         </tr>
