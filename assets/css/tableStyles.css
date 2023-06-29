@@ -6,6 +6,8 @@
     /*min-width: 400px;*/
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     display: table;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
 }
 
 .styled-table thead tr {
@@ -19,8 +21,15 @@
     padding: 12px 15px;
 }
 
+.styled-table th {
+    background: linear-gradient(45deg, #c90f7f, #0c5789, #14b2d7);
+    color: #fff;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
 .styled-table tbody tr {
-    border-bottom: 1px solid #dddddd;
+    /*border-bottom: 1px solid #dddddd;*/
 }
 
 .styled-table tbody tr:nth-of-type(even) {
