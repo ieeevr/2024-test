@@ -923,12 +923,12 @@ img {
     -ms-interpolation-mode: bicubic
 }
 
-.bold{    
-    font-weight: bold;
-}
-
 #map_canvas img,.google-maps img {
     max-width: none
+}
+
+.bold{    
+    font-weight: bold;
 }
 
 button,input,select,textarea {
