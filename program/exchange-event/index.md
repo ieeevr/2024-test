@@ -12,7 +12,7 @@ title_separator: "|"
     <p>
         <strong style="color: black">IEEE VR 2024: the 331<sup>st</sup>0th IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
+        March 16-21, 2024 | Orlando, Florida USA
     </p>
     <br />
 
