@@ -45,10 +45,10 @@ title_separator: "|"
     </ul>
 
     <h2 id="submission-guidelines">Submission Guidelines</h2>
-    <p>
-        Paper abstracts and complete papers must be submitted electronically through PCS: <br />
-        <a href="https://new.precisionconference.com/~vr" target="_blank">https://new.precisionconference.com/~vr</a>
-    </p>
+    <div class="notice--info alignCenter bold" style="font-size: 1em !important;">
+        Submissions will be accepted through Precision Conference Solutions this year.<br />
+        More details will be available in the coming months.
+    </div>
     <p style="text-align: left ! important;">
         Each research paper should provide a contribution covering one or more of the following categories: methodological, technical, applications, and systems.
         <ul>
@@ -71,10 +71,6 @@ title_separator: "|"
     </p>
     <p>
         We welcome paper submissions between 4 and 9 pages, not including references. Authors are encouraged to submit videos to aid the program committee in reviewing their submissions.
-    </p>
-    <p>
-        Both abstracts and complete papers must be submitted electronically through PCS:<br />
-        <a href="https://new.precisionconference.com/~vr" target="_blank">https://new.precisionconference.com/~vr</a>
     </p>
     <p>
         All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/" target="_blank">https://tc.computer.org/vgtc/publications/journal/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
