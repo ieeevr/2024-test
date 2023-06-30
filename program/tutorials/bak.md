@@ -8,7 +8,7 @@
     {% for event in site.data.events %}
     {% if event.id == 'T1' %}
     {% if event.location %}
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+    <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
@@ -101,7 +101,7 @@
     {% for event in site.data.events %}
     {% if event.id == 'T2' %}
     {% if event.location %}
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+    <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
@@ -174,7 +174,7 @@
     {% for event in site.data.events %}
     {% if event.id == 'T3' %}
     {% if event.location %}
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+    <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)

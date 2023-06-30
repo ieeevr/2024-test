@@ -45,8 +45,8 @@ title_separator: "|"
             <li>Position paper: Paper submissions should be 2 pages in length including references. This position paper must clearly motivate, discuss, and summarize the proposed Ph.D. research, describe how the research fits into and advances research in VR and/or related fields, and report on your progress. You may additionally focus on a more specific area of the research if desired. In the concluding section, you should identify 2-3 questions/areas for improvement that you would like to discuss during the DC.</li>
             <li>A one page Curriculum Vitae.</li>
         </ol>
-        <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-            <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Submissions received after the deadline will not be considered.</b>
+        <div class="notice--info">
+            <b class="notice--text">Submissions received after the deadline will not be considered.</b>
         </div>
     </p>
     <h2 id="financing">Financing Your Conference Travel</h2>

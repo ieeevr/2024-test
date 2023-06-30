@@ -21,8 +21,8 @@ title_separator: "|"
     </p>
     <ol>
         <li>Accept as IEEE TVCG paper, with presentation at IEEE VR 2024</li>
-        <li>Major revision to IEEE TVCG</li>
         <li>Accept as IEEE VR 2024 conference paper</li>
+        <li>Major revision to IEEE TVCG</li>
         <li>Accept as IEEE VR 2024 poster</li>
         <li>Reject</li>
     </ol>
@@ -47,10 +47,10 @@ title_separator: "|"
     <h2 id="submission-guidelines">Submission Guidelines</h2>
     <p>
         Paper abstracts and complete papers must be submitted electronically through PCS: <br />
-        <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
+        <a href="https://new.precisionconference.com/~vr" target="_blank">https://new.precisionconference.com/~vr</a>
     </p>
     <p style="text-align: left ! important;">
-        Each research paper should provide a contribution covering one or more of the following categories: methodological, technical, applications, and systems
+        Each research paper should provide a contribution covering one or more of the following categories: methodological, technical, applications, and systems.
         <ul>
             <li>
                 <b>Methodological papers</b> should describe advances in theories and methods of AR/VR/MR and 3DUI, such as ethical issues, theories on presence, or human factors.
@@ -62,7 +62,7 @@ title_separator: "|"
                 <b>Application papers</b> provide an important insight to the community by explaining how the authors built upon existing ideas and applied them to solve an interesting problem in a novel way. Each paper should include an evaluation of the success of the use of AR/VR/MR and/or 3DUI in the given application domain.
             </li>
             <li>
-                <b>System papers</b> should indicate how the developer's integrated techniques and technologies to produce an effective system, and convey any lessons learned in the process.
+                <b>System papers</b> should indicate how the developers integrated techniques and technologies to produce an effective system, and convey any lessons learned in the process.
             </li>
         </ul>
     </p>
@@ -74,18 +74,18 @@ title_separator: "|"
     </p>
     <p>
         Both abstracts and complete papers must be submitted electronically through PCS:<br />
-        <a href="https://new.precisionconference.com/~vr">https://new.precisionconference.com/~vr</a>
+        <a href="https://new.precisionconference.com/~vr" target="_blank">https://new.precisionconference.com/~vr</a>
     </p>
     <p>
-        All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at h<a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
+        All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/" target="_blank">https://tc.computer.org/vgtc/publications/journal/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
     </p>
 
     <h2 id="review-process">Review process</h2>
     <p>
-        The review process will have two cycles.
+        The review process will have two cycles. The details of the Cycles to be announced.
         <ul>
             <li><b style="color:black;"><i>Review Cycle I  (Submission to Initial notification)</i></b></li>
-            <li><b style="color:black;"><i>•	Review Cycle II  (Initial notification to Final decision)</i></b></li>
+            <li><b style="color:black;"><i>Review Cycle II  (Initial notification to Final decision)</i></b></li>
         </ul>
     </p>
 
@@ -147,10 +147,13 @@ title_separator: "|"
         </ul>
     </p>
     <p>
-        Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the <a href="http://www.ieee.org/documents/opsmanual.pdf">IEEE Publication Services and Products Board Operations Manual</a>.
+        Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html" target="_blank">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the <a href="https://www.ieee.org/documents/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>.
     </p>
     <p>
-        <div class="notice--info">
+        IEEE VR uses a DOUBLE-BLIND review process. This means that both the authors and the reviewers must remain anonymous to each other. Submissions (including citations and optional videos) must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
+    </p>
+    <p>
+        <div class="notice--info alignCenter">
             <b>Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
         </div>
     </p>
@@ -161,14 +164,15 @@ title_separator: "|"
         <b>Videos.</b> Videos must be submitted according to the instructions on the submission website. Videos submitted with papers will automatically be considered for possible inclusion in the video proceedings (video submissions may also be made independently, as described in the separate Call for Videos). When submitted as supporting material, videos must be free of any identifying information prior to reviewing as per the double-blind submission policy. If accepted for the video proceedings, a revised version of the materials will be requested.
     </p>
 
-    <h2 id="contacts">Contacts</h2>
+    <h2 id="contacts">Contacts <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">program [at] ieeevr.org</i></div></h2>						
     <p>
         Technical Papers Chairs:
-        <ul>        
-            <li>Yuta Itoh, <i>University of Tokyo, Japan</i></li>
-            <li>Tabitha Peck, <i>Davidson College, USA</i></li>		
-            <li>Voicu Popescu, <i>Purdue University, USA</i></li>
-            <li>Stefanie Zollmann, <i>University of Otago, NZ</i></li>
+        						
+        <ul>
+            <li><span class="bold">Yuta Itoh</span> &#x2012; <i>The University of Tokyo, Japan</i></li>								
+            <li><span class="bold">Tabitha Peck</span> &#x2012; <i>Davidson College, USA</i></li>	
+            <li><span class="bold">Voicu Popescu</span> &#x2012; <i>Purdue University, USA</i></li>	
+            <li><span class="bold">Stephanie Zollman</span> &#x2012; <i>The University of Otago, New Zealand</i></li>	
         </ul>
     </p>
 </div>

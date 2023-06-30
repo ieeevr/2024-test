@@ -17,9 +17,9 @@ title_separator: "|"
 </div>
 <div>
 	<h2>Program Chairs <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">program [at] ieeevr.org</i></div></h2>						
-	<ul>							
+	<ul>		
+		<li><span class="bold">Yuta Itoh</span> &#x2012; <i>The University of Tokyo, Japan</i></li>						
 		<li><span class="bold">Tabitha Peck</span> &#x2012; <i>Davidson College, USA</i></li>	
-		<li><span class="bold">Yuta Itoh</span> &#x2012; <i>The University of Tokyo, Japan</i></li>	
 		<li><span class="bold">Voicu Popescu</span> &#x2012; <i>Purdue University, USA</i></li>	
 		<li><span class="bold">Stephanie Zollman</span> &#x2012; <i>The University of Otago, New Zealand</i></li>	
 	</ul>				
