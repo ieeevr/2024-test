@@ -45,7 +45,7 @@ title_separator: "|"
     </ul>
 
     <h2 id="submission-guidelines">Submission Guidelines</h2>
-    <div class="notice--info alignCenter bold" style="font-size: 1em !important;">
+    <div class="notice--info alignCenter bold" style="font-size: 0.9em !important;">
         Submissions will be accepted through Precision Conference Solutions this year.<br />
         More details will be available in the coming months.
     </div>
