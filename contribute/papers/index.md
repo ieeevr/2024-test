@@ -194,12 +194,12 @@ title_separator: "|"
     </p>
     <p>
         <b>Submission Anonymity.</b><br/>
-        <span class="bold">*IEEE VR uses a DOUBLE-BLIND review process*</span><br/>
+        <span class="bold">* IEEE VR uses a DOUBLE-BLIND review process *</span><br/>
         This means that both the authors and the reviewers must remain anonymous to each other. Submissions (including citations and optional videos) must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
     </p>
     <p>
         <div class="notice--info alignCenter">
-            <h3>*Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.*</h3>
+            <h3>* Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection. *</h3>
         </div>
     </p>    
     <p>
