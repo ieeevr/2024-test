@@ -254,11 +254,6 @@
         color: #363636;
     }
 
-    .notice--info {
-        background-color: #f3f3f3 ! important;
-        color: #363636 ! important;
-    }
-
     .notice--text {
         background-color: #f3f3f3 ! important;
         color: #363636 ! important;
@@ -1887,22 +1882,26 @@ tr,td,th {
     margin: 2em 0 !important;
     padding: 1em;
     color: #3d4144;
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    font-size: .75em !important;
+    font-size: .8em !important;
     text-indent: initial;
     background-color: #ebf5f8;
     border-radius: 4px;
     box-shadow: 0 1px 1px rgba(59,156,186,0.25)
 }
 
+.notice--info h3 {
+    font-size: 1.125em !important;
+    font-weight: bold;
+}
+
 .notice--info h4 {
     margin-top: 0 !important;
-    margin-bottom: 0.75em
+    margin-bottom: 0.8em
 }
 
 .page__content .notice--info h4 {
     margin-bottom: 0;
-    font-size: 1em
+    font-size: 1em;
 }
 
 .notice--info p:last-child {

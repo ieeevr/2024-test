@@ -17,7 +17,7 @@ title_separator: "|"
 
     <h2 id="overview">Overview</h2>
     <p>
-        IEEE VR 2024 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs). This year there will be a single submission deadline for a unified review process for both the IEEE TVCG and the conference only papers. The possible outcomes of this unified process are:
+        IEEE VR 2024 seeks original, high-quality papers in all areas related to virtual reality (VR), including augmented reality (AR), mixed reality (MR), and 3D user interfaces (3DUIs). This year there is again a SINGLE submission deadline for a unified review process for both the IEEE TVCG and the conference only papers. The possible outcomes of this unified process are:
     </p>
     <ol>
         <li>Accept as IEEE TVCG paper, with presentation at IEEE VR 2024</li>
@@ -49,6 +49,7 @@ title_separator: "|"
         Submissions will be accepted through Precision Conference Solutions this year.<br />
         More details will be available in the coming months.
     </div>
+    <p><span class="bold">IMPORTANT:</span> IEEE VR 2024 uses a DOUBLE-BLIND review process. Failure to anonymize submissions will result in desk rejection.</p>
     <p style="text-align: left ! important;">
         Each research paper should provide a contribution covering one or more of the following categories: methodological, technical, applications, and systems.
         <ul>
@@ -73,16 +74,7 @@ title_separator: "|"
         We welcome paper submissions between 4 and 9 pages, not including references. Authors are encouraged to submit videos to aid the program committee in reviewing their submissions.
     </p>
     <p>
-        All paper submissions must be formatted using the IEEE Computer Society TVCG journal format described at <a href="https://tc.computer.org/vgtc/publications/journal/" target="_blank">https://tc.computer.org/vgtc/publications/journal/</a>. Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
-    </p>
-
-    <h2 id="review-process">Review process</h2>
-    <p>
-        The review process will have two cycles. The details of the Cycles to be announced.
-        <ul>
-            <li><b style="color:black;"><i>Review Cycle I  (Submission to Initial notification)</i></b></li>
-            <li><b style="color:black;"><i>Review Cycle II  (Initial notification to Final decision)</i></b></li>
-        </ul>
+        All paper submissions must be formatted using the IEEE Computer Society TVCG journal format (<a href="https://tc.computer.org/vgtc/publications/journal/" target="_blank">https://tc.computer.org/vgtc/publications/journal/</a>). Accepted papers and posters will have to be formatted by the authors according to the relevant camera-ready guidelines.
     </p>
 
     <h2 id="topics"> Topics </h2>
@@ -128,11 +120,62 @@ title_separator: "|"
         </ul>
     </p>
 
-    <h2 id="aditional-submission-guidelines"> Additional Submission Guidelines </h2>
+    <h2 id="review-process">Review process</h2>
     <p>
-        All paper submissions must be in English. 
+        The review process will have two cycles.
     </p>
     <p>
+        <span class="bold"><i>Review Cycle I  (Submission to Initial notification)</i></span>
+    </p>
+    <p>
+        Submissions will be assigned to two members of the VR 2024 International Program Committee (IPC): a coordinator (primary) and a secondary reviewer. Submissions that violate the submission guidelines or that receive low review scores from the coordinator and the secondary reviewer will be rejected. The other submissions will receive a total of at least three reviews. Based on the reviews and in consultation with a subset of the IPC, the Program Chairs will make one of the following initial recommendations for each submission:
+    
+        <ul>
+            <li>
+                <b>Conditionally accept as IEEE TVCG paper.</b> Continuing our cooperation with the IEEE Transactions on Visualization and Computer Graphics (TVCG), these submissions with substantial contribution will be considered for publication in a special issue of IEEE TVCG.
+            </li>
+            <li>
+                <b>Conditionally accept as conference paper.</b> These submissions will be considered for inclusion in the Proceedings of IEEE VR, archived in the IEEE Xplore Digital Library.                        
+            </li>
+            <li>
+                <b>Recommend for major revision to IEEE TVCG.</b> This recommendation is reserved for submissions that make a substantial contribution but that require revisions beyond what can be achieved within the conference reviewing process. These submissions will be given the option of major revision to IEEE TVCG. Reviewer continuity will be attempted but not guaranteed. Note that as per IEEE TVCG rules a single major revision is possible.
+            </li>
+            <li>
+                <b>Recommend as a two-page poster.</b> Authors of a submission receiving this recommendation have the option of condensing their submission into a two-page poster, including references. Subject to a final approval by the Posters chairs, accepted posters will be included in the IEEE VR Abstracts and Workshops proceedings and will be archived in the IEEE Digital Library. Note that IEEE VR does not consider posters as a final disclosure of research results. Thus, work accepted as an IEEE VR poster might be eligible for inclusion in future publications.
+            </li>
+            <li><b>Reject.</b></li>
+        </ul>
+    </p>
+    <p>
+        <span class="bold"><i>Review Cycle II  (Initial notification to Final decision)</i></span> 
+    </p>
+    <p>
+        Each conditionally accepted paper will be reviewed by its coordinator, who will make a final recommendation regarding acceptance. Should the conditions for acceptance not be met, the paper will be rejected.
+    </p>
+
+    <h2 id="aditional-submission-guidelines"> Additional Guidelines </h2>
+    <p>
+        <b>Abstract Submission.</b><br/>
+        Note that a paper abstract must be uploaded seven days prior to the actual paper submission deadline. This facilitates the process of assigning reviewers, as the review process operates on a very tight schedule.
+    </p>
+    <p>
+        <b>Ethics and Responsibility.</b><br/>
+        All submissions describing research experiments with human participants must follow the appropriate ethical guidelines required by the authors’ institution, and authors are required to secure and report their approval by the relevant ethics committee. An approval by any ethical review board, if required by your institution, needs to be indicated via the submission system. 
+    </p>
+    <p>
+        <b>Review Duties for Authors.</b><br/>
+        The increasing number of submissions for IEEE VR makes us all dependent on a large number of good reviewers who are willing to provide constructive feedback and engage with authors on their work. To expand the reviewing pool and to promote quality reviews, one author will be required to register to review up to three papers through PCS at the time of submission. Additionally, senior authors are encouraged to ask experienced junior authors to register in PCS to review papers, and then to mentor the junior authors during the review process. 
+    </p>
+    <p>
+        <b>Presentation at the Conference.</b><br/>
+        All accepted submissions must be presented orally at the conference. An in-person presentation is expected, and online presentations will be accommodated only in exceptional cases. 
+    </p>
+    <p>
+        <b>Submission Language.</b><br/>
+        All paper submissions must be in English.
+    </p>
+    <p>
+        <b>Previous Publication and Plagiarism.</b><br/>
         Submitted manuscripts must not have been previously published. A manuscript is considered to have been previously published if it has appeared in a peer-reviewed journal, magazine, book, or meeting proceedings that is reliably and permanently available afterward in print or electronic form to non-attendees, regardless of the language of that publication. A manuscript identical or substantially similar in content (in its entirety or in part) to one submitted to VR should not be simultaneously under consideration for another conference or journal during any part of the VR review process, from the submission deadline until notifications of decisions are emailed to authors.
     </p>
     <p>
@@ -143,32 +186,42 @@ title_separator: "|"
         </ul>
     </p>
     <p>
-        Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html" target="_blank">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the <a href="https://www.ieee.org/documents/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>.
+        Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html" target="_blank">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the <a href="http://www.ieee.org/documents/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>.
     </p>
     <p>
-        <span class="bold">IEEE VR uses a DOUBLE-BLIND review process.</span> This means that both the authors and the reviewers must remain anonymous to each other. Submissions <span class="bold">(including citations and optional videos)</span> must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
+        <b>AI-generated Text.</b><br/>
+        Large-scale language models (LLMs) such as ChatGPT can only be used by the authors to edit grammar of their own text.
+    </p>
+    <p>
+        <b>Submission Anonymity.</b><br/>
+        <span class="bold">*IEEE VR uses a DOUBLE-BLIND review process*</span><br/>
+        This means that both the authors and the reviewers must remain anonymous to each other. Submissions (including citations and optional videos) must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
     </p>
     <p>
         <div class="notice--info alignCenter">
-            <b>Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.</b>
+            <h3>*Failure to make reasonable attempts to adhere to the double-blind policy will result in desk rejection.*</h3>
         </div>
-    </p>
+    </p>    
     <p>
-        <b>Pre-dissemination through public online repositories.</b> Uploading the submitted manuscript to an online repository (e.g., arXiv) before the end of the review process does not constitute a reason for rejecting the manuscript. However, the authors should be advised that doing so can compromise the anonymity of their manuscript and therefore bias its double-blind review.      
+       <b>Pre-dissemination through public online repositories.</b><br/>
+       Uploading the submitted manuscript to an online repository (e.g., arXiv) before the end of the review process does not constitute a reason for rejecting the manuscript. However, the authors should be advised that doing so can compromise the anonymity of their manuscript and therefore bias its double-blind review.
     </p>
-    <p>   
-        <b>Videos.</b> Videos must be submitted according to the instructions on the submission website. Videos submitted with papers will automatically be considered for possible inclusion in the video proceedings (video submissions may also be made independently, as described in the separate Call for Videos). When submitted as supporting material, videos must be free of any identifying information prior to reviewing as per the double-blind submission policy. If accepted for the video proceedings, a revised version of the materials will be requested.
+    
+    <p>
+        <b>Videos.</b><br/>
+        Videos must be submitted according to the instructions on the submission website. Videos submitted with papers will automatically be considered for possible inclusion in the video proceedings (video submissions may also be made independently, as described in the separate Call for Videos). When submitted as supporting material, videos must be free of any identifying information prior to reviewing as per the double-blind submission policy. If accepted for the video proceedings, a revised version of the materials will be requested.
     </p>
+   
 
     <h2 id="contacts">Contacts <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">program [at] ieeevr.org</i></div></h2>						
     <p>
         <b>Technical Papers Chairs:</b>
         						
         <ul>
-            <li><span class="bold">Yuta Itoh</span> &#x2012; <i>The University of Tokyo, Japan</i></li>								
-            <li><span class="bold">Tabitha Peck</span> &#x2012; <i>Davidson College, USA</i></li>	
-            <li><span class="bold">Voicu Popescu</span> &#x2012; <i>Purdue University, USA</i></li>	
-            <li><span class="bold">Stephanie Zollman</span> &#x2012; <i>The University of Otago, New Zealand</i></li>	
+            <li><span class="bold">Yuta Itoh</span>, <i>The University of Tokyo, Japan</i></li>								
+            <li><span class="bold">Tabitha Peck</span>, <i>Davidson College, USA</i></li>	
+            <li><span class="bold">Voicu Popescu</span>, <i>Purdue University, USA</i></li>	
+            <li><span class="bold">Stephanie Zollman</span>, <i>The University of Otago, New Zealand</i></li>	
         </ul>
     </p>
 </div>
