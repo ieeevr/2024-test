@@ -38,7 +38,7 @@ title_separator: "|"
     <ul>
         <li><b>September 27 Wednesday, 2023</b>:   Abstracts due <b>(REQUIRED)</b></li>
         <li><b>October 4 Wednesday, 2023</b>:   Submissions due</li>
-        <li><b>December 15 Friday, 2023:</b>:   Initial notifications</li>
+        <li><b>December 15 Friday, 2023</b>:   Initial notifications</li>
         <li><b>January 17 Wednesday, 2024</b>:   Revised submissions due</li> 
         <li><b>January 24 Wednesday, 2024</b>:    Final notifications</li>
         <li><b>January 31 Wednesday, 2024</b>:    Camera-ready materials due</li>
@@ -146,7 +146,7 @@ title_separator: "|"
         Submissions will be checked for plagiarism using IEEE Crosscheck. Detection of significant plagiarism will lead to rejection. For more information about definitions of plagiarism and IEEE policies in this area, please see the <a href="https://www.ieee.org/publications/rights/plagiarism/plagiarism.html" target="_blank">Introduction to the Guidelines for Handling Plagiarism Complaints</a> and the <a href="https://www.ieee.org/documents/opsmanual.pdf" target="_blank">IEEE Publication Services and Products Board Operations Manual</a>.
     </p>
     <p>
-        IEEE VR uses a DOUBLE-BLIND review process. This means that both the authors and the reviewers must remain anonymous to each other. Submissions (including citations and optional videos) must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
+        <span class="bold">IEEE VR uses a DOUBLE-BLIND review process.</span> This means that both the authors and the reviewers must remain anonymous to each other. Submissions <span class="bold">(including citations and optional videos)</span> must not contain information that identifies the authors, their institutions, funding sources, or their places of work. Relevant previous work by the authors must be cited in the third person to preserve anonymity (exceptions were described above). Authors should work diligently to ensure that their submissions do not expose their identities either intentionally or through carelessness. Authors that have questions/issues around the double-blind submission policy should contact the program chairs.
     </p>
     <p>
         <div class="notice--info alignCenter">
@@ -162,7 +162,7 @@ title_separator: "|"
 
     <h2 id="contacts">Contacts <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">program [at] ieeevr.org</i></div></h2>						
     <p>
-        Technical Papers Chairs:
+        <b>Technical Papers Chairs:</b>
         						
         <ul>
             <li><span class="bold">Yuta Itoh</span> &#x2012; <i>The University of Tokyo, Japan</i></li>								
