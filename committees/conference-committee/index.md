@@ -25,34 +25,33 @@ title_separator: "|"
 	</ul>				
 </div>
 <div>
-	<h2>Web Chairs <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">web2024 [at] ieeevr.org</i></div></h2>						
-	<ul>	
-		<li><span class="bold">Susan Bethel</span> &#x2012; <i>University of Central Florida, USA</i></li>			
-		<li><span class="bold">Erica Rectenwald</span> &#x2012; <i>University of Central Florida, USA</i></li>				
-		<li><span class="bold">Carole McDaniel</span> &#x2012; <i>University of Central Florida, USA</i></li>
-	</ul>				
-</div>																
-<div>
 	<h2>Doctoral Consortium Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">doctoralconsortium2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>	
-		<li><span class="bold">Frank Guan Yunqing</span> &#x2012; <i>Singapore Institute of Technology, Singapore</i></li>			
+		<li><span class="bold">Frank Guan</span> &#x2012; <i>Singapore Institute of Technology, Singapore</i></li>			
 		<li><span class="bold">Jan springer</span> &#x2012; <i>University of Arkansas, USA</i></li>			
 	</ul>				
-</div>	
+</div>																
 <div>	
-	<h2>Posters Chair <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">posters2024 [at] ieeevr.org</i></div>-->	</h2>			
-	<ul>		
+	<h2>Posters Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">posters2024 [at] ieeevr.org</i></div>-->	</h2>			
+	<ul>	
 		<li><span class="bold">Ramiro Serrano Vergel</span> &#x2012; <i>University of Michigan, USA</i></li>
 	</ul>				
 </div>	
 <div>	
-	<h2>Research Demonstrations Chair <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">researchdemos2024 [at] ieeevr.org</i></div>-->	</h2>			
+	<h2>Publications Chairs  <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">publications2024 [at] ieeevr.org</i></div>-->	</h2>			
+	<ul>		
+		<li><span class="bold">Daniel Zielasko</span> &#x2012; <i>University of Trier, Germany</i></li>
+	</ul>				
+</div>	
+<div>	
+	<h2>Research Demonstrations Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">researchdemos2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>		
 		<li><span class="bold">Juan Sebastian Munoz</span> &#x2012; <i>Unity, Canada</i></li>
+		<li><span class="bold">Wole Oyekoya</span> &#x2012; <i>Hunter College (CUNY), USA</i></li>
 	</ul>				
 </div>		
 <div>	
-	<h2>Student Volunteers Chair <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">studentvolunteers2024 [at] ieeevr.org</i></div>-->	</h2>			
+	<h2>Student Volunteers Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">studentvolunteers2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>		
 		<li><span class="bold">Matthew Gottsacker</span> &#x2012; <i>University of Central Florida, USA</i></li>
 	</ul>				
@@ -64,6 +63,14 @@ title_separator: "|"
 		<li><span class="bold">Kapil Chalil Madathil</span> &#x2012; <i>Clemson University, USA</i></li>
 	</ul>				
 </div>			
+<div>
+	<h2>Web Chairs <div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">web2024 [at] ieeevr.org</i></div></h2>						
+	<ul>	
+		<li><span class="bold">Susan Bethel</span> &#x2012; <i>University of Central Florida, USA</i></li>			
+		<li><span class="bold">Erica Rectenwald</span> &#x2012; <i>University of Central Florida, USA</i></li>				
+		<li><span class="bold">Carole McDaniel</span> &#x2012; <i>University of Central Florida, USA</i></li>
+	</ul>				
+</div>	
 <div>	
 	<h2>Workshop Chairs  <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">workshops2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>		
