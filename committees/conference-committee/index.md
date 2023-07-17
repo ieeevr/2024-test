@@ -35,6 +35,7 @@ title_separator: "|"
 	<h2>Posters Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">posters2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>	
 		<li><span class="bold">Ramiro Serrano Vergel</span> &#x2012; <i>University of Michigan, USA</i></li>
+		<li><span class="bold">Wole Oyekoya</span> &#x2012; <i>Hunter College (CUNY), USA</i></li>
 	</ul>				
 </div>	
 <div>	
@@ -47,7 +48,6 @@ title_separator: "|"
 	<h2>Research Demonstrations Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">researchdemos2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>		
 		<li><span class="bold">Juan Sebastian Munoz</span> &#x2012; <i>Unity, Canada</i></li>
-		<li><span class="bold">Wole Oyekoya</span> &#x2012; <i>Hunter College (CUNY), USA</i></li>
 	</ul>				
 </div>		
 <div>	
