@@ -28,7 +28,7 @@ title_separator: "|"
 	<h2>Doctoral Consortium Chairs <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">doctoralconsortium2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>	
 		<li><span class="bold">Frank Guan</span> &#x2012; <i>Singapore Institute of Technology, Singapore</i></li>			
-		<li><span class="bold">Jan springer</span> &#x2012; <i>University of Arkansas, USA</i></li>			
+		<li><span class="bold">Jan Springer</span> &#x2012; <i>University of Arkansas, USA</i></li>			
 	</ul>				
 </div>																
 <div>	
