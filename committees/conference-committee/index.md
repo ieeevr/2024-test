@@ -75,6 +75,6 @@ title_separator: "|"
 	<h2>Workshop Chairs  <!--<div class="floatRight"><i class="fas fa-fw fa-envelope-square emailIconSm" style=""></i><i class="emailTextSm">workshops2024 [at] ieeevr.org</i></div>-->	</h2>			
 	<ul>		
 		<li><span class="bold">Dirk Reiners</span> &#x2012; <i>University of Central Florida, USA</i></li>
-		<li><span class="bold">Sergio Casas</span> &#x2012; <i>Universidad de Valencia,  Spain</i></li>
+		<li><span class="bold">Sergio Casas-Yrurzum</span> &#x2012; <i>Universidad de Valencia,  Spain</i></li>
 	</ul>				
 </div>																	
