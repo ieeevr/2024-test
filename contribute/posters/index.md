@@ -6,13 +6,13 @@ title_separator: "|"
 ---
 
 
-<!-- <div>
+<div>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div> -->
+</div>
 
-
+<!-- 
 <div>
     <h1 id="cfp-posters"> Call for Posters</h1>
     <p>
@@ -61,3 +61,4 @@ It is currently not decided which online platform will be used for the online pa
         <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">posters2024 [at] ieeevr.org</i>
     </p>
 </div>
+ -->
