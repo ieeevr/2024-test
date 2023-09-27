@@ -6,9 +6,11 @@ title_separator: "|"
 ---
 
 <div>
-    <!-- <p>
+<p>
         More information coming soon, please watch this space.
-    </p> -->
+    </p> 
+     <script> /***
+
     
     <h1 id="cfp-journal"> Call for Student Volunteers </h1>
     <p>
@@ -65,4 +67,5 @@ title_separator: "|"
     </p>
    
 
+***/</script>
 </div>

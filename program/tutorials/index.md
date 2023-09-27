@@ -4,6 +4,7 @@ title: "Tutorials"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <div>
     <table class="styled-table">
@@ -131,3 +132,5 @@ The tutorial will be broken into three, one-hour-long sections. First, there wil
 </div>
 {% endif %}
 {% endfor %}
+
+***/</script>

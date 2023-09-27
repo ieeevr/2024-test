@@ -7,11 +7,13 @@ title_separator: "|"
 
 
 
-<!-- <div>
+<div>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div> -->
+</div> 
+ <script> /***
+
 
 <div>
     <h1 id="cfp-tutorials"> Call for Tutorials</h1>
@@ -96,3 +98,4 @@ title_separator: "|"
     </p>
 
 </div>
+***/</script>

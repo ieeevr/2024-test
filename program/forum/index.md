@@ -7,6 +7,7 @@ title_separator: "|"
 
 <!-- Style Sheet for table-->
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <div>
     <h1 id="cfp-conference">IEEE VR 2024 Metaverse Industry Forum</h1>
@@ -135,3 +136,4 @@ title_separator: "|"
     </div>
 
 </div>
+***/</script>

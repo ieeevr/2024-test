@@ -6,10 +6,11 @@ title_separator: "|"
 ---
 
 <div>
-    <!-- <p>
+     <p>
         More information coming soon, please watch this space.
-    </p> -->
-    
+    </p> 
+  <script> /***
+  
     <h1 id="cfp-journal"> Call for Satellite Events </h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
@@ -37,5 +38,6 @@ title_separator: "|"
         For more information, please contact <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">general2024 [at] ieeevr.org </i>
     </p>
    
+***/</script> 
 
 </div>

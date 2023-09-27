@@ -7,14 +7,12 @@ title: "Doctoral Consortium"
 
 <h1>Doctoral Consortium</h1>
 <div>
-    <!-- <p>
-        Coming Soon.
-    </p> -->
     <p>
-       
+        Coming Soon.
     </p>
 </div>
 
+ <script> /***
 
 <div>
 
@@ -141,4 +139,5 @@ title: "Doctoral Consortium"
         {% endfor %}
     </table>
 </div> 
--->
+
+***/</script>

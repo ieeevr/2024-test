@@ -4,6 +4,7 @@ title: "Keynote Speakers"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <h1>Keynote Speakers</h1>
 <div>
@@ -70,4 +71,5 @@ title: "Keynote Speakers"
     <hr>
 </div>
 {% endfor %}
+***/</script>
 

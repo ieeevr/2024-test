@@ -4,6 +4,7 @@ title: "Panels"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <h1>Panels -- Tentative Program</h1>
 
@@ -91,6 +92,7 @@ title: "Panels"
 </div>
 {% endfor %}
 
+***/</script>
 
 <!-- 
 <div>

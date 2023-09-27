@@ -5,6 +5,8 @@ title: "Posters"
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 <h1>Posters</h1>
+ <script> /***
+
 <div>
     <table class="styled-table">
         <tr>
@@ -111,3 +113,4 @@ title: "Posters"
     {% endif %}
     {% endfor %}
 </div>
+***/</script>

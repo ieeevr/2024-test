@@ -2,6 +2,7 @@
 layout: ieeevr-default
 title: "Tourism"
 ---
+ <script> /***
 
 <div>
     <h1>Tourism</h1>
@@ -13,3 +14,4 @@ title: "Tourism"
     <h2>About Orlando</h2>
     
 </div>
+***/</script>

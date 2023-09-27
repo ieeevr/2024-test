@@ -5,11 +5,13 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
-<!-- <div>
+<div>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div> -->
+</div>
+ <script> /***
+
 
 <div>
     <h1 id="cfp-demos">Call for Research Demos</h1>
@@ -94,3 +96,4 @@ title_separator: "|"
         <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">researchdemos2024 [at] ieeevr.org</i>
     </p>
 </div>
+***/</script>

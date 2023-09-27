@@ -4,6 +4,7 @@ title: "Research Demos"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <div>
     <table class="styled-table">
@@ -44,5 +45,6 @@ title: "Research Demos"
     {% endfor %}
 </div>
 
+***/</script>
 
 

@@ -4,7 +4,7 @@ title: "Reviewers"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-
+ <script> /***
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <div>
@@ -15,3 +15,4 @@ title_separator: "|"
     {% endtablerow %}
 </table>
 </div>
+***/</script>

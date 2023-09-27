@@ -4,6 +4,7 @@ title: "exchange-event"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+ <script> /***
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
@@ -22,3 +23,4 @@ title_separator: "|"
     <p>The closed-door roundtable forum will take place on the evening of March 26th to maximize the effectiveness of the exchange. <strong>The forum is invitation-only, and we extend a cordial invitation to the scholars, individuals and impending Ph.D. graduates aspiring to pursue a faculty/researcher position at the local university, institute or top company.</strong> Please register for the event using the following link: <a href="https://jinshuju.net/f/Px61Nq">https://jinshuju.net/f/Px61Nq</a>. The registration deadline is March 15th, and any inquiries should be directed to Professor Yang Xin at Dalian University of Technology: <a href="mailto:xinyang@dlut.edu.cn">xinyang@dlut.edu.cn</a>. Further details will be communicated via email or other appropriate channels.</p>
 
 <div>
+***/</script>

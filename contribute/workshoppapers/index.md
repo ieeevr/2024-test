@@ -8,6 +8,7 @@ title_separator: "|"
 <!-- Style Sheet for table-->
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
+ <script> /***
 
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
@@ -855,12 +856,6 @@ title_separator: "|"
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Matias Volonte
     </p>
-    
-
-
-
-
-
-
-    
+        
 </div> 
+***/</script>

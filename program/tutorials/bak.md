@@ -1,3 +1,4 @@
+ <script> /***
 
 <div>
     {% for tutorial in site.data.tutorials %}
@@ -292,3 +293,4 @@
     {% endfor %}
 
 </div>
+***/</script>

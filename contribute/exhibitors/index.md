@@ -6,6 +6,7 @@ title_separator: "|"
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <div>
     <h1>Exhibitors and Sponsors Call for Participation</h1>
@@ -59,3 +60,4 @@ title_separator: "|"
 
     
 </div>
+***/</script>

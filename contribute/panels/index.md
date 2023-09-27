@@ -6,9 +6,12 @@ title_separator: "|"
 ---
 
 <div>
-    <!-- <p>
+    <p>
         More information coming soon, please watch this space.
-    </p> -->
+    </p>
+    </div>
+     <script> /***
+
     
 <h1 id="cfp-panels"> Call for Panels </h1>
 
@@ -62,3 +65,4 @@ For more information and inquiries, please contact the Panels Chairs at <i class
 </ul>
 
 </div>
+***/</script>

@@ -6,6 +6,7 @@ title: "Conference Award Winners"
 
 <h1>IEEE VR 2024 Conference Awards</h1>
 
+ <script> /***
 <!-- <p> Awards presented at the annual IEEE VR 2024 are in two categories:</p>
 <ul>
     <li>Awards sponsored by the Visualization and Graphics Technical Committee of the IEEE Computer
@@ -643,3 +644,5 @@ follow.
     <i>Nara Institute of Science and Technology, Ikoma, Japan</i>
 </div> -->
 
+
+***/</script>

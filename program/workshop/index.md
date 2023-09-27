@@ -7,11 +7,14 @@ title_separator: "|"
 
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
-<!-- <div>
+<div>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div> -->
+</div>
+
+ <script> /***
+
 
 <div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
@@ -131,3 +134,4 @@ title_separator: "|"
     {% endfor %}
 </div>
 </div> 
+***/</script>

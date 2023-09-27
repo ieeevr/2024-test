@@ -6,6 +6,7 @@ title: "Papers"
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <h1>Papers -- Tentative Program</h1>
+ <script> /***
 
 <div>
     <table class="styled-table" style="font-size: 0.9em; ">
@@ -151,3 +152,4 @@ INVITED MISSING
     {% endfor %}
 </div>
 -->
+***/</script>

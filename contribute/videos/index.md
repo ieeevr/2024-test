@@ -6,9 +6,11 @@ title_separator: "|"
 ---
 
 <div>
-    <!-- <p>
+     <p>
         More information coming soon, please watch this space.
-    </p> -->
+    </p> 
+     <script> /***
+
     
     <h1 id="cfp-videos"> Call for Videos</h1>
     <p>
@@ -164,4 +166,7 @@ title_separator: "|"
         <li>Jerald Thomas ‒ Virginia Tech, USA</li>
     </ul>
     <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">videos2024 [at] ieeevr.org</i>
+
+    
+***/</script>
 </div>
