@@ -4,22 +4,28 @@ title: "Panels"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
 
+	    email = "panels2024"; 		
+		$(".panels").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 <div>
+    <h1 id="cfp-panels"> Call for Panels <div class="floatRight"><span class="panels"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
     <p>
         More information coming soon, please watch this space.
     </p>
-    </div>
-     <script> /***
+</div>
 
-    
-<h1 id="cfp-panels"> Call for Panels </h1>
-
-<p>
-    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
-        March 16-20, 2024 | Orlando, Florida USA
-</p>
-
+<script> /***
+<div>
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
     <li><b>January 12th, 2024:</b> Proposals due</li>
@@ -54,10 +60,7 @@ title_separator: "|"
     We will publish a one-page description of the panel in the proceedings. The event will be hybrid and as a panel it will be live, to enable speakers and the audience to discuss the covered topics.
 </p>
 
-<h2 id="contact"> Contact Chairs </h2>
-<p>
-For more information and inquiries, please contact the Panels Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">panels2024 [at] ieeevr.org</i>:
-</p>
+<h2 id="contacts">Contacts <div class="floatRight"><span class="panels"></span></div></h2>	
 <ul>   
     <li>Jian Chen ‒ The Ohio State University, USA</li>
     <li>Henry B.L. Duh ‒ La Trobe University, Australia</li>

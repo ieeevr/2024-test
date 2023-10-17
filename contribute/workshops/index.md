@@ -5,23 +5,29 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
+
+	    email = "workshops2024"; 		
+		$(".workshops").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 
 <div>
+    <h1 id="cfp-workshops"> Call for Workshops<div class="floatRight"><span class="workshops"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
     <p>
         More information coming soon, please watch this space.
     </p>
 </div>
 
-
 <script> /***
-<div>
-    <h1 id="cfp-workshops"> Call for Workshops</h1>
-    <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong>
-        <br />
-        March 16-20, 2024 | Orlando, Florida USA
-    </p>
-    
+  <div>
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>December 2, 2022</b>:    Proposals and CFPs due</li>
@@ -70,7 +76,7 @@ title_separator: "|"
                 strongly encourage submitting the proposal through the following Google form: <a href="https://forms.gle/XQ9rN8rtF2iRyNaJ6">https://forms.gle/XQ9rN8rtF2iRyNaJ6</a>.
             </li>
             <li>
-                However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">workshops2024 [at] ieeevr.org</i>, which should address:
+                However, organizers without access to Google are welcome to email a PDF proposal (two pages max) to the Workshop Chairs at <span class="workshops"></span>, which should address:
                 <ul>
                     <li>Workshop title (and acronym if applicable)</li>
                     <li>The goal of organising the workshop</li>
@@ -132,9 +138,9 @@ title_separator: "|"
         Workshop organizers are expected to issue any acceptance decisions to their contributors no later than Friday, January 20, 2024, in order to allow sufficient time for planning and advance registration for the conference. IEEE VR Workshops proceedings will be published electronically through the IEEE Digital Library, depending on the on-time submission of the proceedings by the workshop organizers before the mandatory IEEE deadline of Saturday, January 29, 2024. Organizers of accepted workshops are encouraged to seek assistance from the Workshops Chairs to navigate this process.
     </p>
 
-    <h2 id="contacts">Contacts</h2>
+     <h2 id="contacts">Contacts <div class="floatRight"><span class="workshops"></span></div></h2>	
     <p>
-        For more information and inquiries, please contact the Workshop Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">workshops2024 [at] ieeevr.org</i>:
+        For more information and inquiries, please contact the Workshop Chairs:
         <ul>
             <li>Daisuke Iwai (Osaka, Japan)</li>
             <li>Bhuvaneswari Sarupuri (Rennes, France)</li>
@@ -142,6 +148,5 @@ title_separator: "|"
             <li>Xinyu Zhang (Shanghai, China)</li>
         </ul>
     </p>
-
 </div>
 ***/ </script>

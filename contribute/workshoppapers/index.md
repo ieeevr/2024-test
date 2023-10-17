@@ -4,19 +4,24 @@ title: "Workshops Call for paper"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-
 <!-- Style Sheet for table-->
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
+<div>
+    <h1 id="call-for-workshop-papers"> Workshops</h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    <script>
+</div>
  <script> /***
 
 <div>
-    <h1 id="call-for-workshop-papers"> Workshops </h1>
-    <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
-        <br>
-        March 16-20, 2024 | Orlando, Florida USA
-    </p>
+   
     <p>
         IEEE VR 2024 seeks high-quality contributions to the following 18 workshops. 
         <!-- These will be held virtually on March 12<sup>th</sup>-13<sup>th</sup>.  -->
@@ -855,7 +860,6 @@ title_separator: "|"
     </p>
     <p>
         <strong style="color:black;">Principal Organizer:</strong> Matias Volonte
-    </p>
-        
+    </p>        
 </div> 
 ***/</script>

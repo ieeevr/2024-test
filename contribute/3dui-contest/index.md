@@ -5,14 +5,28 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
 
+	    email = "contest2024"; 		
+		$(".contest").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 <div>
+    <h1 id="cfp-3dui-contest">IEEE Virtual Reality 2024 3DUI Contest <br /> Call for Participation<div class="floatRight"><span class="contest"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
     <p>
         More information coming soon, please watch this space.
     </p>
 </div>
 
-<script> /***
+<script>
+ /***
 <div>
    <h1 id="cfp-3dui-contest"> IEEE Virtual Reality 2023 3DUI Contest <br /> Call for Participation </h1>
 
@@ -125,11 +139,7 @@ Teams should submit their abstract paper and a high quality video through the on
    Submissions must be in English and must be prepared in IEEE Computer Society VGTC format (<a href="https://tc.computer.org/vgtc/publications/conference/">https://tc.computer.org/vgtc/publications/conference/</a>) and submitted as PDF. We highly encourage authors to use the LaTeX template (<a href="https://www.cspaul.com/vgtc/vgtc_conference_latex.zip">https://www.cspaul.com/vgtc/vgtc_conference_latex.zip</a>). Authors who choose to use the Word template need to ensure that their PDF submission matches the format.
 </p>
 
-<h2 id="contact"> Contact </h2>
-<p>
-Feel free to contact us at contest2023@ieeevr.org if you have any further questions.
-Call updates will be posted on the contest page: <a href="https://ieeevr.org/2023/contribute/3dui-contest/">https://ieeevr.org/2023/contribute/3dui-contest/ </a>.
-</p>
+<h2 id="contacts">Contacts <div class="floatRight"><span class="contest"></span></div></h2>	
 <p>
     3DUI Contest Chairs:
     <ul>   
@@ -138,9 +148,9 @@ Call updates will be posted on the contest page: <a href="https://ieeevr.org/202
         <li>Chao Mei, Meta Reality Labs, USA</li>
         <li>Thammathip Piumsomboon, University of Canterbury, New Zealand</li>
     </ul>
-    <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">contest2024 [at] ieeevr.org</i>
 </p>
 
 
 </div>
-***/ </script>
+***/ 
+</script>

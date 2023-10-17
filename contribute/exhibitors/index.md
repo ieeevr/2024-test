@@ -4,18 +4,29 @@ title: "Call for Exhibitors and Sponsors"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
+
+	    email = "sponsor2024"; 		
+		$(".sponsor").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
+<div>
+    <h1>Exhibitors and Sponsors Call for Participation<div class="floatRight"><span class="sponsor"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
  <script> /***
 
 <div>
-    <h1>Exhibitors and Sponsors Call for Participation</h1>
-    <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
-        <br>
-        March 16-20, 2024 | Orlando, Florida USA
-    </p>
-
     <h2>Overview</h2>
     <p>
         IEEE VR provides a unique opportunity for your organization to reach the world's foremost virtual reality researchers and application builders. We invite companies, 
@@ -28,7 +39,7 @@ title_separator: "|"
     </p>
 
     <div class="exhibitors-center">
-<div class="exhibitors-row">
+    <div class="exhibitors-row">
     <div class="exhibitors-column" style="flex: 70%;">
         <strong style="color:white;font-size: 25px">Become a Sponsor or Exhibitor</strong>
         <br /><br />
@@ -52,11 +63,8 @@ title_separator: "|"
     <div style="display: inline-block">
         <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
     </div>
-
-
-    <h2 id="contacts">Contacts</h2>
-
-    <p>For more information, please contact the Exhibits and Sponsors chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">sponsor2024 [at] ieeevr.org</i></p>
+    
+<h2 id="contacts">Contacts <div class="floatRight"><span class="sponsor"></span></div></h2>	   
 
     
 </div>

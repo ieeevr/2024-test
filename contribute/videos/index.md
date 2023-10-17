@@ -4,20 +4,30 @@ title: "Videos"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
+
+	    email = "videos2024"; 		
+		$(".videos").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 
 <div>
-     <p>
-        More information coming soon, please watch this space.
-    </p> 
-     <script> /***
-
-    
-    <h1 id="cfp-videos"> Call for Videos</h1>
+    <h1 id="cfp-videos"> Call for Videos<div class="floatRight"><span class="videos"></span></div></h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
-        March 16-20, 2024 | Orlando, Florida USA
+            March 16-20, 2024 | Orlando, Florida USA
     </p>
-
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+</div>
+    
+     <script> /***
+    
+<div>
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>January 13th, 2024:</b> Submission deadline</li>
@@ -155,18 +165,15 @@ title_separator: "|"
         Abstracts will be included in the proceedings and will be archived in the IEEE Digital Library, and therefore must be formatted using the IEEE Computer Society format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html"> http://junctionpublishing.org/vgtc/Tasks/camera.html</a>. Every submission will get one (single-blind) review by a video chair and will be discussed among all video chairs for the final decision. 
     </p>
     
-    <h2 id="contact">Contacts</h2>
+    <h2 id="contacts">Contacts <div class="floatRight"><span class="videos"></span></div></h2>
     <p>
-        For more information or details on video submission, please contact the Video Chairs (<i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">videos2024 [at] ieeevr.org</i>):
+        For more information or details on video submission, please contact the Video Chairs:
     </p>
 
     <ul>
         <li>Ye Pan – Shanghai Jiao Tong University, China</li>
         <li>Mauricio Sousa ‒ University of Toronto, Canada</li>
         <li>Jerald Thomas ‒ Virginia Tech, USA</li>
-    </ul>
-    <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">videos2024 [at] ieeevr.org</i>
-
-    
-***/</script>
+    </ul>    
 </div>
+***/</script>

@@ -4,25 +4,30 @@ title: "Tutorials"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
 
-
+	    email = "tutorials2024"; 		
+		$(".tutorials").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 
 <div>
+    <h1 id="cfp-tutorials"> Call for Tutorials<div class="floatRight"><span class="tutorials"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
     <p>
         More information coming soon, please watch this space.
     </p>
-</div> 
- <script> /***
-
-
-<div>
-    <h1 id="cfp-tutorials"> Call for Tutorials</h1>
-    <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
-        March 16-20, 2024 | Orlando, Florida USA
-    </p>
-
-    <h2 id="important-dates"> Important Dates </h2>
+</div>
+    <script>
+ /***
+  <div>
+   <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>January 9, 2024:</b> Tutorial submissions due (AOE)</li>
         <li><b>January 16, 2024:</b> Acceptance notification</li>
@@ -79,13 +84,13 @@ title_separator: "|"
     </ul>
     
     <p>
-    Tutorial submissions must be submitted via email to the Tutorials Chairs at <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">tutorials2024 [at] ieeevr.org</i>.
+    Tutorial submissions must be submitted via email to the Tutorials Chairs at <span class="tutorials"></span>.
     </p>
     <p>
     For each 90 minute accepted tutorial, we will be able to provide a free one-day registration for the day of the tutorial, and two one-day registrations for the day of the tutorial for each half-day accepted tutorial.
     </p>    
     
-    <h2 id="contact">Contacts</h2>
+    <h2 id="contacts">Contacts <div class="floatRight"><span class="tutorials"></span></div></h2>
     <p>
         For more information, to inquire about a particular tutorial topic, or to submit a proposal, please contact the Tutorials Chairs:
         <ul>
@@ -94,8 +99,6 @@ title_separator: "|"
             <li>Bin Zhou, <i>Beihang University, China</i></li>
             <li>Rongkai Guo, <i>Nvidia, China</i></li>
         </ul>
-        <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">tutorials2024 [at] ieeevr.org</i>
     </p>
-
 </div>
 ***/</script>

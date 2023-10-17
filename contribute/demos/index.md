@@ -5,21 +5,29 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
+
+	    email = "researchdemos2024"; 		
+		$(".researchdemos").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
+
 <div>
+    <h1 id="cfp-demos">Call for Research Demos<div class="floatRight"><span class="researchdemos"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
     <p>
         More information coming soon, please watch this space.
     </p>
 </div>
- <script> /***
-
-
+<script>
+ /***
 <div>
-    <h1 id="cfp-demos">Call for Research Demos</h1>
-    <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> 
-        March 16-20, 2024 | Orlando, Florida USA
-    </p>
-
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>January 6, 2024:</b> Two-page abstract and video material submission.</li>
@@ -84,7 +92,7 @@ title_separator: "|"
         Please note that authors will be asked to do live presentations and/or demos on certain days of the conference. The days and time slots for the live presentations will be determined after the review process is complete. More details about this will be posted on this page later.
     </p>
 
-    <h2 id="contact">Contacts</h2>
+    <h2 id="contacts">Contacts <div class="floatRight"><span class="researchdemos"></span></div></h2>	
     <p>
         For more information, please contact the Research Demonstration Chairs:
         <ul>
@@ -93,7 +101,7 @@ title_separator: "|"
             <li>Yigang Wang - Hangzhou Dianzi University, China</li>
             <li>Yi Xu - OPPO, USA</li>
         </ul>
-        <i class="fas fa-fw fa-envelope-square emailIcon" style=""></i><i class="emailText">researchdemos2024 [at] ieeevr.org</i>
     </p>
 </div>
-***/</script>
+***/ 
+</script>
