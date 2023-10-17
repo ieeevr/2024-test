@@ -18,13 +18,16 @@ title_separator: "|"
         email = "eventconduct"; 		
 		$(".eventconduct").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>");
 
+        email = "eventconduct"; 		
+		$(".eventconductSm").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");
+
         email = "swan"; 
 		var domain = "acm.org"; 		
 		swan.innerHTML  = "<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIcon' style=''></i><i class='emailText'>" + email + "@" + domain + "</a></i></span>";
 	});
 </script>
 <div>
-    <h1>Code of Conduct<div class="floatRight"><span class="eventconduct"></span></div></h1>
+    <h1>Code of Conduct<div class="floatRight"><span class="eventconductSm"></span></div></h1>
     <p>
         IEEE Virtual Reality 2024 is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
     </p>
