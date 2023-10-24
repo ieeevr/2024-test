@@ -10,7 +10,7 @@ title_separator: "|"
 <div>
     <h1 id="call-for-workshop-papers"> Workshops</h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+        <strong style="color: black">IEEE VR 2024: The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
             March 16-20, 2024 | Orlando, Florida USA
     </p>
     <p>
