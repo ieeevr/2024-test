@@ -17,7 +17,7 @@ title_separator: "|"
 <div>
     <h1 id="cfp-3dui-contest">IEEE Virtual Reality 2024 3DUI Contest <br /> Call for Participation<div class="floatRight"><span class="contest"></span></div></h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
             March 16-20, 2024 | Orlando, Florida USA
     </p>
     <p>
