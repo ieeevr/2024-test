@@ -36,7 +36,7 @@ title_separator: "|"
     <p>
         The 2024 conference will be an in-person event only, and poster presentations will be at the physical conference venue. Web-based presentations will only be permitted  under extreme circumstances. At least one author per accepted poster will be required to register for the conference and attend the poster session in person. 
     </p>
-    <h2 id="important-dates"> Important Dates </h2>
+    <h2 id="important-dates">Important Dates</h2>
     <ul>
         <li><b>December 17, 2022:</b> Two-page abstract and optional material submission due</li>
         <li><b>January 26, 2024:</b> Notification of results</li>
@@ -47,7 +47,7 @@ title_separator: "|"
         Submissions to the poster track must be written in English. The submission must be in the form of a two-page extended abstract (references included) with a maximum of 100-word abstract. The submitted extended abstract must be in PDF format with embedded fonts. Accepted two-page extended abstracts will be included in the Abstracts and Workshop Proceedings and will be archived in the IEEE Digital Library, and therefore must be formatted using the IEEE Computer Society format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html" target="_blank">http://junctionpublishing.org/vgtc/Tasks/camera.html</a>. Poster extended abstracts must be submitted through a particular poster track available at the online submission site - <a href="https://new.precisionconference.com/submissions" target="_blank">https://new.precisionconference.com/submissions</a>. Supplemental materials, such as a video or image, can be uploaded to the submission site as well, but are not mandatory.
     </p>
     <p>
-     After logging into <a href="https://new.precisionconference.com/submissions" target="_blank">PCS</a>, start your submission by selecting <span class=bold">"VGTC > VR 2014 > VR Posters 2024"</span>. 
+     After logging into <a href="https://new.precisionconference.com/submissions" target="_blank">PCS</a>, start your submission by selecting "VGTC > VR 2014 > VR Posters 2024". 
     </p>
     <h2 id="poster_review_process">Poster Review Process</h2>
     <p>
@@ -76,7 +76,7 @@ title_separator: "|"
     <p>
         For more information, please contact the Posters Chairs:
         <ul>
-            <li>Jian Chen, <i>he Ohio State University, USA</i></li>
+            <li>Jian Chen, <i>The Ohio State University, USA</i></li>
             <li>Wole Oyekoya, <i>Hunter College, City University of New York, USA</i></li>
             <li>Jerald Thomas, <i>University of Wisconsin - Milwaukee, USA</i></li>
             <li>Ramiro Serrano Vergel, <i>University of Michigan, USA</i></li>
