@@ -63,12 +63,10 @@ title_separator: "|"
     <h2 id="contacts">Contacts <div class="floatRight"><span class="studentvolunteers"></span></div></h2>
     <p>
         For more information, please contact the Student Volunteer Chairs: 
+    
+        <ul>
+            <li><span class="bold"></span>, <i></i></li>
+        </ul> 
     </p>
-    <ul>
-        <li>Wei Hong Lo - University of Otago, New Zealand </li>
-        <li>Xiaoxu Meng  -  Tencent, USA</li>
-        <li>Prasanth Sasikuma  - University of Auckland, New Zealand</li>
-        <li>Xuanhui Yang  - Shanghai Jiao Tong University, China</li>
-    </ul> 
 </div> 
 ***/</script>

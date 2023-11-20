@@ -93,12 +93,9 @@ title_separator: "|"
     <h2 id="contacts">Contacts <div class="floatRight"><span class="tutorials"></span></div></h2>
     <p>
         For more information, to inquire about a particular tutorial topic, or to submit a proposal, please contact the Tutorials Chairs:
-        <ul>
-            <li>Heide Lukosch, <i>HIT Lab NZ, University of Canterbury, New Zealand</i></li>
-            <li>Beatriz Sousa Santos, <i>University of Aveiro, Portugal</i></li>
-            <li>Bin Zhou, <i>Beihang University, China</i></li>
-            <li>Rongkai Guo, <i>Nvidia, China</i></li>
-        </ul>
+         <ul>
+            <li><span class="bold"></span>, <i></i></li>
+        </ul> 
     </p>
 </div>
 ***/</script>

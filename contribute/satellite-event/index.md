@@ -43,7 +43,11 @@ title_separator: "|"
 
     
     <h2 id="contacts">Contacts <div class="floatRight"><span class="general"></span></div></h2>	    
-   
+   <p>
+        <ul>
+            <li><span class="bold"></span>, <i></i></li>
+        </ul> 
+    </p>
 </div>
 ***/</script> 
 

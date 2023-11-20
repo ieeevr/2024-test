@@ -61,11 +61,11 @@ title_separator: "|"
 </p>
 
 <h2 id="contacts">Contacts <div class="floatRight"><span class="panels"></span></div></h2>	
-<ul>   
-    <li>Jian Chen ‒ The Ohio State University, USA</li>
-    <li>Henry B.L. Duh ‒ La Trobe University, Australia</li>
-    <li>Xin Tong  ‒ Microsoft Research Asia China</li>
-</ul>
+<p>
+    <ul>   
+        <li><span class="bold"></span>, <i></i></li>
+    </ul>
+</p>
 
 </div>
 ***/</script>

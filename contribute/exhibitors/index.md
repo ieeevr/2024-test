@@ -64,8 +64,12 @@ title_separator: "|"
         <img src= "{{ "/assets/images/sponsors/VR2023.png" | relative_url }}"  width="95%" >
     </div>
     
-<h2 id="contacts">Contacts <div class="floatRight"><span class="sponsor"></span></div></h2>	   
-
+<h2 id="contacts">Contacts <div class="floatRight"><span class="sponsor"></span></div></h2>	
+<p>
+    <ul>      
+        <li><span class="bold"></span>, <i></i></li>
+    </ul> 
+</p>
     
 </div>
 ***/</script>

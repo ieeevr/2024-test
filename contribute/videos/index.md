@@ -168,12 +168,9 @@ title_separator: "|"
     <h2 id="contacts">Contacts <div class="floatRight"><span class="videos"></span></div></h2>
     <p>
         For more information or details on video submission, please contact the Video Chairs:
+        <ul>
+            <li><span class="bold"></span>, <i></i></li>
+        </ul> 
     </p>
-
-    <ul>
-        <li>Ye Pan – Shanghai Jiao Tong University, China</li>
-        <li>Mauricio Sousa ‒ University of Toronto, Canada</li>
-        <li>Jerald Thomas ‒ Virginia Tech, USA</li>
-    </ul>    
 </div>
 ***/</script>
