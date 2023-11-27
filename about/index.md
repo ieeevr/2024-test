@@ -5,6 +5,7 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 
+ <script> /***
 <div>
     <h1> About the IEEE VR Conference </h1>
     <p>
@@ -26,3 +27,5 @@ title_separator: "|"
         <img src="{{ "/assets/images/Orlando2.jpg" | relative_url }}" alt="Orlando, Florida USA"  width="49%" >  
     </div>
 </div>
+
+***/</script>
