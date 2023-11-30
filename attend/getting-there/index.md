@@ -2,13 +2,14 @@
 layout: ieeevr-default
 title: "Getting There"
 ---
+ <script> /***
 
 <div>
     <h1>Getting There</h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
+        March 16-20, 2024 | Orlando, Florida USA
     </p>
     <h2>Conference Venue</h2>
    
@@ -35,3 +36,4 @@ title: "Getting There"
 
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224451.6490291354!2d-81.62069771252945!3d28.477829523059874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd7ee634caa5f7%3A0x7f1aa428ffd54db!2sDisney&#39;s%20Contemporary%20Resort!5e0!3m2!1sen!2sus!4v1686838845318!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+***/</script>

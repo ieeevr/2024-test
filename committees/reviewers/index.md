@@ -4,8 +4,8 @@ title: "Reviewers"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-
-<style> .styled-table { border-collapse: collapse; margin: 25px 0; font-size: 0.9em; font-family: sans-serif; /*min-width: 400px;*/ /*box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);*/ display: table; border:none; } .styled-table thead tr { background-color: #fec10d; color: #ffffff; text-align: left; } .styled-table th, .styled-table td { padding: 12px 15px; } .styled-table tbody tr { border-bottom: 1px solid #dddddd; } .styled-table tbody tr:nth-of-type(even) { background-color: #fffbed; } .styled-table tbody tr:last-of-type { border-bottom: 2px solid #fec10d; } .styled-table tbody tr.active-row { font-weight: bold; color: #fec10d; } </style>
+ <script> /***
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <div>
     <h1> IEEE VR 2024 Reviewers for Papers </h1>
@@ -15,3 +15,4 @@ title_separator: "|"
     {% endtablerow %}
 </table>
 </div>
+***/</script>

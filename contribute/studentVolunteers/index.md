@@ -4,18 +4,28 @@ title: "Student Volunteers"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
+
+	    email = "studentvolunteers2024"; 		
+		$(".studentvolunteers").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 
 <div>
-    <!-- <p>
-        More information coming soon, please watch this space.
-    </p> -->
-    
-    <h1 id="cfp-journal"> Call for Student Volunteers </h1>
+    <h1 id="cfp-journal"> Call for Student Volunteers<div class="floatRight"><span class="studentvolunteers"></span></div></h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
-        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
+            March 16-20, 2024 | Orlando, Florida USA
     </p>
-
+    <p>
+        More information coming soon, please watch this space.
+    </p>
+    </div>
+<script> /***
+    <div>
     <h2 id="important-dates"> Important Dates </h2>
     <ul>
         <li><b>January 1, 2024:</b> Open student volunteer applications</li>
@@ -50,19 +60,13 @@ title_separator: "|"
         Application will be done through this form: <a href="https://forms.gle/tXNGjzPQ7davXCHx7"> https://forms.gle/tXNGjzPQ7davXCHx7 </a>
     </p>
 
-    <h2 id="contacts"> Contacts </h2>
+    <h2 id="contacts">Contacts <div class="floatRight"><span class="studentvolunteers"></span></div></h2>
     <p>
         For more information, please contact the Student Volunteer Chairs: 
+    
+        <ul>
+            <li><span class="bold"></span>, <i></i></li>
+        </ul> 
     </p>
-    <ul>
-        <li>Wei Hong Lo - University of Otago, New Zealand </li>
-        <li>Xiaoxu Meng  -  Tencent, USA</li>
-        <li>Prasanth Sasikuma  - University of Auckland, New Zealand</li>
-        <li>Xuanhui Yang  - Shanghai Jiao Tong University, China</li>
-    </ul>
-    <p>
-        The SV chairs can be reached via email at studentvolunteers2024 [at] ieeevr.org.
-    </p>
-   
-
-</div>
+</div> 
+***/</script>

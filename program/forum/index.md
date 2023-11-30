@@ -4,75 +4,17 @@ title: "Forum"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-<style>
-    <style>* {
-        box-sizing: border-box;
-    }
 
-    .exhibitors-center {
-        margin: auto;
-        width: 90%;
-    }
-
-    .exhibitors-row {
-        display: flex;
-        background-color: #F5725E;
-        border-radius: 10px;
-        padding: 10px;
-    }
-
-    .exhibitors-column {
-        flex: 50%;
-        padding: 20px;
-        position: relative;
-    }
-
-    .styled-table {
-        border-collapse: collapse;
-        margin: 25px 0;
-        font-size: 0.8em;
-        font-family: sans-serif;
-        /*min-width: 400px;*/
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        display: table;
-    }
-
-    .styled-table thead tr {
-        background-color: #00aeef;
-        color: #ffffff;
-        text-align: left;
-    }
-
-    .styled-table th,
-    .styled-table td {
-        padding: 12px 15px;
-    }
-
-    .styled-table tbody tr {
-        border-bottom: 1px solid #dddddd;
-    }
-
-    .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
-    }
-
-    .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
-    }
-
-    .styled-table tbody tr.active-row {
-        font-weight: bold;
-        color: #00aeef;
-    }
-
-</style>
+<!-- Style Sheet for table-->
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <div>
     <h1 id="cfp-conference">IEEE VR 2024 Metaverse Industry Forum</h1>
     <p>
         <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
-        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
+        March 16-20, 2024 | Orlando, Florida USA
     </p>
     <br />
     <div>
@@ -94,7 +36,7 @@ title_separator: "|"
 
     <center><img src="{{ "/assets/images/program/forum/hall.png" | relative_url }}" alt="hall" width="100%"></center>
 
-    <h2 style="color: #F5725E;">Conference structure(1+3+N) </h2>
+    <h2>Conference structure(1+3+N) </h2>
     <h3>
     1. Metaverse Industry-University-Research Summit Forum
     </h3>
@@ -129,7 +71,7 @@ title_separator: "|"
     In addition, N metaverse closed-door discussions will be held according to specific needs, including but not limited to industrial ecological construction, large-scale application of benchmarking scenarios, local industry visits and diagnosis, etc.
     </p>
 
-    <h2 style="color: #F5725E;">Confirmed Speakers</h2>
+    <h2>Confirmed Speakers</h2>
     
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" frame=void>
@@ -187,10 +129,11 @@ title_separator: "|"
 
 </table>
 
-<h2 style="color: #F5725E;">Registration link</h2>
+<h2>Registration link</h2>
 
     <div style="display: inline-block">
         <center><img src= "{{ "/assets/images/program/forum/qrcode.png" | relative_url }}"  width="95%" ></center>
     </div>
 
 </div>
+***/</script>

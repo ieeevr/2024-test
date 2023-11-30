@@ -4,6 +4,7 @@ title: "Program Committee"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+ <script> /***
 
 <div>
     <h1> IEEE Virtual Reality International Program Committee </h1>
@@ -177,3 +178,5 @@ title_separator: "|"
         <li>McDonnell, Rachel - <i>Trinity College Dublin</i>                         </li>
     </ul>
 </div>
+
+***/</script>

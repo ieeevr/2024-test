@@ -2,6 +2,7 @@
 layout: ieeevr-default
 title: "IEEEVR VGTC Awards"
 ---
+ <script> /***
 
 <div>
     <h1>IEEE VGTC Virtual Reality Awards</h1>
@@ -49,3 +50,4 @@ title: "IEEEVR VGTC Awards"
     </p>
 
 </div>
+***/</script>

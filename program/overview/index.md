@@ -3,49 +3,12 @@ layout: ieeevr-default
 title: "Program Overview"
 ---
 
-<style>
-    .styled-table {
-        border-collapse: collapse;
-        margin: 25px 0;
-        font-size: 0.9em;
-        font-family: sans-serif;
-        /*min-width: 400px;*/
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        display: table;
-    }
-
-    .styled-table thead tr {
-        background-color: #F5725E;
-        color: #ffffff;
-        text-align: left;
-    }
-
-    .styled-table th,
-    .styled-table td {
-        padding: 12px 15px;
-    }
-
-    .styled-table tbody tr {
-        border-bottom: 1px solid #dddddd;
-    }
-
-    .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
-    }
-
-    .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #F5725E;
-    }
-
-    .styled-table tbody tr.active-row {
-        font-weight: bold;
-        color: #F5725E;
-    }
-
-
-    /*************************
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
+/*************************
  * GRID SCHEDULE LAYOUT from there: https://css-tricks.com/building-a-conference-schedule-with-css-grid/
  *************************/
+ <style>
     @media screen and (min-width:700px) {
         .schedule {
             display: grid;
@@ -419,6 +382,9 @@ title: "Program Overview"
 <div class="notic--warning">
 <h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Orlando, Florida local time (EDT (UTC-4)).</h3>
 </div>
+
+
+***/</script>
 <script> /***
 <div>
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 25</label>

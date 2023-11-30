@@ -3,117 +3,8 @@ layout: ieeevr-default
 title: "Panels"
 ---
 
-<style>
-    .styled-table {
-        border-collapse: collapse;
-        margin: 25px 0;
-        font-size: 0.9em;
-        font-family: sans-serif;
-        /*min-width: 400px;*/
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-        display: table;
-    }
-
-    .styled-table thead tr {
-        background-color: #00aeef;
-        color: #ffffff;
-        text-align: left;
-    }
-
-    .styled-table th,
-    .styled-table td {
-        padding: 12px 15px;
-    }
-
-    .styled-table tbody tr {
-        border-bottom: 1px solid #dddddd;
-    }
-
-    .styled-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
-    }
-
-    .styled-table tbody tr:last-of-type {
-        border-bottom: 2px solid #00aeef;
-    }
-
-    .styled-table tbody tr.active-row {
-        font-weight: bold;
-        color: #00aeef;
-    }
-
-    /* Collapsible */
-    input[type='checkbox'] {
-        display: none;
-    }
-
-    .wrap-collabsible {
-        margin: 1rem 0;
-    }
-
-    .lbl-toggle {
-        display: block;
-        font-weight: bold;
-        /* font-family: monospace; */
-        font-size: 0.8rem;
-        text-align: left;
-        padding: 0rem;
-        color: #00aeef;
-        background: #ffffff;
-        cursor: pointer;
-        border-radius: 7px;
-        transition: all 0.25s ease-out;
-    }
-
-    .lbl-toggle:hover {
-        /*color: #FFF;*/
-    }
-
-    .lbl-toggle::before {
-        content: ' ';
-        display: inline-block;
-        border-top: 5px solid transparent;
-        border-bottom: 5px solid transparent;
-        border-left: 5px solid currentColor;
-        vertical-align: middle;
-        margin-right: .7rem;
-        transform: translateY(-2px);
-        transition: transform .2s ease-out;
-    }
-
-    .toggle:checked+.lbl-toggle::before {
-        transform: rotate(90deg) translateX(-3px);
-    }
-
-    .collapsible-content {
-        max-height: 0px;
-        overflow: hidden;
-        transition: max-height .25s ease-in-out;
-    }
-
-    .toggle:checked+.lbl-toggle+.collapsible-content {
-        max-height: 1500px;
-    }
-
-    .toggle:checked+.lbl-toggle {
-        border-bottom-right-radius: 0;
-        border-bottom-left-radius: 0;
-    }
-
-    .collapsible-content .content-inner {
-        background: white;
-        /* rgba(0, 105, 255, .2);*/
-        border-bottom: 1px solid white;
-        border-bottom-left-radius: 7px;
-        border-bottom-right-radius: 7px;
-        padding: .5rem 1rem;
-    }
-
-    .collapsible-content p {
-        margin-bottom: 0;
-    }
-
-</style>
+<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
+ <script> /***
 
 <h1>Panels -- Tentative Program</h1>
 
@@ -201,6 +92,7 @@ title: "Panels"
 </div>
 {% endfor %}
 
+***/</script>
 
 <!-- 
 <div>
@@ -211,7 +103,7 @@ title: "Panels"
     {% for event in site.data.events %}
     {% if event.id == panel.id %}
     {% if event.location %}
-    <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
+    <div class="notice--info">
         <strong style="padding-bottom: 5px;">Take me to the event:</strong>
         <p>
             <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
@@ -237,7 +129,7 @@ title: "Panels"
     <p style="font-size: 0.8em;">{{ panel.day }}, {{panel.start}}, {{ panel.timezone }}</p>
     
     
-    <h3 style="color: #00aeef;">Description</h3>
+    <h3 >Description</h3>
     <p>
         Humans are social beings, and even in VR we typically do not want to be alone. As VR becomes increasingly utilized for a wide range of applications, virtual humans are expected to play increasingly important roles.  A lot of research has concentrated on making virtual humans look and move photo-realistically. Here we argue that the fundamental question is what makes virtual humans effective, in the sense that people respond to them in a way that is useful for and predicted by the application. For example, if the purpose of the application is to make people laugh, then no matter how photorealistic or how expressive the virtual humans involved might be, if the human participants do not laugh then the application would have failed. So, the question shifts from ‘How realistic can we make these virtual humans’ to ‘How should the virtual humans look and behave in order to make you laugh as a human comedian would’ - which may not require high levels of animation realism and photorealism.
     </p>
@@ -262,7 +154,7 @@ title: "Panels"
     </ul>
     
     
-    <h3 style="color: #00aeef;">Moderator</h3>
+    <h3 >Moderator</h3>
     <p>
         <strong style="color: black">Xueni Pan, Department of Computing, Goldsmiths, University of London, UK [x.pan@gold.ac.uk]</strong>
     </p>
@@ -270,7 +162,7 @@ title: "Panels"
         Xueni Pan is an Assistant Prof. in VR in Virtual Reality at Goldsmiths College, University of London. She worked at UCL in both Computer Science and Institute of Cognitive Neuroscience. Dr Pan has a unique interdisciplinary research profile, with journal and conference publications on both VR technology and social neuroscience. Her work has featured on the BBC, in New Scientist magazine and the Wall Street Journal. Her Coursera VR specialisation has attracted over 80,000 registered learners globally, and she co-leads on the MA/MSc in Virtual and Augmented Reality at Goldsmith’s Computing.
     </p>
     
-    <h3 style="color: #00aeef;">Panelists</h3>
+    <h3 >Panelists</h3>
     <p>
         <strong style="color: black">Doron Friedman, Sammy Ofer School of Communications, Israel [doronf@idc.ac.il]</strong>
     </p>

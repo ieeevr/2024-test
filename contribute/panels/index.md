@@ -4,19 +4,28 @@ title: "Panels"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
+<script type="text/javascript">
+    $(document).ready(function(){
+		var email = ""; 
+		var domain = "ieeevr.org"; 
 
+	    email = "panels2024"; 		
+		$(".panels").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");            
+	});
+</script>
 <div>
-    <!-- <p>
+    <h1 id="cfp-panels"> Call for Panels <div class="floatRight"><span class="panels"></span></div></h1>
+    <p>
+        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+            March 16-20, 2024 | Orlando, Florida USA
+    </p>
+    <p>
         More information coming soon, please watch this space.
-    </p> -->
-    
-<h1 id="cfp-panels"> Call for Panels </h1>
+    </p>
+</div>
 
-<p>
-    <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
-        March 16-21, 2024 | Contemporary Resort, Walt Disney World, Orlando, Florida USA
-</p>
-
+<script> /***
+<div>
 <h2 id="important-dates"> Important Dates </h2>
 <ul>
     <li><b>January 12th, 2024:</b> Proposals due</li>
@@ -33,8 +42,8 @@ title_separator: "|"
 </p>
 
 <h2 id="submission-guidelines">Submission Guidelines</h2> 
-<!-- <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-    <b class="notice--text" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">Important.</b> Submission guidelines have changed this year!
+<!-- <div class="notice--info">
+    <b class="notice--text">Important.</b> Submission guidelines have changed this year!
 </div> -->
 
 <p>
@@ -51,14 +60,12 @@ title_separator: "|"
     We will publish a one-page description of the panel in the proceedings. The event will be hybrid and as a panel it will be live, to enable speakers and the audience to discuss the covered topics.
 </p>
 
-<h2 id="contact"> Contact Chairs </h2>
+<h2 id="contacts">Contacts <div class="floatRight"><span class="panels"></span></div></h2>	
 <p>
-For more information and inquiries, please contact the Panels Chairs at <a href="mailto:panels2024@ieeevr.org">panels2024 [at] ieeevr.org</a>:
+    <ul>   
+        <li><span class="bold"></span>, <i></i></li>
+    </ul>
 </p>
-<ul>   
-    <li>Jian Chen ‒ The Ohio State University, USA</li>
-    <li>Henry B.L. Duh ‒ La Trobe University, Australia</li>
-    <li>Xin Tong  ‒ Microsoft Research Asia China</li>
-</ul>
 
 </div>
+***/</script>
