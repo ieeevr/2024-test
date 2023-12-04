@@ -260,7 +260,7 @@
         background-color: #FFF;
         border-radius: 7px;
         padding: 25px;
-        color: #12a6c9;
+        color: #0c5789;
       }
     .ieeevrmsgboxHR{
         width: 50% !important; 
@@ -3847,7 +3847,7 @@ body {
 .page__content h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid #bfbfbf;
-    color: #12a6c9;
+    color: #0c5789;
 }
 
 .page__content h1 .header-link,.page__content h2 .header-link,.page__content h3 .header-link,.page__content h4 .header-link,.page__content h5 .header-link,.page__content h6 .header-link {
