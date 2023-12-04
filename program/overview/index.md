@@ -384,7 +384,6 @@ title: "Program Overview"
 </div>
 
 
-***/</script>
 <script> /***
 <div>
     <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 25</label>
