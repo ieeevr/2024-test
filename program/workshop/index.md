@@ -8,20 +8,7 @@ title_separator: "|"
 <link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <div>
-    <p>
-        More information coming soon, please watch this space.
-    </p>
-</div>
-
- <script> /***
-
-
-<div>
     <h1 id="call-for-workshop-papers"> Workshops </h1>
-    <!-- <p>
-        IEEE VR 2024 seeks high-quality contributions to the following 18 workshops. 
-        For more details, see each workshop's Call for Papers below.
-    </p> -->
     <table class="styled-table">
         <tr>
             <th>Workshops</th>
@@ -55,7 +42,7 @@ title_separator: "|"
                 <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small>
             {% endif %}
             {% if workshop.slideurl %}
-                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
+                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.slideurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
             {% endif %}
             </p>
             {% if workshop.abstract %}
@@ -67,32 +54,7 @@ title_separator: "|"
                     </div>
                 </div>
             {% endif %}
-            <!-- TAKE ME TO THE EVENT START -->
-            <!--{% for event in site.data.events %}
-                {% if event.id == workshop.id %}
-                    {% if event.location %}
-                    <div class="notice--info">
-                        <strong style="padding-bottom: 5px;">Take me to the event:</strong>
-                        <p>
-                            <strong style="color: black;">Virbela Location:</strong> {{ event.location }} (<a href="/2021/attend/virbela-instructions/#map">MAP</a>)
-                            {% if event.stream-url %}
-                                <br />
-                                {% if event.aindanaoaconteceu %}
-                                    <strong style="color: black;">Watch video stream live:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-                                {% else %}
-                                    <strong style="color: black;">Watch the recorded video stream:</strong> <a href="{{ event.stream-url }}" target="_blank">HERE</a>
-                                {% endif %}
-                            {% endif %}
-                            {% if event.discordurl %}
-                                <br />
-                                <strong style="color: black;">Discord Channel:</strong> <a href="https://{{ event.discordurl }}" target="_blank">Open in Browser</a>, <a href="discord://{{ event.discordurl }}">Open in App</a> (Participants only)
-                            {% endif %}
-                        </p>
-                    </div>
-                    {% endif %}
-                {% endif %}
-            {% endfor %}-->
-            <!-- TAKE ME TO THE EVENT END-->
+                        
             <!-- Only show the 'workshop papers' toggle if there's actually something to show -->
             {% assign papers_in_session = false %}
             {% for paper in site.data.workshoppapers %}
@@ -134,4 +96,3 @@ title_separator: "|"
     {% endfor %}
 </div>
 </div> 
-***/</script>
