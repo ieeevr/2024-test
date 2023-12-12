@@ -24,7 +24,18 @@ title_separator: "|"
     {% for workshop in site.data.workshops %}
             <!-- Workshop title matter -->
             <h2 id="{{ workshop.id }}">Workshop: {{ workshop.title }}</h2>
-            <!-- <p><strong>{{ workshop.day }}, {{ workshop.starttime }}, {{ workshop.timezone }}</strong></p> -->
+            <!-- <p><strong>{{ workshop.day }}, {{ workshop.starttime }}, {{ workshop.timezone }}</strong></p> -->           
+            <p>
+            {% if workshop.url %}
+                <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small><br />
+            {% endif %}
+            {% if workshop.discordurl %}
+                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small><br />
+            {% endif %}
+            {% if workshop.slideurl %}
+                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.slideurl }}" target="_blank">{{ workshop.slideurl }}</a></small><br />
+            {% endif %}
+            </p>
             {% if workshop.organiser %}
                 <p><small><b style="color: black;">Principal Organiser:</b> {{ workshop.organiser }}</small></p>
             {% endif %}
@@ -34,17 +45,7 @@ title_separator: "|"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             {% endif %}
-            <p>
-            {% if workshop.url %}
-                <small><b style="color: black;">Website:</b> <a href="{{ workshop.url }}" target="_blank">{{ workshop.url }}</a></small>
-            {% endif %}
-            {% if workshop.discordurl %}
-                <p><small><b style="color: black;">Discord URL:</b> <a href="{{ workshop.discordurl }}" target="_blank">{{ workshop.discordurl }}</a></small>
-            {% endif %}
-            {% if workshop.slideurl %}
-                <p><small><b style="color: black;">Slides:</b> <a href="{{ workshop.slideurl }}" target="_blank">{{ workshop.slideurl }}</a></small>
-            {% endif %}
-            </p>
+            
             {% if workshop.abstract %}
                 <div id="{{ workshop.id }}" class="wrap-collabsible"> <input id="collapsible{{ workshop.id }}" class="toggle" type="checkbox"> <label for="collapsible{{ workshop.id }}" class="lbl-toggle">Workshop Description</label>
                     <div class="collapsible-content">
