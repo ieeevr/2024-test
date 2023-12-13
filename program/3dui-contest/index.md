@@ -3,9 +3,6 @@ layout: ieeevr-default
 title: "3DUI Contest"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
-
-
 <h1>3DUI Contest</h1>
  <script> /***
 <div>

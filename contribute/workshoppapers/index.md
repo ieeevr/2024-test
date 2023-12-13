@@ -5,7 +5,6 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 <!-- Style Sheet for table-->
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <div>
     <h1 id="call-for-workshop-papers"> Workshops</h1>

@@ -2,7 +2,6 @@
 layout: ieeevr-default
 title: "Conference Award Winners"
 ---
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <h1>IEEE VR 2024 Conference Awards</h1>
 

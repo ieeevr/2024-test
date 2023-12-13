@@ -3,7 +3,6 @@ layout: ieeevr-default
 title: "Tutorials"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
  <script> /***
 
 <div>

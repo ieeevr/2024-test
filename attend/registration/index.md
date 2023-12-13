@@ -14,7 +14,6 @@ title_separator: "|"
 	});
 </script>
 <!-- Style Sheet for table-->
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 <div>
 	<h1 id="registration">Registration  <div class="floatRight"><span id="register"></span></div></h1>
 

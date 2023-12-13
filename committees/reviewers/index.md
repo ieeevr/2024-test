@@ -5,7 +5,6 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
  <script> /***
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <div>
     <h1> IEEE VR 2024 Reviewers for Papers </h1>

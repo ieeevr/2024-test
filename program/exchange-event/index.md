@@ -6,7 +6,6 @@ title_separator: "|"
 ---
  <script> /***
 
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <div>
     <h1 id="cfp-conference">Invitation to Exceptional Young Scholars: The Innovate for the Future Event</h1>

@@ -3,7 +3,6 @@ layout: ieeevr-default
 title: "Doctoral Consortium"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 
 <h1>Doctoral Consortium</h1>
 <div>

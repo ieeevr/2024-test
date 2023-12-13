@@ -4,7 +4,6 @@ title: "Call for Exhibitors and Sponsors"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
 <script type="text/javascript">
     $(document).ready(function(){
 		var email = ""; 

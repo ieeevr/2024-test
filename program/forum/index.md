@@ -6,7 +6,6 @@ title_separator: "|"
 ---
 
 <!-- Style Sheet for table-->
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
  <script> /***
 
 <div>

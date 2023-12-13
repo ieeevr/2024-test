@@ -6,8 +6,6 @@ title_separator: "|"
 ---
 
 
-<link rel="stylesheet" href="{{ '/assets/css/tableStyles.css' | relative_url }}">
-
 <p>
     More information coming soon, please watch this space.
 </p>
