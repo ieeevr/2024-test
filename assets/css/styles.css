@@ -202,7 +202,7 @@
         text-align: center;
         font-size: 16px;
     }
-
+    
     .social-icons {
         text-align: center;
     }
@@ -5119,6 +5119,12 @@ body {
 .padding_top_xsmall{padding-top: 10px;}
 .resource_inner_div{background-color:#FFFFFF; padding: 10px; margin-bottom: 20px; text-align: center ! important}
 .resource_outer_div{background-color:#12a6c9; padding: 20px;}
+.padding_left_medium{padding-left: 35px;}
+
+ul.extraSpacing li{
+    margin: 20px 0 0 0;
+}
+
 
 @media (min-width: 64em) {
     .wide .sidebar__right {
