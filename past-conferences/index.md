@@ -12,7 +12,7 @@ title_separator: "|"
             <strong style="color:black">IEEE Virtual Reality 2023 <i>(Shanghai, China)</i></strong>
             <br>
             <a href="https://ieeevr.org/2023" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="https://ieeexplore.ieee.org/xpl/conhome/10108080/proceeding" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -22,7 +22,7 @@ title_separator: "|"
             <strong style="color:black">IEEE Virtual Reality 2022 <i>(Christchurch, New Zealand)</i></strong>
             <br>
             <a href="https://ieeevr.org/2022" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="https://ieeexplore.ieee.org/xpl/conhome/9417603/proceeding" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -32,7 +32,7 @@ title_separator: "|"
             <strong style="color:black">IEEE Virtual Reality 2021 <i>(Lisbon, Portugal)</i></strong>
             <br>
             <a href="https://ieeevr.org/2021" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="https://ieeexplore.ieee.org/xpl/conhome/9417603/proceeding" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -42,7 +42,7 @@ title_separator: "|"
             <strong style="color:black">IEEE Virtual Reality 2020 <i>(Atlanta, GA, USA)</i></strong>
             <br>
             <a href="https://ieeevr.org/2020" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="https://ieeexplore.ieee.org/xpl/conhome/9070012/proceeding" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -52,7 +52,7 @@ title_separator: "|"
             <strong style="color:black">IEEE Virtual Reality 2019 <i>(Osaka, Japan)</i></strong>
             <br>
             <a href="https://ieeevr.org/2019" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000791" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -61,7 +61,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2018  <i>(Reutlingen, Germany)</i></strong><br>
             <a href="https://ieeevr.org/2018" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=2945" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -70,7 +70,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2017  <i>(Los Angeles, California, USA)</i></strong><br>
             <a href="https://ieeevr.org/2017" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7889401" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -79,7 +79,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2016  <i>(Greenville, South Carolina, USA)</i></strong><br>
             <a href="https://ieeevr.org/2016" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7433479" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -87,7 +87,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2015  <i>(Arles, Camargue-Provence, France)</i></strong><br>
             <a href="https://ieeevr.org/2015" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7064817&punumber=2945" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -96,7 +96,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2014  <i>(Minneapolis, MN, USA)</i></strong><br>
             <a href="https://ieeevr.org/2014" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6786176" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -105,7 +105,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2013  <i>(Orlando, FL, USA)</i></strong><br>
             <a href="https://ieeevr.org/2013" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6479163" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -114,7 +114,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2012  <i>(Orange County, CA, USA)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2012/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000791" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -123,7 +123,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2011  <i>(Singapore, Singapore)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2011/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5753662" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -132,7 +132,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2010  <i>(Waltham, MA, USA)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2010/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5440859" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -141,7 +141,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2009 <i>(Lafayette, LA, USA)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2009/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4806856" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -150,7 +150,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2008 <i>(Reno, NV, USA)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2008/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=4472735" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -159,7 +159,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2007 <i>(Charlotte, NC, USA)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2007/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="hhttp://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4160977&isYear=2007" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
@@ -168,7 +168,7 @@ title_separator: "|"
         <p>
             <strong style="color:black">IEEE Virtual Reality 2006 <i>(Alexandria, VA, USA)</i></strong><br>
             <a href="http://conferences.computer.org/vr/2006/" class="specialLink" target="_blank">Website</a>
-            &nbsp;
+            &nbsp;|&nbsp;
             <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=34910&isYear=2006" class="specialLink" target="_blank">Proceedings</a>
         </p>
     </div>
