@@ -27,32 +27,32 @@ title: "IEEEVR VGTC Awards"
             <li>
             <strong style="color:black">IEEE VGTC Virtual Reality Dissertation Award</strong>
             <br>
-            <a class="btn" href="https://tc.computer.org/vgtc/awards/vr-doctoral-dissertation-award/">View Details</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdw6-BymtZ3fcgdW70AoTezF5zLNqkXujPV6288_wO0QLvfgA/viewform">Submit a Nomination</a></li>
+            <a class="btn" href="https://tc.computer.org/vgtc/award-criteria/#dissertation">View Award Criteria</a>&nbsp;|&nbsp;<a class="btn" href="https://tc.computer.org/vgtc/awards/vr-doctoral-dissertation-award/">View Previous Winners</a>&nbsp;|&nbsp;<a class="btn" href="https://forms.gle/cumQmNCuQsARx5WY6">Submit a Nomination</a></li>
 
             <li>
             <strong style="color:black">IEEE VGTC Virtual Reality Significant New Researcher</strong>
             <br>
-            <a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">View Details</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLScEBvgYNEHw2oeGhq1-BQXfQAFvYRoFkKtWsCcfzG8YtgDO7A/viewform" >Submit a Nomination</a></li>
+            <a class="btn" href="https://tc.computer.org/vgtc/award-criteria/#new_researcher">View Award Criteria</a>&nbsp;|&nbsp;<a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">View Previous Winners</a>&nbsp;|&nbsp;<a class="btn" href="https://forms.gle/yzgkwbGDMoX9gPAU7" >Submit a Nomination</a></li>
 
             <li>
             <strong style="color:black">IEEE VGTC Virtual Reality Technical Achievement</strong>
             <br>
-            <a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">View Details</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSepYeiEsoPU7iHngFhvH69V5GqNX0nCvo9R0mhLDuVg8eaMYA/viewform" >Submit a Nomination</a></li>
+            <a class="btn" href="https://tc.computer.org/vgtc/award-criteria/#technical">View Award Criteria</a>&nbsp;|&nbsp;<a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">View Previous Winners</a>&nbsp;|&nbsp;<a class="btn" href="https://forms.gle/vTZ5czAKgQDz1RPE9">Submit a Nomination</a></li>
 
             <li>
             <strong style="color:black">IEEE VGTC Virtual Reality Lifetime Achievement</strong>
             <br>
-            <a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">View Details</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSff2hkl4n5K5AOwatPULE5j_T-arXZq0Qc-R6y7N6L-zntQ_g/viewform">Submit a Nomination</a></li>
+            <a class="btn" href="https://tc.computer.org/vgtc/award-criteria/#lifetime">View Award Criteria</a>&nbsp;|&nbsp;<a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-augmented-reality-technical-awards/">View Previous Winners</a>&nbsp;|&nbsp;<a class="btn" href="https://forms.gle/skXmVG6QJkjQtTXH6">Submit a Nomination</a></li>
 
             <li>
             <strong style="color:black">IEEE VGTC Virtual Reality Service Award</strong>
             <br>
-            <a class="btn" href="https://tc.computer.org/vgtc/awards/service-awards/">View Details</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSclErWbSZFGdCgrdej3uDg2mx2xr6YRkXI6u-uJoIlI2G8r5A/viewform">Submit a Nomination</a></li>
+            <a class="btn" href="https://tc.computer.org/vgtc/award-criteria/#service">View Award Criteria</a>&nbsp;|&nbsp;<a class="btn" href="https://tc.computer.org/vgtc/awards/service-awards/">View Previous Winners</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSclErWbSZFGdCgrdej3uDg2mx2xr6YRkXI6u-uJoIlI2G8r5A/viewform">Submit a Nomination</a></li>
 
             <li>
             <strong style="color:black">IEEE VGTC Virtual Reality Academy</strong>
             <br>
-            <a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-reality-academy//">View Details</a>&nbsp;|&nbsp;<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdilz_hCbyO_c_9xGplp53i5sxgxQuVrfxbZo2wMCnJZFKFKg/viewform">Submit a Nomination</a></li>            
+            <a class="btn" href="https://tc.computer.org/vgtc/award-criteria/#academy">View Award Criteria</a>&nbsp;|&nbsp;<a class="btn" href="https://tc.computer.org/vgtc/awards/virtual-reality-academy//">View Previous Winners</a>&nbsp;|&nbsp;<a class="btn" href="https://forms.gle/wnJ5yq9HEZQUWjac7">Submit a Nomination</a></li>            
         </ul>
     </p>
 
