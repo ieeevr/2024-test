@@ -1620,6 +1620,10 @@ tr,td,th {
     border-width: 0;
 }
 
+.btn a:focus {
+    outline: none;
+}
+
 .btn_noborder .icon+.hidden,#goog-wm-sb .icon+.hidden {
     margin-left: -0.5em
 }
