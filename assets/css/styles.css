@@ -1616,25 +1616,7 @@ tr,td,th {
     margin-left: -0.5em
 }
 
-.btn_noborder,#goog-wm-sb {
-    display: inline-block;
-    margin-bottom: 0.25em;
-    padding: 0.4em 1.5em;
-    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
-    font-size: .80em;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    border-width: 0;
-    border-radius: 50px;
-    cursor: pointer;
-}
-
-.btn_noborder .icon,#goog-wm-sb .icon {
-    margin-right: 0.5em
-}
-
-.btn a :visited {
+.btn a:visited {
     border-width: 0;
 }
 
