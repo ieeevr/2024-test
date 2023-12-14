@@ -867,6 +867,7 @@ img.mfp-img {
 a:focus,button:focus {
     outline: thin dotted #12a6c9;
     outline: 5px auto #12a6c9;
+    outline: none;
     outline-offset: -2px
 }
 
@@ -1614,14 +1615,6 @@ tr,td,th {
 
 .btn .icon+.hidden,#goog-wm-sb .icon+.hidden {
     margin-left: -0.5em
-}
-
-.btn a:visited {
-    border-width: 0;
-}
-
-.btn a:focus {
-    outline: none;
 }
 
 .btn_noborder .icon+.hidden,#goog-wm-sb .icon+.hidden {
