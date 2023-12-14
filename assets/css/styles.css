@@ -865,10 +865,10 @@ img.mfp-img {
 }
 
 a:focus,button:focus {
-    outline: thin dotted #12a6c9;
+    /* outline: thin dotted #12a6c9;
     outline: 5px auto #12a6c9;
+    outline-offset: -2px;*/
     outline: none;
-    outline-offset: -2px
 }
 
 * {
