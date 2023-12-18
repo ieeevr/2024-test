@@ -16,7 +16,10 @@ title_separator: "|"
         This is a <strong>tentative</strong> schedule of activities associated with IEEE VR 2024, for the purpose of helping attendees consider travel and hotel bookings.
     </p>
 
-    <div class="alignCenter">
-        <img src= "{{ "/assets/images/program/vr2024_tentative_schedule_20231215.png" | relative_url }}"  style="border-radius: 20px;" alt="Tentative schedule of activities associated with IEEE VR 2024.">
+  <div class="alignCenter">
+        <figure>
+            <img src= "{{ "/assets/images/program/vr2024_tentative_schedule_20231215.png" | relative_url }}" alt="Tentative schedule of activities associated with IEEE VR 2024. (Updated: 2023 DEC 18)">
+            <figcaption>Tentative schedule of activities to help plan attendance. <span class="tiny_print">(Updated: 2023 DEC 18)</span></figcaption>
+        </figure>
     </div>
 </div>
