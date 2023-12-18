@@ -13,7 +13,7 @@ title_separator: "|"
     </p>   
 
     <p>
-        This is a tentative schedule of activities associated with IEEE VR 2024, for the purpose of helping attendees consider travel and hotel bookings.
+        This is a <strong>tentative</strong> schedule of activities associated with IEEE VR 2024, for the purpose of helping attendees consider travel and hotel bookings.
     </p>
 
     <div class="alignCenter">

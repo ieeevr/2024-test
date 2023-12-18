@@ -1981,6 +1981,10 @@ tr,td,th {
     margin-bottom: 0;
 }
 
+.small_emphasize {
+    font-size: .78em !important;
+}
+
 .notice--warning {
     margin: 2em 0 !important;
     padding: 1em;
