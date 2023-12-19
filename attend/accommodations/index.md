@@ -37,15 +37,15 @@ title: "Accommodations"
     <h2>Hotels with Conference Negotiated Rates</h2>
     <p>
          <b>Disney’s Contemporary Resort (Conference Hotel):</b>
-    </p>
+    </p>    
+    <p>
+        <b>Conference Rate</b>: $339/night. <b>There is limited availability at this rate.</b> A link to the IEEE VR Booking Web Site will be provided with each confirmed conference registration.
+    </p>   
     <p>
         <div class="alignCenter">
             <img src= "{{ "/assets/images/accomodations/ContemporaryResort.png" | relative_url }}" style="border-radius: 20px;" alt="Disney’s Contemporary Resort (Conference Hotel)">
         </div>
-    </p>
-    <p>
-        <b>Conference Rate</b>: $339/night. <b>There is limited availability at this rate.</b> A link to the IEEE VR Booking Web Site will be provided with each confirmed conference registration.
-    </p>    
+    </p> 
     <p>
         <div class="alignCenter">
             <a href="https://disneyworld.disney.go.com/resorts/contemporary-resort/" class="btn btn--info" target="_blank">Disney’s Contemporary Resort Website</a> 
@@ -55,14 +55,15 @@ title: "Accommodations"
     <p>
          <b>Disney’s Coronado Springs Resort (#1 on map above):</b>
     </p>
+     <p>
+        <b>Conference Rate</b>: $229/night. <b>There is limited availability at this rate.</b> A link to the IEEE VR Booking Web Site will be provided with each confirmed conference registration.
+    </p>
     <p>
         <div class="alignCenter">
             <img src= "{{ "/assets/images/accomodations/Coronado.png" | relative_url }}" style="border-radius: 20px;" alt="Disney’s Coronado Springs Resort">
         </div>
     </p>
-     <p>
-        <b>Conference Rate</b>: $229/night. <b>There is limited availability at this rate.</b> A link to the IEEE VR Booking Web Site will be provided with each confirmed conference registration.
-    </p>
+    
      <p>
         <div class="alignCenter">
             <a href="https://disneyworld.disney.go.com/resorts/coronado-springs-resort/" class="btn btn--info" target="_blank">Disney’s Coronado Springs Resort Website</a> 
@@ -73,6 +74,7 @@ title: "Accommodations"
         These hotels include bus transportation to the Magic Kingdom, which is a 0.3 mile (0.5 km) walk along a sidewalk to the <b>Contemporary Resort</b>. Alternatively, one can take a bus to the <a href="https://disneyworld.disney.go.com/guest-services/resort-transportation/" target="_blank">Disney Transportation and Ticket Center</a> and take a monorail directly to the <b>Contemporary Resort</b>. The buses usually take between 20 and 35 minutes, depending on the time of day — there is more likely a wait at opening and close. Lyft also offers a “Minivan” service in the resort area for those looking for alternative ride-share transit. All include on-premises restaurants and are good options for those intending to visit Disney parks during your stay. 
     </p>
     <p>
+        <i class="bold">The room rates and availability are subject to change at the time of booking.</i>
         <ol start = "2">
             <li>
                 <a href="https://disneyworld.disney.go.com/resorts/pop-century-resort/" target="_blank">Disney’s Pop Century Resort</a><br/>
@@ -98,7 +100,10 @@ title: "Accommodations"
         </p>
     </p>
     <p>
-        <b>5–15 Minute Walk to Disney Springs (Buses to Conference)</b>
+        <i class="bold">The room rates and availability are subject to change at the time of booking.</i>
+    </p>
+    <p>
+        <b>5–15 Minute Walk to Disney Springs (Buses to Conference)</b>      
         <ol start="4">
             <li>
                 <a href="https://www.wyndhamhotels.com/wyndham/lake-buena-vista-florida/wyndham-lake-buena-vista-resort-downtown-disney-resort-area/overview" target="_blank">Wyndham Lake Buena Vista Disney Springs Resort Area</a><br/>
@@ -119,6 +124,7 @@ title: "Accommodations"
     </p>
     <p>
         <b>30+ Minute Walk / 6 Minute Drive to Disney Springs (Buses to Conference)</b>
+        
         <ol start="7">
             <li>
                 <a href="https://www.marriott.com/en-us/hotels/mcoly-courtyard-orlando-lake-buena-vista-in-the-marriott-village/overview/" target="_blank">Courtyard by Marriott Orlando Lake Buena Vista in the Marriott Village</a><br/>
