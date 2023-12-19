@@ -173,8 +173,7 @@ title: "Program Overview"
         display: flex;
         justify-content: center;
         align-items: center;
-        background: #f1d3ff;
-        background: #ddf6ff;
+        background: #DCF6FC;
         color: #000;
         box-shadow: none;
     }
