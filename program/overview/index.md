@@ -33,7 +33,9 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-            [tracks] auto [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+            [tracks] auto [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 
+            /*0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr*/
+            ;
             /* Note 1:
             Use 24hr time for gridline names for simplicity
 
@@ -49,7 +51,9 @@ title: "Program Overview"
             display: grid;
             grid-gap: 1em;
             grid-template-rows:
-            [tracks] auto [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr;
+            [tracks] auto [time-0800] 0.5fr [time-0830] 0.5fr [time-0900] 0.5fr [time-0930] 0.5fr [time-1000] 0.5fr [time-1030] 0.5fr [time-1100] 0.5fr [time-1130] 0.5fr [time-1200] 0.5fr [time-1230] 0.5fr [time-1300] 0.5fr [time-1330] 0.5fr [time-1400] 0.5fr [time-1430] 0.5fr [time-1500] 0.5fr [time-1530] 0.5fr [time-1600] 0.5fr [time-1630] 0.5fr [time-1700] 0.5fr [time-1730] 
+            /*0.5fr [time-1800] 0.5fr [time-1830] 0.5fr [time-1900] 0.5fr*/
+            ;
             /* Note 1:
             Use 24hr time for gridline names for simplicity
 
@@ -377,7 +381,7 @@ title: "Program Overview"
             <h2 class="time-slot" style="grid-row: time-1200;">12:00pm</h2>
 
             <div class="session session-7 track-all" style="grid-column: track-1-start / track-6-end; grid-row: time-1200 / time-1330;">
-            <h3 class="session-title">Lunch: 12:00-1:30</h3>
+                <h3 class="session-title">Lunch: 12:00-1:30</h3>
             </div>
 
             <h2 class="time-slot" style="grid-row: time-1330;">1:30pm</h2>
