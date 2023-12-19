@@ -71,7 +71,7 @@ title: "Program Overview"
     }
 
     .track-slot {
-    display: none; /* hidden on small screens and browsers without grid support */
+        display: none; /* hidden on small screens and browsers without grid support */
     }
 
     @supports( display:grid ) {
@@ -128,15 +128,11 @@ title: "Program Overview"
 
     .session-title a {
         color: #fff;
-        text-decoration-style: dotted;
+        text-decoration-style: solid;
     
         &:hover {
-            font-style: italic;
-        }
-        
-        &:focus {
-            outline: 2px dotted rgba(255,255,255,.8);
-        }
+            text-decoration-style: none;
+        }  
     }
 
     .track-slot,
