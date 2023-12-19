@@ -18,24 +18,48 @@ title_separator: "|"
 	});
 </script>
 
-<div class="column left">
-    <h1>Support Student Participation</h1>
-        
-    <p>
-        The IEEE VR 2024 Chairs for Diversity, Equity, Inclusion, and Accessibility (DEIA) just launched a GoFundMe campaign to raise funds to support conference attendance for select students who would attend if it wasn’t for financial or other barriers.
-    </p>
-    <p>
-        Please consider donating to support the future generation of VR researchers. No donation is too small.
-    </p>
-    <p>
-       Thank you!</p>
-    <p>
-       IEEE VR 2024 DEIA Chairs, <span class="deia2024"></span><br />
-       IEEE VR 2024 General Chairs, <span class="general2024"></span>
-    </p>
- 
-</div> 
-<div class="column right">
-   <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-financially-disadvantaged-phd-students/widget/medium"></div>
+<style>
+    .column_gfm {
+        float: left;
+    }
+
+    .left_gfm {
+        width: 70%;
+        padding-right: 20px;
+    }
+
+    .right_gfm {
+        width: 30%;
+    }
+
+    .row_gfm:after {
+        content: "";
+        display: table;
+        clear: both;
+    }   
+</style>
+
+<h1>Support Student Participation</h1>
+<div class="row_gfm">
+    <div class="column_gfm left_gfm">            
+        <p>
+            The IEEE VR 2024 Chairs for Diversity, Equity, Inclusion, and Accessibility (DEIA) just launched a GoFundMe campaign to raise funds to support conference attendance for select students who would attend if it wasn’t for financial or other barriers.
+        </p>
+        <p>
+            Please consider donating to support the future generation of VR researchers. No donation is too small.
+        </p>
+        <p>
+        Thank you!
+        </p>
+        <p>
+        IEEE VR 2024 DEIA Chairs, <span class="deia2024"></span><br />
+        IEEE VR 2024 General Chairs, <span class="general2024"></span>
+        </p> 
+    </div> 
+
+    <div class="column_gfm right_gfm">
+        <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-financially-disadvantaged-phd-students/widget/large"></div>
+        <script defer src="https://www.gofundme.com/static/js/embed.js"></script> 
+    </div>
 </div>
 
