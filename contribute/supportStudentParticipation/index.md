@@ -58,7 +58,7 @@ title_separator: "|"
     </div> 
 
     <div class="column_gfm right_gfm">
-        <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-financially-disadvantaged-phd-students/widget/large"></div>
+        <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-financially-disadvantaged-phd-students/widget/medium"></div>
         <script defer src="https://www.gofundme.com/static/js/embed.js"></script> 
     </div>
 </div>
