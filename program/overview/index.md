@@ -181,7 +181,8 @@ title: "Program Overview"
 <div class="notice--info alignCenter bold" style="font-size: 0.9em !important;">
     Please note that all times are given in Orlando, Florida USA local time, EDT (UTC-4).
 </div>
-<div class="schedule-sat" aria-labelledby="March 16 - Workshop Schedule">   
+<h2>Saturday, 16 March 2023</h2>
+<div class="schedule-sat" aria-labelledby="March 16 - Workshop Schedule"> 
     {% for workshop in site.data.workshops %}  
         <h2 class="time-slot" style="grid-row: time-0800;">8:00am</h2>
         {% if workshop.id == 'XRGaming' %}
@@ -291,7 +292,9 @@ title: "Program Overview"
     {% endfor %}  
 </div> 
 
-<div class="schedule-sun" aria-labelledby="March 16 - Workshop Schedule">   
+<h2>Sunday, 17 March 2023</h2> 
+<div class="schedule-sun" aria-labelledby="March 16 - Workshop Schedule">  
+ 
     {% for workshop in site.data.workshops %}  
         <h2 class="time-slot" style="grid-row: time-0800;">8:00am</h2>
         {% if workshop.id == 'MASSXR' %}
