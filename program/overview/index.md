@@ -25,9 +25,9 @@ title: "Program Overview"
         background-color: #ffffff;
     }
 
-    /*************************
-    * GRID SCHEDULE LAYOUT
-    *************************/
+    /****************************************************************************************************
+    * GRID SCHEDULE LAYOUT: https://css-tricks.com/building-a-conference-schedule-with-css-grid
+    ****************************************************************************************************/
     @media screen and (min-width:700px) {
         .schedule-sat {
             display: grid;
@@ -67,6 +67,9 @@ title: "Program Overview"
     }
 
     .time-slot {
+        font-size:.75em;
+        font-weight: normal;
+        text-decoration: none;
         grid-column: times;
     }
 
@@ -120,8 +123,7 @@ title: "Program Overview"
      display: block;
     }
 
-    .session-title,
-    .time-slot {
+    .session-title {
         margin: 0;
         font-size: 1em;
     }
@@ -135,9 +137,7 @@ title: "Program Overview"
         }  
     }
 
-    .track-slot,
-    .time-slot {
-        font-weight: bold;
+    .track-slot{
         font-size:.75em;
     }
     .track-green {
