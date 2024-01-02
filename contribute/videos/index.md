@@ -162,7 +162,7 @@ title_separator: "|"
         <li>A working link to a downloadable one to two page PDF extended abstract.</li>
     </ul>
     <p>
-        Abstracts will be included in the proceedings and will be archived in the IEEE Digital Library, and therefore must be formatted using the IEEE Computer Society format described at <a href="http://junctionpublishing.org/vgtc/Tasks/camera.html"> http://junctionpublishing.org/vgtc/Tasks/camera.html</a>. Every submission will get one (single-blind) review by a video chair and will be discussed among all video chairs for the final decision. 
+        Abstracts will be included in the proceedings and will be archived in the IEEE Digital Library, and therefore must be formatted using the IEEE Computer Society format described at <a href=https://tc.computer.org/vgtc/publications/conference/" target="_blank">https://tc.computer.org/vgtc/publications/conference/</a>. Every submission will get one (single-blind) review by a video chair and will be discussed among all video chairs for the final decision. 
     </p>
     
     <h2 id="contacts">Contacts <div class="floatRight"><span class="videos"></span></div></h2>
