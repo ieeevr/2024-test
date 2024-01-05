@@ -61,8 +61,10 @@ title_separator: "|"
 
 <p class="alignCenter">
 	<a href="https://cvent.me/OwvY8x?RefId=Member" class="btn registration_button" style="" target="_blank">IEEE Member Registration</a>
-	<a href="https://cvent.me/924x3y?RefId=Non-Member" class="btn registration_button" style="" target="_blank">IEEE Non-Member Registration</a>
-	<a href="https://web.cvent.com/event/88db5352-a5af-4db9-ab08-f18f7d191ade/summary#" class="btn registration_button" style="" target="_blank">Modify Registration</a>
+	<a href="https://cvent.me/924x3y?RefId=Non-Member" class="btn registration_button" style="" target="_blank">IEEE Non-Member Registration</a>		
+</p>
+<p>
+    Registration payments for this conference will be handled through <b>CVENT.com</b>. Should you need to modify to registration in any way, please keep the email confirmation they send or visit their main page for this event: <a href="https://cvent.me/Bb9qmW" target="_new">https://cvent.me/Bb9qmW</a>
 </p>
 
 <div id="accordion">
