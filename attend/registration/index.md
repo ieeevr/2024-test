@@ -313,6 +313,8 @@ title_separator: "|"
 			<li><b>Banquet on Wednesday night, 20 March 2024</b>: $120</li>		
 		</ul>
 	</div>
+</div>
+<div>
 	<h4>Visa Invitation Letters</h4>
 	<div>
 		<p>
@@ -322,6 +324,8 @@ title_separator: "|"
 			Website for Visa information: <a href="https://ieeevr.org/2018/attend/visa">https://ieeevr.org/2018/attend/visa</a>
 		</p>
 	</div>	
+</div>
+<div>
 	<h4>Cancellation Policy</h4>
 	<div>
 		<p>
