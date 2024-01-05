@@ -31,7 +31,21 @@ title_separator: "|"
 		register.innerHTML  = "<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>";  
 
 	});
+
+	function openRegistration(type)
+	{
+		if (type == 'Member'){
+			alert('A window is about to open which will take you to an IEEE Sign in page.  After you sign in with your IEEE credentials, you will then be re-directed to the CVENT.COM Registration page.');
+			var newWind = window.open("https://cvent.me/OwvY8x?RefId=Member", 'Member Registration','titlebar=yes,toolbar=no,scrollbars=yes,width=700,height=700').focus
+		}
+		else{
+			alert('A window is about to open which take you to the CVENT.COM Registration page.');
+			var newWind = window.open("https://cvent.me/924x3y?RefId=Non-Member", 'Non-Member Registration','scrollbars=yes,width=700,height=700').focus
+		}
+			
+	}
 </script>
+
 <style>
  /*************************
     * Accordian Styling
@@ -60,8 +74,8 @@ title_separator: "|"
 </p>
 
 <p class="alignCenter">
-	<a href="https://cvent.me/OwvY8x?RefId=Member" class="btn registration_button" style="" target="_blank">IEEE Member Registration</a>
-	<a href="https://cvent.me/924x3y?RefId=Non-Member" class="btn registration_button" style="" target="_blank">IEEE Non-Member Registration</a>		
+	<a href="javascript:openRegistration('Member')" class="btn registration_button">IEEE Member Registration</a>
+	<a href="javascript:openRegistration('Non-Member')" class="btn registration_button">IEEE Non-Member Registration</a>		
 </p>
 <p>
     Registration payments for this conference will be handled through <b>CVENT.com</b>. Should you need to modify your registration in any way, please keep the email confirmation they send or visit their main page for this event: <a href="https://cvent.me/Bb9qmW" target="_new">https://cvent.me/Bb9qmW</a>
@@ -318,10 +332,7 @@ title_separator: "|"
 	<h4>Visa Invitation Letters</h4>
 	<div>
 		<p>
-			If you require a visa invitation letter, one will be automatically generated using your name, organization, and address. <span style="color: red;">Please note that if you request a visa letter, your registration cannot be cancelled.</span> Requests for letters containing additional information, such as date of birth or passport information (number, date of issue, expiration date, place of issue), may be e-mailed to: Carolina Cruz-Neira and Gregory Welch at <span class="general"></span>. 
-		</p>
-		<p>
-			Website for Visa information: <a href="https://ieeevr.org/2018/attend/visa">https://ieeevr.org/2018/attend/visa</a>
+			During the registration process you will be offered the opportunity to request a visa invitation letter. If you do, one will be automatically generated when your registration is complete, using your name, organization, and address.  <span style="color: red;">Please note that if you request a visa letter, your registration cannot be cancelled.</span> Requests for letters containing additional information, such as date of birth or passport information (number, date of issue, expiration date, place of issue), may be e-mailed to: Carolina Cruz-Neira and Gregory Welch at <span class="general"></span>. 
 		</p>
 	</div>	
 </div>
