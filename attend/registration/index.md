@@ -298,8 +298,8 @@ title_separator: "|"
 	<div>
 		<p>If you need to purchase additional tickets for the reception or banquet, the prices are:</p>
 		<ul>
-			<li><b>Reception on Monday night, 18 March 2024</b>: $65.00</li>
-			<li><b>Banquet on Wednesday night, 20 March 2024</b>: $120.00</li>		
+			<li><b>Reception on Monday night, 18 March 2024</b>: $65</li>
+			<li><b>Banquet on Wednesday night, 20 March 2024</b>: $120</li>		
 		</ul>
 	</div>
 	<h4>Visa Invitation Letters</h4>
