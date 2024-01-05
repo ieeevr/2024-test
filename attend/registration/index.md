@@ -329,13 +329,13 @@ title_separator: "|"
 	<h4>Cancellation Policy</h4>
 	<div>
 		<p>
-			All refund/cancellation requests must be received in writing to <span class="registration"></span> by <b>15 February, 2024 11:59 PM AoE Time</b>. There will be an administrative fee of US$150 for cancelled registrations and US$150 deducted for One-Day/Workshop/Tutorial registrations from each cancellation.
+			All refund/cancellation requests must be received in writing to <span class="registration"></span> by <b>15 February 2024 11:59 PM AoE Time</b>. There will be an administrative fee of US$150 for cancelled registrations and US$150 deducted for One-Day/Workshop/Tutorial registrations from each cancellation.
 		</p>
 		<p>
 			Note:
 			<ul>
 				<li>Author registrations are non-refundable.</li>
-				<li>Registrations where a Visa invitation was requested can not be cancelled.</li>
+				<li>Registrations where a Visa invitation was requested cannot be cancelled.</li>
 			</ul>
 		</p>
 	</div>
