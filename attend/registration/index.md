@@ -5,19 +5,19 @@ subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
 <script type="text/javascript">
-    $( function() {
-        $( "#accordion" ).accordion({
-        	collapsible: true,
-			heightStyle: "content",
-			header: "h4"
-        });
-    } );
+	(function($) {
+		$(function() {
+			$("#accordion > div").accordion({ header: "h4", heightStyle: "content", active: false, collapsible: true });
+		})
+	})(jQuery);
 
     $(document).ready(function(){
 		var email = ""; 
 		var domain = "ieeevr.org"; 
 		var domain_ieee = "computer.org"; 
 
+		$('#item-1').click(); 
+		
 		email = "program2024"; 		
 		$(".program").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");   
 	
@@ -68,7 +68,8 @@ title_separator: "|"
 </p>
 
 <div id="accordion">
-	<h4>IEEE VR 2024 Registration</h4>	
+<div>
+	<h4 id="item-1">IEEE VR 2024 Registration</h4>	
 	<div>		
 		<p>We are looking forward to you joining us for this special week of workshops, tutorials and presentations of innovative research and advances in VR and 3D interfaces. After reviewing the sections below, use the buttons above to register for IEEE VR 2024.</p>
 		<ul>
@@ -82,7 +83,8 @@ title_separator: "|"
 			Note: All deadlines are at 11:59 PM AOE on the stated date and all rates listed are in USD.			
 		</p>
 	</div>
-
+</div>
+<div>
 	<h4>Important Information for Paper Authors</h4>
 	<div>
 		<p>
@@ -97,7 +99,8 @@ title_separator: "|"
 			<li>For questions regarding paper submissions, please contact IEEE VR 2024 Program Chairs at <span class="program"></span>.</li>
 		</ul>
 	</div>
-
+</div>
+<div>
 	<h4>What is Included for Each Type of Registration?</h4>
 	<div>
 		<p>
@@ -144,7 +147,9 @@ title_separator: "|"
 				<li>Banquet on Wednesday night, March 20th</li>
 			</ul>
 		</p>
-	</div>	
+	</div>
+</div>
+<div>	
 	<h4>Fees: Early Registration Ending 14 February, 2024</h4>
 	<div>
 		<table class="registration-table">
@@ -204,6 +209,8 @@ title_separator: "|"
 			</tr>
 		</table>
 	</div>
+</div>
+<div>
 	<h4>Fees: Registration After 14 February 2024</h4>
 	<div>
 		<table class="registration-table">
@@ -259,6 +266,8 @@ title_separator: "|"
 			</tr>
 		</table>
 	</div>
+</div>
+<div>
 	<h4>Fees: Workshops Onsite Registration</h4>
 	<div>
 		<table class="registration-table">
@@ -294,6 +303,8 @@ title_separator: "|"
 			</tr>
 		</table>
 	</div>
+</div>
+<div>
 	<h4>Fees: Additional Reception/Banquet Tickets</h4>
 	<div>
 		<p>If you need to purchase additional tickets for the reception or banquet, the prices are:</p>
@@ -324,4 +335,5 @@ title_separator: "|"
 			</ul>
 		</p>
 	</div>
+</div>
 </div>
