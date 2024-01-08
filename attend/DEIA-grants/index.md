@@ -26,6 +26,8 @@ title: "Diversity, Equity, Inclusion, and Accessibility Grants"
     <p>
         IEEE VR 2024 is striving towards an inclusive and accessible environment to encourage conference participation by individuals of all identities and with diverse backgrounds. As part of this goal, we invite early career researchers to apply for a <strong>2024 Diversity, Equity, Inclusion, and Accessibility Grant</strong>. 
     </p>
+
+    <p class="alignCenter"><a href="https://forms.gle/ZqHLV2gKaL5Rada29" class="btn btn--info" target="_blank">Apply for a Grant</a>
     
     <h2>Who Should Apply?</h2>
     <p>
@@ -74,7 +76,7 @@ title: "Diversity, Equity, Inclusion, and Accessibility Grants"
 
     <h2>Student Volunteering Opportunities</h2>
     <p>
-        Eligible student researchers are also encouraged to apply for a Student Volunteer position (19th of January 2024 deadline), as those positions include financial benefits and offer a great opportunity to meet / engage with other students and the VR community in general.
+        Eligible student researchers are also encouraged to <a href="{{ "/contribute/studentVolunteers" | relative_url }}">apply for a Student Volunteer position</a> (19th of January 2024 deadline), as those positions include financial benefits and offer a great opportunity to meet / engage with other students and the VR community in general.
     </p>
     
     <h2>Questions?</h2>
