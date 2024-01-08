@@ -213,7 +213,7 @@ title_separator: "|"
 				<td>$380</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">IEEE Life Member</a></td>
+				<td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">IEEE Life Member</a><sup>*</sup></td>
 				<td>$465</td>
 				<td>$595</td>
 				<td>N/A</td>
@@ -222,6 +222,7 @@ title_separator: "|"
 				<td>N/A</td>
 			</tr>
 		</table>
+		<p class="tiny_print italic">* Verified life members will recieve a discount for the <b>Full Conference</b> as an author or attendee. If you are a life member and would like to register for one of the other options, please select <b>IEEE Member</b> in the CVENT.COM Registrant Information page under Select Your Member Type instead of <b>Life Member</b>.</p>
 	</div>
 </div>
 <div>
@@ -271,14 +272,15 @@ title_separator: "|"
 				<td>$460</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">IEEE Life Member</a></td>
+				<td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">IEEE Life Member</a><sup>*</sup></td>
 				<td>$715</td>
 				<td>N/A</td>
 				<td>N/A</td>
 				<td>N/A</td>
 				<td>N/A</td>
 			</tr>
-		</table>
+		</table>		
+		<p class="tiny_print italic">* Verified life members will recieve a discount for the <b>Full Conference</b> as an author or attendee. If you are a life member and would like to register for one of the other options, please select <b>IEEE Member</b> in the CVENT.COM Registrant Information page under Select Your Member Type instead of <b>Life Member</b>.</p>
 	</div>
 </div>
 <div>
@@ -311,11 +313,12 @@ title_separator: "|"
 				<td>$505</td>
 			</tr>
 			<tr>
-				<td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">IEEE Life Member</a></td>
+				<td><a href="https://www.ieee.org/communities/life-members/index.html" target="_blank">IEEE Life Member</a><sup>*</sup></td>
 				<td>N/A</td>
 				<td>N/A</td>
 			</tr>
-		</table>
+		</table>	
+		<p class="tiny_print italic">* Verified life members will recieve a discount for the <b>Full Conference</b> as an author or attendee. If you are a life member and would like to register for one of the other options, please select <b>IEEE Member</b> in the CVENT.COM Registrant Information page under Select Your Member Type instead of <b>Life Member</b>.</p>
 	</div>
 </div>
 <div>
@@ -332,7 +335,7 @@ title_separator: "|"
 	<h4>Visa Invitation Letters</h4>
 	<div>
 		<p>
-			During the registration process you will be offered the opportunity to request a visa invitation letter. If you do, one will be automatically generated when your registration is complete, using your name, organization, and address.  <span style="color: red;">Please note that if you request a visa letter, your registration cannot be cancelled.</span> Requests for letters containing additional information, such as date of birth or passport information (number, date of issue, expiration date, place of issue), may be e-mailed to: Carolina Cruz-Neira and Gregory Welch at <span class="general"></span>. 
+			During the registration process you will be offered the opportunity to request a visa invitation letter. If you do, one will be automatically generated when your registration is complete, using your name, organization, and address.  <span class="warning">Please note that if you request a visa letter, your registration cannot be cancelled.</span> Requests for letters containing additional information, such as date of birth or passport information (number, date of issue, expiration date, place of issue), may be e-mailed to: Carolina Cruz-Neira and Gregory Welch at <span class="general"></span>. 
 		</p>
 	</div>	
 </div>
