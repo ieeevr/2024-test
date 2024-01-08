@@ -46,27 +46,6 @@ title_separator: "|"
 	}
 </script>
 
-<style>
- /*************************
-    * Accordian Styling
-    *************************/ 
-    .ui-state-active,
-    .ui-widget-content .ui-state-active,
-    .ui-widget-header .ui-state-active,
-    a.ui-button:active,
-    .ui-button:active,
-    .ui-button.ui-state-active:hover {
-        border: 1px solid #12a6c9;
-        background: #12a6c9;
-        font-weight: normal;
-        color: #ffffff;
-    }
-    .ui-icon-background,
-    .ui-state-active .ui-icon-background {
-        border: #12a6c9;
-        background-color: #ffffff;
-    }
-</style>
 <h1 id="registration">Registration  <div class="floatRight"><span id="register"></span></div></h1>
 <p>
 	<strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br /> 
