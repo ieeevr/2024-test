@@ -9,7 +9,7 @@ title_separator: "|"
     <h1 id="call-for-workshop-papers"> Workshops </h1>
     <table class="styled-table">
         <tr>
-            <th>Workshops</th>
+            <th colspan="2">Workshops</th>
         </tr>
         {% for workshop in site.data.workshops %}
         <tr>
