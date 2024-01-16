@@ -236,26 +236,33 @@
 
     .emailIconSm{
         font-size: 0.6em;
-        color:#c90f7f;  
+        color:#c90c80;  
     }
 
     .emailTextSm{
         font-size: 0.7em;
-        color:#c90f7f; 
+        color:#c90c80; 
         font-weight: bold; 
         text-transform: uppercase;
+    }
+    .emailTextSm a{
+        color:#c90c80 ; 
     }
     
      .emailText{
         font-size: 0.9em;
-        color:#c90f7f; 
+        color:#c90c80; 
         font-weight: bold;
         text-transform: uppercase; 
+    }
+ 
+    .emailText a{
+        color:#c90c80; 
     }
 
     .emailIcon{
         font-size: 0.9em;
-        color:#c90f7f;  
+        color:#c90c80;  
     }
 
     .ieeevrmsgbox { /* Any boxes with the theme-primary color as background */
@@ -1114,7 +1121,10 @@ a.ui-button:active,
 .ui-state-active .ui-icon-background {
     border: #12a6c9;
     background-color: #ffffff;
-}    
+}   
+.ui-widget-content a {
+    color: #c90c80 !important;
+} 
 
 @media (max-width: 1260px) {
     .left_home {
