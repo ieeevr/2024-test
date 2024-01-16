@@ -20,7 +20,7 @@ title: "Program Overview"
 <div class="notice--info alignCenter bold" style="font-size: 0.9em !important;">
     Please note that all times are given in Orlando, Florida USA local time, EDT (UTC-4).
 </div>
-<div class="xsmall italic floatRight alignRight">Updated: 16 January 2024 <br>See highlights below.</div>
+<div class="small italic alignCenter"><strong>Updated:</strong> 16 January 2024 <br>See highlights below.</div>
 <div class="clear"></div>
 <div id="accordion">
     <div>
