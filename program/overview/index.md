@@ -2,7 +2,7 @@
 layout: ieeevr-default
 title: "Program Overview"
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}?version=20240108_1">
 <style>
     .styled-table {
         border-collapse: collapse;
@@ -408,58 +408,18 @@ title: "Program Overview"
 </style>
 
 
-<h1>Program Overview</h1>
-
-<a href="http://ieeevr.org/2023/assets/attend/IEEEVR2023_Program.pdf" class="btn btn--info" style="" target="_blank">Program</a> 
-
-
-
-<div style="text-align:center;">
-        <small><span style="color:gray;">Conference local time</span></small>
-        <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Asia%2FShanghai" width="100%" height="140" frameborder="0" seamless></iframe>
-        <!-- <iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Europe%2FLisbon&show=hour_minute" width="100%" height="140" frameborder="0" seamless></iframe> -->
+<h1 id="schedule-heading">Program Overview</h1>
+<div class="notice--info alignCenter bold" style="font-size: 0.9em !important;">
+    Please note that all times are given in Orlando, Florida USA local time, EDT (UTC-4).
 </div>
-
-<!-- <div style="">
-    <p style="font-size: 20px;">
-        Tentative Program
-    </p>
-    <img src="../../assets/images/program/Tentative_Program_Page1.png" alt="tentative program page 1" style="width: 90%"/>
-    <img src="../../assets/images/program/Tentative_Program_Page2.png" alt="tentative program page 2" style="width: 90%"/>
-</div> -->
-
-<div class="notic--warning">
-<h3 style="color: rgb(255, 45, 85);">Please note that all times are given in Shanghai, China local time (UTC+8).</h3>
-</div>
-
-<!-- <div class="notice--info" style="background-color: $theme-yellow ! important; color: $theme-text ! important;">
-    <strong>Locations</strong>
-    <p>
-        Locations in the program below refer to virtual places in the Virbela platform.
-    </p>
-    <center>
-        <p style="font-size: 20px;">
-            <a href="/2021/attend/virbela-instructions/" class="btn btn--primary" style="color: white;">Getting Started with Virbela</a>
-        </p>
-    </center>
-</div> -->
-<!--
-<div class="notice--warning">
-    <strong>Note:</strong>
-    <p>
-        The indications for locations in this program refer to virtual locations in the Virbela platform. Please find more information about and how to use Virbela <a href="/2021/attend/virbela-instructions/">here</a>.
-    </p>
-</div>
--->
-
-
-
+<div class="small italic alignCenter"><strong>Updated:</strong> 16 January 2024 <br>See highlights below.</div>
+<div class="clear"></div>
 <div>
-    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 25</label>
+    <div class="wrap-collabsible"> <input id="collapsible1" class="toggle" type="checkbox" checked> <label for="collapsible1" class="lbl-toggle">Saturday, March 16</label>
         <div class="collapsible-content">
             <div class="content-inner">
-                <center><strong>Shanghai, China, UTC+8</strong></center>
                 <div class="schedule-sat-25" aria-labelledby="schedule-heading">
+                 {% for workshop in site.data.workshops %}  
                     <span class="track-slot" aria-hidden="true" style="grid-column: times; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-1; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-2; grid-row: tracks;"></span>
@@ -467,86 +427,110 @@ title: "Program Overview"
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-4; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-5; grid-row: tracks;"></span>
                     <span class="track-slot" aria-hidden="true" style="grid-column: track-6; grid-row: tracks;"></span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-7; grid-row: tracks;"></span>
-                    <span class="track-slot" aria-hidden="true" style="grid-column: track-8; grid-row: tracks;"></span>
                     <p class="time-slot" style="grid-row: time-0800;">8:00</p>
-                    <div class="session session-1 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-0800 / time-1130;">
-                        <h3 class="session-title"><a href="/2023/program/tutorials/#T1">Tutorial [online]: Demystifying Academic Paper Reviews: How to Construct Quality Reviews for Peer-Reviewed Publications</a></h3>
-                        <span class="session-time">8:00 - 11:30</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2023/attend/virbela-instructions/#map">Auditorium A</a></span> -->
-                    </div>
-                    <p class="time-slot" style="grid-row: time-0815;">08:15</p>
-                    <div class="session session-2 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-0815 / time-1330;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#VR4Exergame">Workshop 2 [online]: First Workshop on VR for Exergaming (VR4Exergame)</a></h3>
-                        <span class="session-time">8:15 - 13:30</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
-                    </div>
-                    <p class="time-slot" style="grid-row: time-0830;">08:30</p>
-                    <div class="session session-3 track-green" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-1300;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#MASSXR">Workshop 1 [online]: Multi-modal Affective and Social Behavior Analysis and Synthesis in Extended Reality (MASSXR)</a></h3>
-                        <span class="session-time">8:30 - 13:10</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
-                    </div>
-                    <div class="session session-4 track-green" style="grid-column: track-4-start / track-4-end; grid-row: time-0830 / time-1130;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#TrainingXR">Workshop 4 [online]: 4th Annual Workshop on 3D Content Creation for Simulated Training in eXtended Reality (TrainingXR)</a></h3>
-                        <span class="session-time">8:30 - 11:30</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
-                    </div>
-                    <div class="session session-5 track-green" style="grid-column: track-6-start / track-6-end; grid-row: time-0830 / time-1830;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#XRIOS">Workshop 6 [online]: 2nd International Workshop on eXtended Reality for Industrial and Occupational Support (XRIOS)</a></h3>
-                        <span class="session-time">8:30 - 18:30</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
-                    </div>
-                    <p class="time-slot" style="grid-row: time-0900;">9:00</p>
-                    <div class="session session-6 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-0900 / time-1200;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#KELVAR">Workshop 3 [online]: KELVAR Workshop: K-12+ Embodied Learning through Virtual and Augmented Reality</a></h3>
-                        <span class="session-time">9:00 - 12:00</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
-                    </div>
-                    <div class="session session-7 track-green" style="grid-column: track-5-start / track-5-end; grid-row: time-0900 / time-1700;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#ENPT-XR">Workshop 5 [online]: Workshop on Emerging Novel Prototyping Techniques for XR (ENPT XR)</a></h3>
-                        <span class="session-time">9:00 - 17:00</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
-                    </div>
-                    <div class="session session-8 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-0845 / time-1230;">
-                        <h3 class="session-title"><a href="/2023/program/doctoral-consortium/">Doctoral Consortium</a></h3>
-                        <span class="session-time">8:45 - 12:30</span>
-                    </div>
-                    <p class="time-slot" style="grid-row: time-1000;">10:00</p>
-                    <p class="time-slot" style="grid-row: time-1100;">11:00</p>
-                    <p class="time-slot" style="grid-row: time-1130;">11:30</p>
+                    {% if workshop.id == 'XRGaming' %}                   
+                        <div class="session session-1 track-blue" style="grid-column: track-1; grid-row: time-0800 / time-1200;">                    
+                            <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                            <span class="session-time">8:00am - 12:00pm</span>
+                            <span class="session-track">Room: 1</span>
+                            <span class="session-presenter">{{ workshop.organiser }}</span>
+                        </div>
+                    {% endif %}
+                    {% if workshop.id == 'KELVAR' %}
+                        <div class="session session-2 track-blue" style="grid-column: track-2; grid-row: time-0800 / time-1200;">
+                            <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                            <span class="session-time">8:00am - 12:00pm</span>
+                            <span class="session-track">Room: 2</span>
+                            <span class="session-presenter">{{ workshop.organiser }}</span>
+                        </div>         
+                    {% endif %}
+                    {% if workshop.id == 'LocXR' %}
+                        <div class="session session-3 track-blue" style="grid-column: track-3; grid-row: time-0800 / time-1200;">
+                            <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                            <span class="session-time">8:00am - 12:00pm</span>
+                            <span class="session-track">Room: 3</span>
+                            <span class="session-presenter">{{ workshop.organiser }}</span>
+                        </div>        
+                    {% endif %}
+                    {% if workshop.id == 'CLEVER' %}
+                        <div class="session session-4 track-blue" style="grid-column: track-4; grid-row: time-0800 / time-1200;">
+                            <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                            <span class="session-time">8:00am - 12:00pm</span>
+                            <span class="session-track">Room: 4</span>
+                            <span class="session-presenter">{{ workshop.organiser }}</span>
+                        </div>
+                    {% endif %}
+                    {% if workshop.id == 'XRIOS' %}
+                        <div class="session session-5 track-blue" style="grid-column: track-5; grid-row: time-0800 / time-1200;">
+                            <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                            <span class="session-time">8:00am - 12:00pm</span>
+                            <span class="session-track">Room: 5</span>
+                            <span class="session-presenter">{{ workshop.organiser }}</span>
+                        </div>
+                    {% endif %}
+                    {% if workshop.id == 'IDEATExR' %}
+                        <div class="session session-6 track-blue" style="grid-column: track-6; grid-row: time-0800 / time-1200;">
+                            <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                            <span class="session-time">8:00am - 12:00pm</span>
+                            <span class="session-track">Room: 6</span>
+                            <span class="session-presenter">{{ workshop.organiser }}</span>
+                        </div>
+                    {% endif %}
+                          
                     <p class="time-slot" style="grid-row: time-1200;">12:00</p>
                     <p class="time-slot" style="grid-row: time-1300;">13:00</p>
-                    <p class="time-slot" style="grid-row: time-1400;">14:00</p>
-                    <div class="session session-9 track-green" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#XRHealth">Workshop 7 [online]: 2nd XR Health workshop - XR Technologies for Healthcare and Wellbeing (XR Health)</a></h3>
-                        <span class="session-time">14:00 - 17:00</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium B</a></span> -->
+                    <p class="time-slot" style="grid-row: time-1400;">13:30</p>
+                    {% if workshop.id == 'WISP' %}
+                    <div class="session session-8 track-blue" style="grid-column: track-1; grid-row: time-1330 / time-1730;">
+                        <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                        <span class="session-time">1:30pm - 5:30pm</span>
+                        <span class="session-track">Room: 1</span>
+                        <span class="session-presenter">{{ workshop.organiser }}</span>
+                    </div>            
+                {% endif %}
+                {% if workshop.id == 'VHCIE' %}
+                    <div class="session session-9 track-blue" style="grid-column: track-2; grid-row: time-1330 / time-1730;">
+                        <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                        <span class="session-time">1:30pm - 5:30pm</span>
+                        <span class="session-track">Room: 2</span>
+                        <span class="session-presenter">{{ workshop.organiser }}</span>
+                    </div>              
+                {% endif %}
+                {% if workshop.id == 'GEMINI' %}
+                    <div class="session session-10 track-blue" style="grid-column: track-3; grid-row: time-1330 / time-1730;">
+                        <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                        <span class="session-time">1:30pm - 5:30pm</span>
+                        <span class="session-track">Room: 3</span>
+                        <span class="session-presenter">{{ workshop.organiser }}</span>
+                    </div>            
+                {% endif %}
+                {% if workshop.id == 'ENPTXR' %}
+                    <div class="session session-11 track-blue" style="grid-column: track-4; grid-row: time-1330 / time-1730;">
+                        <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                        <span class="session-time">1:30pm - 5:30pm</span>
+                        <span class="session-track">Room: 4</span>
+                        <span class="session-presenter">{{ workshop.organiser }}</span>
                     </div>
-                    <div class="session session-10 track-green" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1700;">
-                        <h3 class="session-title"><a href="/2023/program/workshop/#ReDigiTS">Workshop 8 [hybrid]: 3D Reconstruction| Digital Twinning| and Simulation for Virtual Experiences (ReDigiTS)</a></h3>
-                        <span class="session-time">14:00 - 17:00</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium C</a></span> -->
+                {% endif %}
+                {% if workshop.id == 'WSR' %}
+                    <div class="session session-12 track-blue" style="grid-column: track-5; grid-row: time-1330 / time-1730;">
+                        <div class="overview_update small alignCenter">Update:<br />2024-01-16</div>
+                        <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                        <span class="session-time">1:30pm - 5:30pm</span>
+                        <span class="session-track">Room: 5</span>
+                        <span class="session-presenter">{{ workshop.organiser }}</span>
                     </div>
-                    <div class="session session-11 track-orange" style="grid-column: track-8-start / track-8-end; grid-row: time-1400 / time-1730;">
-                        <h3 class="session-title"><a href="/2023/program/doctoral-consortium/">Doctoral Consortium</a></h3>
-                        <span class="session-time">14:00 - 17:30</span>
+                {% endif %}
+                {% if workshop.id == 'IDEATExR' %}
+                    <div class="session session-13 track-blue" style="grid-column: track-6; grid-row: time-1330 / time-1730;">
+                        <h3 class="session-title"><a href="{{ '/program/workshop/' | relative_url }}#{{ workshop.id }}">{{ workshop.title }} ({{ workshop.id }})</a></h3><br/>
+                        <span class="session-time">1:30pm - 5:30pm</span>
+                        <span class="session-track">Room: 6</span>
+                        <span class="session-presenter">{{ workshop.organiser }}</span>
                     </div>
-                    <p class="time-slot" style="grid-row: time-1500;">15:00</p>
-                    <p class="time-slot" style="grid-row: time-1600;">16:00</p>
-                    <p class="time-slot" style="grid-row: time-1700;">17:00</p>
-                    <div class="session session-12 track-teal" style="grid-column: track-7-start / track-7-end; grid-row: time-1700 / time-1830;">
-                        <h3 class="session-title">
-                            <a href="/2023/program/tutorials/#T2">
-                                Tutorial [online]: Introduction to Building Social Virtual Reality with Ubiq
-                            </a>
-                        </h3>
-                        <span class="session-time">17:00 - 18:30</span>
-                        <!-- <span class="session-title"><b style="color: white;">Location:</b> <a href="/2021/attend/virbela-instructions/#map">Auditorium A</a></span> -->
-                    </div>
-                    <p class="time-slot" style="grid-row: time-1730;">17:30</p>
-                    <p class="time-slot" style="grid-row: time-1800;">18:00</p>
-                    <p class="time-slot" style="grid-row: time-1830;">18:30</p>
+                {% endif %} 
+                
+            {% endfor %}     
                 </div>
             </div>
         </div>
