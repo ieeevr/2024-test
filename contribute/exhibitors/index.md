@@ -16,13 +16,20 @@ title_separator: "|"
 <div>
     <h1>Exhibitors and Sponsors Call for Participation<div class="floatRight"><span class="sponsor"></span></div></h1>
     <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
+        <strong style="color: black">IEEE VR 2024: The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
             March 16-21, 2024 | Orlando, Florida USA
     </p>
     <p>
         More information coming soon, please watch this space.
     </p>
 </div>
+<iframe src="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_24-form.pdf" | relative_url }}" 
+        title="Sponsorship Prospectus"
+        width="100%"
+        height="1290px"
+        loading="lazy"
+        style="border:none;">
+</iframe>
  <script> /***
 
 <div>
@@ -53,7 +60,7 @@ title_separator: "|"
     <div class="exhibitors-column" style="display: flex; flex: 30%; justify-content: center; align-items: center;">
         <div style="">
             <p style="font-size: 20px;">
-                <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_23.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
+                <a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_24.pdf" | relative_url }}" class="btn btn--primary" style="border: 2px solid white;">Go for it!</a>
             </p>
         </div>
     </div>

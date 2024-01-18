@@ -17,7 +17,7 @@ title: "Diversity, Equity, Inclusion, and Accessibility Grants"
     <h1>Diversity, Equity, Inclusion, <br />and Accessibility Grants<div class="floatRight"><span class="deia"></span></div></h1>
     
     <p>
-        <strong style="color: black">IEEE VR 2024: the 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
+        <strong style="color: black">IEEE VR 2024: The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces </strong>
         <br>
         March 16-21, 2024 | Orlando, Florida USA
         <br>
@@ -71,7 +71,7 @@ title: "Diversity, Equity, Inclusion, and Accessibility Grants"
 
     <h2>Data Protection and Retention</h2>
     <p>
-        The information provided by the candidates will be accessible only to the members of the Diversity, Equity, Inclusion, and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2024. For this, please write an email to deia2024@ieeevr.org. After the 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Diversity, Equity, Inclusion, and Accessibility committee of future iterations of IEEE VR for statistical purposes.  
+        The information provided by the candidates will be accessible only to the members of the Diversity, Equity, Inclusion, and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2024. For this, please write an email to deia2024@ieeevr.org. After The 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Diversity, Equity, Inclusion, and Accessibility committee of future iterations of IEEE VR for statistical purposes.  
     </p>
 
     <h2>Student Volunteering Opportunities</h2>
