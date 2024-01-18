@@ -71,7 +71,7 @@ title: "Diversity, Equity, Inclusion, and Accessibility Grants"
 
     <h2>Data Protection and Retention</h2>
     <p>
-        The information provided by the candidates will be accessible only to the members of the Diversity, Equity, Inclusion, and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2024. For this, please write an email to deia2024@ieeevr.org. After The 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Diversity, Equity, Inclusion, and Accessibility committee of future iterations of IEEE VR for statistical purposes.  
+        The information provided by the candidates will be accessible only to the members of the Diversity, Equity, Inclusion, and Accessibility committee. The applicants can request for their information to be corrected or deleted at any time until 31st of May 2024. For this, please write an email to deia2024@ieeevr.org. After the 31st of May, candidates’ answers to the three essay questions as well as their institutional/company affiliation will be deleted. Their remaining data will be anonymized and provided to the Diversity, Equity, Inclusion, and Accessibility committee of future iterations of IEEE VR for statistical purposes.  
     </p>
 
     <h2>Student Volunteering Opportunities</h2>
