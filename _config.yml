@@ -71,10 +71,6 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : IEEEVR
-  description            : "The 31st IEEE Conference on Virtual Reality and 3D User Interfaces"
-  card                   : "summary_large_image"
-  site                   : "@IEEEVR"
-  title                  : "IEEE VR 2024"
   
 facebook:
   username               : IEEEVR
