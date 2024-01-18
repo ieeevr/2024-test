@@ -72,7 +72,7 @@ naver_site_verification  :
 twitter:
   username               : IEEEVR
   description            : "The 31st IEEE Conference on Virtual Reality and 3D User Interfaces"
-  card                   : "summary"
+  card                   : "summary_large_image"
   site                   : "@IEEEVR"
   title                  : "IEEE VR 2024"
   
