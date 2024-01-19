@@ -1,6 +1,6 @@
 ---
 layout: ieeevr-default
-title: "Call for Exhibitors and Sponsors"
+title: "Exhibitors and Sponsors Call for Participation"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
@@ -8,16 +8,13 @@ title_separator: "|"
     $(document).ready(function(){
 		var email = ""; 
 		var domain = "ieeevr.org"; 
-
-	    email = "sponsor2024"; 		
-		$(".sponsor").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");  
-
+	    
 	    email = "exhibitssponsors2024"; 		
 		$(".exhibitssponsors").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");            
 	});
 </script>
 <div>
-    <h1>Exhibitors and Sponsors Call for Participation<div class="floatRight"><span class="sponsor"></span></div></h1>
+    <h1>Exhibitors and Sponsors Call for Participation<div class="floatRight"><span class="exhibitssponsors2024"></span></div></h1>
     <p>
         <strong style="color: black">IEEE VR 2024: The 31<sup>st</sup> IEEE Conference on Virtual Reality and 3D User Interfaces</strong><br />
             March 16-21, 2024 | Orlando, Florida USA
