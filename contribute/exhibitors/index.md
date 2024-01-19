@@ -33,10 +33,10 @@ title_separator: "|"
 <p>	
     After reviewing the Sponsor/Exhibit Prospectus, download and complete the Sponsor/Exhibit Application form. Mail the completed form to <span class="exhibitssponsors"></span>
 </p>
-<iframe src="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_24.pdf" | relative_url }}" 
+<iframe src="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_24.pdf" | relative_url }}#zoom=70" 
         title="Sponsorship Prospectus"
         width="100%"
-        height="1290px"
+        height="850px"
         loading="lazy"
         style="border:none;">
 </iframe>
