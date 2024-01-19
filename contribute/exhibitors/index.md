@@ -31,7 +31,7 @@ title_separator: "|"
 	<a href="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_24-form.pdf" | relative_url }}" class="btn btn--primary" target="blank">Sponsor/Exhibit Application Form (Fillable PDF)</a>
 </p>
 <p>	
-    After reviewing the Sponsor/Exhibit Prospectus, download and complete the Sponsor/Exhibit Application form. Mail completed form to <span class="exhibitssponsors"></span>
+    After reviewing the Sponsor/Exhibit Prospectus, download and complete the Sponsor/Exhibit Application form. Mail the completed form to <span class="exhibitssponsors"></span>
 </p>
 <iframe src="{{"/assets/contribute/exhibitors/IEEE_VR_Sponsorship_Prospectus_24.pdf" | relative_url }}" 
         title="Sponsorship Prospectus"
