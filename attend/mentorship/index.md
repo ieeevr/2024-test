@@ -36,7 +36,7 @@ title: "Diversity, Equity, Inclusion, and Accessibility Grants"
         A sign-up <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4LFoJ5z48tf7sTRrdDsQkdK8ZUw6azjZa_iZFw2GrMUTfgQ/viewform?pli=1" target="_blank">form</a> will be shared with all <strong>registered attendees</strong> of the IEEE VR 2024 conference. Interested participants should complete this form by <strong>February 28, 2024</strong>. This deadline is to give time for the committee to match mentors and mentees before the conference begins. First-time attendees will receive priority consideration for a mentor, and the mentorship program will be open to the most compelling 40 applicants, based on need and order of application.
     </p>
     <div class="alignCenter">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4LFoJ5z48tf7sTRrdDsQkdK8ZUw6azjZa_iZFw2GrMUTfgQ/viewform?pli=1" class="btn btn--info" target="_blank" style="margin: 10px 0;" >Mentorship Program Application</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4LFoJ5z48tf7sTRrdDsQkdK8ZUw6azjZa_iZFw2GrMUTfgQ/viewform?pli=1" class="btn btn--info" target="_blank" style="margin: 10px 0;">Mentorship Program Application</a>
     </div>
 
     <h2>What is involved in this program?</h2>
