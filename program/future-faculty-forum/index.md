@@ -9,12 +9,12 @@ title: "Future Faculty Forum (F3)"
 		var domain = "ieeevr.org"; 
 
 		email = "xrfuturefaculty2024"; 		
-		xrfuturefaculty.innerHTML  = "<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>";	
+		$(".xrfuturefaculty").html("<span class='text-nowrap'><a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'><i class='fas fa-fw fa-envelope-square emailIconSm' style=''></i><i class='emailTextSm'>" + email + "@" + domain + "</a></i></span>");	
 	});
 </script>
 
 <div>
-    <h1>Future Faculty Forum (F3)<div class="floatRight"><span class="xrfuturefaculty"></span></div></h1>
+    <h1>Future Faculty Forum (F3) <div class="floatRight"><span class="xrfuturefaculty"></span></div></h1>
     
     <p>
         We are excited to host the second meeting of the XR Future Faculty Forum. This Forum aims to foster a vibrant community of scholars and educators who are eager to collaborate, learn, and advance together toward or in an academic career in the XR field. Forum meetings will be a means to introduce students who are interested in or curious about an academic career to professorship. And, Forum meetings will be a venue where colleagues can reconnect and collaboratively develop future generations of academic researchers. You can expect the following at F3 meetings:
@@ -40,6 +40,7 @@ title: "Future Faculty Forum (F3)"
         <li><a href="#CFP">Call for Participation</a></li>
         </ul>
     </p>
+
 
     <h2 id="overview">Overview & Goals</h2>
     <p>
@@ -136,7 +137,7 @@ title: "Future Faculty Forum (F3)"
     <a href="https://forms.gle/q1Kaqf3HUGkPfEWG6" target="_blank">https://forms.gle/q1Kaqf3HUGkPfEWG6</a>, or send us an email at <a href="mailto:futurefacultyforum@gmail.com">futurefacultyforum@gmail.com</a>.
     </p>
     <div>
-	<h2>Organizers: XR Future Faculty Forum Chairs  <div class="floatRight"><span id="xrfuturefaculty"></span></div></h2>
+	<h2>Organizers: XR Future Faculty Forum Chairs  <div class="floatRight"><span class="xrfuturefaculty"></span></div></h2>
 	<ul>
 		<li><span class="bold">Matt Gottsacker</span> &#x2012; <i>University of Central Florida, USA</i></li>
 		<li><span class="bold">Cassidy R. Nelson</span> &#x2012; <i>Virginia Tech, USA</i></li>
