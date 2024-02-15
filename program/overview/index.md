@@ -2,7 +2,7 @@
 layout: ieeevr-default
 title: "Program Overview"
 ---
-<link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}?version=20240108_1">
+<link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}?version=20240115_1">
     
 <script>
     (function($) {
