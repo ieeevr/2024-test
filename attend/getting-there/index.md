@@ -1,9 +1,9 @@
 ---
 layout: ieeevr-default
-title: "Getting There & Getting Around"
+title: "Getting Around at IEEE VR"
 ---
 <div>
-    <h1>Getting around at IEEE VR</h1>
+    <h1>Getting Around at IEEE VR</h1>
     <h2>Arriving</h2>    
     <div class="floatLeft padding_right_small" style="max-width:45%;">
         <img src= "{{ "/assets/images/Contemporary.jpeg" | relative_url }}"  style="border-radius: 20px;" alt="Area Map">
