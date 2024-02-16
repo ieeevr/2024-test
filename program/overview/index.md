@@ -333,11 +333,6 @@ title: "Program Overview"
             <div class="session session-23 track-f3" style="grid-column: track-7; grid-row: time-1645 / time-1700;">                        
                 <h3 class="session-title smalltext">F3 | Closing Remarks & Feedback for Future F3 Events</h3>
                 <span class="session-time smalltext">4:45&nbsp;pm - 5:00&nbsp;pm</span>
-            </div>          
-            <p class="time-slot" style="grid-row: time-1700;">5:00&nbsp;pm</p>    
-            <div class="session session-23 track-f3" style="grid-column: track-7; grid-row: time-1700 / time-1900;">                        
-                <h3 class="session-title smalltext">F3 | Informal Dinner/Social Event</h3>
-                <span class="session-time smalltext">5:00 pm - ??</span>
             </div> 
         </div> 
     </div> 
