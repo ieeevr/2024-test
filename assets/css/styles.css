@@ -316,6 +316,9 @@
         .img-right{
             width: 100%;
         }
+        .text-left{
+            width: 100%;
+        }
     }
 
     @media screen and (max-width: 900px) {
