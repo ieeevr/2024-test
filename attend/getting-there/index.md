@@ -4,11 +4,8 @@ title: "Getting Around at IEEE VR"
 ---
 <div>
     <h1>Getting Around at IEEE VR</h1>
-    <h2>Arriving</h2>    
-    <div class="floatLeft padding_right_small" style="max-width:45%;">
-        <img src= "{{ "/assets/images/Contemporary.jpeg" | relative_url }}"  style="border-radius: 20px;" alt="Area Map">
-    </div>
-    <div class="floatLeft" style="max-width:55%;">
+    <h2>Arriving</h2>        
+    <div class="column text-left">
     <p>
         IEEE VR 2024 will take place at Walt Disney World's <a href="https://disneyworld.disney.go.com/resorts/contemporary-resort/" target="_blank"> Contemporary Resort</a>.
     </p>
@@ -21,6 +18,9 @@ title: "Getting Around at IEEE VR"
         </span>
         </p>
     </div>    
+    <div class="column img-right">
+        <img src= "{{ "/assets/images/Contemporary.jpeg" | relative_url }}"  style="border-radius: 20px;" alt="Area Map">
+    </div>
     <div class="clear padding_top_small">    
     <p>Attendees can fly to <a href="https://www.orlandoairports.net/" target="_blank">Orlando International Airport (MCO)</a>. There are several different ways to get to Walt Disney's Contemporary Resort from Orlando International Airport (MCO).</p>
     <ul>
