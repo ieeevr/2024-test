@@ -3,14 +3,11 @@ layout: ieeevr-default
 title: "Keynote Speakers"
 ---
 
- <script> /***
-
 <h1>Keynote Speakers</h1>
 <div>
     <table class="styled-table">
         <tr>
-            <th></th>
-            <th>Date</th>
+            <th colspan="2">Speakers</th>
         </tr>
         {% for keynote in site.data.keynotes %}
         <tr>
@@ -70,5 +67,4 @@ title: "Keynote Speakers"
     <hr>
 </div>
 {% endfor %}
-***/</script>
 
