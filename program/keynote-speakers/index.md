@@ -7,10 +7,11 @@ title: "Keynote Speakers"
 <div>
     <table class="styled-table">
         <tr>
-            <th colspan="2">Speakers</th>
+            <th colspan="3">Speakers</th>
         </tr>
         {% for keynote in site.data.keynotes %}
         <tr>
+            <td><img src="{{ keynote.thumbnail }}" alt="Photo of {{ keynote.name }}"></td>
             <td><a href="#{{ keynote.id }}">{{ keynote.name }}</a></td>
             <td style="font-size: 0.875em;">{{ keynote.day }} - {{ keynote.start }} ({{ keynote.timezone }})</td>
         </tr>
