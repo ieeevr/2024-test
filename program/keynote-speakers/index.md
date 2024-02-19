@@ -11,7 +11,7 @@ title: "Keynote Speakers"
         </tr>
         {% for keynote in site.data.keynotes %}
         <tr>
-            <td><img src="{{ keynote.thumbnail }}" alt="Photo of {{ keynote.name }}"></td>
+            <td><a href="#{{ keynote.id }}"><img src="{{ keynote.thumbnail }}" alt="Photo of {{ keynote.name }}"></a></td>
             <td><a href="#{{ keynote.id }}">{{ keynote.name }}</a></td>
             <td style="font-size: 0.875em;">{{ keynote.day }} - {{ keynote.start }} ({{ keynote.timezone }})</td>
         </tr>
