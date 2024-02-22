@@ -19,7 +19,7 @@ title: "Getting Around at IEEE VR"
         </p>
     </div>    
     <div class="column img-right">
-        <img src= "{{ "/assets/images/Contemporary.png" | relative_url }}"  style="border-radius: 20px;" alt="Contemporaty Resort">
+        <img src= "{{ "/assets/images/Contemporary.png" | relative_url }}"  style="border-radius: 20px;" alt="Contemporary Resort">
     </div>
     <div class="clear padding_top_small">    
         <p>Attendees can fly to <a href="https://www.orlandoairports.net/" target="_blank">Orlando International Airport (MCO)</a>. There are several ways to get to Walt Disney's Contemporary Resort from Orlando International Airport (MCO).</p>
@@ -38,13 +38,24 @@ title: "Getting Around at IEEE VR"
             Check out <a href="https://orlandoairports.net/parking-transportation/" target="_blank">Orlando international Airport MCO Parking & Transportation</a> for approximate pricing and more information on ground transport.
         </p>
         <h2>Getting Around During the Week</h2>
-        <div class="ieeevrmsgbox bold">
-            <div class = "ieeevrmsgboxInside small_emphasize">
-            For attendees not staying overnight at the Contemporary Resort, there will be a very limited number of parking spaces available. Once the spots are filled, all additional cars will be turned away, causing a considerable time delay of 45-60 minutes for attendees.  If you are local or staying in a hotel away from the Contemporary Resort, plan on taking Disney transportation, ride shares such as Uber or Lyft, or a taxi. <br/><br/>Complimentary self-parking for attendees staying overnight at the Contemporary Resort is guaranteed.
+        <h3>Transportation and Parking</h3>
+        <div class="ieeevrmsgbox">
+            <div class = "ieeevrmsgboxInsideNoColor small_emphasize">
+                <div class="paddingBottomxSmall" style="max-width: 400px; margin: auto;"><img src= "{{ "/assets/images/parking/parking-icon.png" | relative_url }}" alt="Parking Notice" ></div>
+                <div class= "bold alignCenter paddingBottomxSmall">
+                    <div style="max-width: 500px; margin: auto;">
+                        For attendees <span class="underline">not staying overnight at the Contemporary Resort</span>, there will be <span class="pink">a very limited number of parking spaces available.</span>
+                    </div>
+                </div>
+                <div class="paddingBottomxSmall">
+                    Once the spots are filled, all additional cars will be turned away, causing a considerable time delay of 45-60 minutes for attendees.  If you are local or staying in a hotel away from the Contemporary Resort, plan on taking Disney transportation, ride shares such as Uber or Lyft, or a taxi.
+                </div>
+                <div class="pink bold alignCenter">
+                Complimentary self-parking for attendees staying overnight at the Contemporary Resort is guaranteed.
+                </div>
             </div>
         </div>
         <p>
-            <h3>Transportation and Parking</h3>
             Once within the Walt Disney Resort area, guests can move to the different areas via Disney complimentary transportation.
             <ul>
                 <li>Parking at Walt Disney World’s Transportation and Ticket Center (TTC) is available for a fee, see pricing at <a href="https://disneyworld.disney.go.com/guest-services/parking/" target="_blank">Disney World's Parking Information</a>. At the TTC, you can board the Resort Monorail which goes directly through and stops within the Contemporary Resort's hotel. The Contemporary Resort is the fourth stop on the Resort Monorail and it takes about 20 minutes.</li>   
