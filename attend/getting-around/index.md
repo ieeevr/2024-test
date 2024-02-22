@@ -60,7 +60,7 @@ title: "Getting Around at IEEE VR"
             <ul>
                 <li>Parking at Walt Disney World’s Transportation and Ticket Center (TTC) is available for a fee, see pricing at <a href="https://disneyworld.disney.go.com/guest-services/parking/" target="_blank">Disney World's Parking Information</a>. At the TTC, you can board the Resort Monorail which goes directly through and stops within the Contemporary Resort's hotel. The Contemporary Resort is the fourth stop on the Resort Monorail and it takes about 20 minutes.</li>   
                 <li>Disney Springs has free parking and complementary bus service to the Contemporary Resort. There is a bus stop right in front of the hotel. Allow at least an hour to park, catch the bus and reach the conference.</li>
-                <li>Attendees staying at one of the other Disney Report Hotels will have various transportation options depending on where they stay.  When you check in, ask about the best option -- and timing -- to get to the Contemporary Resort.</li>
+                <li>Attendees staying at one of the other Disney Resort Hotels will have various transportation options depending on where they stay.  When you check in, ask about the best option -- and timing -- to get to the Contemporary Resort.</li>
                 <li>Designated parking areas are available throughout Walt Disney World Resort for <strong>Guests with disabilities</strong>. A valid disability parking permit is required.</li>
             </ul>
         </p>
