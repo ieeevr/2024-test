@@ -60,7 +60,7 @@ title: "Getting Around at IEEE VR"
             <li><a href="https://allears.net/walt-disney-worlds-transportation-and-ticket-center-ttc/" target="_blank">All Ears Website: Info on the Transportation and Ticket Center (TTC)</a></li>
             <li><a href="https://disneyworld.disney.go.com/guest-services/bus-transportation/" target="_blank">Disney Bus Transportation</a></li>
             <li><a href="https://disneyworld.disney.go.com/guest-services/resort-transportation/" target="_blank">Disney Resort Transportation</a></li>
-            <li><a heref="https://disneyworld.disney.go.com/guest-services/guests-with-disabilities/" target="_blank">Disney Services for Guests with Disabilities</a></li>
+            <li><a href="https://disneyworld.disney.go.com/guest-services/guests-with-disabilities/" target="_blank">Disney Services for Guests with Disabilities</a></li>
         </ul>
     <p>    
     <iframe class="align-center" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224451.6490291354!2d-81.62069771252945!3d28.477829523059874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd7ee634caa5f7%3A0x7f1aa428ffd54db!2sDisney&#39;s%20Contemporary%20Resort!5e0!3m2!1sen!2sus!4v1686838845318!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
