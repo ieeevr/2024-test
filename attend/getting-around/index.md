@@ -43,7 +43,7 @@ title: "Getting Around at IEEE VR"
             <div class = "ieeevrmsgboxInsideNoColor small_emphasize">
                 <div class="paddingBottomxSmall" style="max-width: 400px; margin: auto;"><img src= "{{ "/assets/images/transportation/parking-icon.png" | relative_url }}" alt="Parking Notice" ></div>
                 <div class= "bold alignCenter paddingBottomxSmall">
-                    <div style="max-width: 500px; margin: auto;">
+                    <div style="max-width: 600px; margin: auto;">
                         For attendees <span class="underline">not staying overnight at the Contemporary Resort</span>, there will be <span class="pink">a very limited number of parking spaces available.</span>
                     </div>
                 </div>
