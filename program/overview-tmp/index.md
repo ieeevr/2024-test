@@ -885,7 +885,7 @@ title: "Program Overview"
             <div class="session track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1800 / time-2100;">
                 <h3 class="session-title">Conference Banquet with Keynote Speaker</h3>
                 <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-richir">Prof. Simon Richir</a></span>
-                <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-richir">XR Access: Making Virtual and Augmented Reality Accessible to People with Disabilities</a></span>
+                <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-richir">The Laval Phenomenon: A Deep Dive into France's VR Capital</a></span>
                 <span class="session-time">18:00-21:00</span>
                 <span class="session-track">Fantasia Ballroom</span>
             </div>            
