@@ -624,7 +624,7 @@ title: "Program Overview"
             </div>                         
             <p class="time-slot" style="grid-row: time-1015;">10:15</p>
             <div class="session track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1015 / time-1115;">
-                <h3 class="session-title">Keynote Speaker: <a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-azenkot">Prof. Shiri Azenkot</a></h3>                
+                <h3 class="session-title">Keynote Speaker<br/><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-azenkot">Prof. Shiri Azenkot</a></h3>                
                 <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-azenkot">XR Access: Making Virtual and Augmented Reality Accessible to People with Disabilities</a></span>
                 <span class="session-time">10:15-11:15</span>                
             </div> 
@@ -728,7 +728,7 @@ title: "Program Overview"
             </div>     
             <p class="time-slot" style="grid-row: time-1015;">10:15</p>            
              <div class="session track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1015 / time-1115;">
-                <h3 class="session-title">Keynote Speaker: <a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-tschanz">Michael Tschanz</a></h3>                
+                <h3 class="session-title">Keynote Speaker<br/><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-tschanz">Michael Tschanz</a></h3>                
                 <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-tschanz">Disney's Industrial Controls Design and Data Analytics Ecosystem</a></span>
                 <span class="session-time">10:15-11:15</span>                
             </div> 
@@ -883,8 +883,8 @@ title: "Program Overview"
             </div> 
             <p class="time-slot" style="grid-row: time-1800;">18:00</p>                
             <div class="session track-green" style="grid-column: track-1-start / track-3-end; grid-row: time-1800 / time-2100;">
-                <h3 class="session-title">Conference Banquet</h3>
-                <span class="session-title">Keynote Speaker: <a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-richir">Prof. Simon Richir</a></span>
+                <h3 class="session-title">Conference Banquet with Keynote Speaker</h3>
+                <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-richir">Prof. Simon Richir</a></span>
                 <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-richir">XR Access: Making Virtual and Augmented Reality Accessible to People with Disabilities</a></span>
                 <span class="session-time">18:00-21:00</span>
                 <span class="session-track">Fantasia Ballroom</span>
