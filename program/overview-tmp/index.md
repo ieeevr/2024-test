@@ -715,6 +715,7 @@ title: "Program Overview"
             <div class="session track-main" style="grid-column: track-1-start / track-3-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Opening & Awards</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom</span>
             </div>            
             <p class="time-slot" style="grid-row: time-0945;">9:45</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-0945 / time-1015;">
@@ -728,7 +729,8 @@ title: "Program Overview"
             <div class="session track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1015 / time-1115;">
                 <span class="session-title">Keynote Speaker<br/><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-azenkot">Prof. Shiri Azenkot</a></span>                
                 <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-azenkot">XR Access: Making Virtual and Augmented Reality Accessible to People with Disabilities</a></span>
-                <span class="session-time">10:15-11:15</span>                
+                <span class="session-time">10:15-11:15</span>   
+                <span class="session-time">Room: Fantasia Ballroom</span>             
             </div> 
             <p class="time-slot" style="grid-row: time-1115;">11:15</p>  
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1115 / time-1130;">
@@ -739,6 +741,7 @@ title: "Program Overview"
                 <span class="session-title">Special Session</span>
                 <span class="session-title">VR for All: Achieving Longterm DEIA Success in the VR Community</span>
                 <span class="session-time">11:30-12:30</span>
+                <span class="session-time">Room: Fantasia Ballroom</span>
             </div>             
             <p class="time-slot" style="grid-row: time-1230;">12:30</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1330;">
@@ -753,19 +756,23 @@ title: "Program Overview"
             <div class="session track-demos" style="grid-column: track-1-start / track-3-end; grid-row: time-1330 / time-1400;">
                 <span class="session-title">Research Demos and 3DUI Contest Fast Forward</span>
                 <span class="session-time">13:30-14:00</span>
+                <span class="session-time">Room: Fantasia Ballroom</span>
             </div>  
             <p class="time-slot" style="grid-row: time-1400;">14:00</p>
             <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
                 <span class="session-title">Papers 41</span>
                 <span class="session-time">14:00-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
                 <span class="session-title">Papers 45</span>
                 <span class="session-time">14:00-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
                 <span class="session-title">Papers 46</span>
                 <span class="session-time">14:00-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1500;">15:00</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1500 / time-1530;">
@@ -779,14 +786,17 @@ title: "Program Overview"
             <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1700;">
                 <span class="session-title">Papers 15</span>
                 <span class="session-time">15:30-17:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
                 <span class="session-title">Papers 30</span>
                 <span class="session-time">15:30-17:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-1700;">
                 <span class="session-title">Papers 33</span>
                 <span class="session-time">15:30-17:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div>  
             <p class="time-slot" style="grid-row: time-1700;">17:00</p>                
             <div class="session track-pd3dui" style="grid-column: track-4-start; grid-row: time-1700 / time-1730;">
@@ -797,6 +807,7 @@ title: "Program Overview"
             <div class="session track-main" style="grid-column: track-1-start / track-3-end; grid-row: time-1730 / time-1900;">
                 <span class="session-title">Welcome Reception</span>
                 <span class="session-time">17:30-19:00</span>
+                <span class="session-time">Room: Fantasia Ballroom</span>
             </div>  
             <div class="session track-pd3dui" style="grid-column: track-4-start; grid-row: time-1730 / time-1900;">
                 <span class="session-title">Research Demos & 3DUI Contest</span>
@@ -817,14 +828,17 @@ title: "Program Overview"
             <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Papers 7</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div> 
             <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Papers 8</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div> 
             <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Papers 19</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div> 
             <p class="time-slot" style="grid-row: time-0945;">9:45</p>  
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-0945 / time-1015;">
@@ -838,7 +852,8 @@ title: "Program Overview"
              <div class="session track-keynote" style="grid-column: track-1-start / track-3-end; grid-row: time-1015 / time-1115;">
                 <span class="session-title">Keynote Speaker<br/><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-tschanz">Michael Tschanz</a></span>                
                 <span class="session-title"><a href="{{ '/program/keynote-speakers/' | relative_url }}#keynote-tschanz">Disney's Industrial Controls Design and Data Analytics Ecosystem</a></span>
-                <span class="session-time">10:15-11:15</span>                
+                <span class="session-time">10:15-11:15</span> 
+                <span class="session-time">Room: Fantasia Ballroom</span>               
             </div> 
             <p class="time-slot" style="grid-row: time-1115;">11:15</p>  
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1115 / time-1130;">
@@ -849,6 +864,7 @@ title: "Program Overview"
                 <span class="session-title">Special Session</span>
                 <span class="session-title">The Reviewing Crisis</span>
                 <span class="session-time">11:30-12:30</span>
+                <span class="session-time">Room: Fantasia Ballroom</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1230;">12:30</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1330;">
@@ -863,14 +879,17 @@ title: "Program Overview"
             <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1330 / time-1500;">
                 <span class="session-title">Papers 43</span>
                 <span class="session-time">13:30-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1330 / time-1500;">
                 <span class="session-title">Papers 1</span>
                 <span class="session-time">13:30-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1330 / time-1500;">
                 <span class="session-title">Papers 5</span>
                 <span class="session-time">13:30-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1500;">15:00</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1500 / time-1530;">
@@ -884,14 +903,17 @@ title: "Program Overview"
             <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1700;">
                 <span class="session-title">Papers 6</span>
                 <span class="session-time">15:30-17:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
                 <span class="session-title">Papers 36</span>
                 <span class="session-time">15:30-17:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-1700;">
                 <span class="session-title">Papers 27</span>
                 <span class="session-time">15:30-17:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div>  
             <p class="time-slot" style="grid-row: time-1700;">17:00</p>                
             <div class="session track-pd3dui" style="grid-column: track-4-start; grid-row: time-1700 / time-1730;">
@@ -913,14 +935,17 @@ title: "Program Overview"
             <div class="session session-1 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Papers 23</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session session-2 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Papers 24</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session session-3 track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0945;">
                 <span class="session-title">Papers 25</span>
                 <span class="session-time">8:30-9:45</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div>   
             <p class="time-slot" style="grid-row: time-0945;">9:45</p>
             <div class="session session-4 track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-0945 / time-1015;">
@@ -934,14 +959,17 @@ title: "Program Overview"
            <div class="session session-1 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1015 / time-1115;">
                 <span class="session-title">Papers 3</span>
                 <span class="session-time">10:15-11:15</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session session-2 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1015 / time-1115;">
                 <span class="session-title">Papers 4</span>
                 <span class="session-time">10:15-11:15</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session session-3 track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1015 / time-1115;">
                 <span class="session-title">Papers 10</span>
                 <span class="session-time">10:15-11:15</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div>   
             <p class="time-slot" style="grid-row: time-1115;">11:15</p>
             <div class="session session-6 track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1115 / time-1130;">
@@ -951,14 +979,17 @@ title: "Program Overview"
             <div class="session session-1 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1130 / time-1230;">
                 <span class="session-title">Papers 20</span>
                 <span class="session-time">11:30-12:30</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session session-2 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1130 / time-1230;">
                 <span class="session-title">Papers 21</span>
                 <span class="session-time">11:30-12:30</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session session-3 track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1230;">
                 <span class="session-title">Papers 22</span>
                 <span class="session-time">11:30-12:30</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1230;">12:30</p>
             <div class="session session-8 track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1330;">
@@ -973,14 +1004,17 @@ title: "Program Overview"
             <div class="session session-9 track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1330 / time-1500;">
                 <span class="session-title">Papers 34</span>
                 <span class="session-time">13:30-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, G</span>
             </div>  
             <div class="session session-10 track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1330 / time-1500;">
                 <span class="session-title">Papers 11</span>
                 <span class="session-time">13:30-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, H</span>
             </div>  
             <div class="session session-11 track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1330 / time-1500;">
                 <span class="session-title">Papers 42</span>
                 <span class="session-time">13:30-15:00</span>
+                <span class="session-time">Room: Fantasia Ballroom, J</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1500;">15:00</p> 
             <div class="session session-12 track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1500 / time-1530;">
