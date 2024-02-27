@@ -29,7 +29,7 @@
         [time-1700] 0.5fr [time-1730];
         
         grid-template-columns:
-        [times] 2em [track-0-start] 3.5em [track-0-end track-1-start] 0.25fr [track-1-end track-2-start] 0.25fr [track-2-end track-3-start] 0.25fr [track-3-end track-4-start] 0.25fr [track-4-end track-5-start] 0.25fr [track-5-end track-6-start] 0.25fr [track-6-end track-7-start] 0.25fr [track-7-end];
+        [times] 2.1em [track-0-start] 3.5em [track-0-end track-1-start] 0.25fr [track-1-end track-2-start] 0.25fr [track-2-end track-3-start] 0.25fr [track-3-end track-4-start] 0.25fr [track-4-end track-5-start] 0.25fr [track-5-end track-6-start] 0.25fr [track-6-end track-7-start] 0.25fr [track-7-end];
     }
 
     .schedule-sun {
@@ -50,7 +50,7 @@
             [time-1700] 0.25fr [time-1715] 0.25fr [time-1730];
         
         grid-template-columns:
-        [times] 2em [track-0-start] 3.5em [track-0-end track-1-start] .1fr [track-1-end track-2-start] .1fr [track-2-end track-3-start] .1fr [track-3-end track-4-start] .1fr [track-4-end track-5-start] .1fr [track-5-end track-6-start] .1fr [track-6-end track-7-start] .1fr [track-7-end track-8-start].1fr [track-8-end];
+        [times] 2.1em [track-0-start] 3.5em [track-0-end track-1-start] .2fr [track-1-end track-2-start] .2fr [track-2-end track-3-start] .2fr [track-3-end track-4-start] .2fr [track-4-end track-5-start] .2fr [track-5-end track-6-start] .2fr [track-6-end track-7-start] .2fr [track-7-end track-8-start] .2fr [track-8-end];
     }
     
     .schedule-mon {
@@ -72,7 +72,7 @@
             [time-1900];
 
             grid-template-columns:
-            [times] 2em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
+            [times] 2.1em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
     }
     
     .schedule-tue {
@@ -94,7 +94,7 @@
             [time-1900];
 
             grid-template-columns:
-            [times] 2em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
+            [times] 2.1em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
         }
     
     .schedule-wed {
@@ -117,7 +117,7 @@
             [time-2000] 0.25fr [time-2015] 0.25fr [time-2030] 0.25fr [time-2045] 0.25fr [time-2100];
            
             grid-template-columns:
-            [times] 2em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
+            [times] 2.1em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
         }
     
     .schedule-thu {
@@ -137,7 +137,7 @@
             [time-1700];
             
             grid-template-columns:
-            [times] 2em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
+            [times] 2.1em [track-0-start] 3.5em [track-0-end track-1-start] .5fr [track-1-end track-2-start] .5fr [track-2-end track-3-start] .5fr [track-3-end track-4-start] .35fr  [track-4-end];
         }
 }
 
@@ -168,7 +168,7 @@
 
 /* Small-screen & fallback styles */
 .session {
-    margin-bottom:  1em;
+    margin-bottom: 1em;
 }
 
 @supports( display:grid ) {
@@ -184,7 +184,7 @@
 * Design-y stuff ot particularly important to the demo
 *************************/
 .session {
-    padding: .5em;
+    padding: .3em .5em;
     border-radius: 2px;
     font-size: 14px;
     box-shadow:
@@ -200,6 +200,21 @@
     font-size: .85em !important;
 }
 
+.session-title {
+    margin: 0;
+    line-height: 1.2;
+    font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    font-weight: bold;
+}
+
+.session-title a {
+    color: #fff;
+    text-decoration-style: solid;
+
+    &:hover {
+        text-decoration-style: none;
+    }  
+}
 .smalltext{    
     font-size: .85em !important;
 }
@@ -211,51 +226,48 @@
     margin-bottom: 5px !important;
     font-size: .8em !important;}
 
-.session-title {
-    margin: 0;
-    font-size: 1em;
-}
 
-.session-title a {
-    color: #fff;
-    text-decoration-style: solid;
-
-    &:hover {
-        text-decoration-style: none;
-    }  
-}
 
 .track-slot{
     font-size:.75em;
 }
 
 .track-main {
-    background-color: #1fb55a;
-    color: #fff;
+    background-color: #04c585;
+    color: #000;
+}
+.track-main a{    
+    color: #000 !important;
 }
 
 .track-workshop {
-    background-color: #0c5789;
+    background-color: #0d7ea2;
     color: #fff;
 }
 
 .track-keynote {
-    background-color: #EF127F;
+    background-color: #d72d79;
     color: #fff;
 }
 
 .track-papers {
-    background-color: #c488c3;
-    color: #fff;
+    background-color: #d0c3e9;
+    color: #000;
+}
+.track-papers a{    
+    color: #000 !important;
 }
 
 .track-special-session{
-    background-color: #EF8E81;
-    color: #fff;
+    background-color: #fbbaa7;
+    color: #000;
+}
+.track-special-session a{    
+    color: #000 !important;
 }
 
 .track-demos{
-    background-color: #87D0F1;
+    background-color: #52daf2;
     color: #000;
 }
 .track-demos a{    
@@ -263,7 +275,7 @@
 }
 
 .track-pd3dui{
-    background-color: #53c5ca;
+    background-color: #1dc2ae;
     color: #000;
 }
 .track-pd3dui a{    
@@ -271,7 +283,7 @@
 }
 
 .track-tutorials{
-    background-color: #87D0F1;
+    background-color: #52daf2;
     color: #000;
 }
 .track-tutorials a{    
@@ -279,7 +291,7 @@
 }
 
 .track-f3{
-    background-color: #FFD966;
+    background-color: #fee685;
     color: #000;
 }
 .track-f3 a{    
@@ -287,7 +299,7 @@
 }
 
 .track-registration{
-    background-color:  #88f3b3;;
+    background-color:  #c9fbeb;
     color: #000;
 }
 .track-registration a{    
@@ -299,7 +311,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #ebf5f8;
+    background: #e8f5ff;
     color: #000;
     box-shadow: none;
 }
