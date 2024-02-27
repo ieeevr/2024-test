@@ -96,7 +96,13 @@ title: "Program Overview"
                         <span class="session-presenter"><br />{{ workshop.organiser }}</span>
                     </div>
                 {% endif %}     
-            {% endfor %}               
+            {% endfor %}     
+            <p class="time-slot" style="grid-row: time-0845;">8:15</p>    
+            <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-0815 / time-1000;">                    
+                <span class="session-title">Doctoral Consortium</span><br/>
+                <span class="session-time">8:15-10:00</span>
+                <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
+            </div>              
             <p class="time-slot" style="grid-row: time-0830;">8:30</p>    
             {% for tutorial in site.data.tutorials %}  
                 {% if tutorial.id == 'T1' %}
@@ -107,13 +113,7 @@ title: "Program Overview"
                         <span class="session-presenter"><br />{{ tutorial.authors }}</span>
                     </div>
                 {% endif %}   
-            {% endfor %}    
-            <p class="time-slot" style="grid-row: time-0845;">8:45</p>    
-            <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-0845 / time-1000;">                    
-                <span class="session-title">Doctoral Consortium</span><br/>
-                <span class="session-time">8:45-10:00</span>
-                <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
-            </div> 
+            {% endfor %} 
             <p class="time-slot" style="grid-row: time-1000;">10:00</p>
             <div class="session session-16 track-all" style="grid-column:  track-1-start / track-8-end; grid-row: time-1000 / time-1030;">
                 <span class="session-title">Break: 10:00-10:30</span>
@@ -339,9 +339,9 @@ title: "Program Overview"
                     </div>
                 {% endif %}   
             {% endfor %}     
-            <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1600 / time-1830;">                    
+            <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1600 / time-1745;">                    
                 <span class="session-title">Doctoral Consortium</span><br/>
-                <span class="session-time">16:00-18:30</span>
+                <span class="session-time">16:00-17:45</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>          
         </div> 
