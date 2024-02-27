@@ -115,7 +115,7 @@ title: "Program Overview"
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1000;">10:00</p>
-            <div class="session session-16 track-all" style="grid-column:  track-1-start / track-7-end; grid-row: time-1000 / time-1030;">
+            <div class="session session-16 track-all" style="grid-column:  track-1-start / track-8-end; grid-row: time-1000 / time-1030;">
                 <span class="session-title">Break: 10:00-10:30</span>
             </div>   
              <p class="time-slot" style="grid-row: time-1030;">10:30</p>             
@@ -195,7 +195,7 @@ title: "Program Overview"
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>            
             <p class="time-slot" style="grid-row: time-1200;">12:00</p> 
-            <div class="session session-lunch track-all" style="grid-column: track-1-start / track-7-end; grid-row: time-1200 / time-1330;">
+            <div class="session session-lunch track-all" style="grid-column: track-1-start / track-8-end; grid-row: time-1200 / time-1330;">
                 <span class="session-title">Lunch: 12:00-13:30</span>
             </div>            
             <p class="time-slot" style="grid-row: time-1330;">13:30</p>   
