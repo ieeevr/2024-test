@@ -30,9 +30,6 @@ title_separator: "|"
 </div>
 
 <div>
- {% for paper in site.data.invitedjournalpapers %} 
- [{{ paper.id }}]
- {% endfor %} 
      {% for day in site.data.days %}
         <div>
             {% for session in site.data.sessions %}
