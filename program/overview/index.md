@@ -772,12 +772,16 @@ title_separator: "|"
                 <span class="session-title">Stretch Break (Not Catered): 11:15-11:30</span>
             </div>             
             <p class="time-slot" style="grid-row: time-1130;">11:30</p>
-            <div class="session track-special-session" style="grid-column: track-1-start / track-3-end; grid-row: time-1130 / time-1230;">
-                <span class="session-title">Special Session</span>
-                <span class="session-title">VR for All: Achieving Longterm DEIA Success in the VR Community</span>
-                <span class="session-time">11:30-12:30</span>
-                <span class="session-time">Room: Fantasia Ballroom H</span>
-            </div>             
+            {% for session in site.data.specialsessions %}  
+                {% if session.id == 'SS1' %}
+                 <div class="session track-special-session" style="grid-column: track-1-start / track-3-end; grid-row: time-1130 / time-1230;">
+                    <span class="session-title">Special Session</span>
+                    <span class="session-title"><a href="{{ '/program/special-sessions/' | relative_url }}#SS1">{{ session.title }}</a></span>
+                    <span class="session-time">{{ session.start }}-{{ session.end }}</span>
+                    <span class="session-time">Room: {{ session.room }}</span>
+                </div> 
+                {% endif %}   
+            {% endfor %}                         
             <p class="time-slot" style="grid-row: time-1230;">12:30</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1330;">
                 <span class="session-title">Lunch: 12:30-13:30 (Not Catered)</span>
@@ -936,12 +940,16 @@ title_separator: "|"
                 <span class="session-title">Stretch Break (Not Catered): 11:15-11:30</span>
             </div> 
             <p class="time-slot" style="grid-row: time-1130;">11:30</p>
-            <div class="session track-special-session" style="grid-column: track-1-start / track-3-end; grid-row: time-1130 / time-1230;">
-                <span class="session-title">Special Session</span>
-                <span class="session-title">The Reviewing Crisis</span>
-                <span class="session-time">11:30-12:30</span>
-                <span class="session-time">Room: Fantasia Ballroom H</span>
-            </div> 
+            {% for session in site.data.specialsessions %}  
+                {% if session.id == 'SS2' %}
+                    <div class="session track-special-session" style="grid-column: track-1-start / track-3-end; grid-row: time-1130 / time-1230;">
+                        <span class="session-title">Special Session</span>
+                        <span class="session-title"><a href="{{ '/program/special-sessions/' | relative_url }}#SS2">{{ session.title }}</a></span>
+                        <span class="session-time">{{ session.start }}-{{ session.end }}</span>
+                        <span class="session-time">Room: {{ session.room }}</span>
+                    </div> 
+                {% endif %}   
+            {% endfor %}  
             <p class="time-slot" style="grid-row: time-1230;">12:30</p>
             <div class="session track-all" style="grid-column: track-1-start / track-3-end; grid-row: time-1230 / time-1330;">
                 <span class="session-title">Lunch: 12:30-13:30 (Not Catered)</span>
@@ -1176,7 +1184,18 @@ title_separator: "|"
                 <span class="session-title">Posters, Research Demos & <a href="{{ '/program/3dui-contest/' | relative_url }}">3DUI Contest</a></span>
                 <span class="session-time">15:00-15:30</span>
                 <span class="session-time">Sorcerer's Apprentice BR</span>
-            </div> 
+            </div>             
+            <p class="time-slot" style="grid-row: time-1530;">15:30</p> 
+            {% for session in site.data.specialsessions %}  
+                {% if session.id == 'SS3' %}
+                    <div class="session track-special-session" style="grid-column: track-1-start / track-3-end; grid-row: time-1530 / time-1615;">
+                        <span class="session-title">Special Session</span>
+                        <span class="session-title"><a href="{{ '/program/special-sessions/' | relative_url }}#SS2">{{ session.title }}</a></span>
+                        <span class="session-time">{{ session.start }}-{{ session.end }}</span>
+                        <span class="session-time">Room: {{ session.room }}</span>
+                    </div> 
+                {% endif %}   
+            {% endfor %}  
             <p class="time-slot" style="grid-row: time-1700;">17:00</p>                
             <div class="session track-pd3dui" style="grid-column: track-4-start; grid-row: time-1700 / time-1730;">
                 <span class="session-title">Posters, Research Demos & <a href="{{ '/program/3dui-contest/' | relative_url }}">3DUI Contest</a></span>
