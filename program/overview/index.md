@@ -796,7 +796,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'MO1G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1400 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#MO1G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -805,7 +805,7 @@ title: "Program Overview"
              {% for session in site.data.sessions %}  
                 {% if session.id == 'MO1H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1400 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#MO1H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -814,7 +814,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'MO1J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1400 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#MO1J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -833,7 +833,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'MO2G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1700;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#MO2G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -842,7 +842,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'MO2H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#MO2H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -851,7 +851,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'MO2J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-1700;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#MO2J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -889,7 +889,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU1G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU1G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -898,7 +898,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU1H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU1H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -907,7 +907,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU1J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU1J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -954,7 +954,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU2G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU2G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -963,7 +963,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU2H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU2H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -972,7 +972,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU2J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU2J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -990,7 +990,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU3G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1530 / time-1700;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU3G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -999,7 +999,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU3H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1530 / time-1700;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU3H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1008,7 +1008,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TU3J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1530 / time-1700;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TU3J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1035,7 +1035,7 @@ title: "Program Overview"
              {% for session in site.data.sessions %}  
                 {% if session.id == 'WE1G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE1G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1044,7 +1044,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE1H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE1H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1053,7 +1053,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE1J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE1J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1072,7 +1072,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE2G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1015 / time-1115;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE2G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1081,7 +1081,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE2H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1015 / time-1115;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE2H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1090,7 +1090,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE2J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1015 / time-1115;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE2J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1104,7 +1104,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE3G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1130 / time-1230;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE3G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1113,7 +1113,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE3H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1130 / time-1230;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE3H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1122,7 +1122,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE3J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1230;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE3J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1142,7 +1142,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE4G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE4G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1151,7 +1151,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE4H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE4H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1160,7 +1160,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'WE4J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#WE4J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1204,7 +1204,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH1G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH1G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1213,7 +1213,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH1H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH1H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1222,7 +1222,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH1J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-0830 / time-0945;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH1J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1236,7 +1236,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH2G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1015 / time-1115;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH2G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1245,7 +1245,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH2H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1015 / time-1115;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH2H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1254,7 +1254,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH2J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1015 / time-1115;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH2J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1268,7 +1268,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH3G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1130 / time-1230;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH3G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1277,7 +1277,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH3H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1130 / time-1230;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH3H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1286,7 +1286,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH3J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1130 / time-1230;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH3J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1300,7 +1300,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH4G' %}
                 <div class="session track-papers" style="grid-column: track-1-start / track-1-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH4G">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1309,7 +1309,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH4H' %}
                 <div class="session track-papers" style="grid-column: track-2-start / track-2-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH4H">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  
@@ -1318,7 +1318,7 @@ title: "Program Overview"
             {% for session in site.data.sessions %}  
                 {% if session.id == 'TH4J' %}
                 <div class="session track-papers" style="grid-column: track-3-start / track-3-end; grid-row: time-1330 / time-1500;">
-                    <span class="session-title">{{ session.id }}<br>{{ session.name }}</span>
+                    <span class="session-title"><a href="{{ '/program/papers/' | relative_url }}#TH4J">{{ session.id }}<br>{{ session.name }}</a></span>
                     <span class="session-time">{{ session.starttime }}-{{ session.endtime }}</span>
                     <span class="session-time">Room: {{ session.room }}</span>
                 </div>  

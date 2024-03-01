@@ -31,7 +31,7 @@ title: "Tutorials"
             <p>
                 {% assign authornames = tutorial.authorsfull | split: "|" %}
                 {% for name in authornames %}
-                {{ name | strip }} <br />
+                    {{ name | strip }} <br />
                 {% endfor %}
             </p>
             <h3>Summary</h3>
