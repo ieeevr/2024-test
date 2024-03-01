@@ -13,7 +13,7 @@ title: "Keynote Speakers"
         <tr>
             <td><a href="#{{ keynote.id }}"><img src="{{ keynote.thumbnail }}" alt="Photo of {{ keynote.name }}"></a></td>
             <td><a href="#{{ keynote.id }}">{{ keynote.name }}</a></td>
-            <td style="font-size: 0.875em;">{{ keynote.day }} - {{ keynote.start }} ({{ keynote.timezone }})</td>
+            <td style="font-size: 0.875em;">{{ keynote.day }}, {{ keynote.start }} - {{ keynote.end }} ({{ keynote.timezone }})<br>Room: {{ keynote.room }}</td>
         </tr>
         {% endfor %}
     </table>
@@ -27,7 +27,7 @@ title: "Keynote Speakers"
     <center><img src="{{ keynote.photo }}" alt="Photo of {{ keynote.name }}" width="50%"></center>
     <br />
     <center><big><strong>{{ keynote.title }}</strong></big></center>
-    <center><small>{{ keynote.day }} - {{ keynote.start }}, {{ keynote.timezone }}</small></center>
+    <center><small>{{ keynote.day }}, {{ keynote.start }} - {{ keynote.end }} ({{ keynote.timezone }})<br>Room: {{ keynote.room }}</small></center>
     {% if keynote.chair %}
     <center><small>Session Chair: <b style="font-family: 'Courier New', monospace; color: black;">{{ keynote.chair }}</b></small></center>
     {% endif %}    
