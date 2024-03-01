@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Tourism"
+subtitle: "IEEE VR 2024"
+title_separator: "|"
 ---
  <script> /***
 

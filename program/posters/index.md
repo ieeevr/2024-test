@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Posters"
+subtitle: "IEEE VR 2024"
+title_separator: "|"
 ---
 
 <h1>Posters</h1>

@@ -1,6 +1,8 @@
 ---
 layout: ieeevr-default
 title: "Videos"
+subtitle: "IEEE VR 2024"
+title_separator: "|"
 ---
 
  <script> /***
