@@ -39,11 +39,10 @@ title_separator: "|"
         </iframe>
     </div>
      <div class="mobile_view"> 
-        <h2 id="Pre">Pre-Conference</h2>
-        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-mobile.pdf" | relative_url }}#zoom=70" 
+        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-mobile.pdf" | relative_url }}#zoom=60" 
             title="IEEE VR 2024 Schedule (PDF)"
             width="100%"
-            height="600px"
+            height="100%"
             loading="lazy"
             style="border:none;">
         </iframe>        
