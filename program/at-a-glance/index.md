@@ -12,16 +12,40 @@ title_separator: "|"
             March 16-21, 2024 | Orlando, Florida USA
     </p> 
     <div class="ieeevrmsgbox bold alignCenter">
-        <div class = "ieeevrmsgboxInside ">
-           This is an 'At a Glance' schedule of activities associated with IEEE VR 2024. For a more detailed view, visit <a href="{{ "/program/overview/" | relative_url }}">Program Overview</a>.
+        <div class = "ieeevrmsgboxInside med">
+           This is an 'At a Glance' schedule of activities associated with IEEE VR 2024. <br/>
+           For a more detailed view, visit <a href="{{ "/program/overview/" | relative_url }}">Program Overview</a>.<br>
+           <span class="main_view"><hr></span>
+           <div class="alignCenter main_view">Quick Links: <a href="#pre">Pre-Conference</a>&nbsp;&nbsp;<a href="#main"> Main Conference</a></div>
+           <div class="italic med" style="text-align: right;">Updated: 3 March, 2024 </div>
         </div>
+    </div>   
+    <div class="main_view"> 
+        <h2 id="Pre">Pre-Conference</h2>
+        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-pre.pdf" | relative_url }}#zoom=32" 
+            title="IEEE VR 2024 Schedule (PDF)"
+            width="100%"
+            height="600px"
+            loading="lazy"
+            style="border:none;">
+        </iframe>
+        <h2 id="Main">Main-Conference</h2>
+        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-main.pdf" | relative_url }}#zoom=32" 
+            title="IEEE VR 2024 Schedule (PDF)"
+            width="100%"
+            height="600px"
+            loading="lazy"
+            style="border:none;">
+        </iframe>
     </div>
-    <p class="italic" style="text-align: right;">Updated: 3 March, 2024 </p>
-    <iframe src="{{"/assets/program/vr2024_overall_schedule-27-public.pdf" | relative_url }}#zoom=25" 
-        title="IEEE VR 2024 Schedule (PDF)"
-        width="100%"
-        height="550px"
-        loading="lazy"
-        style="border:none;">
-    </iframe>
+     <div class="mobile_view"> 
+        <h2 id="Pre">Pre-Conference</h2>
+        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-mobile.pdf" | relative_url }}#zoom=70" 
+            title="IEEE VR 2024 Schedule (PDF)"
+            width="100%"
+            height="600px"
+            loading="lazy"
+            style="border:none;">
+        </iframe>        
+    </div>
 </div>
