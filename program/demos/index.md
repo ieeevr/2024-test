@@ -19,6 +19,42 @@ title_separator: "|"
         {% endfor %}
     </table>
 </div>
+<p>
+    <table class="program-table">
+        <thead>
+            <tr>
+                <th colspan="4">Research&nbsp;Demos&nbsp;Schedule </th>
+            </tr>
+        </thead>
+        <tbody> 
+             <tr>
+                <td>Research&nbsp;Demo&nbsp;Booths&nbsp;Open</td>
+                <td>Monday,&nbsp;18&nbsp;March</td>                
+                <td>9:45&#8209;10:00, 13:00&#8209;13:30, 15:00&#8209;15:30, 17:00&#8209;19:00</td>       
+                <td>Sorcerer's&nbsp;Apprentice Ballroom</td>  
+            </tr>            
+             <tr>
+                <td>Research&nbsp;Demo&nbsp;Booths&nbsp;Open</td>
+                <td>Tuesday,&nbsp;19&nbsp;March</td>                
+                <td>9:45&#8209;10:00, 13:00&#8209;13:30, 15:00&#8209;15:30, 17:00&#8209;17:30</td>       
+                <td>Sorcerer's&nbsp;Apprentice Ballroom</td>  
+            </tr>
+            <tr>
+                <td>Research&nbsp;Demo&nbsp;Booths&nbsp;Open</td>
+                <td>Wednesday,&nbsp;20&nbsp;March</td>                
+                <td>9:45&#8209;10:00, 13:00&#8209;13:30, 15:00&#8209;15:30, 17:00&#8209;17:30</td>       
+                <td>Sorcerer's&nbsp;Apprentice Ballroom</td>  
+            </tr>
+            <tr>
+                <td>Awards</td>
+                <td>Thursday,&nbsp;21&nbsp;March</td>                
+                <td>15:30&#8209;17:00</td>       
+                <td>Fantasia Ballroom&nbsp;H</td>  
+            </tr>
+        </tbody>
+    </table>
+</p>
+<h2>Entries</h2>
 <div>
     {% assign j = 0 %}
     {% for demo in site.data.demos %}
