@@ -4,7 +4,7 @@ title: "Program Overview"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
 ---
-<link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}?version=20240229">
+<link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}?version=20240303">
     
 <script>
     (function($) {
