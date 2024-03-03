@@ -24,7 +24,6 @@ title_separator: "|"
 </script>
 
 <h1 id="schedule-heading">Program Overview</h1>
-
 <p>
     <table class="program-table">
         <thead>
