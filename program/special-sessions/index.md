@@ -24,11 +24,11 @@ title_separator: "|"
     <br />
     <div id="{{ special-session.id }}">
         <div style="padding-bottom:10px;"><center><strong><big>{{ special-session.title }}</big></strong></center></div>
-        <center>Moderators: {{ special-session.moderator }}</center>    
+        <center>{{ special-session.moderator }}</center>    
         <center><small>{{ special-session.day }}, {{ special-session.start }} - {{ special-session.end }} ({{ special-session.timezone }})<br>Room: {{ special-session.room }}</small></center>    
         <p>
-            <strong>Abstract</strong><br />
-            {{ special-session.abstract }}
+            <strong>Session Topic</strong><br />
+            {{ special-session.topic }}
         </p> 
         {% if forloop.last == false %} 
             <hr>
