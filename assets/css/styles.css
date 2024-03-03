@@ -95,7 +95,7 @@
     .mobile_view{
         display: none;
     }
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
         .main_view{
             display: none;
         }
