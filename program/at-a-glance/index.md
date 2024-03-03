@@ -38,7 +38,7 @@ title_separator: "|"
             style="border:none;">
         </iframe>
     </div>
-     <div class="mobile_view">             
+     <div class="mobile_view">  sss           
          <iframe frameborder="0" scrolling="no" height="100%" width="100%"   src="https://docs.google.com/gview?url=https://ieeevr.org/2024-test/assets/program/vr2024_overall_schedule-31-public-mobile.pdf&embedded=true"> </iframe>    
     </div>
 </div>
