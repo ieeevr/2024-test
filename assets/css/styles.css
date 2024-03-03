@@ -95,14 +95,6 @@
     .mobile_view{
         display: none;
     }
-    @media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
-        .main_view{
-            display: none;
-        }
-        .mobile_view{
-            display: inline;
-        }
-    }
 
     @media screen and (max-width: 600px) {
 
@@ -118,6 +110,13 @@
             height: 53px;
             width: 50px;
             line-height: 25px;
+        }
+        
+        .main_view{
+            display: none;
+        }
+        .mobile_view{
+            display: inline;
         }
     }
 
