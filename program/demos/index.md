@@ -59,7 +59,7 @@ title_separator: "|"
         </div>
         {% if j == i %}
         {% else %}
-            <hr style="margin: 25px 0 25x 0;">
+            <hr style="margin: 25px 0 25px 0;">
         {% endif %}
     {% endfor %}
 </div>
