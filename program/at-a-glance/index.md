@@ -38,13 +38,7 @@ title_separator: "|"
             style="border:none;">
         </iframe>
     </div>
-     <div class="mobile_view"> 
-        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-mobile.pdf" | relative_url }}#zoom=60" 
-            title="IEEE VR 2024 Schedule (PDF)"
-            frameborder="0" 
-            scrolling="no" 
-            height="100%" 
-            width="100%">
-        </iframe>        
+     <div class="mobile_view">             
+         <iframe frameborder="0" scrolling="no" height="100%" width="100%"   src="https://docs.google.com/gview?url=https://ieeevr.org/2024-test/assets/program/vr2024_overall_schedule-31-public-mobile.pdf&embedded=true"> </iframe>    
     </div>
 </div>
