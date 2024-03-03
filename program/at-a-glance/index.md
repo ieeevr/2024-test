@@ -41,10 +41,10 @@ title_separator: "|"
      <div class="mobile_view"> 
         <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-mobile.pdf" | relative_url }}#zoom=60" 
             title="IEEE VR 2024 Schedule (PDF)"
-            width="100%"
-            height="100%"
-            loading="lazy"
-            style="border:none;">
+            frameborder="0" 
+            scrolling="no" 
+            height="100%" 
+            width="100%">
         </iframe>        
     </div>
 </div>
