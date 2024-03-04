@@ -139,7 +139,7 @@ title_separator: "|"
             {% endfor %}     
             <p class="time-slot" style="grid-row: time-0815;">8:15</p>    
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-0815 / time-0830;">                    
-                <span class="session-title">Doctoral Consortium (DC) Welcome</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">Doctoral Consortium (DC) Welcome</a></span>
                 <span class="session-time">8:20-8:30</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>              
@@ -155,7 +155,7 @@ title_separator: "|"
                 {% endif %}   
             {% endfor %}                
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-0830 / time-1000;">                    
-                <span class="session-title">DC | Presentations 1-6 (10-min talk + 5-min Q&A for each presentation)</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Presentations 1-6 (10-min talk + 5-min Q&A for each presentation)</span>
                 <span class="session-time">8:30-10:00</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>              
@@ -164,7 +164,7 @@ title_separator: "|"
                 <span class="session-title">Break: 10:00-10:30</span>
             </div>                             
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1000 / time-1030;">                    
-                <span class="session-title">DC | Break (breakout with mentors)</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Break (breakout with mentors)</span>
                 <span class="session-time">10:00-10:30</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>        
@@ -240,7 +240,7 @@ title_separator: "|"
                 {% endif %}   
             {% endfor %}     
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1030 / time-1200;">                    
-                <span class="session-title">DC | Presentations 7-12 (10-min talk + 5-min Q&A for each presentation)</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Presentations 7-12 (10-min talk + 5-min Q&A for each presentation)</span>
                 <span class="session-time">10:30-12:00</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>            
@@ -249,7 +249,7 @@ title_separator: "|"
                 <span class="session-title">Lunch: 12:00-13:30</span>
             </div>                                           
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1200 / time-1330;">                 
-                <span class="session-title">DC | Lunch (breakout with mentors)</span><br/>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Lunch (breakout with mentors)</span><br/>
                 <span class="session-time">12:00-13:30</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>          
@@ -315,7 +315,7 @@ title_separator: "|"
                 {% endif %}       
             {% endfor %}       
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1330 / time-1530;">                    
-                <span class="session-title">DC | Presentations 13-20 (10-min talk + 5-min Q&A for each presentation)</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Presentations 13-20 (10-min talk + 5-min Q&A for each presentation)</span>
                 <span class="session-time">13:30-15:30</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>         
@@ -324,7 +324,7 @@ title_separator: "|"
                 <span class="session-title">Break: 15:30-16:00</span>
             </div>                  
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1530 / time-1600;">                
-                <span class="session-title">DC | Break (breakout with mentors)</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Break (breakout with mentors)</span>
                 <span class="session-time">15:30-16:00</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>          
@@ -400,13 +400,13 @@ title_separator: "|"
                 {% endif %}   
             {% endfor %}     
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1600 / time-1700;">                    
-                <span class="session-title">DC | Presentations 21-24 (10-min talk + 5-min Q&A for each presentation)</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Presentations 21-24 (10-min talk + 5-min Q&A for each presentation)</span>
                 <span class="session-time">16:00-17:00</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>  
             <p class="time-slot" style="grid-row: time-1700;">17:00</p>                 
             <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-1700 / time-1730;">                    
-                <span class="session-title">DC | Breakout with mentors</span>
+                <span class="session-title"><a href="{{ '/program/doctoral-consortium/' | relative_url }}">DC</a> | Breakout with mentors</span>
                 <span class="session-time">17:00-17:30</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>                
