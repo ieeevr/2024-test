@@ -14,23 +14,12 @@ title_separator: "|"
     <div class="ieeevrmsgbox bold alignCenter">
         <div class = "ieeevrmsgboxInside med">
            This is an 'At a Glance' schedule of activities associated with IEEE VR 2024. <br/>
-           For a more detailed view, visit <a href="{{ "/program/overview/" | relative_url }}">Program Overview</a>.<br>
-           <span class="main_view"><hr></span>
-           <div class="alignCenter main_view">Quick Links: <a href="#pre">Pre-Conference</a>&nbsp;&nbsp;<a href="#main"> Main Conference</a></div>
+           For a more detailed view, visit <a href="{{ "/program/overview/" | relative_url }}">Program Overview</a>.<br>           
            <div class="italic med" style="text-align: right;">Updated: 3 March, 2024 </div>
         </div>
     </div>   
     <div class="main_view"> 
-        <h2 id="Pre">Pre-Conference</h2>
-        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-pre.pdf" | relative_url }}#zoom=32" 
-            title="IEEE VR 2024 Schedule (PDF)"
-            width="100%"
-            height="600px"
-            loading="lazy"
-            style="border:none;">
-        </iframe>
-        <h2 id="Main">Main-Conference</h2>
-        <iframe src="{{"/assets/program/vr2024_overall_schedule-31-public-main.pdf" | relative_url }}#zoom=32" 
+        <iframe src="{{"/assets/program/vr2024_overall_schedule-32-public-full.pdf" | relative_url }}#zoom=20" 
             title="IEEE VR 2024 Schedule (PDF)"
             width="100%"
             height="600px"
@@ -39,6 +28,6 @@ title_separator: "|"
         </iframe>
     </div>
      <div class="mobile_view">         
-         <iframe frameborder="0" scrolling="no" height="600px" width="100%" src="https://docs.google.com/gview?url=https://ieeevr.org/2024-test/assets/program/vr2024_overall_schedule-31-public-mobile.pdf&embedded=true"> </iframe>    
+         <iframe frameborder="0" scrolling="no" height="600px" width="100%" src="https://docs.google.com/gview?url=https://ieeevr.org/2024-test/assets/program/vr2024_overall_schedule-32-public-mobile.pdf&embedded=true"> </iframe>    
     </div>
 </div>
