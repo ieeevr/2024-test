@@ -10,5 +10,3 @@ vendor/
 Gemfile
 Gemfile.lock
 committees/.DS_Store
-_data/awards.csv
-awards/conference-awards/index.md
