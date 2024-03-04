@@ -9,104 +9,101 @@ title_separator: "|"
 <h1>Doctoral Consortium</h1>
 <div>
     <p>
-        Coming Soon.
+        The Doctoral Consortium will be held on 16 March 2024 (Saturday) and all times below are given in local time of Orlando, Florida USA (UTC-4). 
+    </p>
+    <p>
+        Here are the key information for the presenters and mentors:
+        <ul>
+            <li>Each presentation includes a 10-minute talk + 5-minute Q&A.</li>
+            <li>All presenters and mentors need to be present at the scheduled session and are encouraged to attend as much of the doctoral consortium as possible. </li>
+            <li>After each session, the mentors and students can use the Break/Lunch time for further breakout discussions and mentoring. </li>
+            <li>Some students may have a pair of mentors. Because some mentors cannot attend the conference in person, we recommend that the students take the initiative to reach out to allocated mentors and arrange a separate online meeting for mentoring. </li>
+            <li>The venue for the DC track is: Sorcerer's Apprentice, 2. </li>
+            <li>The final mentor allocation will be released soon. </li>
+            <li>The presentation and mentoring at the DC mark the start of collaborations and we strongly recommend that the presenters and mentors hold periodical meetings to deepen the collaborations. </li>
+        </ul>
     </p>
 </div>
 
- <script> /***
+
 
 <div>
-
-<div>
-    <table class="styled-table" style="font-size: 0.8em; ">
+    <div>
+        <table class="styled-table" style="font-size: 0.8em; ">
+            <tr>
+                <th colspan="2">Schedule - 16 March 2024, Saturday</th>
+                <th></th>
+            </tr>
         <tr>
-            <th>Schedule</th>
-            <th></th>
-        </tr>
-        <tr>
-            <td>08:45 - 09:00 am</td>
+            <td>08:20 - 08:30 am</td>
             <td>
                 Welcome
             </td>
         </tr>
         <tr>
-            <td>09:00 - 10:00 am</td>
+            <td>08:30 - 10:00 am</td>
             <td>
-                <strong>Presentations 1 - 5 (8 min talk + 4 min questions)</strong><br/>
-                Shane Burrell Jr – Dr. Victoria Interrante<br/>
-                Radhika Jain – Dr. Steven Cutchin<br/>
-                Damaruka Priya Rajasagi – Dr. Andrea Stevenson Won<br/>
-                Xiaoyan Zhou – Dr. Doug Bowman
-                (one moved to 16:00-17:00)
+                <strong>Presentations 1-6 (10-min talk + 5-min Q&A for each presentation)</strong><br/>
+                Jinwook Kim<br/>
+                Hyeongil Nam<br/>
+                Siamak Ahmadzadeh Bazzaz <br/>
+                Muhammad Twaha Ibrahim<br/>
+                Xueqi Wang<br/>
+                Jiachen Liang
             </td>
         </tr>
         <tr>
             <td >10:00 - 10:30 am</td>
             <td>
-                Breakout with mentors
+                Break (breakout with mentors)
             </td>
         </tr>
         <tr>
-            <td >10:30 - 11:00 am<</td>
+            <td >10:30 - 12:00 am</td>
             <td>
-                Break
+                <strong>Presentations 7-12 (10-min talk + 5-min Q&A for each presentation)</strong><br/>
+                Seoyoung Kang<br/>
+                Assem Kroma<br/>
+                Kristen Grinyer<br/>
+                Rachel Masters<br/>
+                Sunday Ubur<br/>
+                Dahlia Musa
             </td>
         </tr>
         <tr>
-            <td >11:00 - 12:00 am</td>
+            <td>12:00 - 1:30 pm</td>
             <td>
-                <strong>Presentations 6-10 (8 min talk + 4 min questions)</strong><br/>
-                Klara Brandstätter – Dr. Andrew Robb<br/>
-                Ziwen Lu – Dr. Stefanie Zollmann<br/>
-                Mathieu Lutfallah – Dr. Tabitha Peck<br/>
-                Nels Numan – Dr. Rajiv Khadka<br/>
-                Antony Prakash – Dr. Joe Gabbard
+               Lunch
             </td>
         </tr>
         <tr>
-            <td>12:00 - 12:30 pm</td>
+            <td>13:30 - 15:30 pm</td>            
             <td>
-                Breakout with mentors
+                <strong>Presentations 13-20 (10-min talk + 5-min Q&A for each presentation)</strong><br/>
+                Dong Woo Yoo<br/>
+                Brett Benda<br/>
+                Seonji Kim<br/>
+                Hail Song<br/>
+                Dongyun Han<br/>
+                Jennifer Cremer<br/>
+                Elham Mohammadrezaei<br/>
+                Nikitha Donekal Chandrashekar
             </td>
         </tr>
         <tr>
-            <td>12:30 - 14:00 pm</td>
+            <td >15:30 - 16:00 pm</td>
             <td>
-                Lunch
-            </td>
-        </tr>
-        <tr>
-            <td>14:00 - 15:00 pm</td>
-            <td>
-                <strong>Presentations 11-15 (8 min talk + 4 min questions)</strong><br/>
-                Amira Mahmoud Shaban Ahmed – Dr. Richard Skarbez<br/>
-                Adil Khokhar – Dr. Jason Orlosky<br/>
-                Dooyoung Kim – Dr. Evan Suma Rosenberg<br/>
-                Nadine Wagener – Dr. Nilufar Baghaei<br/>
-                Yue Wang – Dr. Lili Wang
-            </td>
-        </tr>
-        <tr>
-            <td >15:00 - 15:30 pm</td>
-            <td>
-                Breakout with mentors
-            </td>
-        </tr>
-        <tr>
-            <td>15:30 - 16:00 pm</td>
-            <td>
-                Break
+                Break (breakout with mentors)
             </td>
         </tr>
         <tr>
             <td>16:00 - 17:00 pm</td>
             <td>
-                <strong>Presentations 16-19 (8 min talk + 4 min questions)</strong><br/>
-                Zhuang Chang – Dr. Anthony Steed<br/>
-                Isla Xi Han – Dr. Yiyu Cai<br/>
-                Piaopiao Yu – Dr. Lik-Hang Lee<br/>
-                Yidan Zhang – Dr. Mark Billinghurst<br/>
-                Xingyao Yu – Dr. Steven Feiner
+                <strong>Presentations 21-24 (10-min talk + 5-min Q&A for each presentation)</strong><br/>
+                Danah Omary<br/>
+                Jingyi Zhang<br/>
+                Tomáš Nováček<br/>
+                Ryan Canales<br/>
             </td>
         </tr>
         <tr>
@@ -120,25 +117,3 @@ title_separator: "|"
     
     
 </div>
-
-<!-- 
-<h2>Accepted Students</h2>
-
-<div>
-    <table class="styled-table" style="font-size: 0.8em; ">
-        <tr>
-            <th>Student</th>
-            <th>Title</th>
-            <th>Affiliation</th>
-        </tr>
-        {% for student in site.data.dc %}
-        <tr>
-            <td style="font-size: 0.8em;">{{ student.author }}</td>
-            <td>{{ student.title }}</td>
-            <td>{{ student.affiliation }}</td>
-        </tr>
-        {% endfor %}
-    </table>
-</div> 
-
-***/</script>
