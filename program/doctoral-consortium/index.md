@@ -9,7 +9,7 @@ title_separator: "|"
 <h1>Doctoral Consortium</h1>
 <div>
     <p>
-        The Doctoral Consortium will be held on 16 March 2024 (Saturday) and all times below are given in local time of Orlando, Florida USA (UTC-4). 
+        The Doctoral Consortium will be held on 16 March 2024 (Saturday) and all times below are given in local time of Orlando, Florida USA EDT (UTC-4). 
     </p>
     <p>
         Here are the key information for the presenters and mentors:
