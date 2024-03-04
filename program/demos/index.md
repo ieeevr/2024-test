@@ -23,7 +23,7 @@ title_separator: "|"
     <table class="program-table">
         <thead>
             <tr>
-                <th colspan="4">Research&nbsp;Demos&nbsp;Schedule </th>
+                <th colspan="4">Research&nbsp;Demos&nbsp;Schedule (Timezone: Orlando, Florida USA UTC-4)</th>
             </tr>
         </thead>
         <tbody> 

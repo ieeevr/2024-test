@@ -137,10 +137,10 @@ title_separator: "|"
                     </div>
                 {% endif %}     
             {% endfor %}     
-            <p class="time-slot" style="grid-row: time-0845;">8:15</p>    
-            <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-0815 / time-1000;">                    
-                <span class="session-title">Doctoral Consortium</span><br/>
-                <span class="session-time">8:15-10:00</span>
+            <p class="time-slot" style="grid-row: time-0815;">8:15</p>    
+            <div class="session session-w1b track-consortium" style="grid-column: track-8; grid-row: time-0815 / time-0830;">                    
+                <span class="session-title">Doctoral Consortium (DC) Welcome</span><br/>
+                <span class="session-time">8:20-8:30</span>
                 <span class="session-time">Room: Sorcerer's Apprentice, 2</span>
             </div>              
             <p class="time-slot" style="grid-row: time-0830;">8:30</p>    
@@ -224,7 +224,7 @@ title_separator: "|"
                     <div class="session session-t1b track-tutorials" style="grid-column: track-7; grid-row: time-1030 / time-1200;">                    
                         <span class="session-title">Tutorial (cont)<br /><a href="{{ '/program/tutorials/' | relative_url }}#{{ tutorial.id }}">{{ tutorial.title }}</a></span><br/>
                         <span class="session-time">10:30-12:00</span>
-                        <span class="session-time">Room: Fantasia, k-M</span>
+                        <span class="session-time">Room: Fantasia, K-M</span>
                         <span class="session-presenter"><br />{{ tutorial.authors }}</span>
                     </div>
                 {% endif %}   
@@ -643,7 +643,7 @@ title_separator: "|"
                     <div class="session session-t3b track-tutorials" style="grid-column: track-7; grid-row: time-1400 / time-1530;">                    
                         <span class="session-title">Tutorial<br /><a href="{{ '/program/tutorials/' | relative_url }}#{{ tutorial.id }}">{{ tutorial.title }}</a></span><br/>
                         <span class="session-time">14:00-15:30</span>
-                        <span class="session-time">Room: Fantasia, A</span>
+                        <span class="session-time">Room: Fantasia, K-M</span>
                         <span class="session-presenter"><br />{{ tutorial.authors }}</span>
                     </div>
                 {% endif %}   

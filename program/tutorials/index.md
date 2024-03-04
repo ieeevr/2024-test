@@ -8,13 +8,13 @@ title_separator: "|"
 <div>
     <table class="styled-table">
         <tr>
-             <th colspan="3">Tutorials</th>
+             <th colspan="3">Tutorials (Timezone: Orlando, Florida USA UTC-4)</th>
         </tr>
         {% for tutorial in site.data.tutorials %}
             <tr>
                 <td style="font-size: 0.9em;"><a href="#{{ tutorial.id }}">{{ tutorial.title }}</a></td>
                 <td style="font-size: 0.9em;">{{ tutorial.day }}</td>
-                <td style="font-size: 0.9em;">{{ tutorial.starttime }}&#8209;{{ tutorial.endtime }},<br/>{{ tutorial.timezone }} </td>
+                <td style="font-size: 0.9em;">{{ tutorial.starttime }}&#8209;{{ tutorial.endtime }}</td>
             </tr>
         {% endfor %}
     </table>
@@ -24,7 +24,7 @@ title_separator: "|"
         <div>
             <h2 id="{{ tutorial.id }}">{{ tutorial.name }}: {{ tutorial.title}}</h2>
             <p>
-                {{ tutorial.day }}, {{ tutorial.starttime }}-{{ tutorial.endtime }}, {{ tutorial.timezone }}
+                {{ tutorial.day }}, {{ tutorial.starttime }}-{{ tutorial.endtime }} ({{ tutorial.timezone }}) Room: {{ tutorial.timezone }}
             </p>
 
             <p>
