@@ -32,7 +32,6 @@ title_separator: "|"
         <table class="styled-table" style="font-size: 0.8em; ">
             <tr>
                 <th colspan="2">Schedule - 16 March 2024, Saturday</th>
-                <th></th>
             </tr>
         <tr>
             <td>08:20 - 08:30 am</td>
