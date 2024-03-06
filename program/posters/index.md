@@ -33,7 +33,7 @@ title_separator: "|"
     <h2 id="P1" class="pink" style="padding-top:25px;">Monday Posters</h2>    
     {% for poster in site.data.mondayPosters %}
         <p>
-            <strong>{{ poster.title }}</strong>
+            <strong>{{ poster.title }} ({{ poster.id }})</strong>
             <p><strong>{{ poster.type }}</strong></p> 
             {% if poster.booth %}
                 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>  
@@ -58,7 +58,7 @@ title_separator: "|"
     <h2 id="P2" class="pink" style="padding-top:25px;">Tuesday Posters</h2>
     {% for poster in site.data.tuesdayPosters %}
         <p>
-            <strong>{{ poster.title }}</strong>
+            <strong>{{ poster.title }} ({{ poster.id }})</strong>
             <p><strong>{{ poster.type }}</strong></p>
             {% if poster.booth %}
                 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>  
@@ -83,7 +83,7 @@ title_separator: "|"
     <h2 id="P3" class="pink" style="padding-top:25px;">Wednesday Posters</h2>
     {% for poster in site.data.wednesdayPosters %}
         <p>
-            <strong>{{ poster.title }}</strong>
+            <strong>{{ poster.title }} ({{ poster.id }})</strong>
             <p><strong>{{ poster.type }}</strong></p>
             {% if poster.booth %}
                 <p> <small><strong style="color: black;"> Booth: {{ poster.booth }} </strong></small> <br> </p>  
