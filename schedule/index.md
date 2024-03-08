@@ -3,13 +3,13 @@ layout: ieeevr-default
 title: "At a Glance - Private Version"
 subtitle: "IEEE VR 2024"
 title_separator: "|"
+keywords: private
 ---
-
 <div>
     <h1 id="cfp-demos">At a Glance - Private Version</h1>
     <div class="ieeevrmsgbox bold alignCenter">
         <div class = "ieeevrmsgboxInside med">
-           This is an 'At a Glance - Private Vaerion' schedule of activities associated with IEEE VR 2024. It includes Support activities and Private events.<br/>
+           This is a schedule of activities associated with IEEE VR 2024. It includes support activities and private events.<br/>
            <span class="main_view"><hr></span>
            <div class="alignCenter main_view">Quick Links: <a href="#pre">Pre-Conference</a>&nbsp;&nbsp;<a href="#full"> Main Conference</a></div>
            <div><a href="{{ "/assets/map/FINAL_Contemporary_CapacityChart_Floorplans_as_of_7.13.16.pdf" | relative_url }}" target="_blank">Conference Center Map</a></div>

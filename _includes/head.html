@@ -1,6 +1,9 @@
 <meta charset="utf-8">
 <!-- noindex is temporary while the site is reviewed-->
 <meta name="robots" content="noindex">
+{% if page.keywords == "private" %}
+  <meta name="robots" content="noindex">
+{% endif %}
 
 {% include seo.html %}
 
