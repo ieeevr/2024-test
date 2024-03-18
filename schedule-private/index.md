@@ -15,7 +15,7 @@ keywords: private
            <div>
                 <a href="{{ "/assets/map/FINAL_Contemporary_CapacityChart_Floorplans_as_of_7.13.16.pdf" | relative_url }}" target="_blank">Conference Center Map</a>
             </div>
-           <div class="italic med" style="text-align: right;">Updated: 17 March, 2024 </div>
+           <div class="italic med" style="text-align: right;">Updated: 18 March, 2024 </div>
         </div>
     </div>   
     <div class="main_view"> 
