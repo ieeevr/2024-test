@@ -32,7 +32,7 @@ title_separator: "|"
             style="border:none;">
         </iframe>--->
         <h2 id="full">Main-Conference</h2>
-        <iframe src="{{"/assets/program/vr2024_overall_schedule-34-public-main.pdf" | relative_url }}#zoom=31" 
+        <iframe src="{{"/assets/program/vr2024_overall_schedule-38-public-main.pdf" | relative_url }}#zoom=31" 
             title="IEEE VR 2024 Schedule (PDF)"
             width="100%"
             height="600px"
