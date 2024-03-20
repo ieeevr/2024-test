@@ -26,10 +26,9 @@ title_separator: "|"
     <li>Missie Smith ‒ Meta Reality Labs, USA</li>
 </ul>
  <div class="ieeevrmsgbox">
-    <div class = "ieeevrmsgboxInsideNoColor small_emphasize">            
+    <div class = "ieeevrmsgboxInsideNoColor">            
         <div class= "bold alignCenter paddingBottomxSmall">
-            Congratulations to the Best Paper Winners and Honorable Mentions!<br />
-            The other award winners will be announced during the week of the conference.
+            Congratulations to the IEEE VR 2024 Award Winners!
         </div>
     </div>
 </div>
@@ -44,45 +43,33 @@ title_separator: "|"
     </tr> 
     <tr>
         <td><a href="#posters">Poster</a></td>
-        <td>Best Posters</td>
-        <td>Honorable Mentions</td>
-        <!--
-       <td><a href="#poster-best">Best Poster</a></td>
-        <td><a href="#poster-honorable">Honorable Mentions</a></td>-->
+        <td><a href="#poster-best">Best Poster</a></td>
+        <td><a href="#poster-honorable">Honorable Mentions</a></td>
     </tr>  
     <tr>
-        <td><a href="#demos">Research Demo</a></td>        
-        <td>Best Research Demos</td>
-        <td>Honorable Mentions</td>
-        <!--
+        <td><a href="#demos">Research Demo</a></td>  
         <td><a href="#demo-best">Best Research Demos</a></td>
-        <td><a href="#demo-honorable">Honorable Mentions</a></td>-->
+        <td><a href="#demo-honorable">Honorable Mentions</a></td>
     </tr>
     <tr>
         <td><a href="#3dui">3DUI Contest Demo</a></td>
-        <td>Best 3DUI Contest Demos</td>
-        <td>Honorable Mentions</td>
-        <!--<td><a href="#3dui-best">Best 3DUI Contest Demos</a></td>
-        <td><a href="#3dui-honorable">Honorable Mentions</a></td>-->
+        <td><a href="#3dui-best">Best 3DUI Contest Demos</a></td>
+        <td><a href="#3dui-honorable">Honorable Mentions</a></td>
     </tr>  
     <tr>
         <td><a href="#dc">Doctoral Consortium</a></td>
-        <td>Best Doctoral Consortiums</td>
-        <td>Honorable Mentions</td>
-        <!--<td><a href="#DC-best">Best Doctoral Consortiums</a></td>
-        <td><a href="#DC-honorable">Honorable Mentions</a></td>-->
+        <td colspan="2"><a href="#DC-best">Best Doctoral Consortium</a></td>
+        <!---<td><a href="#DC-honorable">Honorable Mentions</a></td>--->
     </tr>      
     <tr>
         <td><a href="#paper-presentation">Paper Presentation</a></td>
-        <td>Best Paper Presentations</td>
-        <td>Honorable Mentions</td>
-        <!--<td><a href="#paper-presentation-best">Best Paper Presentations</a></td>
-        <td><a href="#paper-presentation-honorable">Honorable Mentions</a></td>-->
+        <td><a href="#paper-presentation-best">Best Paper Presentations</a></td>
+        <td><a href="#paper-presentation-honorable">Honorable Mentions</a></td>
     </tr>  
 </table>
 <h2 id="papers">Best Papers & Honorable Mentions</h2>
 
-<p>The IEEE VR Best Paper Awards honor exceptional papers published and presented at the IEEE VR conference. During the review process, the program committee chairs will choose approximately 3% of submissions to receive an award. Among these chosen submissions, the separate Conference Awards Selection Committee will select the best submissions to receive a Best Paper Award (ca. 1% of total submissions), while a selection of the remaining submissions receive an Honorable Mention Award. Papers that receive an award will be marked in the program, and authors will receive a certificate at the conference.</p>
+<p>The IEEE VR Best Paper Awards honor exceptional papers published and presented at the IEEE VR conference. During the review process, the program committee chairs will choose approximately 3% of submissions to receive an award. Among these chosen submissions, the separate Conference Awards Selection Committee will select the best submissions to receive a Best Paper Award (ca. 1% of total submissions), while a selection of the remaining submissions receive an Honorable Mention Award. Papers that receive an award will be marked in the program and authors will receive a certificate at the conference.</p>
 
 <h2 id='paper-best' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/best.png" | relative_url }}" title="Best Paper Award" alt="Best Paper Award"> Best Papers</h2>
 <div>
@@ -178,8 +165,8 @@ title_separator: "|"
 
 <h2 id="posters">Best Posters & Honorable Mentions</h2>
 
-<p>The IEEE VR Best Poster Awards honors exceptional posters published and presented at the IEEE VR conference. During the review process, the best poster committee for IEEE VR consists of three distinguished members chosen by the Conference Awards Committee and Poster Chairs, which will select the best posters. Posters that receive an award will be marked in the program, and authors will receive a certificate at the conference. </p>
-<!---
+<p>The IEEE VR Best Poster Awards honors exceptional posters published and presented at the IEEE VR conference. During the review process, the best poster committee for IEEE VR consists of three distinguished members chosen by the Conference Awards Committee and Poster Chairs, which will select the best posters. Posters that receive an award will be marked in the program and authors will receive a certificate at the conference. </p>
+
 <h2 id='poster-best' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/best.png" | relative_url }}" title="Best Poster Award" alt="Best Poster Award"> Best Poster</h2>
 <div>
     {% for item in site.data.awards %}
@@ -274,10 +261,9 @@ title_separator: "|"
         {% endif %}
     {% endfor %}
 </div>
---->
 <h2 id="demos">Best Research Demos & Honorable Mentions</h2>
 <p>The IEEE VR Best Research Demo Awards honors exceptional research demos published and presented at the IEEE VR conference. The IEEE VR Research Demonstration Chairs rank the accepted demos and recommend approximately 10% of all demos for an award. The best research demo committee for IEEE VR consists of three distinguished members chosen by the Conference Awards Committee Chairs and the Research Demonstration Chairs. This committee selects one of the demos for the Best Research Demo Award and one for the Honorable Mention Award. The corresponding authors will receive a certificate at the conference. </p>
-<!---
+
 <h2 id='demo-best' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/best.png" | relative_url }}" title="Best Research Demo Award" alt="Best Research Demo Award"> Best Research Demo</h2>
 <div>
     {% for item in site.data.awards %}
@@ -354,10 +340,10 @@ title_separator: "|"
         {% endif %}
     {% endfor %}
 </div>
---->
+
 <h2 id="dui">Best 3DUI Contest Demos & Honorable Mentions</h2>
 <p>The IEEE VR Best 3DUI Contest Submission Awards honors exceptional 3DUI contest submissions published and presented at the IEEE VR conference. The 3DUI contest chairs select one of the submissions for the Best 3DUI Contest Submission Award and one for the Honorable Mention Award. The final decision is based on a combination of the reviews’ scores, scores from experts testing the contest submission during the conference, and the audience scores. The winning team with the highest score will be awarded. Authors will receive a certificate at the conference.</p>
-<!---
+
 <h2 id='3dui-best' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/best.png" | relative_url }}" title="Best 3DUI Contest Demo Award" alt="Best Paper Award"> Best 3DUI Contest Demo</h2>
 <div style="padding-bottom:15px;">
     {% for item in site.data.awards %}
@@ -416,10 +402,10 @@ title_separator: "|"
         {% endif %}    
     {% endfor %}
 </div>
---->
+
 <h2 id="dc">Best DC Papers & Honorable Mentions</h2>
-<p>The IEEE VR Best Doctoral Consortium (DC) Paper Awards honors exceptional DC papers published and presented at the IEEE VR conference. The best DC paper committee consists of three distinguished members chosen by the Conference Awards Committee Chairs and the DC chairs. The DC chairs recommend 20% of all DC papers for such an award. The best DC committee selects one of these DC papers for Best DC Paper Award and one to receive an Honorable Mention Award. DC papers that receive an award will be marked in the program, and authors will receive a certificate at the conference. </p>
-<!---
+<p>The IEEE VR Best Doctoral Consortium (DC) Paper Awards honors exceptional DC papers published and presented at the IEEE VR conference. The best DC paper committee consists of three distinguished members chosen by the Conference Awards Committee Chairs and the DC chairs. The DC chairs recommend 20% of all DC papers for such an award. The best DC committee selects one of these DC papers for Best DC Paper Award. The DC paper that receives the award will be marked in the program and the author will receive a certificate at the conference. </p>
+
 <h2 id='DC-best' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/best.png" | relative_url }}" title="Best Doctoral Consortium Award" alt="Best Doctoral Consortium Award"> Best Doctoral Consortium</h2>
 <div>
     {% for item in site.data.awards %}
@@ -449,6 +435,7 @@ title_separator: "|"
         {% endif %}
     {% endfor %}
 </div>
+<!---
 <h2 id='DC-honorable' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/hm.png" | relative_url }}" title="Best DC Paper Honorable Mention" alt="Best DC Paper Honorable Mention"> Best Doctoral Consortium - Honorable Mention</h2>
 <div>
     {% for item in site.data.awards %}
@@ -481,7 +468,7 @@ title_separator: "|"
 --->
 <h2 id="paper-presentation">Best Paper Presentations & Honorable Mentions</h2>
 <p>The IEEE VR Best Presentation Awards honor excellent, interesting, and stimulating presentations of research papers at the IEEE VR conference. During the conference, the audience can give a vote for each presentation that they think deserves an award. Approximately 3% of presentations with the highest number of votes receive an award. Among these selected presentations, the top 1% regarding the number of votes, will receive a Best Presentation Award, while the remaining presentations receive an Honorable Mention Award.</p>
-<!---
+
 <h2 id='paper-presentation-best' style="text-align: center; color: #00aeef;"><img src= "{{ "/assets/images/awards/best-star.png" | relative_url }}" title="Best Paper Presentation Award" alt="Best Paper Presentation Award"> Best Paper Presentation</h2>
 <div>
     {% for item in site.data.awards %}
@@ -573,6 +560,4 @@ title_separator: "|"
             {% endif %}
         {% endif %}        
     {% endfor %}
-</div> 
---->
-
+</div>
