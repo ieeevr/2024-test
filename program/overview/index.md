@@ -21,11 +21,13 @@ title_separator: "|"
         let end = new Date("March 21, 2024 23:59:59");
         let day = days[now.getDay()];
 
-        if (start <= now && now <= end) { 
+        if (start <= now && now <= end) {             
             switch (day) {
-                case "Saturday":
+                case "Saturday":                    
+                    $( ".preconf" ).show();
                     $('#day1').click();
-                case "Sunday":
+                case "Sunday":                    
+                    $( ".preconf" ).show();
                     $('#day2').click();
                 case "Monday":
                     $('#day3').click();
@@ -38,7 +40,8 @@ title_separator: "|"
                     break;
                 default: 
             }
-        } else {
+        } else {            
+            $( ".preconf" ).show();
             $('#day1').click();
             $('#day2').click();
             $('#day3').click();
@@ -66,7 +69,7 @@ title_separator: "|"
                     <a href="{{ "/assets/map/FINAL_Contemporary_CapacityChart_Floorplans_as_of_7.13.16.pdf" | relative_url }}" target="_blank">Conference Center Map</a>
                 </td>
             </tr>
-           <!--- <tr>
+           <tr class="preconf" style="display:none">
                 <td class="text-nowrap"><a href="#day1">Saturday<br>2024-03-16</a></td>
                 <td>
                     * Workshops<br>
@@ -79,7 +82,7 @@ title_separator: "|"
                     * Tutorials<br>
                     * Faculty Fast Forward (F3)
                 </td>
-            </tr>--->
+            </tr>
             <tr>
                 <td class="text-nowrap"><a href="#day3">Monday<br>2024-03-18</a></td>
                 <td>
