@@ -171,21 +171,21 @@ title_separator: "|"
         {% for j in source %}
             {% if j.id == item.id %}
                 {% assign authornames = j.authors | split: ";" %}
-                <p id="{{ j.id }}">
-                    <strong>{{ j.Title }} ({{ item.ptype }}: {{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.Title }} ({{ item.ptype }}:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="J{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleJ{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleJ{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -218,21 +218,21 @@ title_separator: "|"
         {% for j in source %}
             {% if j.id == item.id %}
                 {% assign authornames = j.authors | split: ";" %}
-                <p id="{{ j.id }}">
-                    <strong>{{ j.Title }} ({{ item.ptype }}: {{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.Title }} ({{ item.ptype }}:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="J{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleJ{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleJ{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -271,21 +271,21 @@ title_separator: "|"
         {% endif %}
         {% for j in source %}
             {% if j.id == item.id %}
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="P{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleP{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleP{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -320,21 +320,21 @@ title_separator: "|"
         {% endif %}
         {% for j in source %}
             {% if j.id == item.id %}
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="P{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleP{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleP{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -362,22 +362,22 @@ title_separator: "|"
 <div style="padding-bottom:15px;">
     {% for item in award %}
         {% for j in site.data.demos %}
-            {% if j.id == item.id %}                   
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+            {% if j.id == item.id %} 
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="D{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleD{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleD{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -402,22 +402,22 @@ title_separator: "|"
 <div style="padding-bottom:15px;">
     {% for item in award %}
         {% for j in site.data.demos %}
-            {% if j.id == item.id %}                                      
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+            {% if j.id == item.id %}
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                     {% if j.abstract %}
                     <div id="D{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleD{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleD{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -445,22 +445,22 @@ title_separator: "|"
 <div style="padding-bottom:15px;">
     {% for item in award %}
         {% for j in site.data.contest3dui %}
-            {% if j.id == item.id %}                                   
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+            {% if j.id == item.id %}  
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
             {% endif %}
         {% endfor %}
@@ -476,22 +476,22 @@ title_separator: "|"
 <div style="padding-bottom:15px;">
     {% for item in award %}
         {% for j in site.data.contest3dui %}
-            {% if j.id == item.id %}                                   
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+            {% if j.id == item.id %}  
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
             {% endif %}
         {% endfor %}
@@ -510,13 +510,13 @@ title_separator: "|"
 <div style="padding-bottom:15px;">  
     {% for item in award %}
         {% for j in site.data.dc %}
-            {% if j.id == item.id %}                                      
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        <span class="bold">Author:</span> <span class="">{{ j.author | strip }}</span>, <i>{{ j.affiliation | strip }}</i><br />
-                        <span class="bold">Mentor:</span> <span class="">{{ j.mentor | strip }}</span>
-                    </span>
+            {% if j.id == item.id %}  
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    <span class="bold">Author:</span> <span class="">{{ j.author | strip }}</span>, <i>{{ j.affiliation | strip }}</i><br />
+                    <span class="bold">Mentor:</span> <span class="">{{ j.mentor | strip }}</span>
                 </p>
                 {% if j.abstract %}
                     <div id="D{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleD{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleD{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -541,13 +541,13 @@ title_separator: "|"
 <div style="padding-bottom:15px;">
     {% for item in award %}
         {% for j in site.data.dc %}
-            {% if j.id == item.id %}                                      
-                <p id="{{ j.id }}">
-                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        <span class="bold">Author:</span> <span class="">{{ j.author | strip }}</span>, <i>{{ j.affiliation | strip }}</i><br />
-                        <span class="bold">Mentor:</span> <span class="">{{ j.mentor | strip }}</span>
-                    </span>
+            {% if j.id == item.id %}  
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    <span class="bold">Author:</span> <span class="">{{ j.author | strip }}</span>, <i>{{ j.affiliation | strip }}</i><br />
+                    <span class="bold">Mentor:</span> <span class="">{{ j.mentor | strip }}</span>
                 </p>
                     {% if j.abstract %}
                     <div id="D{{ j.id }}" class="wrap-collabsible"> <input id="collapsibleD{{ j.id }}" class="toggle" type="checkbox"> <label for="collapsibleD{{ j.id }}" class="lbl-toggle">Abstract</label>
@@ -581,23 +581,22 @@ title_separator: "|"
             {% assign source = site.data.conferencepapers %}
         {% endif %}
         {% for j in source %}
-            {% if j.id == item.id %}
-                {% assign authornames = j.authors | split: ";" %}
-                <p id="{{ j.id }}">
-                    <strong>{{ j.Title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+            {% if j.id == item.id %} 
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.Title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="Presentation_{{ j.id }}" class="wrap-collabsible"> <input id="collapsiblePresentation_{{ j.id }}" class="toggle" type="checkbox"> 
@@ -630,22 +629,21 @@ title_separator: "|"
         {% endif %}
         {% for j in source %}
             {% if j.id == item.id %}
-                {% assign authornames = j.authors | split: ";" %}
-                <p id="{{ j.id }}">
-                    <strong>{{ j.Title }} (ID:&nbsp;{{ j.id }})</strong><br/>
-                    <span class="font_90">
-                        {% assign authornames = j.authors | split: ";" %}
-                        {% for name in authornames %}
-                            {% assign barename = name | split: ":" %}
-                            {% for n in barename %}
-                                {% if n == barename.last %}
-                                    <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
-                                {% else %}                            
-                                    <span class="bold">{{ n | strip }},</span>
-                                {% endif %}
-                            {% endfor %} 
-                        {% endfor %}
-                    </span>
+                <p class="medLarge" id="{{ j.id }}" style="margin-bottom: 0.3em;">
+                    <strong>{{ j.Title }} (ID:&nbsp;{{ j.id }})</strong>
+                </p>
+                <p class="font_70" >
+                    {% assign authornames = j.authors | split: ";" %}
+                    {% for name in authornames %}
+                        {% assign barename = name | split: ":" %}
+                        {% for n in barename %}
+                            {% if n == barename.last %}
+                                <i>{{ n | strip }}{% if name == authornames.last %}{% else %};{% endif %}</i>
+                            {% else %}                            
+                                <span class="bold">{{ n | strip }},</span>
+                            {% endif %}
+                        {% endfor %} 
+                    {% endfor %}
                 </p>
                 {% if j.abstract %}
                     <div id="Presentation_{{ j.id }}" class="wrap-collabsible"> <input id="collapsiblePresentation_{{ j.id }}" class="toggle" type="checkbox"> 
