@@ -7,6 +7,8 @@ title_separator: "|"
 <link rel="stylesheet" href="{{ '/assets/css/calendar.css' | relative_url }}?version=20240318">
     
 <script>
+    const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
     (function($) {
         $(function() {
             $("#accordion > div").accordion({ header: "h4", heightStyle: "content", active: false, collapsible: true });
@@ -14,8 +16,36 @@ title_separator: "|"
     })(jQuery);
 
    $(document).ready(function(){
-		$('#day5').click(); 
-		$('#day6').click();
+        let now = new Date();       
+        let start = new Date("March 16, 2024 00:00:00");
+        let end = new Date("March 21, 2024 23:59:59");
+        let day = days[now.getDay()];
+
+        if (start <= now && now <= end) { 
+            switch (day) {
+                case "Saturday":
+                    $('#day1').click();
+                case "Sunday":
+                    $('#day2').click();
+                case "Monday":
+                    $('#day3').click();
+                case "Tuesday":
+                    $('#day4').click();
+                case "Wednesday":
+                    $('#day5').click();
+                case "Thursday":
+                    $('#day6').click();
+                    break;
+                default: 
+            }
+        } else {
+            $('#day1').click();
+            $('#day2').click();
+            $('#day3').click();
+            $('#day4').click();
+            $('#day5').click();
+            $('#day6').click();
+        } 
     });   
 </script>
 
